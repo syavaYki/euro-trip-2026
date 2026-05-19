@@ -130,19 +130,24 @@ Walk from Lello: 3 min. Igreja do Carmo is free — one of Porto's most beautifu
 
 Walk downhill from Igreja do Carmo → past Sé → Ribeira, ~20 min (mostly downhill). The UNESCO waterfront is Porto's heart — coloured houses stacked up the hillside, rabelo boats on the river, café terraces. Just walk and absorb it.
 
-**16:30 — Dom Luís I Bridge + Port Wine Lodge**
+**16:30 — Dom Luís I Bridge Walk + Gelato**
 
-Walk east along the waterfront 5 min, then cross the upper level of Dom Luís I Bridge (free, spectacular views). Pick one lodge:
+Walk east along the waterfront 5 min, then cross the upper level of Dom Luís I Bridge (free, spectacular views over Porto and Gaia). Walk back via the lower level — completely different perspective. Then stop for gelato:
 
-| Lodge | Why | Price | Book |
-|-------|-----|-------|------|
-| **Taylor's** ⭐ | Self-guided audio tour, hillside gardens, peacocks. Best for families — no rush | €25/person | taylor.pt |
-| **Quevedo** | Family-run, communal tables, port + cheese pairing, relaxed | From €12 | quevedo.pt |
-| **Calém** | Most popular, Fado show add-on option, good for first-timers | From €22 | calem.pt |
+| Spot | Why | Cost |
+|------|-----|------|
+| **Neveiros** ⭐ | Right next to Palácio da Bolsa — pistachio affogato for adults, classic scoops for kids | €3–6/person |
+| **NIVÀ Gelato** | Small-batch Portuguese flavours, Ribeira area | ~€3/person |
 
-Calém and Burmester are right at the riverfront. Taylor's and Graham's are uphill — 10 min steep walk or short Uber from the bridge. Allow 1.5–2 hours.
+Allow ~40 min total for bridge + gelato.
 
-> *"Taylor's is the move if you want atmosphere. Quevedo is better if you want the wine explained to you."* — r/porto
+**17:30 — Igreja de São Francisco**
+
+3-minute walk from Neveiros. The most spectacular church interior in Porto — over 300kg of gold leaf covering every surface, the most opulent Baroque interior in Portugal. Don't miss the ossuary in the basement (the "house of bones" under the floor). Kids are usually completely fascinated.
+
+- Cost: €9 adults / €2.50 children
+- Book online to skip queues
+- Allow 45–60 min
 
 **19:00 — Dinner**
 
@@ -156,9 +161,9 @@ Walk back across Dom Luís I Bridge (lower level — different perspective).
 
 > *"Tiny, no reservations easily, but we showed up early and got the last table. The octopus rice was transcendent."* — r/porto on Taberna dos Mercadores
 
-**21:00 — Evening**
+**21:00 — Evening Sightseeing**
 
-Walk the illuminated Ribeira — magical at night. Nightcap at **Base** cocktail bar (near São Bento, 5 min from hotel) or a Super Bock at any terrace. Late snack: **Casa da Bifana** — iconic pork sandwich, cheap, open late.
+Walk the illuminated Ribeira — magical at night. Then head up to **Rua das Flores** (Porto's prettiest street, wrought-iron balconies all lit up) and swing past **São Bento Station** to see the azulejo panels in quieter evening light — no crowds, completely different atmosphere from daytime. The **Torre dos Clérigos** is spectacular at night and only 10 min from the hotel — free to admire from the square below. Late snack: **Casa da Bifana** — iconic pork sandwich, cheap, open late.
 
 ---
 
@@ -352,7 +357,7 @@ Confeitaria do Bolhão opens at 06:00 — nata and galão to go. Aloma (award-wi
 | Torre dos Clérigos | €6 | Day 2 afternoon | ❌ | 30 min |
 | Igreja do Carmo | Free | Day 1 or 2 | ❌ | 10 min |
 | Dom Luís I Bridge | Free | Any | ❌ | Anytime |
-| Port wine lodge | €12–70 | Day 1 afternoon | ✅ Lodge websites | 1.5–2 hrs |
+| Igreja de São Francisco | €9 adults / €2.50 children | Day 1 afternoon | ❌ | 45–60 min |
 | Cais da Ribeira | Free | Any (best at night) | ❌ | Open-ended |
 | Mercado do Bolhão | Free | Any | ❌ | 30 min |
 | Matosinhos Beach | Free | Day 3 morning | ❌ | 2–3 hrs |
@@ -366,7 +371,6 @@ Confeitaria do Bolhão opens at 06:00 — nata and galão to go. Aloma (award-wi
 | Livraria Lello tickets | ASAP | livrarialello.pt |
 | Taberna dos Mercadores (Day 1 dinner) | Email now | tabernadosmercadores.com |
 | Loca (Day 3 dinner) | 2–3 weeks before | Restaurant website / phone |
-| Taylor's or Graham's tasting | 1–2 weeks before | taylor.pt / grahams-port.com |
 | O Gaveto (Day 3 lunch) | 1 week before | ogaveto.com |
 | Escama (Day 3 dinner alt) | 1 week before | escamaporto.com |
 
@@ -379,7 +383,7 @@ Per person · 3 full days · excl. accommodation:
 | Breakfast × 3 | €6–10 | €12–20 | €20–35 |
 | Lunch × 3 | €25–40 | €45–75 | €75–120 |
 | Dinner × 3 | €35–60 | €75–130 | €120–210 |
-| Port wine tasting | €12–25 | €25–50 | €50–75 |
+| Igreja de São Francisco | €9 | €9 | €9 |
 | Activities | €20–30 | €30–50 | €50–80 |
 | Transport | €15–20 | €20–35 | €35–55 |
 | **Total / person** | **€113–185** | **€207–360** | **€350–575** |
@@ -584,7 +588,6 @@ Go before 10:00 or after 17:00 in August.
 | **Livraria Lello tickets** | Porto | ASAP | livrarialello.pt |
 | **Taberna dos Mercadores** | Porto | Email now | tabernadosmercadores.com |
 | **Loca (farewell dinner)** | Porto | 2–3 weeks before | Restaurant website |
-| **Taylor's or Graham's tasting** | Porto | 1–2 weeks before | taylor.pt / grahams-port.com |
 | **O Gaveto** | Porto | 1 week before | ogaveto.com |
 | **Escama** | Porto | 1 week before | escamaporto.com |
 | **LIS → BCN flight** | — | ASAP | TAP / Vueling / Ryanair |
