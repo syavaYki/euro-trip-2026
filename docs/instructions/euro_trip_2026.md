@@ -208,46 +208,37 @@ Porto's signature dish: layers of cured meats + sausage + steak, smothered in a 
 
 Walk from Café Santiago: 5 min. Newly renovated historic indoor market (opened 1914, restored 2022). Browse fresh produce, local cheeses, presunto, tinned fish. Souvenirs at fair prices. **Culto ao Bacalhau** inside for a lunch upgrade — Michelin-recommended cod specialist (€30–45).
 
-**14:30 — Torre dos Clérigos** ⭐
+**14:30 — Walk down Rua das Flores → Praça do Infante**
 
-Walk from Bolhão: 10 min. €8/person (under 10 free), 240 steps up a narrow spiral staircase — the only true 360° panorama in Porto. Rooftops, Douro river, Gaia, Atlantic on clear days. Allow 45 min.
+Walk from Bolhão down through Porto's prettiest pedestrianised street: wrought-iron balconies, azulejo shopfronts, street musicians, antique azulejo shops (Cortiço & Netos at the top end). ~15 min downhill to the river area.
 
-> *"240 steps but completely worth it. The 360° view is unlike any other viewpoint in Porto."* — r/porto
+**14:45 — Palácio da Bolsa** ⭐
 
-**15:15 — Igreja do Carmo**
+Neoclassical 19th-century stock-exchange palace; guided tour only (English available — specify on arrival). The Salão Árabe took 18 years to build and is one of Porto's "wow" interiors. €14/adult, under 12 free. Tour ~45–60 min. Tue–Sun 09:00–18:30 — last entry ~17:00.
 
-Walk from Clérigos: 3 min. Free. The 1912 azulejo exterior wall is one of Porto's most photographed spots — stand back to see the full mural. Quick 10–15 min stop.
+**15:45 — Centro Português de Fotografia**
 
-**15:30 — Walk down Rua das Flores → Cais da Ribeira**
+2 min walk from Palácio da Bolsa. Photography museum housed inside an 18th-century prison (active until the 1970s). Each floor was a different prisoner class — you can step inside the cells. The spy-camera collection on the top floor (cameras hidden in Pepsi cans, Marlboro packs, pens) is a kids' favourite. **Free.** Allow 45–60 min.
 
-Rua das Flores is Porto's prettiest pedestrianised street — wrought-iron balconies, azulejo shopfronts, street musicians in the afternoon. Use it as your route downhill to the waterfront (~20 min total walk).
+> *"Go to jail! The spy camera collection is genuinely fascinating, and the building itself is the exhibit."* — SpottedByLocals
 
-**16:00 — Douro 6 Bridges Cruise** ⭐
+**17:00 — Walk along the river → Miragaia → Jardim das Virtudes**
 
-Depart from Cais da Ribeira pier. A 50-minute cruise aboard a replica rabelo boat under all six Douro bridges — the same wooden boats once used to transport Port wine barrels from the Douro Valley. In August, departures run every 30 min from ~10:00 to ~18:00. Book online in advance or buy walk-up at the pier.
+10–15 min walk westward along the Douro from Palácio da Bolsa. Miragaia is the quiet, medieval neighbourhood next to Ribeira — far fewer tourists, original character.
 
-| Operator | Price | Notes |
-|----------|-------|-------|
-| **Cruzeiros Douro** | €15–17/person | Walk-up or online; no fixed time slot |
-| **Living Tours** | €16–18/person | Departs every 30 min; Apr–Sep until ~18:00 |
+**17:15 — Jardim das Virtudes** 🌿
 
-> *"The best way to see Porto from the river. Completely different perspective — the bridges look massive from below."* — TripAdvisor
+Terraced picnic gardens on a Douro hillside. Locals bring wine and blankets; tourists mostly miss it. Sit on the lawns, exotic trees, fountains. Free. Stay ~45 min.
 
-Cruise ends ~16:50.
+**18:00 — Passeio das Virtudes Viewpoint** ⭐ — *the "spot to see" on the way to dinner*
 
-**17:00 — Gaia Cable Car (Teleférico de Gaia)** ⭐
+The terraced belvedere at the top of Jardim das Virtudes faces **due west** — Douro river to Foz, Gaia rooftops, the Atlantic in the distance. One of Porto's best evening viewpoints, almost entirely locals. Free. Sit, take it in, ~30–40 min before dinner.
 
-Off the boat → cross Dom Luís I Bridge lower level to the Gaia side (5 min). The open-air gondola runs from the Douro waterfront straight up to Serra do Pilar — Porto's skyline rises across the river as you ascend. €6 one-way / €9 return. ~5 min ride. Operates until ~20:00 in summer.
+> *"Best hidden gem in Porto — unknown even to most locals."* — SpottedByLocals
 
-**17:15 — Jardim do Morro + Serra do Pilar**
+**18:45 — Walk to dinner**
 
-At the top: **Jardim do Morro** is the classic Porto postcard shot — the Ribeira waterfront and Dom Luís I Bridge straight across at golden hour, free. Walk two minutes to **Serra do Pilar Monastery terrace** (free, exterior) for a full 180° sweep — Porto skyline, all the bridges, Douro valley. Street musicians often play here at this hour. Allow 45 min.
-
-> *"Best panorama in the entire Porto area. Sunset here is one of the best things we did on the whole trip."* — r/porto
-
-**18:00 — Return to Porto**
-
-Cable car or walk back down to the Gaia waterfront, then cross via Dom Luís I Bridge upper level (40 m above the water — completely different perspective from the morning). Back to hotel to freshen up: ~25 min total.
+~15–20 min walk back uphill from Miragaia to the city centre.
 
 **19:30 — Dinner**
 
@@ -257,9 +248,22 @@ Cable car or walk back down to the Gaia waterfront, then cross via Dom Luís I B
 | **Eleit** | Modern local cuisine, relaxed, good value | ~€22/person | Walk-in usually fine |
 | **Taberna de São Miguel** | Traditional petiscos; try *tripas à moda do Porto* | €15–22/person | Walk-in |
 
-**21:30 — Evening**
+**21:30 — Douro 6 Bridges Night Cruise** 🌙⭐
 
-Drinks at **Picha Café** (Rua da Conceição — young locals' bar, good cocktails) or an evening walk along **Avenida dos Aliados** — the grand boulevard and city hall are beautiful lit up.
+Walk down to Cais da Ribeira after dinner (~12 min downhill). Several operators run **evening 6 Bridges cruises** in August — same route as the daytime version (replica rabelo boat under all six Douro bridges) but with both Porto and Gaia waterfronts fully lit up and the wine lodge signs glowing across the river. ~50 min. €15–20/person.
+
+| Operator | Notes |
+|----------|-------|
+| **Cruzeiros Douro / Douro Acima** | Walk-up at the Cais da Ribeira pier; check the last departure board on arrival |
+| **Living Tours / GetYourGuide** | Online booking; "Sunset / Night" option in August departs ~20:00–21:30 |
+
+> *"The bridges and Ribeira lit up at night is a completely different experience from the day cruise. The wine lodges across the river are stunning."* — TripAdvisor
+
+⚠️ Last departures vary by operator and date — check times the morning of, or book online in advance to lock in a slot.
+
+**~22:30 — Late drink**
+
+After the cruise: **Picha Café** (Rua da Conceição, young locals' bar) or a stroll along **Avenida dos Aliados** — the grand boulevard and city hall are beautiful lit up.
 
 ---
 
@@ -379,9 +383,10 @@ Confeitaria do Bolhão opens at 06:00 — nata and galão to go. Aloma (award-wi
 | Livraria Lello | €10 | Day 1 or 2 | ✅ livrarialello.pt | 30–45 min |
 | São Bento Station | Free | Day 2 morning | ❌ | 15 min |
 | Porto Cathedral (Sé) | €3 | Day 2 morning | ❌ | 30 min |
-| Torre dos Clérigos | €8 adults / under 10 free | Day 2 afternoon | ❌ | 45 min |
-| 6 Bridges Douro Cruise | €15–18/person | Day 2 afternoon | ❌ (walk-up ok) | 50 min |
-| Gaia Cable Car + Jardim do Morro | €6–9/person | Day 2 afternoon | ❌ | 45 min |
+| Palácio da Bolsa (guided tour) | €14/adult, under 12 free | Day 2 afternoon | ✅ Recommended (English tour) | 45–60 min |
+| Centro Português de Fotografia | Free | Day 2 afternoon | ❌ | 45–60 min |
+| Jardim + Passeio das Virtudes | Free | Day 2 evening | ❌ | 1 hr |
+| 6 Bridges Douro Night Cruise | €15–20/person | Day 2 after dinner | ❌ (walk-up ok; online for guaranteed slot) | 50 min |
 | Igreja do Carmo | Free | Day 1 or 2 | ❌ | 10 min |
 | Dom Luís I Bridge | Free | Any | ❌ | Anytime |
 | Igreja de São Francisco | €9 adults / €2.50 children | Day 1 afternoon | ❌ | 45–60 min |
