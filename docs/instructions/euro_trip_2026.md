@@ -204,6 +204,14 @@ Porto's signature dish: layers of cured meats + sausage + steak, smothered in a 
 
 > *"Santiago is a religion here. Go before noon or you're waiting 45 minutes. Order the Francesinha à Santiago, ask for extra sauce on the side."* — r/porto
 
+**12:45 — Capela das Almas + Rua de Santa Catarina** ⭐
+
+Walk from Café Santiago: 5 min north up Rua de Santa Catarina. Free, exterior viewing. One of Porto's most photographed buildings — a small early-18th-century chapel whose entire **façade is covered in 15,947 blue-and-white azulejos** (added in 1929), depicting scenes from the lives of St. Francis of Assisi and St. Catherine. Cross to the opposite pavement for the full mural.
+
+Then stroll back down **Rua de Santa Catarina** — Porto's pedestrian main shopping street, lined with Art Nouveau facades — straight to the market. Browsing time included. ~45 min total.
+
+> *"The blue tiles are mesmerising. It's free, it's literally on the way, you'd be silly to skip it."* — r/porto
+
 **13:30 — Mercado do Bolhão**
 
 Walk from Café Santiago: 5 min. Newly renovated historic indoor market (opened 1914, restored 2022). Browse fresh produce, local cheeses, presunto, tinned fish. Souvenirs at fair prices. **Culto ao Bacalhau** inside for a lunch upgrade — Michelin-recommended cod specialist (€30–45).
@@ -222,25 +230,45 @@ Neoclassical 19th-century stock-exchange palace; guided tour only (English avail
 
 > *"Go to jail! The spy camera collection is genuinely fascinating, and the building itself is the exhibit."* — SpottedByLocals
 
-**17:00 — Walk along the river → Miragaia → Jardim das Virtudes**
+**17:00 — Snack at Café da Porta do Olival** ☕
 
-10–15 min walk westward along the Douro from Palácio da Bolsa. Miragaia is the quiet, medieval neighbourhood next to Ribeira — far fewer tourists, original character.
+3 min walk from the Photography Centre. A historic café since **1853** that hides sections of the **14th-century Fernandina city wall inside** — one of the original Porto city gates. Coffee + a pastel de nata or queijada at ~€2/person. Quiet, almost no tourists. Allow ~40 min.
 
-**17:15 — Jardim das Virtudes** 🌿
+> *"You can find parts of the old Fernandina wall inside. It's the oldest coffee shop in town and almost nobody knows about it."* — SpottedByLocals
 
-Terraced picnic gardens on a Douro hillside. Locals bring wine and blankets; tourists mostly miss it. Sit on the lawns, exotic trees, fountains. Free. Stay ~45 min.
+**17:45 — Walk to Miragaia → Jardim das Virtudes**
 
-**18:00 — Passeio das Virtudes Viewpoint** ⭐ — *the "spot to see" on the way to dinner*
+~10 min walk downhill through Miragaia, the quiet medieval neighbourhood next to Ribeira — far fewer tourists, original character.
 
-The terraced belvedere at the top of Jardim das Virtudes faces **due west** — Douro river to Foz, Gaia rooftops, the Atlantic in the distance. One of Porto's best evening viewpoints, almost entirely locals. Free. Sit, take it in, ~30–40 min before dinner.
+**17:55 — Jardim das Virtudes** 🌿
+
+Terraced picnic gardens on a Douro hillside. Locals bring wine and blankets; tourists mostly miss it. Exotic trees, fountains. Free. ~10 min to walk up to the top belvedere.
+
+**18:00 — Passeio das Virtudes Viewpoint** ⭐ — *the "spot to see" before the cruise*
+
+The terraced belvedere at the top faces **due west** — Douro river to Foz, Gaia rooftops, the Atlantic in the distance. One of Porto's best evening viewpoints, almost entirely locals. Free.
 
 > *"Best hidden gem in Porto — unknown even to most locals."* — SpottedByLocals
 
-**18:45 — Walk to dinner**
+**18:15 — Walk to Cais da Ribeira pier**
 
-~15–20 min walk back uphill from Miragaia to the city centre.
+~15–20 min walk east along the riverside via Ribeira to the cruise boarding point. Boarding typically begins 15 min before departure — aim to arrive by ~18:30.
 
-**19:30 — Dinner**
+**18:45 — Porto 6 Bridges Cruise at Sunset** 🌅⭐
+
+Small-group sailboat from Cais da Ribeira. **2-hour cruise** under all six Porto bridges → out to the Atlantic Ocean where (conditions permitting) the boat heads into open water to catch the sunset over the sea. Glass of local port wine onboard. Sunset on **Aug 21, 2026 is ~20:25** — the 18:45 departure is timed exactly for this.
+
+[**Book on GetYourGuide ›**](https://www.getyourguide.com/porto-l151/porto-6-bridges-cruise-port-wine-with-sunset-option-t477703?date_from=2026-08-21) · ~€35–45/person · 2 hours
+
+> *"The crew was very friendly and attentive, explaining the history behind the bridges. With luck, you can find dolphins that come close to the coast at the end of the day to feed."* — GetYourGuide review
+
+⚠️ Book this online to lock in the **18:45 sunset slot** — August sunset departures sell out.
+
+**~20:45 — Cruise returns to Ribeira**
+
+Walk ~15 min uphill to dinner in the centre.
+
+**21:00 — Dinner**
 
 | Option | Vibe | Price | Notes |
 |--------|------|-------|-------|
@@ -248,22 +276,9 @@ The terraced belvedere at the top of Jardim das Virtudes faces **due west** — 
 | **Eleit** | Modern local cuisine, relaxed, good value | ~€22/person | Walk-in usually fine |
 | **Taberna de São Miguel** | Traditional petiscos; try *tripas à moda do Porto* | €15–22/person | Walk-in |
 
-**21:30 — Douro 6 Bridges Night Cruise** 🌙⭐
+**22:30 — Late stroll / drink**
 
-Walk down to Cais da Ribeira after dinner (~12 min downhill). Several operators run **evening 6 Bridges cruises** in August — same route as the daytime version (replica rabelo boat under all six Douro bridges) but with both Porto and Gaia waterfronts fully lit up and the wine lodge signs glowing across the river. ~50 min. €15–20/person.
-
-| Operator | Notes |
-|----------|-------|
-| **Cruzeiros Douro / Douro Acima** | Walk-up at the Cais da Ribeira pier; check the last departure board on arrival |
-| **Living Tours / GetYourGuide** | Online booking; "Sunset / Night" option in August departs ~20:00–21:30 |
-
-> *"The bridges and Ribeira lit up at night is a completely different experience from the day cruise. The wine lodges across the river are stunning."* — TripAdvisor
-
-⚠️ Last departures vary by operator and date — check times the morning of, or book online in advance to lock in a slot.
-
-**~22:30 — Late drink**
-
-After the cruise: **Picha Café** (Rua da Conceição, young locals' bar) or a stroll along **Avenida dos Aliados** — the grand boulevard and city hall are beautiful lit up.
+A walk along **Avenida dos Aliados** (city hall and grand boulevard lit up) or a nightcap at **Picha Café** (Rua da Conceição — young locals' bar, good cocktails).
 
 ---
 
@@ -383,10 +398,12 @@ Confeitaria do Bolhão opens at 06:00 — nata and galão to go. Aloma (award-wi
 | Livraria Lello | €10 | Day 1 or 2 | ✅ livrarialello.pt | 30–45 min |
 | São Bento Station | Free | Day 2 morning | ❌ | 15 min |
 | Porto Cathedral (Sé) | €3 | Day 2 morning | ❌ | 30 min |
+| Capela das Almas (azulejo facade) | Free | Day 2 lunch break | ❌ | 15 min |
 | Palácio da Bolsa (guided tour) | €14/adult, under 12 free | Day 2 afternoon | ✅ Recommended (English tour) | 45–60 min |
 | Centro Português de Fotografia | Free | Day 2 afternoon | ❌ | 45–60 min |
-| Jardim + Passeio das Virtudes | Free | Day 2 evening | ❌ | 1 hr |
-| 6 Bridges Douro Night Cruise | €15–20/person | Day 2 after dinner | ❌ (walk-up ok; online for guaranteed slot) | 50 min |
+| Café da Porta do Olival (medieval wall) | ~€2 coffee | Day 2 afternoon snack | ❌ | 40 min |
+| Jardim + Passeio das Virtudes | Free | Day 2 evening | ❌ | 30 min |
+| 6 Bridges Sunset Cruise (GetYourGuide) | €35–45/person | Day 2 sunset (18:45) | ✅ Book online in advance | 2 hrs |
 | Igreja do Carmo | Free | Day 1 or 2 | ❌ | 10 min |
 | Dom Luís I Bridge | Free | Any | ❌ | Anytime |
 | Igreja de São Francisco | €9 adults / €2.50 children | Day 1 afternoon | ❌ | 45–60 min |
@@ -402,6 +419,9 @@ Confeitaria do Bolhão opens at 06:00 — nata and galão to go. Aloma (award-wi
 |------|------|-------|
 | Livraria Lello tickets | ASAP | livrarialello.pt |
 | Taberna dos Mercadores (Day 1 dinner) | Email now | tabernadosmercadores.com |
+| **6 Bridges Sunset Cruise (Day 2, 18:45)** | 1–2 weeks before | getyourguide.com (t477703) |
+| Palácio da Bolsa (Day 2, English tour) | Walk-up day-of or 1 day ahead | palaciodabolsa.com |
+| MUU (Day 2 dinner, 21:00) | 1 week before | Restaurant website / phone |
 | Loca (Day 3 dinner) | 2–3 weeks before | Restaurant website / phone |
 | O Gaveto (Day 3 lunch) | 1 week before | ogaveto.com |
 | Escama (Day 3 dinner alt) | 1 week before | escamaporto.com |
