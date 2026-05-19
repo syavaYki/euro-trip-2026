@@ -282,7 +282,7 @@ A walk along **Avenida dos Aliados** (city hall and grand boulevard lit up) or a
 
 ---
 
-### Day 3 — Saturday Aug 22 · Beach Morning + Farewell Dinner
+### Day 3 (Option A) — Saturday Aug 22 · Beach Morning + Hidden Gems Loop + Farewell Dinner
 
 > Cool off at the beach, see some modern architecture, celebrate with a proper dinner.
 
@@ -383,6 +383,81 @@ Adjacent to the Crystal Palace gardens, same Massarelos complex. **18th-century 
 **22:00 — Last Night**
 
 Walk back through Cais da Ribeira one final time — the illuminated night version is its own thing. Take your time.
+
+---
+
+### Day 3 (Option B) — Saturday Aug 22 · Douro Valley by Train + Boat 🚂🍷⛵
+
+> Trade the beach for one of the world's great train rides + a downstream cruise through Portugal's oldest demarcated wine region. Train OUT (scenic + fast) → wine town + lunch + tasting → Boat BACK (slow, dam locks, sunset on the river). About **10–12 hours door-to-door** — a big day, but unforgettable.
+
+⚠️ **Verify before booking:** The Linha do Douro reopens **April 2, 2026** after maintenance. Confirm August schedules at [cp.pt](https://www.cp.pt) closer to the date.
+
+**07:50 — Walk to São Bento Station** (12 min from hotel)
+
+Grab coffee + pastel de nata to-go from Confeitaria do Bolhão on the way out.
+
+**08:13 — Train São Bento → Peso da Régua** (~2 h 15) 🚂
+
+InterRegional train on the **Linha do Douro** — Portugal's most scenic railway, running since 1887. The first hour is unremarkable; from **Mosteirô / Caíde onwards the line hugs the river** through steeply terraced vineyards. **Sit on the right side outbound** for the river views. 2nd class is fine; reserve seats online if possible.
+
+- Cost: ~€14/adult one-way · ~€10 ages 4–12
+- Buy at [cp.pt](https://www.cp.pt) or São Bento ticket office
+- Two direct daily services from São Bento (typically 08:13 and 13:13 — confirm)
+
+> *"One of the world's great train rides. The Caíde-to-Régua section is unforgettable."* — Seat 61
+
+**10:30 — Arrive Peso da Régua**
+
+Capital of the **Alto Douro Wine Region** (UNESCO World Heritage). Walk 10 min from the train station to the riverside.
+
+**10:45 — Museu do Douro** 🏛️
+
+The story of port wine — terroir, the historic rabelo boats, the first demarcated wine region in the world (1756). Great audiovisuals, English captions throughout. ~€6/adult, kids under 14 free. Allow 1 hr.
+
+**12:30 — Lunch + Port Wine Tasting** 🍷
+
+| Option | What | Price | Book |
+|--------|------|-------|------|
+| **Castas e Pratos** ⭐ | Converted railway warehouse next to Régua station. Modern Douro cuisine, deep wine list, terrace views | €30–45/person | 1–2 weeks ahead |
+| **DOC Restaurant** (Folgosa) | The Douro's most celebrated dining room — wine pairing, riverside terrace. 12 km drive/taxi from Régua (~€15 each way) | €60–90/person | 2–3 weeks ahead |
+| **Cacho d'Oiro** | Traditional Portuguese, generous portions, excellent value | €15–25/person | Walk-in usually fine |
+
+After lunch (or before the boat): **Solar do Vinho do Porto** on the Régua waterfront — port tasting flight for €5–10.
+
+**14:30 — Board boat at Cais de Régua** ⛵
+
+Cruise downstream to Porto. The most dramatic moments are the **two enormous dam locks**: at **Carrapatelo** the boat is lowered ~28 m (one of Europe's deepest locks); at **Crestuma-Lever** another ~14 m. Audio commentary in multiple languages, snack bar / welcome drink onboard.
+
+| Operator | Notes | Cost |
+|----------|-------|------|
+| **Tomaz do Douro / Douro Acima** | Daily one-way Régua → Porto cruises, ~6 hrs through 2 locks | €45–65/person |
+| **CroisiEurope / Living Tours** | Larger boat, included welcome drink + commentary | €55–75/person |
+
+⚠️ **Book the one-way cruise online a few days ahead** — afternoon downstream departures sell out in August.
+
+**~20:30 — Arrive Cais da Ribeira / Cais de Gaia**
+
+Disembark in central Porto right at dusk — the river arrival is the most photogenic way to come back to the city. Walk uphill to the hotel (~18 min) or grab a Bolt (~€5).
+
+**~21:00 — Farewell Dinner**
+
+If choosing Option B, **shift the dinner reservation from 20:00 to 21:00** — Portuguese restaurants comfortably take 21:00 seatings. **Loca / Escama / Cobre** as in Option A.
+
+**22:30 — Last Night**
+
+Walk through Cais da Ribeira at night, illuminated, one final time.
+
+---
+
+#### Option B — Variants & Booking Notes
+
+| Variant | Direction | When it makes sense |
+|---------|-----------|---------------------|
+| **Train ↔ Train** | Train both ways, short 2-hour Régua → Pinhão → Régua mini-cruise mid-afternoon | Less time committed (~9 hrs door-to-door). Better if 6 hrs of boat sounds long with kids |
+| **Boat ↔ Train** | Boat Porto → Régua (morning, 7+ hrs, includes lunch) + Train back (~2 hrs) | Standard packaged-tour direction. Earlier start (~07:30 board boat) but you're back by 19:00 — easier to keep the 20:00 farewell dinner |
+| **Booked package** | Hotel-style logistics handled for you | Easiest with kids. [GetYourGuide Douro Valley + Rail/Sail tour](https://www.getyourguide.com/porto-l151/from-porto-regua-and-douro-valley-scenic-rail-sail-t52489/) bundles transport + lunch + cruise from ~€85/person |
+
+**Pinhão vs Régua** — Pinhão is smaller, prettier, and more vineyard-immersed (Quinta do Bomfim and Quinta do Seixo are nearby walks/taxis). It's 30 more min by train (~2:45 total) but worth considering if you want the more postcard Douro town. The boat back from Pinhão adds ~1 hr vs Régua.
 
 ---
 
