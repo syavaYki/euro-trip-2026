@@ -317,14 +317,49 @@ Walk 5–10 min from the beach (restaurants sit just behind the dunes).
 
 Uber from Matosinhos (~€8, 10 min) or Tram 1 from Infante (scenic, €4.50, requires backtracking to Ribeira first). Where the Douro meets the Atlantic — gardens, the 1843 lighthouse, riverside cafés. Good afternoon coffee at **Pão – Padaria Artesanal** inside Mercado da Foz (Rua de Diu 365) — organic sourdough, canned fish toast.
 
-**15:30 — Afternoon (choose one)**
+### Afternoon — Hidden Gems Loop: Tram 1 → Tram Museum → Crystal Palace 🚋🦚
+
+> The most charming way back to the city centre from Foz, with two of Porto's most underrated sights along the route.
+
+**15:30 — Tram 1 from Passeio Alegre** 🚋
+
+One of the oldest tram lines in Europe (running since 1872). Open wooden carriages rattle along the Douro from Foz back toward Massarelos. €4.50 single, buy on board. Trams run every 20 min, ~25 min ride to Massarelos.
+
+> *"Take it for the experience, not the speed. The carriages are over a hundred years old and feel like it."* — r/porto
+
+**16:00 — Museu do Carro Eléctrico (Tram Museum)** 🚋⭐
+
+Get off at Massarelos — the museum is right at the tram stop. 25 historic trams housed in a former 1915 thermoelectric power plant on the Douro. **Porto was the first city in the world with electric trams (1895).** ~€8/adult, €4/child (6–12), under 6 free. **Tue–Sun 10:00–18:00; last entry 17:30.** Allow 45 min.
+
+> *"Your entry ticket includes a free ride on any Porto tram afterwards — Line 1 stops right outside."* — VisitPortugal
+
+**17:00 — Jardim do Palácio de Cristal + Peacocks** 🦚⭐
+
+10 min uphill walk from the Tram Museum (or hop one more stop on Tram 1). **Free.** Daily 08:00–21:00 in summer. Porto's most beloved gardens — formal landscaping, exotic trees, fountains, the iconic "Super Bock Arena" dome, and **free-roaming peacocks** that wander right up to visitors. Best for kids.
+
+Walk to the **western edge of the gardens** for the secret belvederes — sweeping Douro Valley views that most tourists never find.
+
+> *"The peacocks roam right up to you. Best free thing to do in Porto with kids."* — r/porto
+> *"The western viewpoints offer some of Porto's finest Douro views — most visitors miss them."* — Porto sights research
+
+**18:00 — Museu Romântico da Quinta da Macieirinha** (optional, 30 min) 🏛️
+
+Adjacent to the Crystal Palace gardens, same Massarelos complex. **18th-century country house where King Carlos Alberto of Sardinia died in exile in 1849.** Recreated mid-19th-century bourgeois rooms — billiards room, ballroom, period furniture. Almost no tourists. ~€2/adult. *"One of Porto's most forgotten museums."*
+
+**18:30 — Walk back to hotel through Cedofeita**
+
+15–20 min walk back to the hotel via Cedofeita — Porto's bohemian arts district. If you want a quick souvenir stop, **Cortiço & Netos** (top of Rua das Flores) sells authentic antique and reproduction azulejo tiles — the real thing, not tourist ceramics.
+
+---
+
+#### Alternative afternoons (if you'd rather skip the loop)
 
 | Option | What | How to Get There |
 |--------|------|------------------|
-| **Rest** | Hotel, recharge before dinner | Uber from Foz ~€8 |
-| **Serralves Museum + Park** ⭐ | Álvaro Siza modernist building, sculpture park — great for kids to roam. €12/person (Sat) | Uber from Foz ~€6, 10 min |
-| **Casa da Música** | Rem Koolhaas concert hall exterior — free, striking architecture. Boavista neighbourhood | Uber from Foz ~€8, 12 min |
-| **Final shopping** | Rua de Santa Catarina · Livraria Lello (if not done) · A Vida Portuguesa (Rua Galeria de Paris 20 — beautiful curated Portuguese gifts) | Walk / Uber |
+| **Serralves Museum + Park** ⭐ | Álvaro Siza modernist building + 18-hectare park with farm animals, treetop walkway, rose garden | Uber from Foz ~€6, 10 min |
+| **Rua Miguel Bombarda Arts District** | Porto's bohemian gallery quarter — 20+ galleries, the 130 m² Don Quixote mural, independent shops | Uber to Cedofeita ~€7 |
+| **Casa da Música** | Rem Koolhaas concert hall — striking exterior, guided tour at 16:00 (€12) | Uber from Foz ~€8, 12 min |
+| **Rest at hotel** | Recharge before dinner | Uber from Foz ~€8 |
 
 **18:30 — Pre-Dinner Drinks**
 
@@ -411,7 +446,11 @@ Confeitaria do Bolhão opens at 06:00 — nata and galão to go. Aloma (award-wi
 | Mercado do Bolhão | Free | Any | ❌ | 30 min |
 | Matosinhos Beach | Free | Day 3 morning | ❌ | 2–3 hrs |
 | Foz do Douro | Free | Day 3 afternoon | ❌ | 1–1.5 hrs |
-| Serralves Museum | €12 | Day 3 (Sat) | ❌ | 2 hrs |
+| Tram 1 ride (Foz → Massarelos) | €4.50/person | Day 3, 15:30 | ❌ | 25 min |
+| Museu do Carro Eléctrico (Tram Museum) | €8 adult / €4 child | Day 3, 16:00 | ❌ | 45 min |
+| Jardim do Palácio de Cristal (peacocks) | Free | Day 3, 17:00 | ❌ | 1 hr |
+| Museu Romântico (optional) | ~€2 | Day 3, 18:00 | ❌ | 30 min |
+| Serralves Museum (alternative) | €12 | Day 3 (Sat) | ❌ | 2 hrs |
 
 ### Porto Must-Book
 
