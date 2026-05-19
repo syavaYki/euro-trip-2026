@@ -1,0 +1,7 @@
+{
+  "name": "euro-trip-2026",
+  "private": true,
+  "scripts": {
+    "start": "npx serve ."
+  }
+}

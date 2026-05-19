@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Euro Trip 2026 🇵🇹🇪🇸</title>
+
+  <script>
+    const RAW_BASE = "./";
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/9.1.6/marked.min.js"></script>
+
+  <style>
+    /* ── Reset & base ── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:        #f9f6f0;
+      --surface:   #ffffff;
+      --border:    #e0d9ce;
+      --accent:    #c0392b;       /* deep red — Portuguese/Spanish vibe */
+      --accent2:   #e67e22;       /* warm orange */
+      --text:      #2c2c2c;
+      --muted:     #777;
+      --tab-h:     48px;
+      --subt-h:    40px;
+      --radius:    10px;
+      --shadow:    0 2px 12px rgba(0,0,0,.08);
+    }
+
+    html, body {
+      height: 100%;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      font-size: 15px;
+      line-height: 1.6;
+    }
+
+    /* ── Header ── */
+    header {
+      background: var(--accent);
+      color: #fff;
+      padding: 14px 20px 10px;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      box-shadow: 0 2px 8px rgba(0,0,0,.2);
+    }
+    header h1 { font-size: 1.15rem; font-weight: 700; letter-spacing: .3px; }
+    header p  { font-size: .8rem; opacity: .85; margin-top: 1px; }
+
+    /* ── City tab bar ── */
+    #city-tabs {
+      display: flex;
+      overflow-x: auto;
+      scrollbar-width: none;
+      background: #2c2c2c;
+      padding: 0 8px;
+      gap: 2px;
+    }
+    #city-tabs::-webkit-scrollbar { display: none; }
+    .city-tab {
+      flex-shrink: 0;
+      padding: 0 16px;
+      height: var(--tab-h);
+      display: flex;
+      align-items: center;
+      cursor: pointer;
+      color: rgba(255,255,255,.65);
+      font-size: .85rem;
+      font-weight: 600;
+      border-bottom: 3px solid transparent;
+      white-space: nowrap;
+      transition: color .15s, border-color .15s;
+    }
+    .city-tab:hover  { color: #fff; }
+    .city-tab.active { color: #fff; border-bottom-color: var(--accent2); }
+    .city-tab .flag  { margin-right: 6px; font-size: 1.1em; }
+
+    /* ── Sub-tab bar (Food / Sights / Overview) ── */
+    #sub-tabs {
+      display: flex;
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      padding: 0 12px;
+      gap: 4px;
+    }
+    .sub-tab {
+      padding: 0 14px;
+      height: var(--subt-h);
+      display: flex;
+      align-items: center;
+      cursor: pointer;
+      font-size: .82rem;
+      font-weight: 600;
+      color: var(--muted);
+      border-bottom: 2px solid transparent;
+      transition: color .15s, border-color .15s;
+    }
+    .sub-tab:hover  { color: var(--text); }
+    .sub-tab.active { color: var(--accent); border-bottom-color: var(--accent); }
+
+    /* ── Content area ── */
+    #content {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 20px 16px 60px;
+    }
+
+    /* ── Loading / error states ── */
+    .loader {
+      text-align: center;
+      padding: 60px 20px;
+      color: var(--muted);
+    }
+    .loader .spinner {
+      width: 36px; height: 36px;
+      border: 3px solid var(--border);
+      border-top-color: var(--accent);
+      border-radius: 50%;
+      animation: spin .7s linear infinite;
+      margin: 0 auto 16px;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    .error-box {
+      background: #fff3cd;
+      border: 1px solid #ffc107;
+      border-radius: var(--radius);
+      padding: 16px 20px;
+      font-size: .88rem;
+      line-height: 1.5;
+    }
+    .error-box strong { color: #856404; }
+
+    /* ── Markdown rendered content ── */
+    .md h1 { font-size: 1.5rem; color: var(--accent); margin: 0 0 6px; border-bottom: 2px solid var(--border); padding-bottom: 8px; }
+    .md h2 { font-size: 1.15rem; color: #444; margin: 28px 0 10px; display: flex; align-items: center; gap: 8px; }
+    .md h3 { font-size: 1rem; color: #555; margin: 18px 0 6px; }
+    .md p  { margin: 8px 0; }
+    .md a  { color: var(--accent); }
+    .md a:hover { text-decoration: underline; }
+    .md ul, .md ol { padding-left: 20px; margin: 6px 0; }
+    .md li { margin: 3px 0; }
+    .md strong { color: #222; }
+    .md em { color: var(--muted); font-style: normal; font-size: .9em; }
+    .md blockquote {
+      border-left: 3px solid var(--accent2);
+      margin: 12px 0;
+      padding: 8px 14px;
+      background: #fff8f0;
+      border-radius: 0 6px 6px 0;
+      color: #7a5c30;
+      font-size: .88rem;
+    }
+    .md hr { border: none; border-top: 1px solid var(--border); margin: 20px 0; }
+
+    /* ── Tables ── */
+    .md table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: .82rem;
+      margin: 12px 0 20px;
+      background: var(--surface);
+      border-radius: var(--radius);
+      overflow: hidden;
+      box-shadow: var(--shadow);
+    }
+    .md th {
+      background: #f0ebe3;
+      text-align: left;
+      padding: 8px 10px;
+      font-weight: 700;
+      font-size: .78rem;
+      text-transform: uppercase;
+      letter-spacing: .5px;
+      color: #555;
+      border-bottom: 1px solid var(--border);
+    }
+    .md td {
+      padding: 8px 10px;
+      border-bottom: 1px solid #f0ebe3;
+      vertical-align: top;
+    }
+    .md tr:last-child td { border-bottom: none; }
+    .md tr:hover td { background: #fdf9f5; }
+
+    /* Mobile: make tables scroll horizontally */
+    .table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; margin: 0 -4px; }
+
+    /* ── Responsive ── */
+    @media (max-width: 600px) {
+      header h1 { font-size: 1rem; }
+      .city-tab  { padding: 0 12px; font-size: .8rem; }
+      #content   { padding: 14px 10px 60px; }
+      .md h1 { font-size: 1.25rem; }
+      .md table { font-size: .75rem; }
+      .md th, .md td { padding: 6px 8px; }
+    }
+
+    /* ── Dates badge ── */
+    .dates {
+      display: inline-block;
+      background: rgba(255,255,255,.15);
+      border-radius: 20px;
+      padding: 2px 10px;
+      font-size: .75rem;
+      margin-left: 8px;
+      vertical-align: middle;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>🗺️ Euro Trip 2026 <span class="dates">Aug 19 – Sep 5</span></h1>
+  <p>Seva · wife · 2 daughters &nbsp;·&nbsp; Porto → Lisbon → Barcelona → Madrid</p>
+</header>
+
+<!-- City tab bar -->
+<div id="city-tabs">
+  <div class="city-tab active" data-city="overview">
+    <span class="flag">📋</span>Overview
+  </div>
+  <div class="city-tab" data-city="porto">
+    <span class="flag">🇵🇹</span>Porto
+  </div>
+  <div class="city-tab" data-city="lisbon">
+    <span class="flag">🇵🇹</span>Lisbon
+  </div>
+  <div class="city-tab" data-city="barcelona">
+    <span class="flag">🇪🇸</span>Barcelona
+  </div>
+  <div class="city-tab" data-city="madrid">
+    <span class="flag">🇪🇸</span>Madrid
+  </div>
+</div>
+
+<!-- Sub-tab bar -->
+<div id="sub-tabs"></div>
+
+<!-- Main content -->
+<div id="content">
+  <div class="loader" id="loader">
+    <div class="spinner"></div>
+    Loading…
+  </div>
+</div>
+
+<script>
+// ─── City → file map ─────────────────────────────────────────────────────────
+const TABS = {
+  overview: {
+    label: "Overview",
+    subs: [
+      { key: "master",  label: "📋 Full Itinerary", file: "euro_trip_2026.md" }
+    ]
+  },
+  porto: {
+    label: "Porto",
+    subs: [
+      { key: "food",   label: "🍽️ Food & Drink",  file: "porto_food_research.md" },
+      { key: "sights", label: "🏛️ Sights",         file: "porto_sights_research.md" }
+    ]
+  },
+  lisbon: {
+    label: "Lisbon",
+    subs: [
+      { key: "food",   label: "🍽️ Food & Drink",  file: "lisbon_food_research.md" },
+      { key: "sights", label: "🏛️ Sights",         file: "lisbon_sights_research.md" }
+    ]
+  },
+  barcelona: {
+    label: "Barcelona",
+    subs: [
+      { key: "food",   label: "🍽️ Food & Drink",  file: "barcelona_food_research.md" },
+      { key: "sights", label: "🏛️ Sights",         file: "barcelona_sights_research.md" }
+    ]
+  },
+  madrid: {
+    label: "Madrid",
+    subs: [
+      { key: "food",   label: "🍽️ Food & Drink",  file: "madrid_food_research.md" },
+      { key: "sights", label: "🏛️ Sights",         file: "madrid_sights_research.md" }
+    ]
+  }
+};
+
+// ─── State ───────────────────────────────────────────────────────────────────
+let activeCity = "overview";
+let activeSub  = "master";
+const cache = {};   // file → rendered HTML
+
+// ─── Elements ────────────────────────────────────────────────────────────────
+const contentEl  = document.getElementById("content");
+const loaderEl   = document.getElementById("loader");
+const subTabsEl  = document.getElementById("sub-tabs");
+const cityTabsEl = document.getElementById("city-tabs");
+
+// ─── Render sub-tabs ─────────────────────────────────────────────────────────
+function renderSubTabs(city) {
+  const subs = TABS[city].subs;
+  subTabsEl.innerHTML = subs.map(s =>
+    `<div class="sub-tab ${s.key === activeSub ? 'active' : ''}" data-sub="${s.key}">${s.label}</div>`
+  ).join("");
+  subTabsEl.querySelectorAll(".sub-tab").forEach(el => {
+    el.addEventListener("click", () => {
+      activeSub = el.dataset.sub;
+      subTabsEl.querySelectorAll(".sub-tab").forEach(t => t.classList.remove("active"));
+      el.classList.add("active");
+      loadContent(city, activeSub);
+    });
+  });
+}
+
+// ─── Fetch + render markdown ──────────────────────────────────────────────────
+async function loadContent(city, sub) {
+  const subCfg = TABS[city].subs.find(s => s.key === sub);
+  if (!subCfg) return;
+
+  // Show loader
+  contentEl.innerHTML = `<div class="loader" id="loader"><div class="spinner"></div>Loading ${subCfg.label}…</div>`;
+
+  // Cache hit?
+  if (cache[subCfg.file]) {
+    contentEl.innerHTML = cache[subCfg.file];
+    wrapTables();
+    return;
+  }
+
+  try {
+    const url = RAW_BASE + subCfg.file;
+    const res = await fetch(url);
+    if (!res.ok) throw new Error(`HTTP ${res.status} — file not found: ${subCfg.file}`);
+    const md = await res.text();
+    const html = `<div class="md">${marked.parse(md)}</div>`;
+    cache[subCfg.file] = html;
+    contentEl.innerHTML = html;
+    wrapTables();
+  } catch (err) {
+    contentEl.innerHTML = `
+      <div class="error-box">
+        <strong>⚠️ Could not load file</strong><br><br>
+        ${err.message}<br><br>
+        Make sure the file is committed to your GitHub repo and the <code>RAW_BASE</code>
+        URL is configured correctly at the top of this file.
+      </div>`;
+  }
+}
+
+// ─── Wrap tables for horizontal scroll on mobile ──────────────────────────────
+function wrapTables() {
+  contentEl.querySelectorAll("table").forEach(t => {
+    if (!t.parentElement.classList.contains("table-wrap")) {
+      const wrap = document.createElement("div");
+      wrap.className = "table-wrap";
+      t.parentNode.insertBefore(wrap, t);
+      wrap.appendChild(t);
+    }
+  });
+}
+
+// ─── City tab click ───────────────────────────────────────────────────────────
+cityTabsEl.querySelectorAll(".city-tab").forEach(el => {
+  el.addEventListener("click", () => {
+    activeCity = el.dataset.city;
+    activeSub  = TABS[activeCity].subs[0].key;
+
+    cityTabsEl.querySelectorAll(".city-tab").forEach(t => t.classList.remove("active"));
+    el.classList.add("active");
+
+    renderSubTabs(activeCity);
+    loadContent(activeCity, activeSub);
+  });
+});
+
+// ─── Initial load ─────────────────────────────────────────────────────────────
+renderSubTabs(activeCity);
+loadContent(activeCity, activeSub);
+</script>
+
+</body>
+</html>
