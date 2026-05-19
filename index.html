@@ -180,7 +180,75 @@
     /* Mobile: make tables scroll horizontally */
     .table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; margin: 0 -4px; }
 
+    /* ── Overview two-column layout ── */
+    #content.overview-active {
+      max-width: 1180px;
+      padding: 0;
+    }
+    .overview-layout {
+      display: flex;
+      align-items: flex-start;
+      gap: 24px;
+      padding: 20px 16px 60px;
+    }
+    .overview-main { flex: 1; min-width: 0; }
+
+    /* ── TOC sidebar ── */
+    .toc-sidebar {
+      width: 200px;
+      flex-shrink: 0;
+      position: sticky;
+      top: calc(var(--tab-h) + 12px);
+      max-height: calc(100vh - var(--tab-h) - 32px);
+      overflow-y: auto;
+      scrollbar-width: thin;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 10px 0 12px;
+      box-shadow: var(--shadow);
+    }
+    .toc-sidebar::-webkit-scrollbar { width: 4px; }
+    .toc-sidebar::-webkit-scrollbar-thumb { background: var(--border); border-radius: 2px; }
+    .toc-title {
+      font-size: .68rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: .8px;
+      color: var(--muted);
+      padding: 0 14px 8px;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 6px;
+    }
+    .toc-group { display: flex; flex-direction: column; }
+    .toc-city {
+      display: block;
+      padding: 5px 14px;
+      font-size: .78rem;
+      font-weight: 700;
+      color: var(--text);
+      text-decoration: none;
+      transition: color .12s;
+      margin-top: 4px;
+    }
+    .toc-city:hover { color: var(--accent); }
+    .toc-city.active { color: var(--accent); }
+    .toc-day {
+      display: block;
+      padding: 3px 14px 3px 26px;
+      font-size: .74rem;
+      color: var(--muted);
+      text-decoration: none;
+      transition: color .12s;
+    }
+    .toc-day:hover { color: var(--text); }
+    .toc-day.active { color: var(--accent); font-weight: 600; }
+
     /* ── Responsive ── */
+    @media (max-width: 768px) {
+      .toc-sidebar { display: none; }
+      .overview-layout { padding: 14px 10px 60px; }
+    }
     @media (max-width: 600px) {
       .city-tab  { padding: 0 12px; font-size: .8rem; }
       #content   { padding: 14px 10px 60px; }
@@ -264,7 +332,8 @@ const TABS = {
 // ─── State ───────────────────────────────────────────────────────────────────
 let activeCity = "overview";
 let activeSub  = "master";
-const cache = {};   // file → rendered HTML
+const cache = {};       // file → rendered HTML
+let tocObserver = null; // IntersectionObserver for TOC highlight
 
 // ─── Elements ────────────────────────────────────────────────────────────────
 const contentEl  = document.getElementById("content");
@@ -293,13 +362,20 @@ async function loadContent(city, sub) {
   const subCfg = TABS[city].subs.find(s => s.key === sub);
   if (!subCfg) return;
 
+  // Tear down any previous TOC observer and layout
+  if (tocObserver) { tocObserver.disconnect(); tocObserver = null; }
+  contentEl.classList.remove('overview-active');
+
   // Show loader
-  contentEl.innerHTML = `<div class="loader" id="loader"><div class="spinner"></div>Loading ${subCfg.label}…</div>`;
+  contentEl.innerHTML = `<div class="loader"><div class="spinner"></div>Loading ${subCfg.label}…</div>`;
+
+  const isOverview = (city === 'overview' && sub === 'master');
 
   // Cache hit?
   if (cache[subCfg.file]) {
     contentEl.innerHTML = cache[subCfg.file];
     wrapTables();
+    if (isOverview) injectTOC();
     return;
   }
 
@@ -312,6 +388,7 @@ async function loadContent(city, sub) {
     cache[subCfg.file] = html;
     contentEl.innerHTML = html;
     wrapTables();
+    if (isOverview) injectTOC();
   } catch (err) {
     contentEl.innerHTML = `
       <div class="error-box">
@@ -321,6 +398,120 @@ async function loadContent(city, sub) {
         URL is configured correctly at the top of this file.
       </div>`;
   }
+}
+
+// ─── Assign slug IDs to headings ──────────────────────────────────────────────
+function assignHeadingIds(container) {
+  const seen = {};
+  container.querySelectorAll('h1,h2,h3').forEach(h => {
+    let base = h.textContent.trim()
+      .toLowerCase()
+      .replace(/[\p{Emoji_Presentation}\p{Extended_Pictographic}]/gu, '')
+      .replace(/[^a-z0-9\s]/g, '')
+      .trim()
+      .replace(/\s+/g, '-');
+    let id = base;
+    let n = 2;
+    while (seen[id]) { id = `${base}-${n++}`; }
+    seen[id] = true;
+    h.id = id;
+  });
+}
+
+// ─── Build TOC nav element ────────────────────────────────────────────────────
+function buildTOC(container) {
+  const nav = document.createElement('nav');
+  nav.className = 'toc-sidebar';
+  nav.innerHTML = '<div class="toc-title">Contents</div>';
+
+  let currentGroup = null;
+
+  container.querySelectorAll('h2,h3').forEach(h => {
+    if (h.tagName === 'H2') {
+      // Strip leading emoji and trailing date suffix for a short label
+      const label = h.textContent.trim()
+        .replace(/^[\p{Emoji_Presentation}\p{Extended_Pictographic}\s]+/gu, '')
+        .replace(/\s*[—\-].*$/, '')
+        .trim();
+
+      currentGroup = document.createElement('div');
+      currentGroup.className = 'toc-group';
+
+      const a = document.createElement('a');
+      a.href = `#${h.id}`;
+      a.className = 'toc-city';
+      a.dataset.id = h.id;
+      a.textContent = label;
+      a.addEventListener('click', e => {
+        e.preventDefault();
+        document.getElementById(h.id)?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      });
+
+      currentGroup.appendChild(a);
+      nav.appendChild(currentGroup);
+    } else if (h.tagName === 'H3' && currentGroup) {
+      const text = h.textContent.trim();
+      if (!text.startsWith('Day ')) return;
+
+      const label = text.match(/^Day \d+/)?.[0] || text;
+
+      const a = document.createElement('a');
+      a.href = `#${h.id}`;
+      a.className = 'toc-day';
+      a.dataset.id = h.id;
+      a.textContent = label;
+      a.addEventListener('click', e => {
+        e.preventDefault();
+        document.getElementById(h.id)?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      });
+
+      currentGroup.appendChild(a);
+    }
+  });
+
+  return nav;
+}
+
+// ─── Inject TOC into overview layout ─────────────────────────────────────────
+function injectTOC() {
+  const mdEl = contentEl.querySelector('.md');
+  if (!mdEl) return;
+
+  assignHeadingIds(mdEl);
+  const toc = buildTOC(mdEl);
+
+  contentEl.classList.add('overview-active');
+
+  const layout = document.createElement('div');
+  layout.className = 'overview-layout';
+
+  const main = document.createElement('div');
+  main.className = 'overview-main';
+  main.appendChild(mdEl);
+
+  layout.appendChild(main);
+  layout.appendChild(toc);
+  contentEl.appendChild(layout);
+
+  // Highlight active TOC link on scroll
+  const allLinks = toc.querySelectorAll('[data-id]');
+  const idToLink = {};
+  allLinks.forEach(a => { idToLink[a.dataset.id] = a; });
+
+  tocObserver = new IntersectionObserver(entries => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        allLinks.forEach(a => a.classList.remove('active'));
+        const link = idToLink[entry.target.id];
+        if (link) link.classList.add('active');
+      }
+    });
+  }, { rootMargin: '-8% 0px -82% 0px', threshold: 0 });
+
+  Object.keys(idToLink).forEach(id => {
+    const el = document.getElementById(id);
+    if (el) tocObserver.observe(el);
+  });
 }
 
 // ─── Wrap tables for horizontal scroll on mobile ──────────────────────────────
