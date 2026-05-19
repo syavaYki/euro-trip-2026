@@ -210,19 +210,44 @@ Walk from Café Santiago: 5 min. Newly renovated historic indoor market (opened 
 
 **14:30 — Torre dos Clérigos** ⭐
 
-€6/person, 240 steps up a narrow spiral staircase. The 360° views from the top — rooftops, Douro river, Gaia, Atlantic on clear days — are the best in Porto. Go 14:30–15:00 for good afternoon light. Allow 30 min.
+Walk from Bolhão: 10 min. €8/person (under 10 free), 240 steps up a narrow spiral staircase — the only true 360° panorama in Porto. Rooftops, Douro river, Gaia, Atlantic on clear days. Allow 45 min.
 
-*Alternative:* Rua das Flores pedestrian street — beautiful tiled buildings, street art, local shops.
+> *"240 steps but completely worth it. The 360° view is unlike any other viewpoint in Porto."* — r/porto
 
-**15:30 — Igreja do Carmo** (if not done Day 1)
+**15:15 — Igreja do Carmo**
 
-Walk from Clérigos: 3 min. Free. The azulejo exterior wall is one of Porto's most photographed spots.
+Walk from Clérigos: 3 min. Free. The 1912 azulejo exterior wall is one of Porto's most photographed spots — stand back to see the full mural. Quick 10–15 min stop.
 
-**16:00 — Afternoon (choose one)**
+**15:30 — Walk down Rua das Flores → Cais da Ribeira**
 
-- **Shopping:** Rua de Santa Catarina (pedestrian main street) — 15 min walk
-- **Rest:** Jardim de São Lázaro (Porto's oldest public garden, 1834) — 5 min walk
-- **Second lodge:** Graham's (most educational, Vintage Room €40–70) or Burmester (right at the bridge foot, no uphill, cheese/chocolate €45)
+Rua das Flores is Porto's prettiest pedestrianised street — wrought-iron balconies, azulejo shopfronts, street musicians in the afternoon. Use it as your route downhill to the waterfront (~20 min total walk).
+
+**16:00 — Douro 6 Bridges Cruise** ⭐
+
+Depart from Cais da Ribeira pier. A 50-minute cruise aboard a replica rabelo boat under all six Douro bridges — the same wooden boats once used to transport Port wine barrels from the Douro Valley. In August, departures run every 30 min from ~10:00 to ~18:00. Book online in advance or buy walk-up at the pier.
+
+| Operator | Price | Notes |
+|----------|-------|-------|
+| **Cruzeiros Douro** | €15–17/person | Walk-up or online; no fixed time slot |
+| **Living Tours** | €16–18/person | Departs every 30 min; Apr–Sep until ~18:00 |
+
+> *"The best way to see Porto from the river. Completely different perspective — the bridges look massive from below."* — TripAdvisor
+
+Cruise ends ~16:50.
+
+**17:00 — Gaia Cable Car (Teleférico de Gaia)** ⭐
+
+Off the boat → cross Dom Luís I Bridge lower level to the Gaia side (5 min). The open-air gondola runs from the Douro waterfront straight up to Serra do Pilar — Porto's skyline rises across the river as you ascend. €6 one-way / €9 return. ~5 min ride. Operates until ~20:00 in summer.
+
+**17:15 — Jardim do Morro + Serra do Pilar**
+
+At the top: **Jardim do Morro** is the classic Porto postcard shot — the Ribeira waterfront and Dom Luís I Bridge straight across at golden hour, free. Walk two minutes to **Serra do Pilar Monastery terrace** (free, exterior) for a full 180° sweep — Porto skyline, all the bridges, Douro valley. Street musicians often play here at this hour. Allow 45 min.
+
+> *"Best panorama in the entire Porto area. Sunset here is one of the best things we did on the whole trip."* — r/porto
+
+**18:00 — Return to Porto**
+
+Cable car or walk back down to the Gaia waterfront, then cross via Dom Luís I Bridge upper level (40 m above the water — completely different perspective from the morning). Back to hotel to freshen up: ~25 min total.
 
 **19:30 — Dinner**
 
@@ -354,7 +379,9 @@ Confeitaria do Bolhão opens at 06:00 — nata and galão to go. Aloma (award-wi
 | Livraria Lello | €10 | Day 1 or 2 | ✅ livrarialello.pt | 30–45 min |
 | São Bento Station | Free | Day 2 morning | ❌ | 15 min |
 | Porto Cathedral (Sé) | €3 | Day 2 morning | ❌ | 30 min |
-| Torre dos Clérigos | €6 | Day 2 afternoon | ❌ | 30 min |
+| Torre dos Clérigos | €8 adults / under 10 free | Day 2 afternoon | ❌ | 45 min |
+| 6 Bridges Douro Cruise | €15–18/person | Day 2 afternoon | ❌ (walk-up ok) | 50 min |
+| Gaia Cable Car + Jardim do Morro | €6–9/person | Day 2 afternoon | ❌ | 45 min |
 | Igreja do Carmo | Free | Day 1 or 2 | ❌ | 10 min |
 | Dom Luís I Bridge | Free | Any | ❌ | Anytime |
 | Igreja de São Francisco | €9 adults / €2.50 children | Day 1 afternoon | ❌ | 45–60 min |
