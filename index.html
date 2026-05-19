@@ -38,20 +38,7 @@
       line-height: 1.6;
     }
 
-    /* ── Header ── */
-    header {
-      background: var(--accent);
-      color: #fff;
-      padding: 14px 20px 10px;
-      position: sticky;
-      top: 0;
-      z-index: 100;
-      box-shadow: 0 2px 8px rgba(0,0,0,.2);
-    }
-    header h1 { font-size: 1.15rem; font-weight: 700; letter-spacing: .3px; }
-    header p  { font-size: .8rem; opacity: .85; margin-top: 1px; }
-
-    /* ── City tab bar ── */
+        /* ── City tab bar ── */
     #city-tabs {
       display: flex;
       overflow-x: auto;
@@ -59,6 +46,9 @@
       background: #2c2c2c;
       padding: 0 8px;
       gap: 2px;
+      position: sticky;
+      top: 0;
+      z-index: 100;
     }
     #city-tabs::-webkit-scrollbar { display: none; }
     .city-tab {
@@ -192,7 +182,6 @@
 
     /* ── Responsive ── */
     @media (max-width: 600px) {
-      header h1 { font-size: 1rem; }
       .city-tab  { padding: 0 12px; font-size: .8rem; }
       #content   { padding: 14px 10px 60px; }
       .md h1 { font-size: 1.25rem; }
@@ -200,24 +189,8 @@
       .md th, .md td { padding: 6px 8px; }
     }
 
-    /* ── Dates badge ── */
-    .dates {
-      display: inline-block;
-      background: rgba(255,255,255,.15);
-      border-radius: 20px;
-      padding: 2px 10px;
-      font-size: .75rem;
-      margin-left: 8px;
-      vertical-align: middle;
-    }
-  </style>
-</head>
+    </head>
 <body>
-
-<header>
-  <h1>🗺️ Euro Trip 2026 <span class="dates">Aug 19 – Sep 5</span></h1>
-  <p>Seva · wife · 2 daughters &nbsp;·&nbsp; Porto → Lisbon → Barcelona → Madrid</p>
-</header>
 
 <!-- City tab bar -->
 <div id="city-tabs">
@@ -255,35 +228,35 @@ const TABS = {
   overview: {
     label: "Overview",
     subs: [
-      { key: "master",  label: "📋 Full Itinerary", file: "euro_trip_2026.md" }
+      { key: "master",  label: "📋 Full Itinerary", file: "docs/instructions/euro_trip_2026.md" }
     ]
   },
   porto: {
     label: "Porto",
     subs: [
-      { key: "food",   label: "🍽️ Food & Drink",  file: "porto_food_research.md" },
-      { key: "sights", label: "🏛️ Sights",         file: "porto_sights_research.md" }
+      { key: "food",   label: "🍽️ Food & Drink",  file: "docs/instructions/porto_food_research.md" },
+      { key: "sights", label: "🏛️ Sights",         file: "docs/instructions/porto_sights_research.md" }
     ]
   },
   lisbon: {
     label: "Lisbon",
     subs: [
-      { key: "food",   label: "🍽️ Food & Drink",  file: "lisbon_food_research.md" },
-      { key: "sights", label: "🏛️ Sights",         file: "lisbon_sights_research.md" }
+      { key: "food",   label: "🍽️ Food & Drink",  file: "docs/instructions/lisbon_food_research.md" },
+      { key: "sights", label: "🏛️ Sights",         file: "docs/instructions/lisbon_sights_research.md" }
     ]
   },
   barcelona: {
     label: "Barcelona",
     subs: [
-      { key: "food",   label: "🍽️ Food & Drink",  file: "barcelona_food_research.md" },
-      { key: "sights", label: "🏛️ Sights",         file: "barcelona_sights_research.md" }
+      { key: "food",   label: "🍽️ Food & Drink",  file: "docs/instructions/barcelona_food_research.md" },
+      { key: "sights", label: "🏛️ Sights",         file: "docs/instructions/barcelona_sights_research.md" }
     ]
   },
   madrid: {
     label: "Madrid",
     subs: [
-      { key: "food",   label: "🍽️ Food & Drink",  file: "madrid_food_research.md" },
-      { key: "sights", label: "🏛️ Sights",         file: "madrid_sights_research.md" }
+      { key: "food",   label: "🍽️ Food & Drink",  file: "docs/instructions/madrid_food_research.md" },
+      { key: "sights", label: "🏛️ Sights",         file: "docs/instructions/madrid_sights_research.md" }
     ]
   }
 };
