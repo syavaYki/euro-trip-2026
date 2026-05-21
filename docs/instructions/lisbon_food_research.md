@@ -109,6 +109,7 @@
 | Name | Description | Must-Try | Price | Address | Notes |
 |------|-------------|----------|-------|---------|-------|
 | **Taberna Sal Grosso** | One of the first modern tascas to make its name in Lisbon. Rotating market-driven chalkboard menu. Bread served with garlic-infused lard. The chocolate mousse with fleur de sel and olive oil drizzle is legendary. Taste of Lisboa top pick. | Daily chalkboard specials; chocolate mousse | €€ | Calçada do Forte 22, 1100-256 Lisboa (Santa Apolónia) | Near Santa Apolónia station — good for evenings near Alfama. |
+| **Cantinho do Aziz** ⭐ | One of the most distinctive restaurants in Lisbon — Mozambican-Portuguese fusion in the heart of Mouraria, reflecting Portugal's deep colonial ties to East Africa. Run by the Aziz family since 1992: the late Aziz, his wife Fatima, and their children. The *matapa* (cassava leaves with prawns and peanut sauce) is the dish Lisbon food writers describe as "life-changing." Muamba (chicken stew with palm oil, okra, garlic), crab curry, and piri-piri dishes combine African spice with Portuguese technique. An experience genuinely impossible to find elsewhere in Portugal. | Matapa (cassava + prawn + peanut sauce); muamba chicken; prawn curry; piri-piri crab | €€ | Rua de São Lourenço 3–5, 1100-529 Lisboa (Mouraria) | [cantinhodoaziz.com](https://cantinhodoaziz.com/) — Book ahead; small space, neighbourhood institution. |
 | **Pigmeu** | Pork-focused restaurant in locally-beloved Campo de Ourique. Every dish contains pork — from Alentejano pork to nose-to-tail offal preparations. A sophisticated neighbourhood tasca far from tourist crowds. | Croquetes; pastéis de massa tenra; suckling pig confit | €€–€€€ | R. 4 de Infantaria 68, 1350-274 Lisboa (Campo de Ourique) | [pigmeu.pt](https://pigmeu.pt/) — Taste of Lisboa recommended |
 | **Taberna Albricoque** | Algarve-focused contemporary tavern with Moorish-influenced southern cuisine — unique in Lisbon. Ray fish with garlic sauce, chicken with figs and almonds, rissol filled with cockles. Reflects southern Portugal's culinary heritage. | Ray fish with garlic; chicken with figs and almonds | €€–€€€ | Rua Caminhos de Ferro 98, 1100-395 Lisboa (Alfama edge) | — |
 | **Stō Restaurante** | Warm, neighbourhood-feel restaurant in Príncipe Real. Seasonal Portuguese menu, genuinely local crowd. One of the better mid-range options in a neighbourhood full of overpriced tourist traps. | Daily fish; Portuguese stews; grilled meats | €20–30/person | R. do Século 35, 1200-432 Lisboa (Príncipe Real) | — |
@@ -181,6 +182,7 @@
 
 | Name | Description | Must-Try / Featured Item | Price | Address | Notes |
 |------|-------------|--------------------------|-------|---------|-------|
+| **A Baiuca** ⭐ | The most raw and authentic fado experience in Alfama — and the hardest to get into. Fado vadio format where it's not a performance: regulars and neighbours spontaneously stand up and sing when moved to. No set show, no programme. The audience goes quiet mid-meal when someone rises from a table and begins. Run by the same family for decades. Tiny, impeccably local. Distinctly different from Tasca do Chico — this is Alfama fado in its most unvarnished form. | Fado vadio (spontaneous singing by locals) + traditional dinner | €35–50/person | Rua de São Miguel 20, 1100-543 Lisboa (Alfama) | Thu–Sat only. Book weeks ahead — very small and very sought-after. |
 | **A Tasca do Chico** ⭐ | The most authentic small fado tavern in Bairro Alto. Fado vadio (amateur fado) Monday and Wednesday evenings — performers and audience share the same cramped space. Not polished or curated: raw, unscripted, unforgettable. Tiny space; book ahead. | Fado performance + simple Portuguese dinner | €30–40/person | R. do Diário de Notícias 39, 1200-141 Lisboa (Bairro Alto) | Fado **Mon & Wed only**; arrive by 20:30 for a 21:00 start. Cash only. [tascadochico.com](https://www.tascadochico.com) |
 | **Sr. Fado** | Mid-size Alfama fado restaurant. More polished than Tasca do Chico but still authentic — multiple performers, good Portuguese food. Better for families who want the fado experience in a slightly less cramped setting. Good for kids 8+. | Fado performance + traditional dinner (set menu) | €35–55/person | R. dos Remédios 176, 1100-439 Lisboa (Alfama) | Book ahead |
 | **Restaurante Clube de Fado** | The prestige fado dinner option — founded by a celebrated fado guitarist, excellent performers, superior food and wine. Tourists and Lisboetas both attend. | Full dinner + fado show | €50–75/person | R. de São João da Praça 92, 1100-521 Lisboa (Alfama) | Book well in advance; [clube-de-fado.com](https://www.clube-de-fado.com/) |
@@ -229,21 +231,4 @@
 | Day | Breakfast | Gelato Stop | Lunch | Dinner / Evening |
 |-----|-----------|-------------|-------|-----------------|
 | Day 1 (Aug 23 — Belém) | Pastéis de Belém (on site, 8:30am before the monastery crowds) | Artisani (Doca de Santo Amaro, after Belém) | Time Out Market | Stō Restaurante or Taberna Sal Grosso |
-| Day 2 (Aug 24 — Alfama/Castle) | A Padaria Portuguesa (Largo da Graça) + Copenhagen Coffee Lab | Gelato Davvero (Alfama edge, after Castelo) | O Velho Eurico or Páteo 13 (sardines!) | A Tasca do Chico (if Mon or Wed) OR Sr. Fado |
-| Day 3 (Aug 25 — Parque das Nações / Chiado) | Manteigaria (Chiado, standing counter) + Fabrica Coffee Roasters | Santini (Chiado) | Zé da Mouraria or Cervejaria Ramiro (early, before queue) | Restaurante Pica-Pau terrace or Taberna da Rua das Flores |
-
-### Must-Book Ahead — Lisbon
-
-| What | Why | When to Book | How |
-|------|-----|-------------|-----|
-| **Cervejaria Ramiro** | No reservations; queue can be 45–60 min at dinner | Walk-in only — arrive at 19:00 opening | Walk-in queue |
-| **A Tasca do Chico** | Tiny; fado nights (Mon/Wed) fill up | 1 week ahead | [tascadochico.com](https://www.tascadochico.com) |
-| **Clube de Fado** | Most prestigious; sought-after | 2 weeks ahead | [clube-de-fado.com](https://www.clube-de-fado.com/) |
-| **O Velho Eurico** | Cult following; nearly impossible to walk in | Weeks ahead if possible | Instagram DM or phone |
-| **Os Gazeteiros** | Small, dinner-only, set menu format | 1–2 weeks ahead | Direct booking |
-| **Taberna da Rua das Flores** | Tiny; no printed menu | Walk-in at opening; or call same week | Arrive at noon |
-| **Park Bar (sunset)** | Best Lisbon view fills fast on nice evenings | Reserve a table online | [park-lisboa.com](http://park-lisboa.com/) |
-
----
-
-*Research date: May 2026. Sources: Reddit r/lisbon · Taste of Lisboa · Eating Europe · Spotted by Locals · Time Out Lisbon · AFAR · TheFork · TripAdvisor · Somebody Feed Phil (Netflix) · We Heart Lisbon · Atlas Obscura.*
+| Day 2 (Aug 24 — Alfama/Castle) | A Padaria Portuguesa (Largo da Graça) + Copenhagen Coffee Lab | Gelato Davvero (Alfama edge, after Castelo
