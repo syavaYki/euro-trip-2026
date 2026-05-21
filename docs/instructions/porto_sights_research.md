@@ -28,6 +28,7 @@
 | 18 | **Rua das Flores** | Pedestrianised historic shopping street | Free | Shops ~10:00–20:00 | ❌ | 30–60 min | Excellent — flat, car-free | Connects São Bento to the Ribeira waterfront — use it as a linking route. Evening = live street music. For authentic azulejo tiles, Cortiço & Netos (antique + reproduction tiles) is at the top of the street |
 | 19 | **Jardim do Palácio de Cristal** | Landscaped public gardens with Douro views, free-roaming peacocks | Free | Daily 08:00–21:00 (summer); 08:00–19:00 (winter) | ❌ | 1–1.5 hrs | Excellent — peacocks roam freely; great for young children | The western belvedere viewpoints offer some of Porto's finest Douro Valley views — most visitors miss them. Adjacent Museu Romântico (€2) and Port Wine Museum make a good combined morning |
 | 20 | **Parque da Cidade do Porto** | Portugal's largest urban park — 83 hectares with lake, woodland, cycle paths, direct beach access | Free | Apr–Sep 08:00–midnight; Oct–Mar 08:00–22:00 | ❌ | 1.5–3 hrs | Excellent | Enter from the Castelo do Queijo / Foz end and walk north through lakeside paths to the dunes and beach. Connects directly to Matosinhos beach. Castelo do Queijo fort on the Atlantic coast — free, great sea views |
+| 21 | **Chapel of Souls (Capela das Almas)** ⭐ | Church — complete azulejo tile exterior masterpiece | Free | Daily ~08:00–12:30 & 14:30–18:30 | ❌ | 15–20 min | Excellent | Over 15,000 azulejo tiles cover every centimetre of the exterior facade — installed in 1929. One of the most photogenic and freely accessible spots in Porto. Stand at the corner of Rua de Santa Catarina and Rua de Fernandes Tomás to see the full tiled facade. The church interior is a working church and modest by comparison — the exterior is the attraction. Natural pairing with Café Majestic 100m away on the same street |
 
 ---
 
@@ -43,6 +44,7 @@
 | 2 | **Café da Porta do Olival** | Historic café (since 1853) hiding medieval city wall sections inside | Near Centro Português de Fotografia | ~€1.50 coffee | Inside the walls you can see 14th-century Fernandina fortification. One of the gates was where Queen Philippa of Lancaster entered Porto in the 15th century | *"You can find parts of the old Fernandina wall inside. It's the oldest coffee shop in town and almost nobody knows about it."* — SpottedByLocals | Yes |
 | 3 | **Igreja do Carmo Casa Escondida (the "sliver house")** | 1-metre-wide house between two Baroque churches | Downtown / Clérigos area | Small fee for interior | Built so the monks and nuns of adjacent churches couldn't share a wall — and thus couldn't interact | *"Twin churches separated by a one-metre-wide house so the monks and nuns wouldn't touch walls. Only in Porto."* — PortugalVisitor.com | Yes — kids love this |
 | 4 | **Mercado Ferreira Borges / Hard Club** | 1885 iron market building (listed heritage) repurposed as music + culture venue | Ribeira | Events vary; often free or low cost | Never actually used as a market after completion — stood empty 100+ years. Now Porto's most interesting live venue (jazz, reggae, hip-hop, gospel, techno, exhibitions) | *"Hard Club has 20+ years offering live music at the iconic Mercado Ferreira Borges — a historical monument returned to the city."* — hardclubporto.com | Daytime/early evening yes |
+| 5 | **Café Majestic** ⭐ | Belle Époque café (1921) — one of the most beautiful café interiors in Europe | Rua de Santa Catarina 112, downtown | ~€5–7 for coffee | You go for the architecture, not the coffee price. Gilded mirrors, carved mahogany columns, Art Nouveau cherubs, chandeliers, and white-jacketed waiters — a completely preserved 1920s interior that J.K. Rowling reportedly frequented while writing the first Harry Potter. On the same street as Chapel of Souls (100m away) — natural pairing. Budget a coffee, sit inside, and let the atmosphere do the work | *"No other café in Porto comes close for sheer historical grandeur."* — TravelPortugal | Yes — older children appreciate it |
 
 ### 2B — Hidden Viewpoints (Not in the Tourist Guides)
 
@@ -55,6 +57,7 @@
 | 9 | **Jardim do Morro** | Vila Nova de Gaia | Straight across to Porto's Ribeira — the postcard shot | Sunset | Metro Line D → Jardim do Morro | Moderate (local popular spot) | Free | Yes — lively, street performers |
 | 10 | **Escadas dos Guindais** | Batalha → Ribeira | Under the Dom Luís I Bridge from directly below | Morning (quiet) | 290-step historic staircase | Very low | Free | Older kids only (steep stairs) |
 | 11 | **Muralha Fernandina** | Bonfim / Batalha | Walking atop the 14th-century city walls — extremely rare in Portugal | Any time | Via the staircase on Rua de Saraiva de Carvalho | Very low | Free | Yes |
+| 12 | **Funicular dos Guindais** ⭐ | Batalha → Cais da Ribeira | Drops from the Batalha plateau down to the waterfront in 2 minutes — stunning slope views of the Douro and the Dom Luís I Bridge | Any time | Bottom station at Cais da Ribeira, top at Batalha Square | Very low — most tourists don't know it exists | ~€2.50 one-way | Yes — kids love the ride |
 
 ### 2C — Local Beaches & Pools
 
@@ -63,6 +66,7 @@
 | 12 | **Piscina das Marés, Leça da Palmeira** | Saltwater tidal pools cut into Atlantic rock, designed by Álvaro Siza Vieira (1966, now a National Monument) | Leça da Palmeira, 15 min north | Small public pool fee | Two pools — adult and children's. Fed by filtered seawater. Kids feel like they're swimming in the actual ocean. Almost entirely unknown to tourists. Open Jun–Sep only | Excellent |
 | 13 | **Afurada Fishing Village** | Traditional fishing village + street-side charcoal grills | São Pedro da Afurada, Gaia (river south bank near the mouth) | Free / cheap eats | Colourful tiled houses, women washing clothes in communal tanks, fishing boats unloading. Sardines and sea bass grilled by the dock for lunch. Free heritage museum with traditional wooden boats. Take the tiny ferry from Ribeira | Yes — ferry is an adventure |
 | 14 | **Praia de Miramar + Capela do Senhor da Pedra** | Beautiful beach with a 17th-century chapel built on an Atlantic rock (iconic) | Miramar, 15 km south of Porto (Aveiro line train, 20 min) | Free | Chapel has stood in the ocean for 300+ years. Beach rated 10th most beautiful in Europe. Rock pools, dunes, playground, café | Excellent |
+| 15 | **Farol das Felgueiras (Felgueiras Lighthouse)** ⭐ | Walk the 300m Felgueiras breakwater to the red lighthouse at the exact point where the Douro meets the Atlantic | Foz do Douro | Free | One of Porto's most dramatic free walks — the Atlantic on one side, the Douro on the other. The lighthouse marks the river mouth. Combine with a walk along Pérgola da Foz promenade. Rocks can be slippery — supervise children carefully | Yes — dramatic but watch footing on wet rocks |
 
 ### 2D — Street Art & Tile Heritage
 
@@ -71,6 +75,7 @@
 | 15 | **Rua Miguel Bombarda Arts District** | Porto's unofficial arts quarter — 20+ galleries, large-scale murals, independent shops | Cedofeita | Free | Huge Don Quixote and Sancho Panza mural (130 m²). Six times a year all galleries do simultaneous opening nights. Genuine local arts scene | Yes — great for murals |
 | 16 | **"Quem és Porto?" Community Tile Mural** | Participatory street art — 3,000+ tiles, each resident got 4 tiles to express what Porto means to them | City streets (±maismenos± collective) | Free | Rare example of tiles used for community expression rather than historical decoration | Yes |
 | 17 | **Cortiço & Netos** | Antique and reproduction azulejo tile shop — buy real Portuguese tiles as souvenirs | Rua das Flores (top end) | Shop prices | One of the only places to buy authentic antique tiles. Far better quality than tourist-shop ceramics | Yes |
+| 18 | **"Half Rabbit" by Bordalo II** ⭐ | Giant rabbit sculpture assembled entirely from recycled plastic waste and trash — environmental street art at extraordinary scale | Vila Nova de Gaia, near Rua Serpa Pinto (close to the wine lodges) | Free | Portuguese artist Bordalo II makes monumental animals from found junk — tyres, bumpers, bottles, pipes. The Gaia rabbit stands several metres tall and is one of his most spectacular pieces. An environmental message delivered with total visual impact. Kids are floored by the scale | Yes — kids absolutely love it |
 
 ### 2E — Unusual Museums (Worth Knowing About)
 
@@ -89,6 +94,7 @@
 | 23 | **Parque de Nova Sintra** | Lush former British private estate (Reid family, 1932) with woodland paths, Douro views, historic fountains | Bonfim | Free | Dense botanical diversity, alleys, unusual relocated city fountains, panoramic views. Locals rate it 4.7/5 on Google. Entirely local — tourists do not find this park | Yes — playground, woodland |
 | 24 | **Serralves Park (park-only visit)** | 18 hectares surrounding the Serralves museum: rose garden, lake, treetop walkway, farm with animals | Foz / Boavista | €15 park-only; free Sun mornings until 13:00 | Farm has donkeys and sheep (children's favourite). Treetop walkway. Art Deco pink villa. Free Sunday mornings make this a perfect local-family outing | Excellent |
 | 25 | **Parque Oriental (Campanhã)** | Porto's Japanese-inspired park — bamboo groves, oriental garden sections, ponds, walking trails | Campanhã | Free | Almost entirely unknown to tourists. Porto's east-end hidden gem. Metro to Campanhã then 10 min walk | Yes |
+| 26 | **Cemitério de Agramonte** ⭐ | Porto's most beautiful Victorian cemetery — a 19th-century romantic necropolis unlike anything in the tourist circuit | Cedofeita / Rua do Agramonte | Free | Gothic Revival chapels, elaborate family mausoleums, Art Nouveau iron gates, and tree-lined avenues of monumental funerary sculpture. Opened 1855. Almost no tourists ever visit. Porto's equivalent of Père Lachaise but quieter and more intimate — extraordinary atmosphere, especially in the late afternoon. | Yes — perfect for a family that appreciates cemeteries |
 
 ---
 
@@ -133,28 +139,4 @@ All by public transport — no car needed.
 | # | Destination | How to Get There | Journey | Cost (return) | Time Needed | Highlights | Family? |
 |---|-------------|-----------------|---------|--------------|-------------|-----------|---------|
 | 1 | **Braga** ⭐ | Train from Porto Campanhã or São Bento | ~1 hr | ~€7 return | Full day or half-day | Historic cathedral, Bom Jesus do Monte (baroque staircase + funicular), archaeological site of Bracara Augusta. Excellent for families — funicular is a hit with kids | Excellent |
-| 2 | **Aveiro** ⭐ | Train from Porto Campanhã | ~1 hr | ~€7.50 return | Full day | "Portuguese Venice" — painted moliceiro canal boats, Costa Nova's striped houses (15 min by bus), Art Nouveau architecture, ovos moles (egg pastries) | Excellent — canal boats are a kids' highlight |
-| 3 | **Guimarães** | Train from Porto Campanhã or São Bento | ~75 min | ~€7.20 return | Full day | "Birthplace of Portugal." UNESCO medieval city centre, Guimarães Castle (free), Ducal Palace (€4). Note: castle has steep drops — supervise closely | Good — castle is engaging; cobbled streets can be challenging with pushchairs |
-| 4 | **Viana do Castelo** | Train from Porto Campanhã | ~1.5 hrs | ~€15.70 return | Full day | Elegant coastal city. Santa Luzia Basilica + funicular, Gil Eannes hospital ship (extraordinary museum — kids love it), beautiful beaches nearby | Excellent — Gil Eannes ship is the standout for families |
-| 5 | **Peso da Régua (Douro Valley)** | Train from Porto Campanhã (Douro line) | ~2.5 hrs | ~€11 return | Full day | One of Europe's great train journeys — terraced vineyards plunging to the river. Régua itself has a Douro Museum and wine tastings. Boat trips available | Good — primarily for the journey itself; wine focus less relevant for kids |
-| 6 | **Amarante** | Bus from Rodonorte terminal, Porto | ~1 hr | ~€8 return | Half-day to full day | Beautiful medieval town, São Gonçalo monastery on the river, Tamega river park, romantic bridges. Fewer bus services — plan around schedule | Yes |
-| 7 | **Coimbra** | Fast train from Porto Campanhã (Alfa Pendular) | ~1 hr 15 min | ~€30 return (fast train) | Long full day | Portugal dos Pequeninos (open-air miniature park — children's highlight), medieval university, aqueduct, old city. Manageable but a long day | Yes — Portugal dos Pequeninos is unmissable for kids |
-| 8 | **Sintra** | Train Porto → Lisbon (3 hrs) + Sintra line | ~3.5 hrs each way | High | Not recommended as day trip from Porto | Palaces and gardens are extraordinary but 7+ hrs of travel for ~4 hrs at destination is brutal. Visit from Lisbon instead | Visit from Lisbon |
-
----
-
-## 📋 Porto Sights — Quick-Pick by Category
-
-**Best free sights:** São Bento Station · Cais da Ribeira · Dom Luís I Bridge · Mercado do Bolhão · Jardim do Morro · Crystal Palace Gardens · Parque da Cidade · Rua das Flores · Miradouro da Vitória · Passeio das Virtudes · Jardim das Virtudes
-
-**Best for kids:** Serralves Park (animals + treetop walk) · Crystal Palace Gardens (peacocks) · Matosinhos Beach · Tram Museum (free tram ride included) · Piscina das Marés (tidal pools) · Centro Português de Fotografia (spy cameras)
-
-**Most overlooked by tourists:** Museu do Vinho do Porto · Piscina das Marés · Afurada fishing village · Jardim das Virtudes · Parque de Nova Sintra · Museu Romântico · Casa Museu Guerra Junqueiro · Museu Nacional Soares dos Reis
-
-**Must pre-book:** Livraria Lello · Palácio da Bolsa (English tour) · Graham's Port Lodge (premium rooms)
-
-**Best day trips for families:** Braga (#1) · Aveiro (#2) · Viana do Castelo (for Gil Eannes ship)
-
----
-
-*Research compiled May 2026. Sources: Portoalities blog · SpottedByLocals · Reddit r/porto · ExploredByMarta.com · LocalPorto.com · IntroducingPorto.com · MadAboutPorto.com · PortugalVisitor.com · CityGuidePorto.com · official venue websites · VisitPortugal · Lonely Planet · TripAdvisor local reviews.*
+| 2 | **Aveiro** ⭐ | Train from Porto Campanhã | ~1 hr | ~€7.50 return | Full day | "Portuguese Venice" — painted moliceiro canal boats, Costa Nova's s
