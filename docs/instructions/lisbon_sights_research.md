@@ -142,22 +142,84 @@
 
 ---
 
-## 📋 Suggested 3-Day Framework for Family of 4
+## 🏰 Sintra Deep-Dive
 
-**Day 1 — Belém + Baixa + Chiado**
-Morning: Jerónimos Monastery (booked in advance, 10am) → Monument to the Discoveries rooftop → MAAT rooftop walk (free) → Pastéis de Belém for custard tarts.
-Afternoon: Praça do Comércio → walk Rua Augusta → Carmo Convent → Rossio Square → ginjinha.
-Evening: Time Out Market for dinner.
+> Sintra is the **top family day trip from Lisbon** — possibly the top family day trip in all of Portugal. UNESCO World Heritage Site. Fairytale palaces on forested hilltops, underground initiation wells, hidden grottos, and Moorish ramparts. The problem is that everyone knows this, and August is the most crowded month of the year. The solution: leave Lisbon before 8am.
 
-**Day 2 — Alfama + Castle + Fado Night**
-Morning: São Jorge Castle (9am, booked online) → Miradouro da Senhora do Monte → wander down through Alfama alleys → Sé Cathedral cloister.
-Afternoon: Museu do Fado → Mouraria streets (Rua do Capelão tile murals) → Casa do Alentejo courtyard drink.
-Evening: Fado dinner in Alfama; or A Tasca do Chico (Mon/Wed only).
+### The Palaces — What to Choose
 
-**Day 3 — Parque das Nações + Day Trip or LX Factory**
-Morning: Oceanarium (timed entry, booked in advance) → cable car → Pavilhão do Conhecimento science museum.
-Afternoon: LX Factory if Sunday (Feira da LX market, noon–7pm) OR a half-day to Cascais or Sesimbra if the weather is good and everyone needs a beach.
+| Palace | Why Visit | Cost (family of 4) | Book? | Time | Family Verdict |
+|--------|-----------|-------------------|-------|------|----------------|
+| **Pena Palace** ⭐ | The unmissable one. A candy-coloured Romantic fantasy palace (1840s) on the highest peak, built by the wildly eccentric King Ferdinand II. Moors, Portuguese Manueline, Renaissance, and Gothic styles smashed together brilliantly. 360° views over Sintra hills. | Palace + Park: ~€65 for 4 (family ticket); Park-only: ~€32 for 4 | ✅ **Essential** — book online weeks in advance. August sells out. | 2–3 hrs | ⭐⭐⭐⭐⭐ Unmissable. Kids find the colours and towers magical. Allow full morning. |
+| **Quinta da Regaleira** ⭐ | Eccentric neo-Manueline estate (1910) built by a Brazilian millionaire. The big draw: the **Initiation Well** — a 27-metre spiral staircase descending into the earth, connecting via underground tunnels to grottoes, a lake, and hidden exits across the gardens. Kids talk about this for years. | ~€15/adult; ~€8/child 6–17; free under 6 — approximately €46 for 4 | ✅ Book online | 2–2.5 hrs | ⭐⭐⭐⭐⭐ The Initiation Well is an extraordinary experience for families. The tunnels are genuinely hidden and adventurous — bring a small torch. |
+| **National Palace of Sintra** | The only palace in the actual village centre. Medieval origins, expanded by João I after 1415. Two enormous cone-shaped chimneys are the defining symbol of Sintra. Interior includes the stunning Sala dos Brasões (Hall of Crests) and the Sala dos Cisnes (Swan Hall). | ~€15/adult; under 14 free — approximately €30 for 4 | ❌ Walk-in | 45–60 min | ⭐⭐⭐⭐ Great for kids — the chimneys visible from inside the kitchen are extraordinary. Less crowded than Pena. |
+| **Moorish Castle** (Castelo dos Mouros) | 8th–9th century Moorish hilltop fortification with dramatic ramparts and towers. Steep paths through forest, connecting to Pena Palace via a hiking trail. Views over Sintra and the Atlantic from the battlements. | ~€10/adult; free under 6 — approximately €30–35 for 4 | ❌ Walk-in | 1–1.5 hrs | ⭐⭐⭐⭐ Physically demanding paths but rewarding for kids who like climbing and history. The Atlantic view from the highest tower is remarkable. |
+| **Monserrate Palace** | Romantic neo-Gothic/Moorish/Hindu fusion palace (1858) in beautiful botanical gardens. Less visited than Pena and Quinta da Regaleira — for those who want to avoid the peak crowds. Stunning architecture. | ~€12/adult; under 14 free | ❌ Walk-in | 1–1.5 hrs | ⭐⭐⭐⭐ Excellent for those who want the Sintra magic without the Pena Palace crush. |
+
+### Sintra Logistics — August Reality Check
+
+**The August problem:** Sintra in August is one of the most crowded tourist experiences in Portugal. The village has one main street, the palace queues are brutal, and the vintage tuk-tuks and 434 bus to the palaces are packed. All of this is manageable with the right timing.
+
+**The solution — minute by minute:**
+
+| Time | What to Do |
+|------|-----------|
+| **07:15** | Leave Lisbon hotel → walk to Rossio Station |
+| **07:30–08:00** | Train from Rossio to Sintra (~40 min, every 15–20 min, €2.30/person). Aim for the 07:35 or 07:48 train. |
+| **08:10–08:20** | Arrive Sintra. Station is a 15-min walk from the village centre (or Bus 434 from station to Pena). |
+| **08:30** | Bus 434 departs from the station to Pena Palace and Moorish Castle. First bus of the day is uncrowded. | 
+| **09:00** | Pena Palace opens. You are among the first in. The palace is genuinely magical with only 20 people in it. |
+| **11:00** | Pena Palace is now getting very crowded — you've already seen it. Descend via forest trail to the Moorish Castle (30-min walk through pine forest, signposted). |
+| **12:30** | Back in Sintra village. Lunch before the midday rush. |
+| **14:00** | Quinta da Regaleira. Crowds have thinned slightly — the afternoon slot is better here than at Pena. |
+| **16:30–17:00** | Train back to Lisbon from Sintra station. Village is still busy but you're heading out. |
+
+**Tickets:** Buy Pena Palace online the moment you decide to go — the family ticket sells out for peak August weekends 3–4 weeks in advance. Quinta da Regaleira online booking is recommended but easier to get.
+
+**Getting around Sintra:** The 434 bus (€8.20 for all-day pass) hits all the major palaces. Tuk-tuks are atmospheric but expensive. Walking between Pena and the Moorish Castle via the forest trail (free, signposted) is one of the best parts of the day — shaded, cool even in August, extraordinary landscape.
+
+**Village eats:** The village has many tourist restaurants of mixed quality. **Casa Piriquita** (Rua das Padarias 1–5) has been making *travesseiros* (puff pastry pillows filled with egg cream and almond) and *queijadas* (small cheese tarts) since 1862 — these are the edible souvenirs of Sintra. Both are better at Piriquita than anywhere else. Eat at least one of each on your way through the village.
+
+**The Sintra gelato note:** The family loves gelato — several gelateria options in the village; quality is tourist-tier but perfectly fine after a hot morning of palace-climbing.
 
 ---
 
-*Research date: May 2026. Sources: Reddit r/lisbon + r/travel + r/solotravel, Spotted by Locals, Atlas Obscura, Time Out Lisbon, Taste of Lisboa, Inside Lisbon, Devour Tours, Off Path Portugal, portaldasnacoes.pt, official museum websites.*
+## 📋 Suggested 3-Day Framework for Family of 4
+
+**Day 1 — Belém + Baixa + Chiado**
+Morning: Pastéis de Belém (eat at 8:30am before the monastery crowds) → Jerónimos Monastery (booked, 10am) → Monument to the Discoveries rooftop → MAAT rooftop walk (free).
+Afternoon: Praça do Comércio → walk Rua Augusta → Carmo Convent (open sky through Gothic arches) → Rossio Square → ginjinha shot at A Ginjinha.
+Evening: Time Out Market for dinner.
+
+**Day 2 — Alfama + Castle + Fado Night**
+Morning: São Jorge Castle (9am, booked online — arrive first thing for peacocks and uncrowded ramparts) → Miradouro da Senhora do Monte (highest viewpoint in Lisbon, almost no one there) → wander down through Alfama alleys before the cruise-ship crowds → Sé Cathedral cloister excavation (€2.50 — Roman garum workshops below a medieval church).
+Afternoon: Museu do Fado → Mouraria streets (Rua do Capelão fado-tile murals) → Casa do Alentejo courtyard (free to explore).
+Evening: Fado dinner in Alfama — A Tasca do Chico (Mon/Wed only, most authentic) or Sr. Fado.
+
+**Day 3 — Parque das Nações + LX Factory or Sintra**
+Option A (no Sintra): Morning: Oceanarium (timed entry, booked in advance) → cable car → Pavilhão do Conhecimento. Afternoon: LX Factory if Sunday (Feira da LX market, noon–7pm) or Príncipe Real Saturday market + Jardim do Torel.
+Option B (Sintra day trip): Leave by 7:30am. Full day itinerary — see Sintra Deep-Dive section above. Back in Lisbon by 6pm.
+
+---
+
+## 📋 Lisbon Sights — Quick-Pick by Category
+
+**Essential for 3-day visit (non-negotiable):** Jerónimos Monastery · São Jorge Castle · Alfama district (wander before 10am) · Carmo Convent (open-sky Gothic) · Praça do Comércio at sunset · Oceanarium · Fado experience (dinner or A Tasca do Chico)
+
+**Best free sights:** São Jorge Castle ramparts (peacocks!) · Alfama alleys · Praça do Comércio · MAAT rooftop walk · Casa do Alentejo courtyard · Rua do Capelão tile murals (Mouraria) · Tapada das Necessidades (royal garden, no tourists) · Jardim do Torel (secret hilltop garden) · Miradouro da Senhora do Monte (highest, least crowded)
+
+**Best for kids:** Oceanarium (sea otters + sharks) · São Jorge Castle (peacocks + ramparts) · Carmo Convent (open sky + mummies) · Hospital de Bonecas (1830 doll hospital) · Museu Bordalo Pinheiro garden (giant ceramic frogs and lobsters, free) · Quinta da Regaleira Sintra (underground tunnels) · Pavilhão do Conhecimento (hands-on science museum) · Jardim do Caracol da Penha (new park with long metal slide)
+
+**Best churches & religious architecture (family loves these):** Jerónimos Monastery (Portugal's greatest) · Sé Cathedral + cloister (Roman walls below) · Carmo Convent (roofless, haunting) · Igreja de São Domingos (damaged by fire, atmospheric bare walls) · Prazeres Cemetery (Victorian necropolis — 82 numbered streets of funerary architecture)
+
+**Most underrated / overlooked by tourists:** Tapada das Necessidades (former royal garden — peacocks, cactus collection, almost no visitors) · Jardim do Torel (secret hilltop garden) · Museu do Oriente (Portuguese-Asian connections, free Friday evenings) · Museu Bordalo Pinheiro garden (free, surreal ceramic sculptures) · 8 Marvila (2024 creative hub, still a local secret) · Miradouro da Senhora do Monte (highest + least crowded great viewpoint) · Museu Nacional de Arte Antiga (Portugal's finest art museum — and it's free)
+
+**Must pre-book:** Jerónimos Monastery · São Jorge Castle (recommended) · Oceanarium (essential — sells out in August) · Pena Palace Sintra (sells out weeks ahead in August) · Quinta da Regaleira Sintra (recommended)
+
+**Best day trips for families:** Sintra #1 (Pena Palace + Quinta da Regaleira) · Cascais (beach + boca do inferno, easy half-day) · Sesimbra (sheltered beach, less crowded than Cascais) · Arrábida (best water clarity near Lisbon — requires guided tour in summer)
+
+**Best sunset viewpoints:** Miradouro da Senhora do Monte (highest, quietest) · Miradouro da Graça (esplanada kiosk since 1992, castle silhouette) · Miradouro de Santa Catarina / Adamastor (bohemian, faces 25 de Abril bridge) · Park Bar rooftop (cocktails with 25 de Abril + Tagus panorama) · Praça do Comércio (golden river light)
+
+---
+
+*Research date: May 2026. Sources: Reddit r/lisbon + r/travel + r/solotravel, Spotted by Locals, Atlas Obscura, Time Out Lisbon, Taste of Lisboa, Inside Lisbon, Devour Tours, Off Path Portugal, portaldasnacoes.pt, official museum websites, sintra.pt.*
