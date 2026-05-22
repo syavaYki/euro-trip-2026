@@ -5,15 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Euro Trip 2026 🇵🇹🇪🇸</title>
 
-  <!-- ── Auth guard — must be first script, blocks render until checked ── -->
-  <script>
-    (function() {
-      if (localStorage.getItem('tripAuth2026') !== 'ok') {
-        window.location.replace('./login.html');
-      }
-    })();
-  </script>
-
   <script>
     const RAW_BASE = "./";
   </script>
@@ -186,111 +177,8 @@
     .md tr:last-child td { border-bottom: none; }
     .md tr:hover td { background: #fdf9f5; }
 
-    /* Mobile: make tables scroll horizontally (kept for un-transformed tables) */
+    /* Mobile: make tables scroll horizontally */
     .table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; margin: 0 -4px; }
-
-    /* ── Collapsible table cards ── */
-    .table-cards {
-      display: flex;
-      flex-direction: column;
-      gap: 6px;
-      margin: 10px 0 22px;
-    }
-
-    .tcard {
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: var(--radius);
-      overflow: hidden;
-      transition: box-shadow .15s;
-    }
-    .tcard:hover { box-shadow: var(--shadow); }
-
-    /* Head row — always visible */
-    .tcard-head {
-      display: flex;
-      align-items: baseline;
-      gap: 10px;
-      padding: 11px 14px;
-      cursor: pointer;
-      user-select: none;
-    }
-    .tcard-flat .tcard-head { cursor: default; }
-
-    .tcard-name {
-      font-weight: 700;
-      font-size: .88rem;
-      color: var(--text);
-      flex-shrink: 0;
-      min-width: 90px;
-      max-width: 38%;
-    }
-    .tcard-name strong { color: var(--accent); font-weight: 700; }
-
-    .tcard-desc {
-      flex: 1;
-      font-size: .82rem;
-      color: var(--muted);
-      white-space: nowrap;
-      overflow: hidden;
-      text-overflow: ellipsis;
-      min-width: 0;
-    }
-
-    .tcard-chevron {
-      flex-shrink: 0;
-      font-size: .7rem;
-      color: var(--muted);
-      transition: transform .2s ease;
-      margin-left: 4px;
-    }
-    .tcard.open .tcard-chevron { transform: rotate(180deg); }
-
-    /* Body — shown when open */
-    .tcard-body {
-      display: none;
-      padding: 2px 14px 12px;
-      border-top: 1px solid var(--border);
-      background: #fdfbf8;
-    }
-    .tcard.open .tcard-body { display: block; }
-
-    /* Each field row in the body */
-    .tcard-field {
-      display: flex;
-      gap: 10px;
-      padding: 7px 0;
-      border-bottom: 1px solid var(--border);
-      font-size: .84rem;
-      align-items: flex-start;
-    }
-    .tcard-field:last-child { border-bottom: none; }
-
-    .tcard-label {
-      flex-shrink: 0;
-      width: 100px;
-      font-size: .72rem;
-      font-weight: 700;
-      text-transform: uppercase;
-      letter-spacing: .04em;
-      color: var(--muted);
-      padding-top: 2px;
-    }
-
-    .tcard-val {
-      flex: 1;
-      color: var(--text);
-      line-height: 1.5;
-    }
-    .tcard-val strong { color: var(--accent); }
-    .tcard-val a { color: var(--accent); }
-
-    @media (max-width: 600px) {
-      .tcard-name { font-size: .83rem; min-width: 70px; max-width: 42%; }
-      .tcard-desc { font-size: .78rem; }
-      .tcard-field { flex-direction: column; gap: 2px; }
-      .tcard-label { width: auto; }
-    }
 
     /* ── Overview two-column layout ── */
     #content.overview-active {
@@ -523,7 +411,7 @@ async function loadContent(city, sub) {
   // Cache hit?
   if (cache[subCfg.file]) {
     contentEl.innerHTML = cache[subCfg.file];
-    transformTables();
+    wrapTables();
     if (isOverview) injectTOC();
     return;
   }
@@ -536,7 +424,7 @@ async function loadContent(city, sub) {
     const html = `<div class="md">${marked.parse(md)}</div>`;
     cache[subCfg.file] = html;
     contentEl.innerHTML = html;
-    transformTables();
+    wrapTables();
     if (isOverview) injectTOC();
   } catch (err) {
     contentEl.innerHTML = `
@@ -567,4 +455,132 @@ function assignHeadingIds(container) {
   });
 }
 
-// ─── Build TOC nav element ──────────────�
+// ─── Build TOC nav element ────────────────────────────────────────────────────
+function buildTOC(container) {
+  const nav = document.createElement('nav');
+  nav.className = 'toc-sidebar';
+  nav.innerHTML = '<div class="toc-title">Contents</div>';
+
+  let currentGroup = null;
+
+  container.querySelectorAll('h2,h3').forEach(h => {
+    if (h.tagName === 'H2') {
+      // Strip leading emoji and trailing date suffix for a short label
+      const label = h.textContent.trim()
+        .replace(/^[\p{Emoji_Presentation}\p{Extended_Pictographic}\s]+/gu, '')
+        .replace(/\s*[—\-].*$/, '')
+        .trim();
+
+      currentGroup = document.createElement('div');
+      currentGroup.className = 'toc-group';
+
+      const a = document.createElement('a');
+      a.href = `#${h.id}`;
+      a.className = 'toc-city';
+      a.dataset.id = h.id;
+      a.textContent = label;
+      a.addEventListener('click', e => {
+        e.preventDefault();
+        document.getElementById(h.id)?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      });
+
+      currentGroup.appendChild(a);
+      nav.appendChild(currentGroup);
+    } else if (h.tagName === 'H3' && currentGroup) {
+      const text = h.textContent.trim();
+      if (!text.startsWith('Day ')) return;
+
+      const label = text.match(/^Day \d+/)?.[0] || text;
+
+      const a = document.createElement('a');
+      a.href = `#${h.id}`;
+      a.className = 'toc-day';
+      a.dataset.id = h.id;
+      a.textContent = label;
+      a.addEventListener('click', e => {
+        e.preventDefault();
+        document.getElementById(h.id)?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      });
+
+      currentGroup.appendChild(a);
+    }
+  });
+
+  return nav;
+}
+
+// ─── Inject TOC into overview layout ─────────────────────────────────────────
+function injectTOC() {
+  const mdEl = contentEl.querySelector('.md');
+  if (!mdEl) return;
+
+  assignHeadingIds(mdEl);
+  const toc = buildTOC(mdEl);
+
+  contentEl.classList.add('overview-active');
+
+  const layout = document.createElement('div');
+  layout.className = 'overview-layout';
+
+  const main = document.createElement('div');
+  main.className = 'overview-main';
+  main.appendChild(mdEl);
+
+  layout.appendChild(main);
+  layout.appendChild(toc);
+  contentEl.appendChild(layout);
+
+  // Highlight active TOC link on scroll
+  const allLinks = toc.querySelectorAll('[data-id]');
+  const idToLink = {};
+  allLinks.forEach(a => { idToLink[a.dataset.id] = a; });
+
+  tocObserver = new IntersectionObserver(entries => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        allLinks.forEach(a => a.classList.remove('active'));
+        const link = idToLink[entry.target.id];
+        if (link) link.classList.add('active');
+      }
+    });
+  }, { rootMargin: '-8% 0px -82% 0px', threshold: 0 });
+
+  Object.keys(idToLink).forEach(id => {
+    const el = document.getElementById(id);
+    if (el) tocObserver.observe(el);
+  });
+}
+
+// ─── Wrap tables for horizontal scroll on mobile ──────────────────────────────
+function wrapTables() {
+  contentEl.querySelectorAll("table").forEach(t => {
+    if (!t.parentElement.classList.contains("table-wrap")) {
+      const wrap = document.createElement("div");
+      wrap.className = "table-wrap";
+      t.parentNode.insertBefore(wrap, t);
+      wrap.appendChild(t);
+    }
+  });
+}
+
+// ─── City tab click ───────────────────────────────────────────────────────────
+cityTabsEl.querySelectorAll(".city-tab").forEach(el => {
+  el.addEventListener("click", () => {
+    activeCity = el.dataset.city;
+    activeSub  = TABS[activeCity].subs[0].key;
+
+    cityTabsEl.querySelectorAll(".city-tab").forEach(t => t.classList.remove("active"));
+    el.classList.add("active");
+
+    renderSubTabs(activeCity);
+    loadContent(activeCity, activeSub);
+  });
+});
+
+// ─── Initial load ─────────────────────────────────────────────────────────────
+renderSubTabs(activeCity);
+loadContent(activeCity, activeSub);
+</script>
+
+</body>
+</html>
