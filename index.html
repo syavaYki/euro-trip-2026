@@ -5,6 +5,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Euro Trip 2026 🇵🇹🇪🇸</title>
 
+  <!-- ── Auth guard — must be first script, blocks render until checked ── -->
+  <script>
+    (function() {
+      if (localStorage.getItem('tripAuth2026') !== 'ok') {
+        window.location.replace('./login.html');
+      }
+    })();
+  </script>
+
   <script>
     const RAW_BASE = "./";
   </script>
@@ -177,8 +186,111 @@
     .md tr:last-child td { border-bottom: none; }
     .md tr:hover td { background: #fdf9f5; }
 
-    /* Mobile: make tables scroll horizontally */
+    /* Mobile: make tables scroll horizontally (kept for un-transformed tables) */
     .table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; margin: 0 -4px; }
+
+    /* ── Collapsible table cards ── */
+    .table-cards {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+      margin: 10px 0 22px;
+    }
+
+    .tcard {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      overflow: hidden;
+      transition: box-shadow .15s;
+    }
+    .tcard:hover { box-shadow: var(--shadow); }
+
+    /* Head row — always visible */
+    .tcard-head {
+      display: flex;
+      align-items: baseline;
+      gap: 10px;
+      padding: 11px 14px;
+      cursor: pointer;
+      user-select: none;
+    }
+    .tcard-flat .tcard-head { cursor: default; }
+
+    .tcard-name {
+      font-weight: 700;
+      font-size: .88rem;
+      color: var(--text);
+      flex-shrink: 0;
+      min-width: 90px;
+      max-width: 38%;
+    }
+    .tcard-name strong { color: var(--accent); font-weight: 700; }
+
+    .tcard-desc {
+      flex: 1;
+      font-size: .82rem;
+      color: var(--muted);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      min-width: 0;
+    }
+
+    .tcard-chevron {
+      flex-shrink: 0;
+      font-size: .7rem;
+      color: var(--muted);
+      transition: transform .2s ease;
+      margin-left: 4px;
+    }
+    .tcard.open .tcard-chevron { transform: rotate(180deg); }
+
+    /* Body — shown when open */
+    .tcard-body {
+      display: none;
+      padding: 2px 14px 12px;
+      border-top: 1px solid var(--border);
+      background: #fdfbf8;
+    }
+    .tcard.open .tcard-body { display: block; }
+
+    /* Each field row in the body */
+    .tcard-field {
+      display: flex;
+      gap: 10px;
+      padding: 7px 0;
+      border-bottom: 1px solid var(--border);
+      font-size: .84rem;
+      align-items: flex-start;
+    }
+    .tcard-field:last-child { border-bottom: none; }
+
+    .tcard-label {
+      flex-shrink: 0;
+      width: 100px;
+      font-size: .72rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: .04em;
+      color: var(--muted);
+      padding-top: 2px;
+    }
+
+    .tcard-val {
+      flex: 1;
+      color: var(--text);
+      line-height: 1.5;
+    }
+    .tcard-val strong { color: var(--accent); }
+    .tcard-val a { color: var(--accent); }
+
+    @media (max-width: 600px) {
+      .tcard-name { font-size: .83rem; min-width: 70px; max-width: 42%; }
+      .tcard-desc { font-size: .78rem; }
+      .tcard-field { flex-direction: column; gap: 2px; }
+      .tcard-label { width: auto; }
+    }
 
     /* ── Overview two-column layout ── */
     #content.overview-active {
@@ -411,7 +523,7 @@ async function loadContent(city, sub) {
   // Cache hit?
   if (cache[subCfg.file]) {
     contentEl.innerHTML = cache[subCfg.file];
-    wrapTables();
+    transformTables();
     if (isOverview) injectTOC();
     return;
   }
@@ -424,7 +536,7 @@ async function loadContent(city, sub) {
     const html = `<div class="md">${marked.parse(md)}</div>`;
     cache[subCfg.file] = html;
     contentEl.innerHTML = html;
-    wrapTables();
+    transformTables();
     if (isOverview) injectTOC();
   } catch (err) {
     contentEl.innerHTML = `
@@ -551,15 +663,101 @@ function injectTOC() {
   });
 }
 
-// ─── Wrap tables for horizontal scroll on mobile ──────────────────────────────
-function wrapTables() {
-  contentEl.querySelectorAll("table").forEach(t => {
-    if (!t.parentElement.classList.contains("table-wrap")) {
-      const wrap = document.createElement("div");
-      wrap.className = "table-wrap";
-      t.parentNode.insertBefore(wrap, t);
-      wrap.appendChild(t);
+// ─── Transform tables into collapsible cards ─────────────────────────────────
+function transformTables() {
+  contentEl.querySelectorAll("table").forEach(table => {
+
+    // Collect header labels
+    const headerCells = Array.from(table.querySelectorAll("thead th, thead td"));
+    const headers     = headerCells.map(th => th.textContent.trim());
+    const hasHeaders  = headers.length > 0 && headers.some(h => h !== '');
+
+    // No real headers → keep as a horizontally-scrollable plain table
+    if (!hasHeaders) {
+      if (!table.parentElement.classList.contains("table-wrap")) {
+        const wrap = document.createElement("div");
+        wrap.className = "table-wrap";
+        table.parentNode.insertBefore(wrap, table);
+        wrap.appendChild(table);
+      }
+      return;
     }
+
+    const rows      = Array.from(table.querySelectorAll("tbody tr"));
+    const ncols     = headers.length;
+    const collapsible = ncols >= 3;   // 1-2 col tables: flat card; 3+ col: expandable
+
+    const container = document.createElement("div");
+    container.className = "table-cards";
+
+    rows.forEach(row => {
+      const cells = Array.from(row.querySelectorAll("td"));
+      if (cells.length === 0) return;
+
+      const card = document.createElement("div");
+      card.className = "tcard" + (collapsible ? "" : " tcard-flat");
+
+      // ── Head (always visible) ──────────────────────────────────────────────
+      const head = document.createElement("div");
+      head.className = "tcard-head";
+
+      const nameEl = document.createElement("span");
+      nameEl.className = "tcard-name";
+      nameEl.innerHTML = cells[0] ? cells[0].innerHTML : "—";
+      head.appendChild(nameEl);
+
+      if (ncols >= 2 && cells[1]) {
+        const descEl = document.createElement("span");
+        descEl.className = "tcard-desc";
+        // strip tags for the truncated summary line so it reads cleanly
+        descEl.textContent = cells[1].textContent.trim();
+        head.appendChild(descEl);
+      }
+
+      if (collapsible) {
+        const chev = document.createElement("span");
+        chev.className = "tcard-chevron";
+        chev.textContent = "▾";
+        head.appendChild(chev);
+      }
+
+      card.appendChild(head);
+
+      // ── Body (expanded, shows every column as label → value) ──────────────
+      if (collapsible) {
+        const body = document.createElement("div");
+        body.className = "tcard-body";
+
+        cells.forEach((cell, i) => {
+          const raw = cell.textContent.trim();
+          if (!raw || raw === "—" || raw === "N/A") return;
+
+          const field = document.createElement("div");
+          field.className = "tcard-field";
+
+          const labelEl = document.createElement("span");
+          labelEl.className = "tcard-label";
+          labelEl.textContent = headers[i] || "";
+
+          const valEl = document.createElement("span");
+          valEl.className = "tcard-val";
+          valEl.innerHTML = cell.innerHTML;   // keep bold/links/emoji
+
+          field.appendChild(labelEl);
+          field.appendChild(valEl);
+          body.appendChild(field);
+        });
+
+        card.appendChild(body);
+
+        // Toggle on head click
+        head.addEventListener("click", () => card.classList.toggle("open"));
+      }
+
+      container.appendChild(card);
+    });
+
+    table.parentNode.replaceChild(container, table);
   });
 }
 
