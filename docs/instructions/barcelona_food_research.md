@@ -152,4 +152,4 @@
 
 ---
 
-*Research date: May 2026. Full research — sourced from "100 Authentic Local Tascas & Restaurants," local expat YouTube transcript, Reddit r/barcelona, Spotted by Locals, Time Out Barcelona, Devour Tours Bar
+*Research date: May 2026. Full research — sourced from "100 Authentic Local Tascas & Restaurants," local expat YouTube transcript, Reddit r/barcelona, Spotted by Locals, Time Out Barcelona, Devour Tours Barcelona, and Eater Barcelona.*

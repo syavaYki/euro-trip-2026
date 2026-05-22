@@ -241,4 +241,20 @@ Evening: Fado dinner in Alfama — A Tasca do Chico (Mon/Wed only, most authenti
 
 **Essential for 4-day visit (non-negotiable):** Jerónimos Monastery · São Jorge Castle · Alfama district (wander before 10am) · Carmo Convent (open-sky Gothic) · Praça do Comércio at sunset · Oceanarium · Fado experience (dinner or A Tasca do Chico)
 
-**Best free sights:** São Jorge Castle ramparts (peacocks!) · Alfama alleys · Praça do Comércio · MAAT rooftop walk · Casa do Alentejo courtyard · Rua do Capelão tile murals (Mouraria) · Tapada das Necessidades (royal garden, no tourists) · Jardim do Torel (secret
+**Best free sights:** São Jorge Castle ramparts (peacocks!) · Alfama alleys · Praça do Comércio · MAAT rooftop walk · Casa do Alentejo courtyard · Rua do Capelão tile murals (Mouraria) · Tapada das Necessidades (royal garden, no tourists) · Jardim do Torel (secret hilltop garden) · Miradouro da Senhora do Monte (highest, least crowded)
+
+**Best for kids:** Oceanarium (sea otters + sharks) · São Jorge Castle (peacocks + ramparts) · Carmo Convent (open sky + mummies) · Hospital de Bonecas (1830 doll hospital) · Museu Bordalo Pinheiro garden (giant ceramic frogs and lobsters, free) · Quinta da Regaleira Sintra (underground tunnels) · Pavilhão do Conhecimento (hands-on science museum) · Jardim do Caracol da Penha (new park with long metal slide)
+
+**Best churches & religious architecture (family loves these):** Jerónimos Monastery (Portugal's greatest) · Sé Cathedral + cloister (Roman walls below) · Carmo Convent (roofless, haunting) · Igreja de São Domingos (damaged by fire, atmospheric bare walls) · Prazeres Cemetery (Victorian necropolis — 82 numbered streets of funerary architecture)
+
+**Most underrated / overlooked by tourists:** Tapada das Necessidades (former royal garden — peacocks, cactus collection, almost no visitors) · Jardim do Torel (secret hilltop garden) · Museu do Oriente (Portuguese-Asian connections, free Friday evenings) · Museu Bordalo Pinheiro garden (free, surreal ceramic sculptures) · 8 Marvila (2024 creative hub, still a local secret) · Miradouro da Senhora do Monte (highest + least crowded great viewpoint) · Museu Nacional de Arte Antiga (Portugal's finest art museum — and it's free)
+
+**Must pre-book:** Jerónimos Monastery · São Jorge Castle (recommended) · Oceanarium (essential — sells out in August) · Pena Palace Sintra (sells out weeks ahead in August) · Quinta da Regaleira Sintra (recommended)
+
+**Best day trips for families:** Sintra #1 (Pena Palace + Quinta da Regaleira) · Cascais (beach + boca do inferno, easy half-day) · Sesimbra (sheltered beach, less crowded than Cascais) · Arrábida (best water clarity near Lisbon — requires guided tour in summer)
+
+**Best sunset viewpoints:** Miradouro da Senhora do Monte (highest, quietest) · Miradouro da Graça (esplanada kiosk since 1992, castle silhouette) · Miradouro de Santa Catarina / Adamastor (bohemian, faces 25 de Abril bridge) · Park Bar rooftop (cocktails with 25 de Abril + Tagus panorama) · Praça do Comércio (golden river light)
+
+---
+
+*Research date: May 2026. Sources: Reddit r/lisbon + r/travel + r/solotravel, Spotted by Locals, Atlas Obscura, Time Out Lisbon, Taste of Lisboa, Inside Lisbon, Devour Tours, Off Path Portugal, portaldasnacoes.pt, official museum websites, sintra.pt.*

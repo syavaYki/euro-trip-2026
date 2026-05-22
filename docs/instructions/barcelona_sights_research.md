@@ -163,4 +163,4 @@
 
 ---
 
-*Research compiled May 2026. Sources: Reddit r/Barcelona · SpottedByLocals · YouTube Barcelona expat guides (local insights on upper/lower city, safety, transport) · official venue websites · Lonely Planet · Ti
+*Research compiled May 2026. Sources: Reddit r/Barcelona · SpottedByLocals · YouTube Barcelona expat guides (local insights on upper/lower city, safety, transport) · official venue websites · Lonely Planet · Timeout Barcelona · VisitBarcelona.*

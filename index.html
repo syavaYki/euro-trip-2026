@@ -556,4 +556,24 @@ function wrapTables() {
   });
 }
 
-// ─── City tab cl
+// ─── City tab click ───────────────────────────────────────────────────────────
+cityTabsEl.querySelectorAll(".city-tab").forEach(el => {
+  el.addEventListener("click", () => {
+    activeCity = el.dataset.city;
+    activeSub  = TABS[activeCity].subs[0].key;
+
+    cityTabsEl.querySelectorAll(".city-tab").forEach(t => t.classList.remove("active"));
+    el.classList.add("active");
+
+    renderSubTabs(activeCity);
+    loadContent(activeCity, activeSub);
+  });
+});
+
+// ─── Initial load ─────────────────────────────────────────────────────────────
+renderSubTabs(activeCity);
+loadContent(activeCity, activeSub);
+</script>
+
+</body>
+</html>

@@ -801,3 +801,54 @@ Sagrada Família, Park Güell, and Casa Batlló sell out weeks ahead in August.
 ---
 
 ## 💶 Overall Budget Estimate
+
+| Category | Estimate (USD) |
+|----------|----------------|
+| Flights (all 4 segments, 4 pax) | ~$2,400 |
+| Hotels (Porto booked; Lisbon/BCN/MAD TBD) | ~$800–1,200 |
+| Food & restaurants | ~$1,200–1,600 |
+| Activities & sights | ~$400–600 |
+| Local transport | ~$200–300 |
+| Buffer | ~$500 |
+| **Total** | **~$5,500–6,500** |
+
+---
+
+## 📋 Master Must-Book List
+
+| Item | City | Deadline | Where |
+|------|------|----------|-------|
+| **Livraria Lello tickets** | Porto | ASAP | livrarialello.pt |
+| **Taberna dos Mercadores** | Porto | Email now | tabernadosmercadores.com |
+| **Loca (farewell dinner)** | Porto | 2–3 weeks before | Restaurant website |
+| **O Gaveto** | Porto | 1 week before | ogaveto.com |
+| **Escama** | Porto | 1 week before | escamaporto.com |
+| **Lisbon hotel** | Lisbon | ASAP | — |
+| **Oceanário** | Lisbon | 1–2 weeks before | oceanario.pt |
+| **Pena Palace, Sintra (Day 4)** | Lisbon | 3–4 weeks before | penapalace.pt |
+| **Quinta da Regaleira, Sintra (Day 4)** | Lisbon | 1–2 weeks before | regaleira.pt |
+| **LIS → VLC flight (Aug 27)** | — | ASAP | Vueling / TAP direct |
+| **Valencia hotel (1 night)** | Valencia | ASAP | — |
+| **Euromed VLC → BCN train (Aug 28, 11:25)** | — | 1–2 months ahead | renfe.com (~€57/person) |
+| **Sagrada Família** | Barcelona | ASAP (August is peak) | sagradafamilia.org |
+| **Barcelona hotel** | Barcelona | ASAP | — |
+| **AVE BCN → Zaragoza (Aug 31)** | Zaragoza | 1–2 months ahead for best prices | renfe.com |
+| **Zaragoza hotel (1 night)** | Zaragoza | 1–2 months ahead | booking.com |
+| **AVE Zaragoza → Madrid (Sep 2)** | Madrid | 1–2 months ahead | renfe.com |
+| **Madrid hotel** | Madrid | ASAP | — |
+| **Museo del Prado** | Madrid | 2–4 weeks before | museodelprado.es |
+| **AVE Madrid → Segovia + back (Sep 4)** | Madrid | 1–2 weeks before | renfe.com (~€15–20 each way) |
+
+---
+
+## 📝 General Notes
+
+- **Baggage:** 0PC checked bags on all TAP flights. Pack light — carry-on only
+- **LIS → VLC** not yet booked. Vueling flies direct ~1h45m; TAP also operates the route. Book ASAP.
+- **Apps:** Bolt (taxis across all cities), Google Maps, local transit apps (Andante for Porto, Viva Viagem for Lisbon, Valencia Metrovalencia card, T-Casual for Barcelona, Metro Madrid)
+- **Cash:** Carry €50–80 at all times; some local spots are cash-only in every city (La Cova Fumada, El Xampanyet, Casa Dani in Madrid)
+- **Kids:** All cities are very family-friendly. Barcelona and Lisbon are easiest (flat areas / Metro). Porto is hilly but short distances. Valencia is flat and very walkable.
+
+---
+
+*Last updated: May 2026 · Research: Portoalities blog, Reddit r/porto / r/travel / r/solotravel, TripAdvisor, official city tourism sites*
