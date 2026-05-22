@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh run *)",
+      "Bash(curl -sI https://syavayki.github.io/euro-trip-2026/)",
+      "Bash(rtk git *)"
+    ]
+  }
+}

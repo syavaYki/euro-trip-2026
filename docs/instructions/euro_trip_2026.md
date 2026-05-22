@@ -1,9 +1,41 @@
 # Euro Trip 2026
 
-- **Destination:** Porto → Lisbon → Valencia → Barcelona → Zaragoza → Madrid
+- **Destination:** Porto → Lisbon → Valencia → Barcelona → Zaragoza → Madrid (+ Segovia day trip)
 - **Dates:** August 19 – September 5, 2026 (18 days)
 - **Travelers:** 4 — Seva, wife, 2 daughters
 - **Status:** Planning in progress
+
+---
+
+## 🗺️ Trip at a Glance
+
+| # | City | Country | Dates | Nights | Travel In | Key Focus |
+|---|------|---------|-------|--------|-----------|-----------|
+| 1 | **Porto** | 🇵🇹 Portugal | Aug 20–23 | 3 | EWR→OPO (TP212, Aug 19 night) | Ribeira, bridges, francesinha, Douro |
+| 2 | **Lisbon** | 🇵🇹 Portugal | Aug 23–27 | 4 | OPO→LIS (TP1921, 09:00) | Alfama, Belém, Day 4 = Sintra+Cabo Roca+Cascais |
+| 3 | **Valencia** | 🇪🇸 Spain | Aug 27–28 | 1 | LIS→VLC (TBD, Vueling/TAP) | Cathedral + Holy Grail, horchata, paella, friend Vova |
+| 4 | **Barcelona** | 🇪🇸 Spain | Aug 28–31 | 3 | Euromed train 11:25→14:50 | Sagrada Família, La Cova Fumada, Bunkers del Carmel |
+| 5 | **Zaragoza** | 🇪🇸 Spain | Sep 1–2 | 1 | AVE BCN→ZGZ (~1h20m) | La Aljafería, Basílica del Pilar, Casa Lac |
+| 6 | **Madrid** | 🇪🇸 Spain | Sep 2–5 | 3 | AVE ZGZ→MAD (~1h30m) | Prado, Reina Sofía, Palacio Real |
+| 7 | **Segovia** | 🇪🇸 Spain | Sep 4 | day trip | AVE MAD→SEG (28 min) | Roman Aqueduct, Alcázar, cochinillo lunch |
+| — | **Home** | 🇺🇸 USA | Sep 5 | — | MAD→JFK (AA95, 10:25) | — |
+
+### Key Dates Summary
+
+| Date | Event |
+|------|-------|
+| **Aug 19** | Depart Newark EWR 23:10 |
+| **Aug 20** | Arrive Porto 10:55 |
+| **Aug 23** | Fly Porto → Lisbon (09:00) |
+| **Aug 26** | Sintra + Cabo da Roca + Cascais full day |
+| **Aug 27** | Fly Lisbon → Valencia (TBD) |
+| **Aug 28** | Euromed train Valencia → Barcelona 11:25 AM |
+| **Aug 31** | AVE Barcelona → Zaragoza |
+| **Sep 1** | Explore Zaragoza (La Aljafería!) |
+| **Sep 2** | AVE Zaragoza → Madrid |
+| **Sep 3** | Prado + Reina Sofía |
+| **Sep 4** | Day trip to Segovia (AVE, 28 min) — cochinillo lunch |
+| **Sep 5** | Fly Madrid → JFK 10:25 AM |
 
 ---
 
@@ -800,6 +832,60 @@ Sagrada Família, Park Güell, and Casa Batlló sell out weeks ahead in August.
 
 ---
 
+## 🇪🇸 Segovia — Sep 4 (day trip from Madrid)
+
+> One of the most perfectly preserved medieval cities in Spain — a 1st-century Roman aqueduct built without mortar, a cliff-top Alcázar that inspired Disney's Cinderella castle, and the dish the whole city exists for: *cochinillo asado* (roast suckling pig). 28 minutes from Madrid by AVE. Full day, return same evening.
+
+### Logistics
+
+| | |
+|---|---|
+| **Depart Madrid** | AVE from Madrid Atocha → Segovia-Guiomar, ~28 min (~€15–20 each way) |
+| **Station → Old City** | Taxi or bus ~15 min (station is outside town); taxi ~€8 one-way |
+| **Return** | Multiple trains back throughout the afternoon — aim to return by 17:30 |
+| **Book** | renfe.com — book both legs ahead for fixed prices |
+
+### What to See
+
+| Sight | Cost | Notes |
+|-------|------|-------|
+| **Roman Aqueduct** ⭐⭐ | Free | 166 arches, 29 m high, no mortar. Walk the full length from Plaza del Azoguejo. The scale is incomprehensible in person |
+| **Alcázar de Segovia** ⭐⭐ | ~€10/adult | Disney's Cinderella castle inspiration. Perched on a river-cliff. Climb Torre de Juan II (148 steps) for 360° views |
+| **Segovia Cathedral** | ~€4/adult | Last great Gothic cathedral built in Spain (1525) |
+| **Jewish Quarter (La Judería)** | Free | One of Spain's best-preserved medieval Jewish quarters. Narrow streets between aqueduct and cathedral |
+| **Vera Cruz Church** | ~€2 | 12th-century Templar church, 12-sided design. Almost no tourists. Tower has Alcázar views |
+| **Mirador below Alcázar** | Free | Walk down to the river valley for the classic cliff-castle photo — the real postcard view |
+
+### Food
+
+| Restaurant | Notes |
+|-----------|-------|
+| **Mesón de Cándido** ⭐⭐ | Spain's most famous cochinillo restaurant since 1884, right under the aqueduct. Book ahead |
+| **Restaurante José María** ⭐⭐ | Critics' choice for best cochinillo in Segovia — more refined. Book ahead |
+| **Casa Duque** | Third of the classic trio, since 1895. Good backup option |
+
+> **The dish:** *Cochinillo asado* — whole suckling pig roasted until the skin shatters like glass. Carved at the table with the edge of a plate (then the plate is smashed). This is the only thing to eat in Segovia. Order it at lunch.
+
+### Outline
+
+| Time | What |
+|------|------|
+| 09:30 | AVE departs Atocha → arrives Segovia-Guiomar 09:58 → taxi to old city |
+| 10:00–10:30 | Roman Aqueduct — walk the full length |
+| 10:30–11:15 | Cathedral |
+| 11:15–12:00 | Jewish Quarter wander |
+| 12:30–14:00 | **Cochinillo lunch** at Cándido or José María (book ahead) |
+| 14:00–15:30 | Alcázar — allow full time, climb the tower |
+| 15:30–16:15 | Walk down to valley mirador + Vera Cruz church (optional) |
+| 17:00 | Taxi → station → AVE back to Madrid (~17:30 arrive Atocha) |
+| Evening | Retiro Park rowboats + churros farewell at San Ginés |
+
+---
+
+> 📁 **Segovia reference files:** [segovia_food_research.md](segovia_food_research.md) · [segovia_sights_research.md](segovia_sights_research.md)
+
+---
+
 ## 💶 Overall Budget Estimate
 
 | Category | Estimate (USD) |
@@ -837,7 +923,8 @@ Sagrada Família, Park Güell, and Casa Batlló sell out weeks ahead in August.
 | **AVE Zaragoza → Madrid (Sep 2)** | Madrid | 1–2 months ahead | renfe.com |
 | **Madrid hotel** | Madrid | ASAP | — |
 | **Museo del Prado** | Madrid | 2–4 weeks before | museodelprado.es |
-| **AVE Madrid → Segovia + back (Sep 4)** | Madrid | 1–2 weeks before | renfe.com (~€15–20 each way) |
+| **AVE Madrid → Segovia + back (Sep 4)** | Segovia | 1–2 weeks before | renfe.com (~€15–20 each way) |
+| **Cochinillo lunch — Cándido or José María (Sep 4)** | Segovia | 1–2 weeks before | Book by phone or email — fills in summer |
 
 ---
 
