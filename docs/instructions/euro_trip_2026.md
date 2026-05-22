@@ -1,6 +1,6 @@
 # Euro Trip 2026
 
-- **Destination:** Porto → Lisbon → Barcelona → Zaragoza → Madrid
+- **Destination:** Porto → Lisbon → Valencia → Barcelona → Zaragoza → Madrid
 - **Dates:** August 19 – September 5, 2026 (18 days)
 - **Travelers:** 4 — Seva, wife, 2 daughters
 - **Status:** Planning in progress
@@ -13,7 +13,8 @@
 |---|-------|-------------|--------|-------|--------|
 | 1 | EWR → OPO (TAP) | Aug 19, 23:10 → Aug 20, 10:55 | TP212 | Discount E | ✅ Booked |
 | 2 | OPO → LIS (TAP) | Aug 23, 09:00 → 09:55 | TP1921 | Discount E | ✅ Booked |
-| 3 | LIS → BCN | Aug 26 or 27 (TBD) | TBD | TBD | 🔲 To book |
+| 3 | LIS → VLC (Valencia) | Aug 27 (TBD) | TBD | Economy | 🔲 To book (Vueling / TAP) |
+| 3b | VLC → BCN (Euromed train) | Aug 28, 11:25→14:50 | Euromed 01112 | 2nd class | 🔲 To book (renfe.com, ~€57) |
 | 4 | MAD → JFK (American) | Sep 5, 10:25 → 12:25 | AA 95 | Economy | ✅ Booked |
 
 **Booking ref:** Z5SCJS (TAP) · **Ticket:** 047 2524668983 · **Baggage:** 0PC per person — carry-on only on all TAP segments
@@ -25,8 +26,9 @@
 | Property | City | Check-in | Check-out | Nights | Confirmation | Status |
 |----------|------|----------|-----------|--------|--------------|--------|
 | Aposentus – Poveiros Terrace View, Rua dos Poveiros | Porto | Aug 20 | Aug 23 | 3 | 5732321948 | ✅ Booked |
-| TBD | Lisbon | Aug 23 | Aug 26/27 | 3–4 | — | 🔲 To book |
-| TBD | Barcelona | Aug 26 | Sep 1 | 6 | — | 🔲 To book |
+| TBD | Lisbon | Aug 23 | Aug 27 | 4 | — | 🔲 To book |
+| TBD | Valencia | Aug 27 | Aug 28 | 1 | — | 🔲 To book |
+| TBD | Barcelona | Aug 28 | Aug 31 | 3 | — | 🔲 To book |
 | TBD | Zaragoza | Sep 1 | Sep 2 | 1 | — | 🔲 To book |
 | TBD | Madrid | Sep 2 | Sep 5 | 3 | — | 🔲 To book |
 
@@ -562,55 +564,40 @@ Per person · 3 full days · excl. accommodation:
 
 ---
 
-## 🇵🇹 Lisbon — Aug 23–26 (3 nights)
+## 🇵🇹 Lisbon — Aug 23–27 (4 nights)
 
-**Best areas:** Príncipe Real (central, leafy, walkable) or Parque das Nações (flat, family-friendly, Oceanário on doorstep)
+**Best areas:** Príncipe Real (central, leafy, walkable) or Baixa/Chiado (walkable to everything)
 
-### Sights & Activities
+### Key Sights
 
 | Sight | Cost | Tips |
 |-------|------|------|
-| **Oceanário de Lisboa** | ~€14–16/adult, ~€8–10/child | World-class aquarium. Arrive at opening to avoid queues |
-| **Pavilhão do Conhecimento** | ~€8–12/adult, ~€5–8/child | "Best kids science museum ever" — hands-on, air-conditioned |
-| **Castelo de São Jorge** | ~€8–10/person | Battlements + cannons + city views. Late afternoon for sunset |
-| **Mosteiro dos Jerónimos** | ~€10–12/person | UNESCO monastery. Go early morning |
-| **Tram 28** | Covered by Viva Viagem pass | Board at Martim Moniz (less crowded). Early or late only |
-| **Belém Tower** | Check status (closed for renovation, expected reopen Jun 2026) | Combine with Pastéis de Belém next door |
-| **Parque das Nações** | Free to walk; cable car €6–8 | Flat, traffic-free, great for kids |
-
-### Restaurants
-
-| Restaurant | Area | Price | Notes |
-|-----------|------|-------|-------|
-| **Time Out Market** | Cais do Sodré | €€ | Food hall — everyone picks what they want. Easy with kids |
-| **Doca de Santo** | Alcântara docks | €€€ | Kids' menu + play area, waterfront |
-| **Stō Restaurante** | Príncipe Real | €€ | Local feel, cozy, family-friendly |
-| **Pizzaria Lisboa** | Multiple | €€ | Reliable crowd-pleaser |
-| **Solar dos Presuntos** | Madragoa | €€€ | Classic seafood, Lisbon institution |
-
-### Breakfast & Pastries
-
-| Spot | Notes |
-|------|-------|
-| **Pastéis de Belém** | The original pastel de nata since 1837 — always busy, worth the queue |
-| **Manteigaria** (Rua Augusta) | Many say best standalone nata in Lisbon, no queue |
-| **Aloma** | Award-winning 2024–2025; airport location useful on travel days |
-| **Pastelaria Santo António** | Award-winning, near São Jorge Castle |
+| **Oceanário de Lisboa** | ~€25/adult, ~€15/child | World-class aquarium. Book timed entry — sells out in August |
+| **Pavilhão do Conhecimento** | ~€15/adult, ~€9/child | "Best kids science museum ever" — hands-on, air-conditioned |
+| **Castelo de São Jorge** | ~€17/person | Peacocks + battlements + city views. Book online. Go at opening |
+| **Mosteiro dos Jerónimos** | ~€18/person | UNESCO Manueline monastery. Book online. Go at 10am opening |
+| **Carmo Convent** | €7 | Gothic arches open to the sky + mummy museum. No queues |
+| **Alfama district** | Free | Wander before 10am. Avoid Tram 28 in August — walk instead |
+| **Pena Palace, Sintra** | ~€65 family (palace + park) | Book 3–4 weeks ahead — sells out in August |
+| **Quinta da Regaleira, Sintra** | ~€46 for 4 | Initiation Well underground tunnels. Pre-book. |
+| **Cabo da Roca** | Free (certificate €10) | Westernmost point of continental Europe. Bus 403 from Sintra/Cascais |
+| **Cascais** | Free | Elegant coastal town. Train 40 min from Lisbon Cais do Sodré |
 
 ### Practical Info
 
 - **Airport → city:** Metro Red Line → Alameda → Green Line → Baixa (~25 min). Viva Viagem card + 24hr pass (~€7.25)
-- **Lisboa Card:** Worth considering — unlimited transport + museum discounts
-- **Note:** All 3 funiculars closed after fatal Glória crash (Sep 2025). Tram 28 still running.
+- **All 3 funiculars closed** after fatal Glória crash (Sep 2025). Tram 28 still running.
 - **Weather:** 28–29°C, sunny, almost no rain
 
 ### Outline Itinerary
 
 | Day | Theme | Highlights |
 |-----|-------|-----------|
-| Day 1 (Aug 23) | Arrival + orientation | Baixa/Chiado, miradouro views, recover from Porto |
-| Day 2 (Aug 24) | Parque das Nações | Oceanário + Pavilhão do Conhecimento + cable car |
-| Day 3 (Aug 25) | Old city | Tram 28 + Castle + Alfama + Time Out Market lunch + Belém |
+| Day 1 (Aug 23) | Arrival + Belém + Baixa | Jerónimos Monastery + Monument to the Discoveries + Carmo Convent + Time Out Market |
+| Day 2 (Aug 24) | Parque das Nações | Oceanário + Pavilhão do Conhecimento + cable car + Oriente Station |
+| Day 3 (Aug 25) | Alfama + Castle + Fado | São Jorge Castle + Miradouro da Senhora do Monte + Alfama walk + Fado dinner |
+| Day 4 (Aug 26) | **Sintra → Cabo da Roca → Cascais** ⭐ | Leave 07:15 — Pena Palace + Quinta da Regaleira + Bus 403 to Cabo da Roca + Cascais dinner + train back |
+| Aug 27 | Depart to Valencia | Morning free, fly LIS → VLC (TBD) |
 
 ---
 
@@ -618,7 +605,47 @@ Per person · 3 full days · excl. accommodation:
 
 ---
 
-## 🇪🇸 Barcelona — Aug 26–Sep 1 (6 nights)
+## 🇪🇸 Valencia — Aug 27–28 (1 night)
+
+> One night in the birthplace of paella. Meeting friend Vova. Depart by high-speed train to Barcelona at 11:25 AM.
+
+### Logistics
+
+| | |
+|---|---|
+| **Travel in** | Fly LIS → VLC (Aug 27, TBD — Vueling direct, ~1h45m; also TAP) |
+| **Travel out** | **Euromed train VLC → BCN:** departs **València Estació del Nord 11:25 AM → Barcelona-Sants 2:50 PM** (~€57/person, book renfe.com) |
+| **Station** | Estació del Nord — beautiful 1917 Modernista building, 15-min walk from Old Town |
+
+### What to See & Do
+
+| Sight | Cost | Notes |
+|-------|------|-------|
+| **Valencia Cathedral + Holy Grail** | Free (tower €2.50) | The 1st-century chalice tradition holds is the Holy Grail. El Miguelete tower for Old Town views |
+| **Mercado Central** | Free | One of the most beautiful market buildings in Europe. Go before 11am |
+| **Ciudad de las Artes y las Ciencias** | Free (exterior) | Calatrava's spectacular white complex — extraordinary at dusk. Walk around for free |
+| **Barrio del Carmen** | Free | Bohemian medieval quarter. Best evening wander. Street art everywhere |
+| **La Malvarrosa beach** | Free | 20 min by metro. Worth a 7am swim before the train on Aug 28 |
+| **Horchatería Santa Catalina** | ~€5 | Since 1936. Horchata de chufa + fartons — the essential Valencia experience |
+
+### Outline
+
+| Time | What |
+|------|------|
+| Aug 27 afternoon | Arrive from Lisbon → check in → Barrio del Carmen walk → Cathedral + Holy Grail → Plaza de la Virgen |
+| Aug 27 evening | Sunset at Ciudad de las Artes exterior → dinner with Vova (paella at Casa Roberto or creative tapas at Canalla Bistro in Ruzafa) |
+| Aug 28 07:00 | Optional: quick swim at La Malvarrosa beach (metro 20 min) |
+| Aug 28 09:00 | Mercado Central → Llotja de la Seda (Gothic silk exchange, ~€3) |
+| Aug 28 10:30 | Walk/taxi to Estació del Nord |
+| Aug 28 11:25 | **Train departs → Barcelona-Sants 2:50 PM** |
+
+---
+
+> 📁 **Valencia reference files:** [valencia_food_research.md](valencia_food_research.md) · [valencia_sights_research.md](valencia_sights_research.md)
+
+---
+
+## 🇪🇸 Barcelona — Aug 28–31 (3 nights)
 
 **Best areas:** Eixample (metro access, Gaudí central), Gràcia (village feel, local tapas), El Born (walkable, best restaurants)
 
@@ -673,12 +700,12 @@ Sagrada Família, Park Güell, and Casa Batlló sell out weeks ahead in August.
 
 | Day | Theme | Highlights |
 |-----|-------|-----------|
-| Day 1 (Aug 26) | Arrival + orientation | El Born + Gothic Quarter, El Xampanyet cava, Bar del Pla tapas |
-| Day 2 (Aug 27) | Gaudí day | Sagrada Família (09:00) + Park Güell + Gràcia tapas evening (Bodega Quimet) |
-| Day 3 (Aug 28) | Barceloneta + beach | La Cova Fumada lunch (12:00!) + beach + El Born evening |
-| Day 4 (Aug 29) | Montjuïc + Poble-sec | Bunkers del Carmel + Castle + Quimet & Quimet lunch + Carrer de Blai pintxos |
-| Day 5 (Aug 30) | Hidden gems + Eixample | Hospital de Sant Pau + Casa Batlló + Parc del Laberint + 7 Portes farewell dinner |
-| Day 6 (Aug 31) | Free day + Girona day trip | Girona (38 min by train) — medieval cathedral, painted Onyar houses, Rocambolesc gelato |
+| Day 1 (Aug 28 – arrive 14:50) | Arrival + orientation | Check in → El Born walk + Santa Maria del Mar + El Xampanyet cava (17:00 opening) → Bar del Pla dinner |
+| Day 2 (Aug 29) | Gaudí + neighbourhood | Sagrada Família (09:00 — pre-booked) + Hospital de Sant Pau + Gràcia evening: Bodega Quimet vermouth + Parking Pizza |
+| Day 3 (Aug 30) | Barceloneta + Montjuïc | **La Cova Fumada** (12:00 sharp!) + Barceloneta beach + Bunkers del Carmel sunset + Carrer de Blai pintxos |
+| Aug 31 | Depart to Zaragoza | Morning free. Quimet & Quimet lunch (12:00!) before leaving. Train to Zaragoza. |
+
+> **Didn't fit but worth noting:** Park Güell (skip if short on time — do Sagrada Família + Casa Batlló instead), Girona day trip (save for another trip), La Pepita bocadillos, 7 Portes (great for a longer stay)
 
 ---
 
@@ -736,6 +763,7 @@ Sagrada Família, Park Güell, and Casa Batlló sell out weeks ahead in August.
 | **Palacio Real** | ~€12 (under 5 free) | Arrive 10:00. Throne Room + Royal Armoury. Gardens free |
 | **Parque del Retiro** | Free | Rowboats €5–8, playgrounds, puppet theatre (weekends) |
 | **Plaza Mayor** | Free | Iconic arcaded square. Go early AM or late PM for fewer crowds |
+| **Segovia (day trip)** ⭐ | Free city; Alcázar ~€10/adult | AVE from Atocha → Segovia-Guiomar, 28 min (~€15–20 each way). Roman aqueduct (free), Alcázar fortress, Gothic cathedral, old city walls. Half-day or full day. Book AVE ahead |
 
 ### Restaurants
 
@@ -759,9 +787,9 @@ Sagrada Família, Park Güell, and Casa Batlló sell out weeks ahead in August.
 
 | Day | Theme | Highlights |
 |-----|-------|-----------|
-| Day 1 (Sep 2) | Arrival from Zaragoza + orient | Neighbourhood walk, Plaza Mayor, light tapas |
-| Day 2 (Sep 3) | Art + old city | Prado + Plaza Mayor + La Latina evening tapas |
-| Day 3 (Sep 4) | Royal Madrid + farewell | Palacio Real (10:00) + Retiro Park rowboats + Reina Sofía + churros farewell |
+| Day 1 (Sep 2) | Arrival from Zaragoza + orient | Neighbourhood walk + Plaza Mayor + Palacio Real (afternoon) + La Latina tapas |
+| Day 2 (Sep 3) | Art + old city | Prado (morning, pre-booked) + Reina Sofía (Guernica) + Cava Baja evening tapas |
+| Day 3 (Sep 4) | **Segovia day trip** ⭐ | AVE Atocha → Segovia (28 min) → Roman Aqueduct + Alcázar + old city + lunch → return → Retiro Park rowboats + churros farewell at San Ginés |
 | Day 4 (Sep 5) | Departure | MAD → JFK AA 95 departs 10:25 |
 
 ---
@@ -773,52 +801,3 @@ Sagrada Família, Park Güell, and Casa Batlló sell out weeks ahead in August.
 ---
 
 ## 💶 Overall Budget Estimate
-
-| Category | Estimate (USD) |
-|----------|----------------|
-| Flights (all 4 segments, 4 pax) | ~$2,400 |
-| Hotels (Porto booked; Lisbon/BCN/MAD TBD) | ~$800–1,200 |
-| Food & restaurants | ~$1,200–1,600 |
-| Activities & sights | ~$400–600 |
-| Local transport | ~$200–300 |
-| Buffer | ~$500 |
-| **Total** | **~$5,500–6,500** |
-
----
-
-## 📋 Master Must-Book List
-
-| Item | City | Deadline | Where |
-|------|------|----------|-------|
-| **Livraria Lello tickets** | Porto | ASAP | livrarialello.pt |
-| **Taberna dos Mercadores** | Porto | Email now | tabernadosmercadores.com |
-| **Loca (farewell dinner)** | Porto | 2–3 weeks before | Restaurant website |
-| **O Gaveto** | Porto | 1 week before | ogaveto.com |
-| **Escama** | Porto | 1 week before | escamaporto.com |
-| **LIS → BCN flight** | — | ASAP | TAP / Vueling / Ryanair |
-| **Lisbon hotel** | Lisbon | ASAP | — |
-| **Oceanário** | Lisbon | 1–2 weeks before | oceanario.pt |
-| **Sagrada Família** | Barcelona | ASAP (August is peak) | sagradafamilia.org |
-| **Park Güell** | Barcelona | 2–3 weeks before | parkguell.barcelona |
-| **Casa Batlló** | Barcelona | 2 weeks before | casabatllo.es |
-| **7 Portes (farewell dinner)** | Barcelona | 2–3 weeks before | 7portes.com |
-| **Barcelona hotel** | Barcelona | ASAP | — |
-| **AVE BCN → Zaragoza** | Zaragoza | 1–2 months ahead for best prices | renfe.com |
-| **AVE Zaragoza → Madrid** | Zaragoza | 1–2 months ahead | renfe.com |
-| **Zaragoza hotel** | Zaragoza | 1–2 months ahead | booking.com |
-| **Museo del Prado** | Madrid | 2–4 weeks before | museodelprado.es |
-| **Madrid hotel** | Madrid | ASAP | — |
-
----
-
-## 📝 General Notes
-
-- **Baggage:** 0PC checked bags on all TAP flights. Pack light — carry-on only
-- **LIS → BCN** not yet booked. TAP direct ~1h25m; also Vueling, Ryanair
-- **Apps:** Bolt (taxis across all 4 cities), Google Maps, local transit apps (Andante for Porto, Viva Viagem for Lisbon, T-Casual for Barcelona, Metro Madrid)
-- **Cash:** Carry €50–80 at all times; some local spots are cash-only in every city
-- **Kids:** All four cities are very family-friendly. Barcelona and Lisbon are easiest (flat areas / Metro). Porto is hilly but short distances
-
----
-
-*Last updated: May 2026 · Research: Portoalities blog, Reddit r/porto / r/travel / r/solotravel, TripAdvisor, official city tourism sites*

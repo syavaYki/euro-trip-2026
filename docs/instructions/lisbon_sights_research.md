@@ -1,5 +1,5 @@
 # Lisbon — Sights & Experiences Research
-## Euro Trip 2026 — Aug 23–26 (3 nights, ~3 full days)
+## Euro Trip 2026 — Aug 23–27 (4 nights, ~4 full days)
 ### Family of 4: Seva, wife, 2 daughters
 
 ---
@@ -175,4 +175,70 @@
 | **07:15** | Leave Lisbon hotel → walk to Rossio Station |
 | **07:30–08:00** | Train from Rossio to Sintra (~40 min, every 15–20 min, €2.30/person). Aim for the 07:35 or 07:48 train. |
 | **08:10–08:20** | Arrive Sintra. Station is a 15-min walk from the village centre (or Bus 434 from station to Pena). |
-| **08:30** | Bus 434 departs from the station to Pena Palace and Moorish Castle. First bus of the day is u
+| **08:30** | Bus 434 departs from the station to Pena Palace and Moorish Castle. First bus of the day is uncrowded. | 
+| **09:00** | Pena Palace opens. You are among the first in. The palace is genuinely magical with only 20 people in it. |
+| **11:00** | Pena Palace is now getting very crowded — you've already seen it. Descend via forest trail to the Moorish Castle (30-min walk through pine forest, signposted). |
+| **12:30** | Back in Sintra village. Lunch before the midday rush. |
+| **14:00** | Quinta da Regaleira. Crowds have thinned slightly — the afternoon slot is better here than at Pena. |
+| **16:20** | Bus 403 from Sintra → Cabo da Roca → Cascais (see 4-Day Framework above). Train Cascais → Lisbon ~19:30. |
+
+**Tickets:** Buy Pena Palace online the moment you decide to go — the family ticket sells out for peak August weekends 3–4 weeks in advance. Quinta da Regaleira online booking is recommended but easier to get.
+
+**Getting around Sintra:** The 434 bus (€8.20 for all-day pass) hits all the major palaces. Tuk-tuks are atmospheric but expensive. Walking between Pena and the Moorish Castle via the forest trail (free, signposted) is one of the best parts of the day — shaded, cool even in August, extraordinary landscape.
+
+**Village eats:** The village has many tourist restaurants of mixed quality. **Casa Piriquita** (Rua das Padarias 1–5) has been making *travesseiros* (puff pastry pillows filled with egg cream and almond) and *queijadas* (small cheese tarts) since 1862 — these are the edible souvenirs of Sintra. Both are better at Piriquita than anywhere else. Eat at least one of each on your way through the village.
+
+**The Sintra gelato note:** The family loves gelato — several gelateria options in the village; quality is tourist-tier but perfectly fine after a hot morning of palace-climbing.
+
+---
+
+## 📋 Suggested 4-Day Framework for Family of 4 (Aug 23–27)
+
+**Day 1 (Aug 23) — Belém + Baixa + Chiado**
+Morning: Pastéis de Belém (eat at 8:30am before the monastery crowds) → Jerónimos Monastery (booked, 10am) → Monument to the Discoveries rooftop → MAAT rooftop walk (free).
+Afternoon: Praça do Comércio → walk Rua Augusta → Carmo Convent (open sky through Gothic arches) → Rossio Square → ginjinha shot at A Ginjinha.
+Evening: Time Out Market for dinner.
+
+**Day 2 (Aug 24) — Parque das Nações (Oceanário full morning)**
+Morning: Oceanarium (timed entry, booked in advance — allow 2.5 hrs, kids will want every minute) → cable car over the Tagus → Pavilhão do Conhecimento hands-on science museum.
+Afternoon: Riverside boardwalk walk → Oriente Station (Santiago Calatrava architecture, free) → return to centre.
+Evening: LX Factory if Sunday (Feira da LX market noon–7pm) or Príncipe Real neighbourhood dinner.
+
+**Day 3 (Aug 25) — Alfama + Castle + Fado Night**
+Morning: São Jorge Castle (9am, booked — arrive first for peacocks and uncrowded ramparts) → Miradouro da Senhora do Monte (highest, least crowded viewpoint in Lisbon) → wander down through Alfama alleys before cruise-ship crowds → Sé Cathedral cloister (€2.50 — Roman garum workshops below a medieval church).
+Afternoon: Museu do Fado → Mouraria streets (Rua do Capelão fado-tile murals) → Casa do Alentejo courtyard (free, stunning Moorish interior).
+Evening: Fado dinner in Alfama — A Tasca do Chico (Mon/Wed only, most authentic) or Sr. Fado.
+
+**Day 4 (Aug 26) — Sintra → Cabo da Roca → Cascais** ⭐⭐
+> The centrepiece day. Leave Lisbon at 07:15, return by 19:30. One long beautiful arc across the Sintra hills to the edge of the continent and back along the coast.
+
+| Time | Where | What |
+|------|-------|------|
+| **07:15** | Leave hotel → Rossio Station | Grab takeaway pasteis and galão |
+| **07:35** | Train Rossio → Sintra | ~40 min, €2.30/person. Sit on the right for views |
+| **08:20** | Arrive Sintra | Take Bus 434 from station to Pena |
+| **09:00–11:00** | **Pena Palace** ⭐ | First-in crowd: magical. Candy-coloured towers, 360° views. Pre-booked family ticket essential |
+| **11:15–12:15** | Forest trail to Moorish Castle | 30-min downhill through pine forest. Ancient battlements + Atlantic view |
+| **12:30** | Sintra village lunch | Casa Piriquita: *travesseiros* + *queijadas* — unmissable Sintra pastries since 1862 |
+| **14:00–16:00** | **Quinta da Regaleira** ⭐ | Initiation Well (27m spiral staircase into the earth, underground tunnels, grottoes). Pre-book online. Bring a small torch. |
+| **16:20** | Bus 403 Sintra → Cabo da Roca | ~35 min, runs hourly. €3.30 one-way. Day pass available. |
+| **17:00–17:45** | **Cabo da Roca** ⭐ | The westernmost point of continental Europe. 140m cliffs plunging into the Atlantic. Lighthouse. Howling sea wind. The granite marker reads "Aqui, onde a terra se acaba e o mar começa" (Here, where the land ends and the sea begins — Camões). Optional certificate of standing here (~€10). |
+| **18:00** | Bus 403 continues → Cascais | ~30 min from Cabo da Roca |
+| **18:30** | **Cascais** | Elegant whitewashed resort town. Walk the marina, Boca do Inferno (natural sea arch, 15 min walk west), grab dinner at a waterfront fish restaurant |
+| **19:30–20:00** | Train Cascais → Lisboa Cais do Sodré | ~40 min, scenic coastal route along the Tagus estuary. €2.40/person |
+
+**Why this route works:** Bus 403 runs Sintra → Cabo da Roca → Cascais as a single line. Cascais has the train station for the return. The whole arc is linear — no backtracking.
+
+**Tickets to pre-book:** Pena Palace family ticket (book 3–4 weeks ahead for August — sells out). Quinta da Regaleira online (recommended).
+
+**On Aug 27:** Morning free in Lisbon (pack and explore neighbourhood). Afternoon: fly LIS → Valencia (TBD, book via Vueling or TAP).
+
+---
+
+---
+
+## 📋 Lisbon Sights — Quick-Pick by Category
+
+**Essential for 4-day visit (non-negotiable):** Jerónimos Monastery · São Jorge Castle · Alfama district (wander before 10am) · Carmo Convent (open-sky Gothic) · Praça do Comércio at sunset · Oceanarium · Fado experience (dinner or A Tasca do Chico)
+
+**Best free sights:** São Jorge Castle ramparts (peacocks!) · Alfama alleys · Praça do Comércio · MAAT rooftop walk · Casa do Alentejo courtyard · Rua do Capelão tile murals (Mouraria) · Tapada das Necessidades (royal garden, no tourists) · Jardim do Torel (secret

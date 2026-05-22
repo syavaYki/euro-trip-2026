@@ -271,6 +271,9 @@
   <div class="city-tab" data-city="lisbon">
     <span class="flag">🇵🇹</span>Lisbon
   </div>
+  <div class="city-tab" data-city="valencia">
+    <span class="flag">🇪🇸</span>Valencia
+  </div>
   <div class="city-tab" data-city="barcelona">
     <span class="flag">🇪🇸</span>Barcelona
   </div>
@@ -311,6 +314,13 @@ const TABS = {
     subs: [
       { key: "food",   label: "🍽️ Food & Drink",  file: "docs/instructions/lisbon_food_research.md" },
       { key: "sights", label: "🏛️ Sights",         file: "docs/instructions/lisbon_sights_research.md" }
+    ]
+  },
+  valencia: {
+    label: "Valencia",
+    subs: [
+      { key: "food",   label: "🍽️ Food & Drink",  file: "docs/instructions/valencia_food_research.md" },
+      { key: "sights", label: "🏛️ Sights",         file: "docs/instructions/valencia_sights_research.md" }
     ]
   },
   barcelona: {
@@ -541,16 +551,3 @@ cityTabsEl.querySelectorAll(".city-tab").forEach(el => {
 
     cityTabsEl.querySelectorAll(".city-tab").forEach(t => t.classList.remove("active"));
     el.classList.add("active");
-
-    renderSubTabs(activeCity);
-    loadContent(activeCity, activeSub);
-  });
-});
-
-// ─── Initial load ─────────────────────────────────────────────────────────────
-renderSubTabs(activeCity);
-loadContent(activeCity, activeSub);
-</script>
-
-</body>
-</html>

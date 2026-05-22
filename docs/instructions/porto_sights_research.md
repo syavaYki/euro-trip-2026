@@ -139,4 +139,28 @@ All by public transport — no car needed.
 | # | Destination | How to Get There | Journey | Cost (return) | Time Needed | Highlights | Family? |
 |---|-------------|-----------------|---------|--------------|-------------|-----------|---------|
 | 1 | **Braga** ⭐ | Train from Porto Campanhã or São Bento | ~1 hr | ~€7 return | Full day or half-day | Historic cathedral, Bom Jesus do Monte (baroque staircase + funicular), archaeological site of Bracara Augusta. Excellent for families — funicular is a hit with kids | Excellent |
-| 2 | **Aveiro** ⭐ | Train from Porto Campanhã | ~1 hr | ~€7.50 return | Full day | "Portuguese Venice" — painted moliceiro canal boats, Costa Nova's s
+| 2 | **Aveiro** ⭐ | Train from Porto Campanhã | ~1 hr | ~€7.50 return | Full day | "Portuguese Venice" — painted moliceiro canal boats, Costa Nova's striped houses (15 min by bus), Art Nouveau architecture, ovos moles (egg pastries) | Excellent — canal boats are a kids' highlight |
+| 3 | **Guimarães** | Train from Porto Campanhã or São Bento | ~75 min | ~€7.20 return | Full day | "Birthplace of Portugal." UNESCO medieval city centre, Guimarães Castle (free), Ducal Palace (€4). Note: castle has steep drops — supervise closely | Good — castle is engaging; cobbled streets can be challenging with pushchairs |
+| 4 | **Viana do Castelo** | Train from Porto Campanhã | ~1.5 hrs | ~€15.70 return | Full day | Elegant coastal city. Santa Luzia Basilica + funicular, Gil Eannes hospital ship (extraordinary museum — kids love it), beautiful beaches nearby | Excellent — Gil Eannes ship is the standout for families |
+| 5 | **Peso da Régua (Douro Valley)** | Train from Porto Campanhã (Douro line) | ~2.5 hrs | ~€11 return | Full day | One of Europe's great train journeys — terraced vineyards plunging to the river. Régua itself has a Douro Museum and wine tastings. Boat trips available | Good — primarily for the journey itself; wine focus less relevant for kids |
+| 6 | **Amarante** | Bus from Rodonorte terminal, Porto | ~1 hr | ~€8 return | Half-day to full day | Beautiful medieval town, São Gonçalo monastery on the river, Tamega river park, romantic bridges. Fewer bus services — plan around schedule | Yes |
+| 7 | **Coimbra** | Fast train from Porto Campanhã (Alfa Pendular) | ~1 hr 15 min | ~€30 return (fast train) | Long full day | Portugal dos Pequeninos (open-air miniature park — children's highlight), medieval university, aqueduct, old city. Manageable but a long day | Yes — Portugal dos Pequeninos is unmissable for kids |
+| 8 | **Sintra** | Train Porto → Lisbon (3 hrs) + Sintra line | ~3.5 hrs each way | High | Not recommended as day trip from Porto | Palaces and gardens are extraordinary but 7+ hrs of travel for ~4 hrs at destination is brutal. Visit from Lisbon instead | Visit from Lisbon |
+
+---
+
+## 📋 Porto Sights — Quick-Pick by Category
+
+**Best free sights:** São Bento Station · Cais da Ribeira · Dom Luís I Bridge · Mercado do Bolhão · Jardim do Morro · Crystal Palace Gardens · Parque da Cidade · Rua das Flores · Miradouro da Vitória · Passeio das Virtudes · Jardim das Virtudes · Chapel of Souls (exterior) · Cemitério de Agramonte · Half Rabbit by Bordalo II · Farol das Felgueiras breakwater walk
+
+**Best for kids:** Serralves Park (animals + treetop walk) · Crystal Palace Gardens (peacocks) · Matosinhos Beach · Tram Museum (free tram ride included) · Piscina das Marés (tidal pools) · Centro Português de Fotografia (spy cameras) · Funicular dos Guindais (the ride) · Half Rabbit by Bordalo II (enormous scale)
+
+**Most overlooked by tourists:** Museu do Vinho do Porto · Piscina das Marés · Afurada fishing village · Jardim das Virtudes · Parque de Nova Sintra · Museu Romântico · Casa Museu Guerra Junqueiro · Museu Nacional Soares dos Reis · Funicular dos Guindais · Farol das Felgueiras · Cemitério de Agramonte · Café Majestic interior
+
+**Must pre-book:** Livraria Lello · Palácio da Bolsa (English tour) · Graham's Port Lodge (premium rooms)
+
+**Best day trips for families:** Braga (#1) · Aveiro (#2) · Viana do Castelo (for Gil Eannes ship)
+
+---
+
+*Research compiled May 2026. Sources: Portoalities blog · SpottedByLocals · Reddit r/porto · ExploredByMarta.com · LocalPorto.com · IntroducingPorto.com · MadAboutPorto.com · PortugalVisitor.com · CityGuidePorto.com · official venue websites · VisitPortugal · Lonely Planet · TripAdvisor local reviews.*

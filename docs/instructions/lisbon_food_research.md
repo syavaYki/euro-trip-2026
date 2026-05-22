@@ -231,4 +231,21 @@
 | Day | Breakfast | Gelato Stop | Lunch | Dinner / Evening |
 |-----|-----------|-------------|-------|-----------------|
 | Day 1 (Aug 23 — Belém) | Pastéis de Belém (on site, 8:30am before the monastery crowds) | Artisani (Doca de Santo Amaro, after Belém) | Time Out Market | Stō Restaurante or Taberna Sal Grosso |
-| Day 2 (Aug 24 — Alfama/Castle) | A Padaria Portuguesa (Largo da Graça) + Copenhagen Coffee Lab | Gelato Davvero (Alfama edge, after Castelo
+| Day 2 (Aug 24 — Alfama/Castle) | A Padaria Portuguesa (Largo da Graça) + Copenhagen Coffee Lab | Gelato Davvero (Alfama edge, after Castelo) | O Velho Eurico or Páteo 13 (sardines!) | A Tasca do Chico (if Mon or Wed) OR Sr. Fado |
+| Day 3 (Aug 25 — Parque das Nações / Chiado) | Manteigaria (Chiado, standing counter) + Fabrica Coffee Roasters | Santini (Chiado) | Zé da Mouraria or Cervejaria Ramiro (early, before queue) | Restaurante Pica-Pau terrace or Taberna da Rua das Flores |
+
+### Must-Book Ahead — Lisbon
+
+| What | Why | When to Book | How |
+|------|-----|-------------|-----|
+| **Cervejaria Ramiro** | No reservations; queue can be 45–60 min at dinner | Walk-in only — arrive at 19:00 opening | Walk-in queue |
+| **A Tasca do Chico** | Tiny; fado nights (Mon/Wed) fill up | 1 week ahead | [tascadochico.com](https://www.tascadochico.com) |
+| **Clube de Fado** | Most prestigious; sought-after | 2 weeks ahead | [clube-de-fado.com](https://www.clube-de-fado.com/) |
+| **O Velho Eurico** | Cult following; nearly impossible to walk in | Weeks ahead if possible | Instagram DM or phone |
+| **Os Gazeteiros** | Small, dinner-only, set menu format | 1–2 weeks ahead | Direct booking |
+| **Taberna da Rua das Flores** | Tiny; no printed menu | Walk-in at opening; or call same week | Arrive at noon |
+| **Park Bar (sunset)** | Best Lisbon view fills fast on nice evenings | Reserve a table online | [park-lisboa.com](http://park-lisboa.com/) |
+
+---
+
+*Research date: May 2026. Sources: Reddit r/lisbon · Taste of Lisboa · Eating Europe · Spotted by Locals · Time Out Lisbon · AFAR · TheFork · TripAdvisor · Somebody Feed Phil (Netflix) · We Heart Lisbon · Atlas Obscura.*
