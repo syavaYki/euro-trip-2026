@@ -1,6 +1,6 @@
 # Euro Trip 2026
 
-- **Destination:** Porto → Lisbon → Barcelona → Madrid
+- **Destination:** Porto → Lisbon → Barcelona → Zaragoza → Madrid
 - **Dates:** August 19 – September 5, 2026 (18 days)
 - **Travelers:** 4 — Seva, wife, 2 daughters
 - **Status:** Planning in progress
@@ -26,8 +26,9 @@
 |----------|------|----------|-----------|--------|--------------|--------|
 | Aposentus – Poveiros Terrace View, Rua dos Poveiros | Porto | Aug 20 | Aug 23 | 3 | 5732321948 | ✅ Booked |
 | TBD | Lisbon | Aug 23 | Aug 26/27 | 3–4 | — | 🔲 To book |
-| TBD | Barcelona | Aug 27 | Sep 1 | 5 | — | 🔲 To book |
-| TBD | Madrid | Sep 1 | Sep 5 | 4 | — | 🔲 To book |
+| TBD | Barcelona | Aug 26 | Sep 1 | 6 | — | 🔲 To book |
+| TBD | Zaragoza | Sep 1 | Sep 2 | 1 | — | 🔲 To book |
+| TBD | Madrid | Sep 2 | Sep 5 | 3 | — | 🔲 To book |
 
 ---
 
@@ -617,66 +618,67 @@ Per person · 3 full days · excl. accommodation:
 
 ---
 
-## 🇪🇸 Barcelona — Aug 27–Sep 1 (5 nights)
+## 🇪🇸 Barcelona — Aug 26–Sep 1 (6 nights)
 
-**Best areas:** Eixample (metro access, wide sidewalks), Gràcia (village feel, local tapas), El Born (walkable, near Ciutadella)
+**Best areas:** Eixample (metro access, Gaudí central), Gràcia (village feel, local tapas), El Born (walkable, best restaurants)
+
+### ⚠️ Book immediately
+
+Sagrada Família, Park Güell, and Casa Batlló sell out weeks ahead in August.
 
 ### Sights & Activities
 
 | Sight | Cost | Tips |
 |-------|------|------|
-| **Sagrada Família** | ~€26–40/person (under 16 free) | Book at sagradafamilia.org — weeks in advance. Kids love the towers |
-| **Park Güell** | ~€8–10/person | Morning slot required — monumental zone timed entry |
-| **Casa Batlló** | ~€35–45/person | Skip-the-line or night entry. Immersive AR experience kids love |
-| **Parc de la Ciutadella** | Free | Fountains, lake rowboats (€5–8), playgrounds, carousel |
-| **Montjuïc Castle** | ~€10–15/person | Cable car up, funicular down, panoramic views |
-| **Fundació Miró** | ~€12/person | Colourful and accessible, kid-friendly |
-| **Poble Espanyol** | ~€12/person | Replica Spanish village, good wandering |
+| **Sagrada Família** | €26–47 (under 16 free) | Book at sagradafamilia.org — weeks in advance. Get Nativity Tower ticket. Go 09:00 for stained-glass light |
+| **Park Güell** | €10 monumental zone (free outer park) | Book 2–3 weeks ahead. Arrive 09:30 opening |
+| **Casa Batlló** | €35–45 | Book ahead. Dragon-spine rooftop is the star |
+| **Hospital de Sant Pau** ⭐ | €16 (free Sun 15:00–19:00) | World's largest Art Nouveau complex. Almost no queues |
+| **Bunkers del Carmel** ⭐ | Free | Best 360° view in Barcelona. Bus 24 to El Carmel, 15-min walk up |
+| **Hotel Raval Free Rooftop** | Free | 360° views — Cathedral, Sagrada, port. Municipal roof law: all rooftops are public. Floor 11 |
+| **Parc del Laberint d'Horta** | €2.23 (free Wed + Sun) | Oldest garden in Barcelona (1791). Genuine cypress maze — kids and adults get lost |
+| **Montjuïc Castle** | €5 (free Sun after 15:00) | Funicular from Paral·lel metro (free with T-Casual) + cable car to summit |
+| **Parc de la Ciutadella** | Free (rowing €6/30 min) | Rowboats on lake, Gaudí waterfall, palms. Great morning activity |
+| **Santa Maria del Mar** | Free | Most beautiful Gothic interior in Barcelona. No queues |
 
 ### Beaches
 
 | Beach | Transport | Why |
 |-------|-----------|-----|
-| **Nova Icària** ⭐ | Metro L4 Ciutadella–Vila Olímpica | Calm water, lifeguards, showers, playgrounds, chiringuitos. Best family beach |
-| **Bogatell** | Metro L4 Poblenou | Wide, less crowded, good facilities |
-| **Castelldefels** | R2 train from Sants (~25 min) | Wide Atlantic sand, quieter, great day trip |
+| **Barceloneta** | Metro L4 | Iconic. Go 07:00–09:00 before crowds. La Cova Fumada (no sign!) is 10 min walk |
+| **Nova Icària** | Metro L4 Ciutadella–Vila Olímpica | Calmer, sheltered, playgrounds. Best family beach |
+| **Bogatell** | Metro L4 Poblenou | Wider, less crowded, more local |
+| **Sitges** (day trip) | R2 train 40 min | Whitewashed old town + church on the sea breakwater. Best water quality |
 
-Go before 10:00 or after 17:00 in August.
+### Restaurants (key picks)
 
-### Restaurants
-
-| Restaurant | Area | Price | Notes |
-|-----------|------|-------|-------|
-| **7 Portes** | Pg. Isabel II 14 | €€€ | Historic Catalan, best paella in the city. Book ahead |
-| **Ciudad Condal** | Rambla de Catalunya 24 | €€ | Lively tapas, great for sharing |
-| **Bodega Quimet** | C/ de Vic 23, Gràcia | € | Old-school bodega, cured meats + cheeses |
-| **Bodega Neus** | C/ de Bonavista 10, Gràcia | € | Known for "bomba" — spicy potato-meat ball |
-| **Quimet & Quimet** | Poeta Cabanyes 25, Poble-sec | € | Standing-only montaditos with conservas |
-| **Carrer de Blai pintxos** | Poble-sec | € | Full pintxos crawl — kids pick their own (€2–3/piece) |
-
-### Breakfast
-
-| Spot | Notes |
-|------|-------|
-| **Mauri Pastissería** | Classic café since 1929, Rambla de Catalunya 83 |
-| **Xurrería Laietana** | Churros con chocolate — guaranteed kid hit |
+| Restaurant | Why | Area | Notes |
+|-----------|-----|------|-------|
+| **La Cova Fumada** ⭐⭐ | Invented the Bomba. Cash only, no sign. Opens 12:00, often sold out by 13:15 | Barceloneta | Weekdays lunch only. Plan beach day around it |
+| **Quimet & Quimet** ⭐⭐ | Extraordinary montaditos standing bar. Lunchtime only Mon–Sat | Poble-sec | Arrive at 12:00 opening — tiny space fills instantly |
+| **El Xampanyet** ⭐ | Historic cava bar, legendary anchovies | El Born | Arrive at 12:00 opening |
+| **Cal Pep** ⭐ | Fresh seafood bar, no menu — chef decides | El Born | Sit at bar only. Join queue or book table ahead |
+| **Carrer de Blai pintxos** | The most fun cheap eating in Barcelona | Poble-sec | Go 18:00–20:00. Kids pick their own from displays |
+| **7 Portes** | Barcelona institution since 1836. Best fideuà and arròs negre | Waterfront | Book 2–3 weeks ahead |
 
 ### Practical Info
 
+- **Arrival from Lisbon (Aug 26):** LIS → BCN (TAP ~1h25m or Vueling/Ryanair). Book ASAP.
 - **Airport → city:** Train R2N from T2 (~30 min, ~€5); Aerobus (~€6–12); Taxi ~€35–50
-- **Metro:** T-Casual card (10 trips ~€12–15) covers metro + bus + tram
+- **Metro:** T-Casual card (10 trips ~€12–15) covers metro + bus + tram + funicular from Paral·lel
+- **Pickpockets:** Gothic Quarter, Las Ramblas, Sagrada Família exit — bags front-facing always
 - **Weather:** 28–30°C, sea ~24°C — fully swimmable
-- **Book ahead:** Sagrada Família, Park Güell, Casa Batlló
 
 ### Outline Itinerary
 
 | Day | Theme | Highlights |
 |-----|-------|-----------|
-| Day 1 (Aug 27) | Arrival + orientation | La Rambla, Boqueria, El Born |
-| Day 2 (Aug 28) | Gaudí day | Sagrada Família + Park Güell + Gràcia evening tapas |
-| Day 3 (Aug 29) | Beach + waterfront | Nova Icària morning + El Born / Ciutadella |
-| Day 4 (Aug 30) | Montjuïc + Poble-sec | Castle + cable car + pintxos crawl + Gothic Quarter |
-| Day 5 (Aug 31) | Gaudí + relax | Casa Batlló + Eixample + farewell dinner |
+| Day 1 (Aug 26) | Arrival + orientation | El Born + Gothic Quarter, El Xampanyet cava, Bar del Pla tapas |
+| Day 2 (Aug 27) | Gaudí day | Sagrada Família (09:00) + Park Güell + Gràcia tapas evening (Bodega Quimet) |
+| Day 3 (Aug 28) | Barceloneta + beach | La Cova Fumada lunch (12:00!) + beach + El Born evening |
+| Day 4 (Aug 29) | Montjuïc + Poble-sec | Bunkers del Carmel + Castle + Quimet & Quimet lunch + Carrer de Blai pintxos |
+| Day 5 (Aug 30) | Hidden gems + Eixample | Hospital de Sant Pau + Casa Batlló + Parc del Laberint + 7 Portes farewell dinner |
+| Day 6 (Aug 31) | Free day + Girona day trip | Girona (38 min by train) — medieval cathedral, painted Onyar houses, Rocambolesc gelato |
 
 ---
 
@@ -684,7 +686,44 @@ Go before 10:00 or after 17:00 in August.
 
 ---
 
-## 🇪🇸 Madrid — Sep 1–5 (4 nights)
+## 🇪🇸 Zaragoza — Sep 1 (1 night stopover)
+
+> One night between Barcelona and Madrid. Zaragoza is exactly halfway on the AVE high-speed rail. An underrated city with a jaw-dropping basilica, Roman ruins, and no tourists.
+
+### Logistics
+
+| | |
+|---|---|
+| **Travel in** | AVE from Barcelona Sants → Zaragoza Delicias (~1h20m, ~€25–40) |
+| **Travel out** | AVE from Zaragoza Delicias → Madrid Atocha (~1h30m, ~€25–40) |
+| **Hotel** | TBD — book a central hotel near Basilica del Pilar area |
+| **Night** | Sep 1 → depart morning Sep 2 |
+
+### What to See (one afternoon + evening)
+
+| Sight | Cost | Notes |
+|-------|------|-------|
+| **Basílica del Pilar** | Free (towers ~€5) | Enormous Baroque basilica on the Ebro river. Twin towers can be climbed. Evening illumination is spectacular |
+| **La Aljafería Palace** | €5 (free Fri afternoons) | 11th-century Moorish palace — Alhambra-level Islamic architecture almost unknown to tourists |
+| **Museo del Foro de Caesaraugusta** | €4 | Roman forum underground beneath the city. Excellent audiovisual |
+| **Casco Antiguo (Old Town)** | Free | Walk the medieval streets between the Seo and El Pilar cathedrals |
+| **La Seo Cathedral** | €5 | Gothic-Mudéjar cathedral, less famous than El Pilar but arguably more beautiful inside |
+
+### Food (one dinner)
+
+| Restaurant | Notes |
+|-----------|-------|
+| **Casa Lac** | Oldest restaurant in Spain (1825). Traditional Aragonese cuisine |
+| **El Chalet** | Modern creative Aragonese food |
+| **Mercado Central** | 1903 iron market — browse before dinner |
+
+---
+
+> 📁 **Zaragoza reference files:** [zaragoza_food_research.md](zaragoza_food_research.md) · [zaragoza_sights_research.md](zaragoza_sights_research.md)
+
+---
+
+## 🇪🇸 Madrid — Sep 2–5 (3 nights)
 
 **Best areas:** Retiro or Salamanca (central, safe, park access)
 
@@ -711,6 +750,7 @@ Go before 10:00 or after 17:00 in August.
 
 ### Practical Info
 
+- **Arrival from Zaragoza (Sep 2):** AVE Zaragoza → Madrid Atocha (~1h30m)
 - **Airport → city:** Metro L8 → Sol (~35–45 min, ~€5); taxi ~€30 flat rate
 - **Weather:** 24–30°C early Sep, dry, pleasant evenings
 - **Book ahead:** Prado (timed entry), Palacio Real
@@ -719,11 +759,10 @@ Go before 10:00 or after 17:00 in August.
 
 | Day | Theme | Highlights |
 |-----|-------|-----------|
-| Day 1 (Sep 1) | Arrival + settle in | Neighbourhood walk, Plaza Mayor, light tapas |
-| Day 2 (Sep 2) | Art + old city | Prado + Plaza Mayor + La Latina evening tapas |
-| Day 3 (Sep 3) | Royal Madrid | Palacio Real (10:00) + gardens + Retiro Park |
-| Day 4 (Sep 4) | Modern Madrid + farewell | Reina Sofía + Retiro rowboats + churros farewell dinner |
-| Day 5 (Sep 5) | Departure | MAD → JFK AA 95 departs 10:25 |
+| Day 1 (Sep 2) | Arrival from Zaragoza + orient | Neighbourhood walk, Plaza Mayor, light tapas |
+| Day 2 (Sep 3) | Art + old city | Prado + Plaza Mayor + La Latina evening tapas |
+| Day 3 (Sep 4) | Royal Madrid + farewell | Palacio Real (10:00) + Retiro Park rowboats + Reina Sofía + churros farewell |
+| Day 4 (Sep 5) | Departure | MAD → JFK AA 95 departs 10:25 |
 
 ---
 
@@ -762,7 +801,11 @@ Go before 10:00 or after 17:00 in August.
 | **Sagrada Família** | Barcelona | ASAP (August is peak) | sagradafamilia.org |
 | **Park Güell** | Barcelona | 2–3 weeks before | parkguell.barcelona |
 | **Casa Batlló** | Barcelona | 2 weeks before | casabatllo.es |
+| **7 Portes (farewell dinner)** | Barcelona | 2–3 weeks before | 7portes.com |
 | **Barcelona hotel** | Barcelona | ASAP | — |
+| **AVE BCN → Zaragoza** | Zaragoza | 1–2 months ahead for best prices | renfe.com |
+| **AVE Zaragoza → Madrid** | Zaragoza | 1–2 months ahead | renfe.com |
+| **Zaragoza hotel** | Zaragoza | 1–2 months ahead | booking.com |
 | **Museo del Prado** | Madrid | 2–4 weeks before | museodelprado.es |
 | **Madrid hotel** | Madrid | ASAP | — |
 
