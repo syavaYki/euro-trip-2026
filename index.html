@@ -5,6 +5,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Euro Trip 2026 🇵🇹🇪🇸</title>
 
+  <!-- ── Auth guard — must be first script, blocks render until checked ── -->
+  <script>
+    (function() {
+      if (localStorage.getItem('tripAuth2026') !== 'ok') {
+        window.location.replace('./login.html');
+      }
+    })();
+  </script>
+
   <script>
     const RAW_BASE = "./";
   </script>
@@ -533,54 +542,4 @@ function injectTOC() {
   // Highlight active TOC link on scroll
   const allLinks = toc.querySelectorAll('[data-id]');
   const idToLink = {};
-  allLinks.forEach(a => { idToLink[a.dataset.id] = a; });
-
-  tocObserver = new IntersectionObserver(entries => {
-    entries.forEach(entry => {
-      if (entry.isIntersecting) {
-        allLinks.forEach(a => a.classList.remove('active'));
-        const link = idToLink[entry.target.id];
-        if (link) link.classList.add('active');
-      }
-    });
-  }, { rootMargin: '-8% 0px -82% 0px', threshold: 0 });
-
-  Object.keys(idToLink).forEach(id => {
-    const el = document.getElementById(id);
-    if (el) tocObserver.observe(el);
-  });
-}
-
-// ─── Wrap tables for horizontal scroll on mobile ──────────────────────────────
-function wrapTables() {
-  contentEl.querySelectorAll("table").forEach(t => {
-    if (!t.parentElement.classList.contains("table-wrap")) {
-      const wrap = document.createElement("div");
-      wrap.className = "table-wrap";
-      t.parentNode.insertBefore(wrap, t);
-      wrap.appendChild(t);
-    }
-  });
-}
-
-// ─── City tab click ───────────────────────────────────────────────────────────
-cityTabsEl.querySelectorAll(".city-tab").forEach(el => {
-  el.addEventListener("click", () => {
-    activeCity = el.dataset.city;
-    activeSub  = TABS[activeCity].subs[0].key;
-
-    cityTabsEl.querySelectorAll(".city-tab").forEach(t => t.classList.remove("active"));
-    el.classList.add("active");
-
-    renderSubTabs(activeCity);
-    loadContent(activeCity, activeSub);
-  });
-});
-
-// ─── Initial load ─────────────────────────────────────────────────────────────
-renderSubTabs(activeCity);
-loadContent(activeCity, activeSub);
-</script>
-
-</body>
-</html>
+  all
