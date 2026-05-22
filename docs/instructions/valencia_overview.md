@@ -1,7 +1,7 @@
 # Valencia — City Overview
 ## Aug 27–28 (1 night) · Euro Trip 2026
 
-> One night in the birthplace of paella. Meeting friend Vova. Depart by high-speed train to Barcelona at 11:25 AM.
+> One night in the birthplace of paella. Meeting friend Vova. Depart by Euromed train to Barcelona at 11:25 AM next morning.
 
 ---
 
@@ -12,63 +12,73 @@
 | **Hotel** | TBD — Old Town or Ruzafa area |
 | **Check-in** | Thu Aug 27 (arrive from Lisbon, afternoon) |
 | **Check-out** | Fri Aug 28 — train departs 11:25 AM |
-| **Travel in** | Fly LIS → VLC (Aug 27, TBD — Vueling direct, ~1h45m; also TAP) |
+| **Travel in** | Fly LIS → VLC (Aug 27, TBD — Vueling direct ~1h45m; also TAP) |
 | **Travel out** | **Euromed train VLC → BCN:** departs **València Estació del Nord 11:25 AM → Barcelona-Sants 2:50 PM** (~€57/person) |
 | **Station** | Estació del Nord — beautiful 1917 Modernista building, 15-min walk from Old Town |
 | **Status** | 🔲 LIS→VLC flight + Valencia hotel + Euromed train to book |
 
 ---
 
-### What to See & Do
+### Evening — Thursday Aug 27 · Arrival from Lisbon
 
-| Sight | Cost | Notes |
-|-------|------|-------|
-| **Valencia Cathedral + Holy Grail** ⭐ | Free (tower €2.50) | Houses the 1st-century chalice held by tradition to be the Holy Grail. El Miguelete tower for Old Town views. Open until 18:30 |
-| **Mercado Central** ⭐ | Free | One of the most beautiful market buildings in Europe (1928 Modernista). Go before 11am. Stalls of paella ingredients, fresh seafood, saffron |
-| **Ciudad de las Artes y las Ciencias** ⭐ | Free (exterior) | Calatrava's spectacular bone-white complex on a dried riverbed. Extraordinary at dusk. Walk around for free |
-| **Barrio del Carmen** | Free | Bohemian medieval quarter. Street art everywhere. Best evening wander. Plaça del Tossal + Plaça del Negrito for locals at night |
-| **Llotja de la Seda** | ~€3/adult | UNESCO Gothic trading hall (1482). Helical columns. Almost empty even in August |
-| **La Malvarrosa Beach** | Free | 20 min by metro. Worth a 7am swim before the train on Aug 28 |
-| **Horchatería Santa Catalina** ⭐ | ~€5 | Since 1936. Horchata de chufa + fartons — the essential Valencia experience. Open from 08:00 |
+**~16:00 — Airport → Hotel**
 
----
+| Option | Details | Cost |
+|--------|---------|------|
+| **Metro Lines 3/5** | Airport → Xàtia or Àngel Guimerà → walk to hotel. 30–35 min | ~€5/person |
+| **Taxi** | Airport → hotel. 20–25 min | ~€22 for group |
 
-### Food Highlights
+**17:30 — Barrio del Carmen**
 
-| Item / Restaurant | Notes |
-|------------------|-------|
-| **Horchata de chufa** | Valencia's signature cold drink — tiger nuts, nutty + creamy, not dairy. Nowhere else does it like this |
-| **Canalla Bistro** | Ricard Camarena's creative tapas in Ruzafa. Great dinner Aug 27. Book ahead |
-| **Casa Roberto** | Classic paella valenciana near Old Town (lunch only) |
-| **Agua de Valencia** | Local cocktail: cava + OJ + vodka. Every bar serves it |
-| Breakfast: **Horchatería Santa Catalina** | Fartons + horchata + coffee. Open from 08:00 |
+Valencia's bohemian medieval quarter — the best neighbourhood to arrive into. Street art covers nearly every surface. Start at **Torres de Serranos** (14th-century city gate, free exterior), then wander the lanes.
 
-> ⚠️ **Paella note:** Paella is a lunch-only dish in Valencia. With an 11:25 departure on Aug 28, a proper paella lunch isn't feasible. Best option: dinner at Canalla Bistro (creative tapas, Ruzafa) on Aug 27, and horchata breakfast on Aug 28.
+- **Plaça del Tossal** — the neighbourhood heart; locals with dogs and kids
+- **Plaça del Negrito** — outdoor tables, vermouth bars, where Valencia actually lives in the evening
+- Allow 45–60 min; no map needed — just explore
 
----
+**18:30 — Valencia Cathedral + Holy Grail** ⭐
 
-### Outline
+Valencia's most important and most unusual sight. The Gothic cathedral houses a 1st-century alabaster chalice that Church tradition holds is the **Holy Grail** — the cup used at the Last Supper. Pope Clement III declared it authentic in 1197; it's been venerated here for 600 years.
 
-| Time | What |
-|------|------|
-| Aug 27 afternoon | Arrive from Lisbon → check in → Barrio del Carmen walk → Cathedral + Holy Grail → Plaza de la Virgen |
-| Aug 27 evening | Sunset at Ciudad de las Artes exterior → dinner with Vova (Canalla Bistro in Ruzafa) |
-| Aug 28 07:00 | Optional: quick swim at La Malvarrosa beach (metro 20 min each way) |
-| Aug 28 09:00 | Horchatería Santa Catalina breakfast → Mercado Central → Llotja de la Seda |
-| Aug 28 10:30 | Walk or taxi to Estació del Nord (15 min) |
-| **Aug 28 11:25** | **Train departs → Barcelona-Sants 2:50 PM** |
+| | |
+|---|---|
+| Cathedral entry | Free (small donation) |
+| **El Miguelete tower** | €2.50 — 207 steps, best panoramic view over the Old Town |
+| Open until | ~19:30 in August |
+| Allow | 45–60 min |
 
----
+**19:30 — Plaza de la Virgen** ⭐
 
-### Must-Book
+The finest square in Valencia, immediately behind the Cathedral. Roman-era **Turia fountain** at the centre; the **Basílica de la Virgen de los Desamparados** has a free frescoed dome — 10 min inside is worth it.
 
-| Item | Deadline | Where |
-|------|----------|-------|
-| LIS → VLC flight (Aug 27) | ASAP | Vueling / TAP direct |
-| Valencia hotel (1 night) | ASAP | — |
-| Euromed VLC → BCN (Aug 28, 11:25) | 1–2 months ahead | renfe.com (~€57/person) |
-| Canalla Bistro (dinner Aug 27) | 1–2 weeks before | Restaurant website |
+**20:00 — City of Arts and Sciences (exterior at dusk)**
+
+Calatrava's futuristic complex on the old Turia riverbed — completely free and extraordinary at dusk. Walk through **Jardins del Turia** (old riverbed park, 20 min from Cathedral) or taxi (€7–8, 10 min). Allow 30–40 min.
+
+**21:30 — Dinner with Vova** ⭐
+
+> ⚠️ Real Valencia paella is a *lunch-only* dish. With a morning departure on Aug 28, there's no window for proper paella. Best move: creative dinner at Canalla Bistro in Ruzafa.
+
+| Option | Notes | Price |
+|--------|-------|-------|
+| **Canalla Bistro** 🥇 | Ricard Camarena's creative tapas restaurant in Ruzafa. **Book ahead** (C/ Maestro Serrano 7) | €25–35/person |
+| **El Rinconet** | Traditional rice dishes + grilled fish, Ruzafa. Walk-in usually fine | €18–25/person |
+| **Mercado de Colón** | Beautiful 1916 Modernista food hall — good for drinks + pintxos | €15–20/person |
 
 ---
 
-> 📁 **Detailed files:** [valencia_food_research.md](valencia_food_research.md) · [valencia_sights_research.md](valencia_sights_research.md)
+### Morning — Friday Aug 28 · Before the Train
+
+> ⚠️ Train departs **11:25 AM sharp** — be at Estació del Nord by 10:50.
+
+**07:00 (optional) — La Malvarrosa Beach**
+
+| | |
+|---|---|
+| Metro | Xàtia → Neptú, Lines 4/6 (~25 min each way, €1.50/person) |
+| Beach | Wide, sandy, empty at 7am |
+| Back by | 09:15 to stay on schedule |
+
+**09:00 — Horchatería Santa Catalina** ⭐
+
+Since 1836. **Horchata de chufa** + **fartons** (soft pastry for dipping) — the essential Valencia experience. Not a touris
