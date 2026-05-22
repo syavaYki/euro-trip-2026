@@ -81,4 +81,51 @@ Calatrava's futuristic complex on the old Turia riverbed — completely free and
 
 **09:00 — Horchatería Santa Catalina** ⭐
 
-Since 1836. **Horchata de chufa** + **fartons** (soft pastry for dipping) — the essential Valencia experience. Not a touris
+Since 1836. **Horchata de chufa** + **fartons** (soft pastry for dipping) — the essential Valencia experience. Not a tourist gimmick; Valencians drink this daily.
+
+| | |
+|---|---|
+| Address | Plaza Santa Catalina 6 (1 block from Cathedral) |
+| Open | From 08:00 · Cost ~€5/person |
+
+**09:30 — Mercado Central** ⭐
+
+One of the great market buildings of Europe — 1928 Modernista dome of iron, tile, and stained glass. Browse the stalls; buy train snacks from charcutería/cheese stalls.
+
+**10:15 — Llotja de la Seda** *(if skipping the beach)*
+
+UNESCO Gothic trading hall (1482) — extraordinary helical columns, almost empty even in August. €3/adult, under 12 free. 30–40 min.
+
+**10:50 — Walk or taxi to Estació del Nord**
+
+| Walk | 15 min (flat, through old town) |
+|------|------|
+| Taxi/Bolt | 5 min, ~€8 |
+
+**11:25 — Euromed departs → Barcelona-Sants 14:50**
+
+---
+
+### Food Quick-Reference
+
+| Meal | Best Bet | Notes |
+|------|---------|-------|
+| Arrival snack | Agua de Valencia at any bar | Local cocktail: cava + OJ + vodka |
+| Dinner (Aug 27) | Canalla Bistro, Ruzafa | Book ahead |
+| Breakfast (Aug 28) | Horchatería Santa Catalina | Horchata + fartons — unmissable |
+| Market snacks | Mercado Central | Buy for the train |
+
+---
+
+### Must-Book
+
+| Item | Deadline | Where |
+|------|----------|-------|
+| LIS → VLC flight (Aug 27) | ASAP | Vueling / TAP direct |
+| Valencia hotel (1 night) | ASAP | — |
+| Euromed VLC → BCN (Aug 28, 11:25) | 1–2 months ahead | renfe.com (~€57/person) |
+| **Canalla Bistro (dinner Aug 27)** | 1–2 weeks before | canallabistro.com or phone |
+
+---
+
+> 📁 **Detailed files:** [valencia_food_research.md](valencia_food_research.md) · [valencia_sights_research.md](valencia_sights_research.md)

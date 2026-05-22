@@ -62,4 +62,89 @@ Gothic-Mudéjar cathedral built over a Roman forum and Moorish mosque. The Mudé
 
 **11:00 — Museo del Foro de Caesaraugusta**
 
-Excavated Roman forum preserved unde
+Excavated Roman forum preserved underground, with excellent audiovisuals. Cool, uncrowded, genuinely fascinating. €4 (combo with other Roman museums ~€7). Allow 30–45 min.
+
+**12:00 — Walk Plaza del Pilar**
+
+The full scale of the basilica from the square is extraordinary in daylight — 156 m long, 67 m wide.
+
+**12:30 — Lunch**
+
+| Option | Notes | Price |
+|--------|-------|-------|
+| Any bar *menú del día* | 3 courses + wine — best value in Spain | €12–14 |
+| Mercado de las Artes | Modern food hall, good for kids | €15–20/person |
+
+**14:00 — La Aljafería Palace** ⭐⭐
+
+The undisputed highlight of Zaragoza. **11th-century Moorish palace** — extraordinary Islamic filigree stucco and carved arches, comparable to the Alhambra. Later expansions added Isabel and Ferdinand's throne room. Almost no crowds.
+
+| | |
+|---|---|
+| Cost | €5/adult (FREE Friday afternoons) |
+| Allow | **1.5 hours minimum — do not rush** |
+| Location | 1.5 km from Old Town; taxi ~€7 or 20-min flat walk |
+| Hours | Tue–Sat 10:00–14:00 and 16:00–20:00 (confirm) |
+
+> *"Alhambra-quality but almost to yourself. One of the great hidden sights in Spain."*
+
+**15:45 — Return to Old Town**
+
+Walk (20 min) or taxi (€7).
+
+**16:15 — Casco Antiguo afternoon**
+
+| Option | Cost | Notes |
+|--------|------|-------|
+| **El Pilar towers** | €5 | Panoramic Ebro + city views |
+| **Puente de Piedra** | Free | Best afternoon light on the water |
+| Café with *trenza* | — | Pastry from this morning + coffee |
+
+**18:00 — Ebro riverside walk**
+
+Promenade between El Pilar and Puente de Piedra — locals, long light, basilica glowing.
+
+**20:30 — Dinner**
+
+| Restaurant | Notes | Price |
+|-----------|-------|-------|
+| **El Chalet** | Modern creative Aragonese | €40–60/person |
+| **La Rinconada de Lorenzo** | Classic *ternasco* + Pyrenean trout | €25–35/person |
+| **El Temple pintxos** | Casual second-night option | €15–20/person |
+
+---
+
+### Morning — Wednesday Sep 2 · Departure to Madrid
+
+**08:00 — Pastelería Fantoba**
+
+One final *trenza* for the train. Wraps well, travels perfectly — the best souvenir from Zaragoza.
+
+**~09:30 — AVE Zaragoza Delicias → Madrid Atocha** (~1h30m)
+
+---
+
+### Food Quick-Reference
+
+| Meal | Best Bet | Notes |
+|------|---------|-------|
+| Dinner (Aug 31) | Casa Lac | Book ahead — Spain's oldest restaurant |
+| Breakfast (Sep 1) | Pastelería Fantoba | *Trenza* — buy two |
+| Lunch (Sep 1) | *Menú del día* at any bar | €12–14, best value in Spain |
+| Dinner (Sep 1) | La Rinconada or El Chalet | Good backup to Casa Lac |
+| Dish to eat | *Ternasco aragonés* | Aragonese milk lamb — the regional speciality |
+
+---
+
+### Must-Book
+
+| Item | Deadline | Where |
+|------|----------|-------|
+| AVE BCN → Zaragoza (Aug 31) | 1–2 months ahead | renfe.com |
+| Zaragoza hotel | ASAP | booking.com — near Pilar area |
+| **Casa Lac (dinner Aug 31)** | 1 week before | Phone or website |
+| AVE Zaragoza → Madrid (Sep 2 morning) | 1–2 months ahead | renfe.com |
+
+---
+
+> 📁 **Detailed files:** [zaragoza_food_research.md](zaragoza_food_research.md) · [zaragoza_sights_research.md](zaragoza_sights_research.md)

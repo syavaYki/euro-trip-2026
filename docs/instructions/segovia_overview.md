@@ -79,4 +79,36 @@ Walk down to the river valley for the classic **postcard view**: Alcázar on the
 
 Segovia's gorgeous main square. Try **ponche segoviano** (layers of sponge, marzipan, and cream — the local pastry) at any café.
 
-**17:30 — Taxi to Segovia-Guiomar → 
+**17:30 — Taxi to Segovia-Guiomar → AVE back to Madrid**
+
+~€8 taxi, 15 min. Aim for a 17:45–18:00 train. Arrive Madrid ~18:15.
+
+**Evening in Madrid:**
+
+| Activity | What | Notes |
+|----------|------|-------|
+| **Retiro Park rowboats** | Row on the lake (€5–8/boat, 45 min) | Metro: Retiro or Atocha |
+| **Churros at San Ginés** ⭐ | Farewell churros + chocolate. Open 24h since 1894 | Pasadizo de San Ginés, near Sol |
+
+---
+
+### Food Quick-Reference
+
+| Meal | What | Notes |
+|------|------|-------|
+| **Lunch (the only meal)** | *Cochinillo asado* | Book Cándido or José María weeks ahead |
+| Pastry snack | *Ponche segoviano* | Plaza Mayor cafés — afternoon treat |
+| Evening back in Madrid | Churros at San Ginés | The perfect farewell |
+
+---
+
+### Must-Book
+
+| Item | Deadline | Where |
+|------|----------|-------|
+| **AVE Madrid → Segovia + back (Sep 4)** | 1–2 weeks before | renfe.com (~€15–20 each way) |
+| **Cochinillo lunch — Cándido or José María** | **1–2 weeks before** | Phone or email — fills every summer |
+
+---
+
+> 📁 **Detailed files:** [segovia_food_research.md](segovia_food_research.md) · [segovia_sights_research.md](segovia_sights_research.md)
