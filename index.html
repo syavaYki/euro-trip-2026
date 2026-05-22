@@ -311,57 +311,50 @@ const TABS = {
   porto: {
     label: "Porto",
     subs: [
-      { key: "overview", label: "📋 Overview",       file: "docs/instructions/porto_overview.md" },
-      { key: "food",     label: "🍽️ Food & Drink",  file: "docs/instructions/porto_food_research.md" },
-      { key: "sights",   label: "🏛️ Sights",         file: "docs/instructions/porto_sights_research.md" }
+      { key: "food",   label: "🍽️ Food & Drink",  file: "docs/instructions/porto_food_research.md" },
+      { key: "sights", label: "🏛️ Sights",         file: "docs/instructions/porto_sights_research.md" }
     ]
   },
   lisbon: {
     label: "Lisbon",
     subs: [
-      { key: "overview", label: "📋 Overview",       file: "docs/instructions/lisbon_overview.md" },
-      { key: "food",     label: "🍽️ Food & Drink",  file: "docs/instructions/lisbon_food_research.md" },
-      { key: "sights",   label: "🏛️ Sights",         file: "docs/instructions/lisbon_sights_research.md" }
+      { key: "food",   label: "🍽️ Food & Drink",  file: "docs/instructions/lisbon_food_research.md" },
+      { key: "sights", label: "🏛️ Sights",         file: "docs/instructions/lisbon_sights_research.md" }
     ]
   },
   valencia: {
     label: "Valencia",
     subs: [
-      { key: "overview", label: "📋 Overview",       file: "docs/instructions/valencia_overview.md" },
-      { key: "food",     label: "🍽️ Food & Drink",  file: "docs/instructions/valencia_food_research.md" },
-      { key: "sights",   label: "🏛️ Sights",         file: "docs/instructions/valencia_sights_research.md" }
+      { key: "food",   label: "🍽️ Food & Drink",  file: "docs/instructions/valencia_food_research.md" },
+      { key: "sights", label: "🏛️ Sights",         file: "docs/instructions/valencia_sights_research.md" }
     ]
   },
   barcelona: {
     label: "Barcelona",
     subs: [
-      { key: "overview", label: "📋 Overview",       file: "docs/instructions/barcelona_overview.md" },
-      { key: "food",     label: "🍽️ Food & Drink",  file: "docs/instructions/barcelona_food_research.md" },
-      { key: "sights",   label: "🏛️ Sights",         file: "docs/instructions/barcelona_sights_research.md" }
+      { key: "food",   label: "🍽️ Food & Drink",  file: "docs/instructions/barcelona_food_research.md" },
+      { key: "sights", label: "🏛️ Sights",         file: "docs/instructions/barcelona_sights_research.md" }
     ]
   },
   zaragoza: {
     label: "Zaragoza",
     subs: [
-      { key: "overview", label: "📋 Overview",       file: "docs/instructions/zaragoza_overview.md" },
-      { key: "food",     label: "🍽️ Food & Drink",  file: "docs/instructions/zaragoza_food_research.md" },
-      { key: "sights",   label: "🏛️ Sights",         file: "docs/instructions/zaragoza_sights_research.md" }
+      { key: "food",   label: "🍽️ Food & Drink",  file: "docs/instructions/zaragoza_food_research.md" },
+      { key: "sights", label: "🏛️ Sights",         file: "docs/instructions/zaragoza_sights_research.md" }
     ]
   },
   madrid: {
     label: "Madrid",
     subs: [
-      { key: "overview", label: "📋 Overview",       file: "docs/instructions/madrid_overview.md" },
-      { key: "food",     label: "🍽️ Food & Drink",  file: "docs/instructions/madrid_food_research.md" },
-      { key: "sights",   label: "🏛️ Sights",         file: "docs/instructions/madrid_sights_research.md" }
+      { key: "food",   label: "🍽️ Food & Drink",  file: "docs/instructions/madrid_food_research.md" },
+      { key: "sights", label: "🏛️ Sights",         file: "docs/instructions/madrid_sights_research.md" }
     ]
   },
   segovia: {
     label: "Segovia",
     subs: [
-      { key: "overview", label: "📋 Overview",       file: "docs/instructions/segovia_overview.md" },
-      { key: "food",     label: "🍽️ Food & Drink",  file: "docs/instructions/segovia_food_research.md" },
-      { key: "sights",   label: "🏛️ Sights",         file: "docs/instructions/segovia_sights_research.md" }
+      { key: "food",   label: "🍽️ Food & Drink",  file: "docs/instructions/segovia_food_research.md" },
+      { key: "sights", label: "🏛️ Sights",         file: "docs/instructions/segovia_sights_research.md" }
     ]
   }
 };
@@ -539,4 +532,48 @@ function injectTOC() {
     entries.forEach(entry => {
       if (entry.isIntersecting) {
         allLinks.forEach(a => a.classList.remove('active'));
-        const link = idT
+        const link = idToLink[entry.target.id];
+        if (link) link.classList.add('active');
+      }
+    });
+  }, { rootMargin: '-8% 0px -82% 0px', threshold: 0 });
+
+  Object.keys(idToLink).forEach(id => {
+    const el = document.getElementById(id);
+    if (el) tocObserver.observe(el);
+  });
+}
+
+// ─── Wrap tables for horizontal scroll on mobile ──────────────────────────────
+function wrapTables() {
+  contentEl.querySelectorAll("table").forEach(t => {
+    if (!t.parentElement.classList.contains("table-wrap")) {
+      const wrap = document.createElement("div");
+      wrap.className = "table-wrap";
+      t.parentNode.insertBefore(wrap, t);
+      wrap.appendChild(t);
+    }
+  });
+}
+
+// ─── City tab click ───────────────────────────────────────────────────────────
+cityTabsEl.querySelectorAll(".city-tab").forEach(el => {
+  el.addEventListener("click", () => {
+    activeCity = el.dataset.city;
+    activeSub  = TABS[activeCity].subs[0].key;
+
+    cityTabsEl.querySelectorAll(".city-tab").forEach(t => t.classList.remove("active"));
+    el.classList.add("active");
+
+    renderSubTabs(activeCity);
+    loadContent(activeCity, activeSub);
+  });
+});
+
+// ─── Initial load ─────────────────────────────────────────────────────────────
+renderSubTabs(activeCity);
+loadContent(activeCity, activeSub);
+</script>
+
+</body>
+</html>
