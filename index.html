@@ -277,8 +277,14 @@
   <div class="city-tab" data-city="barcelona">
     <span class="flag">🇪🇸</span>Barcelona
   </div>
+  <div class="city-tab" data-city="zaragoza">
+    <span class="flag">🇪🇸</span>Zaragoza
+  </div>
   <div class="city-tab" data-city="madrid">
     <span class="flag">🇪🇸</span>Madrid
+  </div>
+  <div class="city-tab" data-city="segovia">
+    <span class="flag">🇪🇸</span>Segovia
   </div>
 </div>
 
@@ -342,6 +348,13 @@ const TABS = {
     subs: [
       { key: "food",   label: "🍽️ Food & Drink",  file: "docs/instructions/madrid_food_research.md" },
       { key: "sights", label: "🏛️ Sights",         file: "docs/instructions/madrid_sights_research.md" }
+    ]
+  },
+  segovia: {
+    label: "Segovia",
+    subs: [
+      { key: "food",   label: "🍽️ Food & Drink",  file: "docs/instructions/segovia_food_research.md" },
+      { key: "sights", label: "🏛️ Sights",         file: "docs/instructions/segovia_sights_research.md" }
     ]
   }
 };
@@ -543,11 +556,4 @@ function wrapTables() {
   });
 }
 
-// ─── City tab click ───────────────────────────────────────────────────────────
-cityTabsEl.querySelectorAll(".city-tab").forEach(el => {
-  el.addEventListener("click", () => {
-    activeCity = el.dataset.city;
-    activeSub  = TABS[activeCity].subs[0].key;
-
-    cityTabsEl.querySelectorAll(".city-tab").forEach(t => t.classList.remove("active"));
-    el.classList.add("active");
+// ─── City tab cl
