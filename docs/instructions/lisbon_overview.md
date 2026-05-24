@@ -7,12 +7,14 @@
 
 | | |
 |---|---|
-| **Hotel** | TBD — Príncipe Real or Baixa/Chiado area |
-| **Check-in** | Sun Aug 23 (arrive ~10:55 from Porto) |
-| **Check-out** | Thu Aug 27 — fly to Valencia |
+| **Apartment** | 64 Rua da Bempostinha 5º direito, Arroios, 1150-067 Lisbon |
+| **Check-in** | Sun Aug 23 · 4:00 PM–10:00 PM ⚠️ Flight lands 09:55 — ~6 hrs before check-in |
+| **Check-out** | Thu Aug 27 · by 10:00 AM |
+| **Phone** | +351 925 360 038 |
+| **Booking** | ✅ Booked via Booking.com · Non-refundable · €579.50 paid |
 | **Flight in** | TP1921: OPO → LIS, Aug 23 09:00 → 09:55 |
 | **Flight out** | LIS → VLC (TBD — Vueling / TAP direct, ~1h45m) |
-| **Status** | 🔲 Hotel + LIS→VLC flight to book |
+| **Status** | 🔲 LIS→VLC flight still to book |
 
 ---
 
@@ -79,8 +81,4 @@
 | Pena Palace, Sintra | 3–4 weeks before | penapalace.pt |
 | Quinta da Regaleira, Sintra | 1–2 weeks before | regaleira.pt |
 | Mosteiro dos Jerónimos | 1–2 weeks before | mosteirojeronimos.pt |
-| Castelo de São Jorge | 1 week before | castelodesaojorge.pt |
-
----
-
-> 📁 **Detailed files:** [lisbon_food_research.md](lisbon_food_research.md) · [lisbon_sights_research.md](lisbon_sights_research.md)
+| Castelo de São Jorge | 1 week
