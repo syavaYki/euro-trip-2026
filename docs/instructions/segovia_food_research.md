@@ -21,11 +21,11 @@
 
 | Name | Description | What to Order | Price Range | Address | Notes |
 |------|-------------|--------------|-------------|---------|-------|
-| **Mesón de Cándido** ⭐⭐ | The most famous cochinillo restaurant in Spain — since 1884, on the Aqueduct square. Every Spanish president has eaten here. The plate-smashing ceremony is theatrical. | Cochinillo asado (half or quarter); judiones de La Granja | €35–50/person | Plaza del Azoguejo 5 | Book ahead in summer. Touristy but genuinely excellent. The location under the aqueduct is unbeatable. |
-| **Restaurante José María** ⭐⭐ | Generally considered the best cochinillo in Segovia by food critics — less theatrical than Cándido, more refined. Old city location. | Cochinillo asado; sopa castellana | €35–50/person | C/ Cronista Lecea 11 | Book ahead. The serious local choice for the dish. |
-| **El Fogón Sefardí** | Jewish Quarter restaurant in a restored medieval building. Sephardic-influenced cuisine — a completely different angle on Segovia food. | Lamb dishes; eggplant in honey; Sephardic-inspired dishes | €25–35/person | C/ de la Judería Vieja 17 | Atmospheric setting in the old Jewish quarter. |
-| **Casa Duque** | Another historic cochinillo institution since 1895. Rustic stone interior. | Cochinillo; roast lamb | €30–45/person | C/ Cervantes 12 | Third of the classic trio. Good if Cándido and José María are full. |
-| **La Concepción** | More modern, relaxed café-restaurant on the Plaza Mayor. Good for a lighter lunch or coffee and ponche. | Tapas; ponche segoviano; coffee | €15–25/person | Plaza Mayor | Good option if not doing a full cochinillo sit-down. |
+| **Mesón de Cándido** [📍](https://maps.google.com/?q=Mes%C3%B3n+de+C%C3%A1ndido+Segovia+Spain) ⭐⭐ | The most famous cochinillo restaurant in Spain — since 1884, on the Aqueduct square. Every Spanish president has eaten here. The plate-smashing ceremony is theatrical. | Cochinillo asado (half or quarter); judiones de La Granja | €35–50/person | Plaza del Azoguejo 5 | Book ahead in summer. Touristy but genuinely excellent. The location under the aqueduct is unbeatable. |
+| **Restaurante José María** [📍](https://maps.google.com/?q=Restaurante+Jos%C3%A9+Mar%C3%ADa+Segovia+Spain) ⭐⭐ | Generally considered the best cochinillo in Segovia by food critics — less theatrical than Cándido, more refined. Old city location. | Cochinillo asado; sopa castellana | €35–50/person | C/ Cronista Lecea 11 | Book ahead. The serious local choice for the dish. |
+| **El Fogón Sefardí** [📍](https://maps.google.com/?q=El+Fog%C3%B3n+Sefard%C3%AD+Segovia+Spain) | Jewish Quarter restaurant in a restored medieval building. Sephardic-influenced cuisine — a completely different angle on Segovia food. | Lamb dishes; eggplant in honey; Sephardic-inspired dishes | €25–35/person | C/ de la Judería Vieja 17 | Atmospheric setting in the old Jewish quarter. |
+| **Casa Duque** [📍](https://maps.google.com/?q=Casa+Duque+Segovia+Spain) | Another historic cochinillo institution since 1895. Rustic stone interior. | Cochinillo; roast lamb | €30–45/person | C/ Cervantes 12 | Third of the classic trio. Good if Cándido and José María are full. |
+| **La Concepción** [📍](https://maps.google.com/?q=La+Concepci%C3%B3n+Segovia+Spain) | More modern, relaxed café-restaurant on the Plaza Mayor. Good for a lighter lunch or coffee and ponche. | Tapas; ponche segoviano; coffee | €15–25/person | Plaza Mayor | Good option if not doing a full cochinillo sit-down. |
 
 ---
 
@@ -33,9 +33,9 @@
 
 | Item | What It Is | Where |
 |------|-----------|-------|
-| **Ponche segoviano** | Segovia's signature pastry — sponge + marzipan + cream, lightly glazed. Every pastry shop has it. | Any café on Plaza Mayor or Rúa |
-| **Mazapán** | Marzipan sweets — less famous than Toledo's but very good | Pastelerías in the old city |
-| **Tostadas with local olive oil** | Morning coffee and bread — standard café breakfast | Any café near the aqueduct |
+| **Ponche segoviano** [📍](https://maps.google.com/?q=Ponche+segoviano+Segovia+Spain) | Segovia's signature pastry — sponge + marzipan + cream, lightly glazed. Every pastry shop has it. | Any café on Plaza Mayor or Rúa |
+| **Mazapán** [📍](https://maps.google.com/?q=Mazap%C3%A1n+Segovia+Spain) | Marzipan sweets — less famous than Toledo's but very good | Pastelerías in the old city |
+| **Tostadas with local olive oil** [📍](https://maps.google.com/?q=Tostadas+with+local+olive+oil+Segovia+Spain) | Morning coffee and bread — standard café breakfast | Any café near the aqueduct |
 
 ---
 

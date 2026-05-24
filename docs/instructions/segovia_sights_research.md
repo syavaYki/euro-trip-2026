@@ -11,9 +11,9 @@
 | | |
 |---|---|
 | **Depart** | Madrid Atocha → Segovia-Guiomar (AVE), ~28 min, ~€15–20 each way |
-| **From Segovia station to Old City** | Bus or taxi ~15 min (the station is outside town); taxi ~€8 one-way |
+| **From Segovia station to Old City** [📍](https://maps.google.com/?q=From+Segovia+station+to+Old+City+Segovia+Spain) | Bus or taxi ~15 min (the station is outside town); taxi ~€8 one-way |
 | **Return** | Trains run throughout the afternoon/evening |
-| **Book** | renfe.com — book ahead for fixed prices |
+| **Book** [📍](https://maps.google.com/?q=Book+Segovia+Spain) | renfe.com — book ahead for fixed prices |
 
 > ⚠️ Note: The AVE station (Segovia-Guiomar) is not central — take the bus or a taxi into the old town. Don't walk (it's 5 km and uphill).
 
@@ -23,13 +23,13 @@
 
 | # | Name | Type | Cost | Time Needed | Notes |
 |---|------|------|------|-------------|-------|
-| 1 | **Roman Aqueduct** ⭐⭐ | Roman monument (1st century AD) | Free | 20–30 min | The most impressive Roman engineering in Spain — 166 arches, 29 m high, built without a drop of mortar. Walk underneath and along it. Best viewed from Plaza del Azoguejo. Morning light is best. |
-| 2 | **Alcázar de Segovia** ⭐⭐ | Medieval castle | ~€10/adult, under 6 free | 1–1.5 hrs | The castle that inspired Walt Disney's Cinderella castle. Perched on a cliff at the confluence of two rivers — the views from the tower are extraordinary. The interior rooms show medieval royal life. Climb the Torre de Juan II (148 steps) for 360° panorama. |
-| 3 | **Segovia Cathedral** ⭐ | Gothic cathedral (16th century) | ~€4/adult | 30–45 min | The last great Gothic cathedral built in Spain (1525). Beautiful interior with carved choir stalls. The cloister is from an earlier cathedral destroyed in a revolt. |
-| 4 | **Jewish Quarter (La Judería)** | Historic neighbourhood | Free | 30–45 min | Segovia had one of Spain's largest medieval Jewish communities before the 1492 expulsion. The narrow streets between the Aqueduct and Cathedral preserve the medieval layout. Look for the Corpus Christi convent (built on the site of the synagogue). |
-| 5 | **Casa de la Moneda (Royal Mint)** | Historic museum | ~€3 | 30 min | Spain's first royal mint — fascinating industrial history, set on the banks of the Eresma river below the Alcázar. Almost no tourists. |
-| 6 | **Vera Cruz Church** | Romanesque church | ~€2 | 20 min | 12th-century Templar church with a 12-sided design — one of only a few surviving in Spain. Extraordinary from the outside; climb the tower for Alcázar views. A 15-minute walk from the old city. |
-| 7 | **Mirador del Alcázar (from below)** | Viewpoint | Free | 15 min | Walk down from the Alcázar to the river valley below for the classic view of the castle on the cliff. The "Postcard View" most photographers use. |
+| 1 | **Roman Aqueduct** [📍](https://maps.google.com/?q=Roman+Aqueduct+Segovia+Spain) ⭐⭐ | Roman monument (1st century AD) | Free | 20–30 min | The most impressive Roman engineering in Spain — 166 arches, 29 m high, built without a drop of mortar. Walk underneath and along it. Best viewed from Plaza del Azoguejo. Morning light is best. |
+| 2 | **Alcázar de Segovia** [📍](https://maps.google.com/?q=Alc%C3%A1zar+de+Segovia+Segovia+Spain) ⭐⭐ | Medieval castle | ~€10/adult, under 6 free | 1–1.5 hrs | The castle that inspired Walt Disney's Cinderella castle. Perched on a cliff at the confluence of two rivers — the views from the tower are extraordinary. The interior rooms show medieval royal life. Climb the Torre de Juan II (148 steps) for 360° panorama. |
+| 3 | **Segovia Cathedral** [📍](https://maps.google.com/?q=Segovia+Cathedral+Segovia+Spain) ⭐ | Gothic cathedral (16th century) | ~€4/adult | 30–45 min | The last great Gothic cathedral built in Spain (1525). Beautiful interior with carved choir stalls. The cloister is from an earlier cathedral destroyed in a revolt. |
+| 4 | **Jewish Quarter (La Judería)** [📍](https://maps.google.com/?q=Jewish+Quarter+%28La+Juder%C3%ADa%29+Segovia+Spain) | Historic neighbourhood | Free | 30–45 min | Segovia had one of Spain's largest medieval Jewish communities before the 1492 expulsion. The narrow streets between the Aqueduct and Cathedral preserve the medieval layout. Look for the Corpus Christi convent (built on the site of the synagogue). |
+| 5 | **Casa de la Moneda (Royal Mint)** [📍](https://maps.google.com/?q=Casa+de+la+Moneda+%28Royal+Mint%29+Segovia+Spain) | Historic museum | ~€3 | 30 min | Spain's first royal mint — fascinating industrial history, set on the banks of the Eresma river below the Alcázar. Almost no tourists. |
+| 6 | **Vera Cruz Church** [📍](https://maps.google.com/?q=Vera+Cruz+Church+Segovia+Spain) | Romanesque church | ~€2 | 20 min | 12th-century Templar church with a 12-sided design — one of only a few surviving in Spain. Extraordinary from the outside; climb the tower for Alcázar views. A 15-minute walk from the old city. |
+| 7 | **Mirador del Alcázar (from below)** [📍](https://maps.google.com/?q=Mirador+del+Alc%C3%A1zar+%28from+below%29+Segovia+Spain) | Viewpoint | Free | 15 min | Walk down from the Alcázar to the river valley below for the classic view of the castle on the cliff. The "Postcard View" most photographers use. |
 
 ---
 
