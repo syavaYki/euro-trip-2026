@@ -12,9 +12,8 @@
 | # | City | Country | Dates | Nights | Travel In | Key Focus |
 |---|------|---------|-------|--------|-----------|-----------|
 | 1 | **Porto** | 🇵🇹 Portugal | Aug 20–23 | 3 | EWR→OPO (TP212, Aug 19 night) | Ribeira, bridges, francesinha, Douro |
-| 2 | **Lisbon** | 🇵🇹 Portugal | Aug 23–27 | 4 | OPO→LIS (TP1921, 09:00) | Alfama, Belém, Day 4 = Sintra+Cabo Roca+Cascais |
-| 3 | **Valencia** | 🇪🇸 Spain | Aug 27–28 | 1 | LIS→VLC (TBD, Vueling/TAP) | Cathedral + Holy Grail, horchata, paella, friend Vova |
-| 4 | **Barcelona** | 🇪🇸 Spain | Aug 28–31 | 3 | Euromed train 11:25→14:50 | Sagrada Família, La Cova Fumada, Bunkers del Carmel |
+| 2 | **Lisbon** | 🇵🇹 Portugal | Aug 23–26 | 3 | OPO→LIS (TP1921, 09:00) | Alfama, Belém, Parque das Nações |
+| 3 | **Barcelona** | 🇪🇸 Spain | Aug 26–31 | 5 | TP1038 LIS→BCN 18:55→21:50 | Sagrada Família, La Cova Fumada, Bunkers del Carmel |
 | 5 | **Zaragoza** | 🇪🇸 Spain | Aug 31 – Sep 2 | 1 | AVE BCN→ZGZ (~1h20m) | La Aljafería, Basílica del Pilar, Casa Lac |
 | 6 | **Madrid** | 🇪🇸 Spain | Sep 2–5 | 3 | AVE ZGZ→MAD (~1h30m) | Prado, Reina Sofía, Palacio Real |
 | 7 | **Segovia** | 🇪🇸 Spain | Sep 4 | day trip | AVE MAD→SEG (28 min) | Roman Aqueduct, Alcázar, cochinillo lunch |
@@ -27,9 +26,7 @@
 | **Aug 19** | Depart Newark EWR 23:10 |
 | **Aug 20** | Arrive Porto 10:55 |
 | **Aug 23** | Fly Porto → Lisbon (09:00) |
-| **Aug 26** | Sintra + Cabo da Roca + Cascais full day |
-| **Aug 27** | Fly Lisbon → Valencia (TBD) |
-| **Aug 28** | Euromed train Valencia → Barcelona 11:25 AM |
+| **Aug 26** | Fly Lisbon → Barcelona (TP1038, 18:55 → 21:50) |
 | **Aug 31** | AVE Barcelona → Zaragoza |
 | **Sep 1** | Explore Zaragoza (La Aljafería!) |
 | **Sep 2** | AVE Zaragoza → Madrid |
@@ -45,8 +42,7 @@
 |---|-------|-------------|--------|-------|--------|
 | 1 | EWR → OPO (TAP) | Aug 19, 23:10 → Aug 20, 10:55 | TP212 | Discount E | ✅ Booked |
 | 2 | OPO → LIS (TAP) | Aug 23, 09:00 → 09:55 | TP1921 | Discount E | ✅ Booked |
-| 3 | LIS → VLC (Valencia) | Aug 27 (TBD) | TBD | Economy | 🔲 To book (Vueling / TAP) |
-| 3b | VLC → BCN (Euromed train) | Aug 28, 11:25→14:50 | Euromed 01112 | 2nd class | 🔲 To book (renfe.com, ~€57) |
+| 3 | LIS → BCN (TAP) | Aug 26, 18:55 → 21:50 | TP1038 | Economy | ✅ Booked |
 | 4 | MAD → JFK (American) | Sep 5, 10:25 → 12:25 | AA 95 | Economy | ✅ Booked |
 
 **Booking ref:** Z5SCJS (TAP) · **Ticket:** 047 2524668983 · **Baggage:** 0PC per person — carry-on only on all TAP segments
@@ -58,7 +54,7 @@
 | Property | City | Check-in | Check-out | Nights | Confirmation | Status |
 |----------|------|----------|-----------|--------|--------------|--------|
 | Aposentus – Poveiros Terrace View, Rua dos Poveiros | Porto | Aug 20 | Aug 23 | 3 | 5732321948 | ✅ Booked |
-| Apartment — 64 Rua da Bempostinha 5º dto, Arroios | Lisbon | Aug 23 (4PM–10PM) | Aug 27 (by 10AM) | 4 | Booking.com | ✅ Booked · €579.50 paid |
+| Apartment — 64 Rua da Bempostinha 5º dto, Arroios | Lisbon | Aug 23 (4PM–10PM) | Aug 27 (by 10AM) | 4 | Booking.com | ✅ Booked · €579.50 paid · Depart Aug 26 evening (apt runs through Aug 27) |
 | TBD | Valencia | Aug 27 | Aug 28 | 1 | — | 🔲 To book |
 | TBD | Barcelona | Aug 28 | Aug 31 | 3 | — | 🔲 To book |
 | TBD | Zaragoza | Aug 31 | Sep 2 | 1 | — | 🔲 To book |
@@ -608,9 +604,10 @@ Per person · 3 full days · excl. accommodation:
 | **Phone** | +351 925 360 038 |
 | **Booking** | ✅ Booked via Booking.com · Non-refundable · €579.50 paid in full |
 | **Flight in** | TP1921: OPO → LIS, Aug 23 09:00 → 09:55 |
-| **Flight out** | LIS → VLC (TBD — Vueling / TAP direct, ~1h45m) |
+| **Flight out** | TP1038: LIS → BCN, Aug 26 18:55 → 21:50 (**Terminal 1** both ends). Be at LIS by 17:00. |
 
 > ⚠️ **Check-in gap:** Apartment available from 4:00 PM, but you land at 09:55. Plan ~6 hrs of luggage-free sightseeing (Belém is a great use of this window — Jerónimos is right there). Use airport Metro, store bags at hotel reception/left-luggage if possible.
+> ⚠️ **Apartment note:** Booking runs through Aug 27 (non-refundable, dates can't change) — you'll leave Aug 26 evening but the room is paid either way.
 
 ### Key Sights
 
@@ -640,8 +637,7 @@ Per person · 3 full days · excl. accommodation:
 | Day 1 (Aug 23) | Arrival + Belém + Baixa | Jerónimos Monastery + Monument to the Discoveries + Carmo Convent + Time Out Market |
 | Day 2 (Aug 24) | Parque das Nações | Oceanário + Pavilhão do Conhecimento + cable car + Oriente Station |
 | Day 3 (Aug 25) | Alfama + Castle + Fado | São Jorge Castle + Miradouro da Senhora do Monte + Alfama walk + Fado dinner |
-| Day 4 (Aug 26) | **Sintra → Cabo da Roca → Cascais** ⭐ | Leave 07:15 — Pena Palace + Quinta da Regaleira + Bus 403 to Cabo da Roca + Cascais dinner + train back |
-| Aug 27 | Depart to Valencia | Morning free, fly LIS → VLC (TBD) |
+| Day 4 (Aug 26) | Morning free + depart | Morning in Alfama / Príncipe Real — fly LIS → BCN TP1038 at 18:55 (at airport by 17:00) |
 
 ---
 
@@ -805,7 +801,7 @@ UNESCO Gothic trading hall from 1482. The Sala de Contratación has extraordinar
 
 ---
 
-## 🇪🇸 Barcelona — Aug 28–31 (3 nights)
+## 🇪🇸 Barcelona — Aug 26–31 (5 nights)
 
 **Best areas:** Eixample (metro access, Gaudí central), Gràcia (village feel, local tapas), El Born (walkable, best restaurants)
 
@@ -824,4 +820,6 @@ Sagrada Família, Park Güell, and Casa Batlló sell out weeks ahead in August.
 | **Bunkers del Carmel** ⭐ | Free | Best 360° view in Barcelona. Bus 24 to El Carmel, 15-min walk up |
 | **Hotel Raval Free Rooftop** | Free | 360° views — Cathedral, Sagrada, port. Municipal roof law: all rooftops are public. Floor 11 |
 | **Parc del Laberint d'Horta** | €2.23 (free Wed + Sun) | Oldest garden in Barcelona (1791). Genuine cypress maze — kids and adults get lost |
-| **Montjuïc Castle** | €5 (free Sun a
+| **Montjuïc Castle** | €5 (free Sun after 15:00) | Funicular from Paral·lel metro (free with T-Casual) + cable car to summit |
+| **Parc de la Ciutadella** | Free (rowing €6/30 min) | Rowboats on lake, Gaudí waterfall, palms. Great morning activity |
+| **Santa Maria del Mar
