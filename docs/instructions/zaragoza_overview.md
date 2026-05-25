@@ -98,4 +98,56 @@ Walk the full length of the square. Quick stop at **La Lonja** exterior on the p
 
 > *"Alhambra-quality but almost to yourself."*
 
-**11:
+**11:30 — Taxi back to apartment** (~€7)
+
+**11:45 — Final pack-up, drop keys per Isabel's instructions**
+
+**12:00 — Check out** (hard deadline)
+
+> 💡 **Luggage tip:** Stash bags at **Estación Delicias bus station lockers** (same building as the AVE) or [megalockers.com](https://megalockers.com) on the way out — frees you for a real Old Town lunch instead of bag-tethered grazing.
+
+**12:15 — Lunch in Old Town** (light + quick)
+
+| Option | Notes | Price |
+|--------|-------|-------|
+| Bar *menú del día* near Plaza del Pilar | 3 courses + wine — best value in Spain. Say you have a train | €12–14 |
+| Pintxos on Calle El Temple | Faster — 3–4 plus a *caña* | €8–12 |
+| Fantoba pastry + bocadillo | Lightest, easiest to keep moving | <€10 |
+
+> **Skip the sit-down two-hour lunch** — too risky with a train to catch.
+
+**13:30 — Tram L1 or taxi to Zaragoza Delicias**
+
+**~14:30 — AVE Zaragoza Delicias → Madrid Atocha** (~1h30m)
+
+Aim for an AVE in the **14:00–15:00 window** when booking. Arrive Madrid Atocha ~16:00 — metro or taxi to hotel, evening at leisure.
+
+> **Skipped this trip (no time):** La Seo Cathedral, Museo del Foro de Caesaraugusta, El Pilar towers, Ebro riverside afternoon walk, Sep 1 dinner in Zaragoza (now in Madrid).
+
+---
+
+### Food Quick-Reference
+
+| Meal | Best Bet | Notes |
+|------|---------|-------|
+| Dinner (Aug 31) | **Casa Lac** | Book ahead — Spain's oldest restaurant. Walk-in alts: El Fuelle, Bar Gallizo |
+| Late drink (Aug 31) | El Temple / Bar La Viña / El Ángel del Pincho | Walkable from apt |
+| Breakfast (Sep 1) | **Pastelería Fantoba** | *Trenza* — buy two |
+| Lunch (Sep 1) | Quick *menú del día* or pintxos | Don't sit down for two hours |
+| Dish to eat | *Ternasco aragonés* | Aragonese milk lamb |
+
+---
+
+### Must-Book / Must-Do Before Arrival
+
+| Item | Deadline | Where |
+|------|----------|-------|
+| **Online guest registration form** (releases lockbox code) | A few days before Aug 31 | [u.partee.es link](https://u.partee.es/4396/Oga33Ze0llPQgN7MIWtK3jHpu) — all 4 guests |
+| AVE BCN → Zaragoza (Aug 31 afternoon) | 1–2 months ahead | renfe.com |
+| **AVE Zaragoza → Madrid (Sep 1 ~14:30)** | 1–2 months ahead | renfe.com — aim for 14:00–15:00 |
+| **Casa Lac (dinner Aug 31)** | 1 week before | Phone or website |
+| Apartment | — | ✅ Already booked (#HM28SJ8P8C) |
+
+---
+
+> 📁 **Detailed files:** [zaragoza_food_research.md](zaragoza_food_research.md) · [zaragoza_sights_research.md](zaragoza_sights_research.md)

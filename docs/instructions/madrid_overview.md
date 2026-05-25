@@ -71,4 +71,8 @@
 | Madrid hotel (4 nights, Sep 1–5) | ASAP | — |
 | Museo del Prado | 2–4 weeks before | museodelprado.es |
 | AVE Madrid → Segovia + back (Sep 4) | 1–2 weeks before | renfe.com |
-| Cochinillo lunch in Segov
+| Cochinillo lunch in Segovia (Sep 4) | 1–2 weeks before | Cándido or José María |
+
+---
+
+> 📁 **Detailed files:** [madrid_food_research.md](madrid_food_research.md) · [madrid_sights_research.md](madrid_sights_research.md)
