@@ -77,4 +77,27 @@
 | Time | What |
 |------|------|
 | Morning | Príncipe Real (leafy neighbourhood, antique market, great cafés) or Alfama wander before the crowds |
-| Lunc
+| Lunch | Time Out Market or Mercado da Ribeira |
+| Afternoon | Castelo de São Jorge if not done Day 3, or Carmo Convent / LX Factory |
+| 16:00 | Metro to airport: Green line → Alameda → Red line → Aeroporto (~25 min) |
+| 17:00 | Arrive Terminal 1 |
+| 18:55 | TP1038 departs LIS |
+| 21:50 | Arrive BCN El Prat Terminal 1 |
+
+---
+
+### Must-Book
+
+| Item | Deadline | Where |
+|------|----------|-------|
+| ~~Lisbon apartment~~ ✅ | Booked | 64 Rua da Bempostinha — €579.50 paid |
+| ~~LIS → BCN flight~~ ✅ | Booked | TP1038, Aug 26 18:55 |
+| **Pena Palace, Sintra (Aug 24)** | 3–4 weeks before | penapalace.pt |
+| **Quinta da Regaleira, Sintra (Aug 24)** | 1–2 weeks before | regaleira.pt |
+| Oceanário (timed entry) | 1–2 weeks before | oceanario.pt |
+| Mosteiro dos Jerónimos | 1–2 weeks before | mosteirojeronimos.pt |
+| Castelo de São Jorge | 1 week before | castelodesaojorge.pt |
+
+---
+
+> 📁 **Detailed files:** [lisbon_food_research.md](lisbon_food_research.md) · [lisbon_sights_research.md](lisbon_sights_research.md)

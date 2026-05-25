@@ -567,4 +567,207 @@ function buildTOC(container) {
   container.querySelectorAll('h2,h3').forEach(h => {
     if (h.tagName === 'H2') {
       // Strip leading emoji and trailing date suffix for a short label
-      const label = h.textCo
+      const label = h.textContent.trim()
+        .replace(/^[\p{Emoji_Presentation}\p{Extended_Pictographic}\s]+/gu, '')
+        .replace(/\s*[—\-].*$/, '')
+        .trim();
+
+      currentGroup = document.createElement('div');
+      currentGroup.className = 'toc-group';
+
+      const a = document.createElement('a');
+      a.href = `#${h.id}`;
+      a.className = 'toc-city';
+      a.dataset.id = h.id;
+      a.textContent = label;
+      a.addEventListener('click', e => {
+        e.preventDefault();
+        document.getElementById(h.id)?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      });
+
+      currentGroup.appendChild(a);
+      nav.appendChild(currentGroup);
+    } else if (h.tagName === 'H3' && currentGroup) {
+      const text = h.textContent.trim();
+      if (!text.startsWith('Day ')) return;
+
+      const label = text.match(/^Day \d+/)?.[0] || text;
+
+      const a = document.createElement('a');
+      a.href = `#${h.id}`;
+      a.className = 'toc-day';
+      a.dataset.id = h.id;
+      a.textContent = label;
+      a.addEventListener('click', e => {
+        e.preventDefault();
+        document.getElementById(h.id)?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      });
+
+      currentGroup.appendChild(a);
+    }
+  });
+
+  return nav;
+}
+
+// ─── Inject TOC into overview layout ─────────────────────────────────────────
+function injectTOC() {
+  const mdEl = contentEl.querySelector('.md');
+  if (!mdEl) return;
+
+  assignHeadingIds(mdEl);
+  const toc = buildTOC(mdEl);
+
+  contentEl.classList.add('overview-active');
+
+  const layout = document.createElement('div');
+  layout.className = 'overview-layout';
+
+  const main = document.createElement('div');
+  main.className = 'overview-main';
+  main.appendChild(mdEl);
+
+  layout.appendChild(main);
+  layout.appendChild(toc);
+  contentEl.appendChild(layout);
+
+  // Highlight active TOC link on scroll
+  const allLinks = toc.querySelectorAll('[data-id]');
+  const idToLink = {};
+  allLinks.forEach(a => { idToLink[a.dataset.id] = a; });
+
+  tocObserver = new IntersectionObserver(entries => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        allLinks.forEach(a => a.classList.remove('active'));
+        const link = idToLink[entry.target.id];
+        if (link) link.classList.add('active');
+      }
+    });
+  }, { rootMargin: '-8% 0px -82% 0px', threshold: 0 });
+
+  Object.keys(idToLink).forEach(id => {
+    const el = document.getElementById(id);
+    if (el) tocObserver.observe(el);
+  });
+}
+
+// ─── Transform tables into collapsible cards ─────────────────────────────────
+function transformTables() {
+  contentEl.querySelectorAll("table").forEach(table => {
+
+    // Collect header labels
+    const headerCells = Array.from(table.querySelectorAll("thead th, thead td"));
+    const headers     = headerCells.map(th => th.textContent.trim());
+    const hasHeaders  = headers.length > 0 && headers.some(h => h !== '');
+
+    // No real headers → keep as a horizontally-scrollable plain table
+    if (!hasHeaders) {
+      if (!table.parentElement.classList.contains("table-wrap")) {
+        const wrap = document.createElement("div");
+        wrap.className = "table-wrap";
+        table.parentNode.insertBefore(wrap, table);
+        wrap.appendChild(table);
+      }
+      return;
+    }
+
+    const rows      = Array.from(table.querySelectorAll("tbody tr"));
+    const ncols     = headers.length;
+    const collapsible = ncols >= 3;   // 1-2 col tables: flat card; 3+ col: expandable
+
+    const container = document.createElement("div");
+    container.className = "table-cards";
+
+    rows.forEach(row => {
+      const cells = Array.from(row.querySelectorAll("td"));
+      if (cells.length === 0) return;
+
+      const card = document.createElement("div");
+      card.className = "tcard" + (collapsible ? "" : " tcard-flat");
+
+      // ── Head (always visible) ──────────────────────────────────────────────
+      const head = document.createElement("div");
+      head.className = "tcard-head";
+
+      const nameEl = document.createElement("span");
+      nameEl.className = "tcard-name";
+      nameEl.innerHTML = cells[0] ? cells[0].innerHTML : "—";
+      head.appendChild(nameEl);
+
+      if (ncols >= 2 && cells[1]) {
+        const descEl = document.createElement("span");
+        descEl.className = "tcard-desc";
+        // strip tags for the truncated summary line so it reads cleanly
+        descEl.textContent = cells[1].textContent.trim();
+        head.appendChild(descEl);
+      }
+
+      if (collapsible) {
+        const chev = document.createElement("span");
+        chev.className = "tcard-chevron";
+        chev.textContent = "▾";
+        head.appendChild(chev);
+      }
+
+      card.appendChild(head);
+
+      // ── Body (expanded, shows every column as label → value) ──────────────
+      if (collapsible) {
+        const body = document.createElement("div");
+        body.className = "tcard-body";
+
+        cells.forEach((cell, i) => {
+          const raw = cell.textContent.trim();
+          if (!raw || raw === "—" || raw === "N/A") return;
+
+          const field = document.createElement("div");
+          field.className = "tcard-field";
+
+          const labelEl = document.createElement("span");
+          labelEl.className = "tcard-label";
+          labelEl.textContent = headers[i] || "";
+
+          const valEl = document.createElement("span");
+          valEl.className = "tcard-val";
+          valEl.innerHTML = cell.innerHTML;   // keep bold/links/emoji
+
+          field.appendChild(labelEl);
+          field.appendChild(valEl);
+          body.appendChild(field);
+        });
+
+        card.appendChild(body);
+
+        // Toggle on head click
+        head.addEventListener("click", () => card.classList.toggle("open"));
+      }
+
+      container.appendChild(card);
+    });
+
+    table.parentNode.replaceChild(container, table);
+  });
+}
+
+// ─── City tab click ───────────────────────────────────────────────────────────
+cityTabsEl.querySelectorAll(".city-tab").forEach(el => {
+  el.addEventListener("click", () => {
+    activeCity = el.dataset.city;
+    activeSub  = TABS[activeCity].subs[0].key;
+
+    cityTabsEl.querySelectorAll(".city-tab").forEach(t => t.classList.remove("active"));
+    el.classList.add("active");
+
+    renderSubTabs(activeCity);
+    loadContent(activeCity, activeSub);
+  });
+});
+
+// ─── Initial load ─────────────────────────────────────────────────────────────
+renderSubTabs(activeCity);
+loadContent(activeCity, activeSub);
+</script>
+
+</body>
+</html>
