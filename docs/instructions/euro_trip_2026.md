@@ -635,9 +635,9 @@ Per person · 3 full days · excl. accommodation:
 | Day | Theme | Highlights |
 |-----|-------|-----------|
 | Day 1 (Aug 23) | Arrival + Belém + Baixa | Jerónimos Monastery + Monument to the Discoveries + Carmo Convent + Time Out Market |
-| Day 2 (Aug 24) | Parque das Nações | Oceanário + Pavilhão do Conhecimento + cable car + Oriente Station |
-| Day 3 (Aug 25) | Alfama + Castle + Fado | São Jorge Castle + Miradouro da Senhora do Monte + Alfama walk + Fado dinner |
-| Day 4 (Aug 26) | Morning free + depart | Morning in Alfama / Príncipe Real — fly LIS → BCN TP1038 at 18:55 (at airport by 17:00) |
+| Day 2 (Aug 24) | **Sintra → Cabo da Roca → Cascais** ⭐ | Leave 07:15 — Pena Palace + Quinta da Regaleira + Bus 403 to Cabo da Roca + Cascais dinner + train back |
+| Day 3 (Aug 25) | Alfama + Castle + Parque das Nações | São Jorge Castle + Alfama walk + Fado dinner; or Oceanário + Pavilhão do Conhecimento |
+| Day 4 (Aug 26) | City sightseeing + depart | Príncipe Real / Alfama / Time Out Market — fly LIS → BCN TP1038 18:55 (at airport by 17:00) |
 
 ---
 
@@ -821,5 +821,4 @@ Sagrada Família, Park Güell, and Casa Batlló sell out weeks ahead in August.
 | **Hotel Raval Free Rooftop** | Free | 360° views — Cathedral, Sagrada, port. Municipal roof law: all rooftops are public. Floor 11 |
 | **Parc del Laberint d'Horta** | €2.23 (free Wed + Sun) | Oldest garden in Barcelona (1791). Genuine cypress maze — kids and adults get lost |
 | **Montjuïc Castle** | €5 (free Sun after 15:00) | Funicular from Paral·lel metro (free with T-Casual) + cable car to summit |
-| **Parc de la Ciutadella** | Free (rowing €6/30 min) | Rowboats on lake, Gaudí waterfall, palms. Great morning activity |
-| **Santa Maria del Mar
+| **Parc de la Ciutadella** | Free (rowing €6/30 min
