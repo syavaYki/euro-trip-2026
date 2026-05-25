@@ -57,7 +57,7 @@
 | Apartment — 64 Rua da Bempostinha 5º dto, Arroios | Lisbon | Aug 23 (4PM–10PM) | Aug 27 (by 10AM) | 4 | Booking.com | ✅ Booked · €579.50 paid · Depart Aug 26 evening (apt runs through Aug 27) |
 | TBD | Valencia | Aug 27 | Aug 28 | 1 | — | 🔲 To book |
 | AB Sagrada Família Bofill, Eixample (08013) | Barcelona | Aug 26 (15:00) | Aug 31 (by 11:00) | 5 | Booking.com | ✅ Booked |
-| TBD | Zaragoza | Aug 31 | Sep 2 | 1 | — | 🔲 To book |
+| Apartamento Centro 5 PSN Wifi (host: Isabel) — Calle Dr. Alejandro Palomar 38, 2º Izda, 50002 Zaragoza | Zaragoza | Aug 31 (after 16:00) | Sep 1 (by 12:00) | 1 | Airbnb | ✅ Booked · $93.93 (PayPal, scheduled Aug 18) · Free cancel until 16:00 Aug 26 |
 | TBD | Madrid | Sep 2 | Sep 5 | 3 | — | 🔲 To book |
 
 ---
@@ -879,13 +879,23 @@ Sagrada Família, Park Güell, and Casa Batlló sell out weeks ahead in August.
 
 | | |
 |---|---|
-| **Hotel** | TBD — near Basílica del Pilar area |
-| **Arrive** | Mon Aug 31 (evening — after Barcelona and Quimet & Quimet lunch) |
-| **Check-out** | Wed Sep 2 morning — AVE to Madrid |
+| **Apartment** | Apartamento Centro 5 PSN Wifi — entire home/apt, host Isabel |
+| **Address** | Calle Dr. Alejandro Palomar 38, 2º Izda, 50002 Zaragoza ([Google Maps](https://goo.gl/maps/HALZD1PEQYQ2)) — central old town, ~10 min walk to Plaza del Pilar |
+| **Booking** | Airbnb · $93.93 (PayPal, scheduled Aug 18, 2026) |
+| **Cancellation** | Free until 16:00 on Aug 26; non-refundable after |
+| **Host contact** | Isabel · +34 659 60 06 43 |
+| **Arrive** | Mon Aug 31 — check-in **after 16:00** (after Barcelona and Quimet & Quimet lunch) |
+| **Check-out** | Tue Sep 1 — **by 12:00 noon** ⚠️ (only 1 night — see note below) |
 | **Travel in** | AVE from Barcelona Sants → Zaragoza Delicias (~1h20m, ~€25–40) |
 | **Travel out** | AVE from Zaragoza Delicias → Madrid Atocha (~1h30m, ~€25–40) |
 | **Centre** | Tram L1 from Delicias station → Plaza del Pilar (~20 min, ~€1.35); taxi ~€10 |
-| **Status** | 🔲 Hotel + both AVE trains to book |
+| **Status** | ✅ Apartment booked · 🔲 Both AVE trains still to book |
+
+**House rules:** max 5 guests · no pets · no parties/events · quiet hours 22:00–08:00 · no candles or open flame · no smoke alarm (consider portable detector) · CO alarm present · stairs to apt · Spanish tax authority requires guest ID info — provide via Airbnb before arrival.
+
+**Parking** (if arriving by car — N/A for us since arriving by AVE, but noted for completeness): street parking is free in the area but very limited (historic neighborhood). Paid public lots at Plaza de España, Plaza de El Pilar (both ~10-min walk), or cheapest at **Plaza de los Sitios** ([map](https://goo.gl/maps/YpqTnj14akUpj2H59)). Pedestrian plaza at the door for brief luggage drop only.
+
+> ⚠️ **Itinerary mismatch:** Apartment is only **1 night (Aug 31 → Sep 1 by noon)**. The original plan below was written for **2 nights** with a full Sep 1 in Zaragoza and a Sep 2 morning AVE to Madrid. With the current booking, Sep 1 has to be a half-day (check out by noon → AVE to Madrid in the afternoon), or extend the booking to 2 nights. **Decide before booking AVE tickets.** See chat for options.
 
 ---
 
@@ -1259,28 +1269,4 @@ Taxi or walk back up into the old city (15 min). Segovia's main plaza is quieter
 | ~~**Lisbon apartment**~~ ✅ | Lisbon | Booked | 64 Rua da Bempostinha, Arroios — €579.50 paid, non-refundable |
 | **Oceanário** | Lisbon | 1–2 weeks before | oceanario.pt |
 | ~~**Pena Palace, Sintra**~~ | ~~Lisbon~~ | ~~3–4 weeks before~~ | Sintra day removed — depart Aug 26 |
-| ~~**Quinta da Regaleira, Sintra**~~ | ~~Lisbon~~ | ~~1–2 weeks before~~ | Sintra day removed |
-| ~~**LIS → VLC flight**~~ ✅ | — | Booked | TP1038 LIS→BCN Aug 26, 18:55→21:50 |
-| **Sagrada Família** | Barcelona | ASAP (August is peak) | sagradafamilia.org |
-| **Barcelona hotel** | Barcelona | ASAP | — |
-| **AVE BCN → Zaragoza (Aug 31)** | Zaragoza | 1–2 months ahead for best prices | renfe.com |
-| **Zaragoza hotel (1 night)** | Zaragoza | 1–2 months ahead | booking.com |
-| **AVE Zaragoza → Madrid (Sep 2)** | Madrid | 1–2 months ahead | renfe.com |
-| **Madrid hotel** | Madrid | ASAP | — |
-| **Museo del Prado** | Madrid | 2–4 weeks before | museodelprado.es |
-| **AVE Madrid → Segovia + back (Sep 4)** | Segovia | 1–2 weeks before | renfe.com (~€15–20 each way) |
-| **Cochinillo lunch — Cándido or José María (Sep 4)** | Segovia | 1–2 weeks before | Book by phone or email — fills in summer |
-
----
-
-## 📝 General Notes
-
-- **Baggage:** 0PC checked bags on all TAP flights. Pack light — carry-on only
-- **LIS → VLC** not yet booked. Vueling flies direct ~1h45m; TAP also operates the route. Book ASAP.
-- **Apps:** Bolt (taxis across all cities), Google Maps, local transit apps (Andante for Porto, Viva Viagem for Lisbon, Valencia Metrovalencia card, T-Casual for Barcelona, Metro Madrid)
-- **Cash:** Carry €50–80 at all times; some local spots are cash-only in every city (La Cova Fumada, El Xampanyet, Casa Dani in Madrid)
-- **Kids:** All cities are very family-friendly. Barcelona and Lisbon are easiest (flat areas / Metro). Porto is hilly but short distances. Valencia is flat and very walkable.
-
----
-
-*Last updated: May 2026 · Research: Portoalities blog, Reddit r/porto / r/travel / r/solotravel, TripAdvisor, official city tourism sites*
+| ~~**Quinta da Regaleira, Sin
