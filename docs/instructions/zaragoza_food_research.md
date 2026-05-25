@@ -28,16 +28,14 @@
 
 ---
 
-## 🥩 Must-Try Aragonese Dishes
+## 🏘️ Host's Local Picks (walkable from apartment)
 
-| Dish | What It Is | Where |
-|------|-----------|-------|
-| **Ternasco aragonés** [📍](https://maps.google.com/?q=Ternasco+aragon%C3%A9s+Zaragoza+Spain) | Milk lamb (under 30 days old) — the PDO product of Aragón. Roasted simply with garlic and olive oil. Astonishingly tender. | Casa Lac, La Rinconada |
-| **Migas aragonesas** [📍](https://maps.google.com/?q=Migas+aragonesas+Zaragoza+Spain) | Fried stale breadcrumbs with chorizo, bacon, garlic, and egg. Peasant food elevated to an art form. | Traditional restaurants |
-| **Trenza de Almudévar** [📍](https://maps.google.com/?q=Trenza+de+Almud%C3%A9var+Zaragoza+Spain) | Braided almond pastry — Zaragoza's signature pastry. | Fantoba pastry shop |
-| **Jamón de Teruel** [📍](https://maps.google.com/?q=Jam%C3%B3n+de+Teruel+Zaragoza+Spain) | Teruel (1 hr away) produces Spain's second most famous cured ham (after Jabugo). | Any good bar or restaurant |
-| **Bolaños de La Codoñera** [📍](https://maps.google.com/?q=Bola%C3%B1os+de+La+Codo%C3%B1era+Zaragoza+Spain) | Local small peppers, pickled — perfect with vermouth at a bar | Local bodegas |
+Recommended by Isabel/Jose Luis — the apartment's owners. All within 5–10 min walk of Calle Dr. Alejandro Palomar 38.
 
----
-
-*Stub — May 2026. One-night stopover research. Not yet deeply researched — expand before arrival.*
+| Name | Specialty | Address | Notes |
+|------|-----------|---------|-------|
+| **Bar Gallizo** [📍](https://maps.google.com/?q=Bar+Gallizo+San+Lorenzo+44+Zaragoza+Spain) | Excellent tapas (host pick) | C/ San Lorenzo 44 | Casual neighborhood favourite |
+| **Restaurante El Fuelle** [📍](https://maps.google.com/?q=Restaurante+El+Fuelle+Calle+Mayor+59+Zaragoza+Spain) | Traditional Aragonese | C/ Mayor 59 · tel **976 39 80 33** | Reserve by phone — classic local spot |
+| **El Ángel del Pincho** [📍](https://maps.google.com/?q=El+Angel+del+Pincho+Jordan+Urries+5+Zaragoza+Spain) | *Pajaritos* (small fried birds) + tempura | C/ Jordán de Urríes 5 | Pintxos style |
+| **Bar La Viña** [📍](https://maps.google.com/?q=Bar+La+Vina+Jordan+Urries+3+Zaragoza+Spain) | *Berenjenas con miel* (eggplant with honey) | C/ Jordán de Urríes 3 | Right next to El Ángel del Pincho — easy two-stop crawl |
+| **The Lynx** [📍](https://maps.google.com/?q=The+Lynx+Plaza+Santa+Marta+Zaragoza+Spain) | Local bar (Guardia Civil hangout) | Plaza de Santa Marta | Atmospheric, very loc
