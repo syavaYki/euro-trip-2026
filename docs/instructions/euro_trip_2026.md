@@ -56,7 +56,7 @@
 | Aposentus – Poveiros Terrace View, Rua dos Poveiros | Porto | Aug 20 | Aug 23 | 3 | 5732321948 | ✅ Booked |
 | Apartment — 64 Rua da Bempostinha 5º dto, Arroios | Lisbon | Aug 23 (4PM–10PM) | Aug 27 (by 10AM) | 4 | Booking.com | ✅ Booked · €579.50 paid · Depart Aug 26 evening (apt runs through Aug 27) |
 | TBD | Valencia | Aug 27 | Aug 28 | 1 | — | 🔲 To book |
-| TBD | Barcelona | Aug 28 | Aug 31 | 3 | — | 🔲 To book |
+| AB Sagrada Família Bofill, Eixample (08013) | Barcelona | Aug 26 (15:00) | Aug 31 (by 11:00) | 5 | Booking.com | ✅ Booked |
 | TBD | Zaragoza | Aug 31 | Sep 2 | 1 | — | 🔲 To book |
 | TBD | Madrid | Sep 2 | Sep 5 | 3 | — | 🔲 To book |
 

@@ -1,7 +1,7 @@
 # Barcelona — City Overview
-## Aug 28–31 (3 nights) · Euro Trip 2026
+## Aug 26–31 (5 nights) · Euro Trip 2026
 
-> Arriving by Euromed train from Valencia at 2:50 PM. El Born for the first evening, Sagrada Família on Day 2, Barceloneta + Bunkers on Day 3.
+> Arriving late from Lisbon (TP1038 lands 21:50). First full day Aug 27 — El Born and Gaudí over the next days, Barceloneta + Bunkers before departing Aug 31.
 
 ---
 
@@ -9,12 +9,12 @@
 
 | | |
 |---|---|
-| **Hotel** | TBD — Eixample, El Born, or Gràcia area |
-| **Check-in** | Fri Aug 28 (arrive ~14:50 by Euromed train from Valencia) |
-| **Check-out** | Mon Aug 31 — AVE to Zaragoza |
-| **Travel in** | Euromed VLC → BCN: departs 11:25 → arrives **Barcelona-Sants 14:50** |
+| **Hotel** | **AB Sagrada Família Bofill**, Eixample, 08013 Barcelona |
+| **Check-in** | Wed Aug 26 · 15:00–00:00 (arriving from airport after TP1038 lands 21:50) |
+| **Check-out** | Mon Aug 31 · by 11:00 — AVE to Zaragoza |
+| **Travel in** | TP1038 LIS → BCN: departs 18:55 → lands **21:50** → T1, then Aerobus or taxi to Eixample |
 | **Travel out** | AVE BCN → Zaragoza Delicias (~1h20m, ~€25–40) |
-| **Status** | 🔲 Hotel + Sagrada Família + AVE BCN→ZGZ to book |
+| **Status** | ✅ Hotel booked (Booking.com) · 🔲 Sagrada Família + AVE BCN→ZGZ to book |
 
 ---
 
@@ -58,10 +58,12 @@
 
 | Day | Theme | Highlights |
 |-----|-------|-----------|
-| **Day 1** (Aug 28 – arrive 14:50) | Arrival + El Born | Check in → El Born walk + Santa Maria del Mar → El Xampanyet cava (17:00 opening) → Bar del Pla dinner |
-| **Day 2** (Aug 29) | Gaudí + Gràcia | Sagrada Família 09:00 (pre-booked) + Hospital de Sant Pau + Gràcia evening: vermut + Parking Pizza |
-| **Day 3** (Aug 30) | Barceloneta + Montjuïc | **La Cova Fumada 12:00 sharp!** + Barceloneta beach + Bunkers del Carmel sunset + Carrer de Blai pintxos |
-| **Aug 31** | Depart to Zaragoza | Morning free. Quimet & Quimet 12:00 before leaving. AVE to Zaragoza |
+| **Aug 26** (arrive 21:50) | Arrival night | Land TP1038 → Aerobus/taxi to Eixample → check in → sleep |
+| **Day 1** (Aug 27) | El Born + Gothic Quarter | El Born walk + Santa Maria del Mar → El Xampanyet cava (opens 19:00) → Bar del Pla dinner |
+| **Day 2** (Aug 28) | Gaudí + Gràcia | Sagrada Família 09:00 (pre-booked) + Hospital de Sant Pau + Gràcia evening: vermut + Parking Pizza |
+| **Day 3** (Aug 29) | Barceloneta + Bunkers | **La Cova Fumada 12:00 sharp!** + Barceloneta beach + Bunkers del Carmel sunset + Carrer de Blai pintxos |
+| **Day 4** (Aug 30) | Flex day | Park Güell / Montjuïc / Parc del Laberint / Quimet & Quimet — use the extra time |
+| **Aug 31** | Depart to Zaragoza | Morning free. Quimet & Quimet 12:00 if not done. AVE to Zaragoza (by 11:00 check-out) |
 
 > **Walk-in timing critical:** La Cova Fumada opens 12:00 (closes ~13:15), Quimet & Quimet opens 12:00, El Xampanyet opens 12:00 and 19:00
 
@@ -71,7 +73,7 @@
 
 | Item | Deadline | Where |
 |------|----------|-------|
-| **Barcelona hotel** | ASAP | — |
+| ~~**Barcelona hotel**~~ | ✅ Booked | AB Sagrada Família Bofill, Eixample |
 | **Sagrada Família** | ASAP (August = peak) | sagradafamilia.org |
 | **AVE BCN → Zaragoza (Aug 31)** | 1–2 months ahead | renfe.com |
 
