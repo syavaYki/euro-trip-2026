@@ -7,13 +7,19 @@
 
 | | |
 |---|---|
-| **Hotel** | TBD — Retiro or Salamanca area |
-| **Check-in** | Tue Sep 1 (AVE 4U5NZV arrives Atocha **19:44**) |
-| **Check-out** | Sat Sep 5 — MAD → JFK 10:25 AM |
-| **Travel in** | AVE Zaragoza Delicias → Madrid Atocha (~1h30m) |
-| **Travel out** | AA95: MAD → JFK, Sep 5, departs 10:25, arrives 12:25 |
-| **Airport → city** | Metro L8 → Sol (~35–45 min, ~€5); taxi ~€30 flat rate |
-| **Status** | 🔲 Hotel + Prado tickets to book |
+| **Apartment** | Plenora Alejandro Dumas — C. de Alejandro Dumas 30, Arganzuela, Madrid 28005 |
+| **Booking** | ✅ Booking.com #5149971517 · €671.73 paid in full |
+| **PIN** | 7526 |
+| **Phone** | +34 661 781 481 |
+| **Check-in** | Tue Sep 1 from 15:00 — AVE 4U5NZV arrives Atocha **19:44** → apartment ~20:30 |
+| **Check-out** | Sat Sep 5 by 11:00 ⚠️ Flight 10:25 — leave apartment by **06:45** |
+| **Free cancellation** | Until Aug 26, 2026 11:59 PM CEST (50% charge from Aug 27) |
+| **Key access** | Property will email instructions |
+| **Travel in** | AVE 03162: Zaragoza Delicias → Madrid Atocha, Sep 1 17:48→19:44 (locator **4U5NZV**) |
+| **Travel out** | AA95: MAD → JFK, Sep 5, departs 10:25, arrives 12:25 · Be at MAD T4 by **08:00** |
+| **Atocha → apartment** | Metro (Atocha Cercanías → Legazpi, ~12 min) or taxi ~€10 |
+| **Neighbourhood** | Arganzuela — 15 min walk to Cava Baja, 20 min walk to Palacio Real + Prado. Matadero Madrid 5 min walk. |
+| **Status** | ✅ Apartment booked · 🔲 Prado tickets to book · 🔲 Segovia AVE to book |
 
 ---
 
@@ -68,6 +74,11 @@
 
 | Item | Deadline | Where |
 |------|----------|-------|
-| Madrid hotel (4 nights, Sep 1–5) | ASAP | — |
+| ~~Madrid hotel (4 nights, Sep 1–5)~~ ✅ | Booked | Booking.com #5149971517 |
 | Museo del Prado | 2–4 weeks before | museodelprado.es |
-| AVE Madrid → Segovia + back (Sep 4) | 1–2 
+| AVE Madrid → Segovia + back (Sep 4) | 1–2 weeks before | renfe.com |
+| Cochinillo lunch in Segovia (Sep 4) | 1–2 weeks before | Cándido or José María |
+
+---
+
+> 📁 **Detailed files:** [madrid_food_research.md](madrid_food_research.md) · [madrid_sights_research.md](madrid_sights_research.md)

@@ -1,6 +1,6 @@
 # Euro Trip 2026
 
-- **Destination:** Porto → Lisbon → Valencia → Barcelona → Zaragoza → Madrid (+ Segovia day trip)
+- **Destination:** Porto → Lisbon → Barcelona → Zaragoza → Madrid (+ Segovia day trip)
 - **Dates:** August 19 – September 5, 2026 (18 days)
 - **Travelers:** 4 — Seva, wife, 2 daughters
 - **Status:** Planning in progress
@@ -67,10 +67,9 @@
 |----------|------|----------|-----------|--------|--------------|--------|
 | Aposentus – Poveiros Terrace View, Rua dos Poveiros | Porto | Aug 20 | Aug 23 | 3 | 5732321948 | ✅ Booked |
 | Apartment — 64 Rua da Bempostinha 5º dto, Arroios | Lisbon | Aug 23 (4PM–10PM) | Aug 27 (by 10AM) | 4 | Booking.com | ✅ Booked · €579.50 paid · Depart Aug 26 evening (apt runs through Aug 27) |
-| TBD | Valencia | Aug 27 | Aug 28 | 1 | — | 🔲 To book |
 | AB Sagrada Família Bofill, Eixample (08013) | Barcelona | Aug 26 (15:00) | Aug 31 (by 11:00) | 5 | Booking.com | ✅ Booked |
 | Apartamento Centro 5 PSN Wifi (host: Isabel) — Calle Dr. Alejandro Palomar 38, 2º Izda, 50002 Zaragoza | Zaragoza | Aug 31 (after 16:00) | Sep 1 (by 12:00) | 1 | Airbnb | ✅ Booked · $93.93 (PayPal, scheduled Aug 18) · Free cancel until 16:00 Aug 26 |
-| TBD | Madrid | Sep 1 | Sep 5 | 4 | — | 🔲 To book |
+| Plenora Alejandro Dumas — C. de Alejandro Dumas 30, Arganzuela, Madrid 28005 | Madrid | Sep 1 (from 15:00) | Sep 5 (by 11:00) | 4 | 5149971517 (Booking.com) · PIN 7526 | ✅ Booked · €671.73 paid · Free cancel until Aug 26 |
 
 ---
 
@@ -657,162 +656,6 @@ Per person · 3 full days · excl. accommodation:
 
 ---
 
-## 🇪🇸 Valencia — Aug 27–28 (1 night)
-
-> One night in the birthplace of paella. Meeting friend Vova. Depart by Euromed train to Barcelona at 11:25 AM next morning.
-
-### Logistics
-
-| | |
-|---|---|
-| **Hotel** | TBD — Old Town or Ruzafa area |
-| **Check-in** | Thu Aug 27 (arrive from Lisbon, afternoon) |
-| **Check-out** | Fri Aug 28 — train departs 11:25 AM |
-| **Travel in** | Fly LIS → VLC (Aug 27, TBD — Vueling direct ~1h45m; also TAP) |
-| **Travel out** | **Euromed train VLC → BCN:** departs **València Estació del Nord 11:25 AM → Barcelona-Sants 2:50 PM** (~€57/person) |
-| **Station** | Estació del Nord — beautiful 1917 Modernista building, 15-min walk from Old Town |
-| **Status** | 🔲 LIS→VLC flight + Valencia hotel + Euromed train to book |
-
----
-
-### Evening — Thursday Aug 27 · Arrival from Lisbon
-
-**~16:00 — Airport → Hotel**
-
-| Option | Details | Cost |
-|--------|---------|------|
-| **Metro Lines 3/5** | Airport → Xàtia or Àngel Guimerà → walk to hotel. 30–35 min | ~€5/person |
-| **Taxi** | Airport → hotel. 20–25 min | ~€22 for group |
-
-**17:30 — Barrio del Carmen**
-
-Valencia's bohemian medieval quarter — the best neighbourhood to arrive into. Street art covers nearly every surface. Start at **Torres de Serranos** (14th-century city gate, free exterior), then wander the lanes.
-
-- **Plaça del Tossal** — the neighbourhood heart; locals with dogs and kids
-- **Plaça del Negrito** — outdoor tables, vermouth bars, where Valencia actually lives in the evening
-- Allow 45–60 min; no map needed — just explore
-
-**18:30 — Valencia Cathedral + Holy Grail** ⭐
-
-Valencia's most important and most unusual sight. The Gothic cathedral houses a 1st-century alabaster chalice that Church tradition holds is the **Holy Grail** — the cup used at the Last Supper. Pope Clement III declared it authentic in 1197; it's been venerated here for 600 years. Regardless of belief, it's a remarkably small, beautifully displayed object in a dedicated side chapel.
-
-| | |
-|---|---|
-| Cathedral entry | Free (small donation) |
-| **El Miguelete tower** | €2.50 — 207 steps, best panoramic view over the Old Town |
-| Open until | ~19:30 in August |
-| Allow | 45–60 min |
-
-**19:30 — Plaza de la Virgen** ⭐
-
-The finest square in Valencia, immediately behind the Cathedral. The central **Turia fountain** (Neptune flanked by figures representing the city's irrigation canals) stands on a 2nd-century Roman site. The **Basílica de la Virgen de los Desamparados** on the plaza has a free, frescoed dome — 10 min inside is worth it.
-
-**20:00 — City of Arts and Sciences (exterior at dusk)**
-
-Santiago Calatrava's futuristic complex on the old Turia riverbed — bone-white structures that look landed from another era. The exterior is **completely free** and extraordinary at dusk, when the white buildings catch gold light and reflect in the water pools.
-
-| Option | How | Time |
-|--------|-----|------|
-| Walk through Jardins del Turia (old riverbed park) | 20 min from Cathedral | Scenic route |
-| Taxi/Bolt | 10 min | €7–8 |
-
-Allow 30–40 min to walk and photograph. The Hemisféric (IMAX globe) reflecting in the long pool is the shot.
-
-**21:30 — Dinner with Vova** ⭐
-
-> **Paella note:** Real Valencia paella is a *lunch-only* dish — restaurants that serve paella at 9pm are tourist traps. With a morning departure on Aug 28, there's no window for a proper paella lunch. Best move: creative dinner at Canalla Bistro in Ruzafa.
-
-| Option | Notes | Price |
-|--------|-------|-------|
-| **Canalla Bistro** 🥇 | Ricard Camarena's creative tapas restaurant in Ruzafa — inventive, fun, very popular. **Book ahead** (C/ Maestro Serrano 7) | €25–35/person |
-| **El Rinconet** | Traditional rice dishes + grilled fish, Ruzafa neighbourhood. Walk-in usually fine | €18–25/person |
-| **Mercado de Colón** | Beautiful 1916 Modernista food hall — good for drinks + pintxos if dinner elsewhere | €15–20/person |
-
-> Ruzafa is a 15-min walk from Old Town or €8 taxi. Valencia's best neighbourhood for dinner.
-
----
-
-### Morning — Friday Aug 28 · Before the Train
-
-> ⚠️ Train departs **11:25 AM sharp** from Estació del Nord — be there by 10:50.
-
-**07:00 (optional) — La Malvarrosa Beach**
-
-A quick morning swim is absolutely doable. Metro from Xàtia → Neptú (Lines 4/6, 25 min each way, €1.50/person). The beach is wide, sandy, and empty at 7am. Be back by 09:15.
-
-| | |
-|---|---|
-| Metro | Xàtia → Neptú, Lines 4/6 (~25 min each way) |
-| Cost | €1.50/person each way |
-| Beach | Wide, Atlantic-style, uncrowded at dawn |
-| Back by | 09:15 to stay on schedule |
-
-**09:00 — Horchatería Santa Catalina** ⭐
-
-Since 1836. **Horchata de chufa** — cold drink made from tiger nuts (*chufa*), nutty, slightly sweet, completely non-dairy. Valencia's signature and unique in the world. Order it with **fartons** (soft elongated pastry for dipping). This is not a tourist gimmick — Valencians drink this daily.
-
-| | |
-|---|---|
-| Address | Plaza Santa Catalina 6 (1 block from Cathedral) |
-| Open | From 08:00 |
-| Cost | ~€5/person |
-
-**09:30 — Mercado Central** ⭐
-
-One of the great market buildings of Europe — a 1928 Modernista dome of iron, tile, and stained glass. Open from 07:30, at its best before 11:00. Browse the stalls: paella ingredients, fresh seafood, saffron, cured meats, olives.
-
-| | |
-|---|---|
-| Address | Plaça del Mercat (1 min from Horchatería) |
-| Open | Mon–Sat 07:30–15:00 |
-| Entry | Free |
-| Buy | Train snacks from the charcutería and cheese stalls — they travel well |
-
-**10:15 — Llotja de la Seda** ⭐ *(if skipping the beach)*
-
-UNESCO Gothic trading hall from 1482. The Sala de Contratación has extraordinary **helical columns** that twist to the vaulted ceiling — one of the finest Gothic secular interiors in Spain, and almost empty even in August.
-
-| | |
-|---|---|
-| Address | 10-min walk from Mercado Central |
-| Cost | ~€3/adult, under 12 free |
-| Time | 30–40 min |
-
-**10:50 — Walk or taxi to Estació del Nord**
-
-| Option | Details |
-|--------|---------|
-| Walk | 15 min (flat, straight through the old town) |
-| Taxi/Bolt | 5 min, ~€8 |
-
-**11:25 — Euromed departs → Barcelona-Sants 14:50**
-
----
-
-### Valencia Food Quick-Reference
-
-| Meal | Best Bet | Notes |
-|------|---------|-------|
-| Arrival snack | Agua de Valencia at any bar | Local cocktail: cava + OJ + vodka |
-| Dinner (Aug 27) | Canalla Bistro, Ruzafa | Book ahead — creative Valencian |
-| Breakfast (Aug 28) | Horchatería Santa Catalina | Horchata + fartons — unmissable |
-| Market snacks | Mercado Central | Buy for the train |
-
-### Valencia Must-Book
-
-| Item | Deadline | Where |
-|------|----------|-------|
-| LIS → VLC flight (Aug 27) | ASAP | Vueling / TAP direct |
-| Valencia hotel (1 night) | ASAP | — |
-| Euromed VLC → BCN (Aug 28, 11:25) | 1–2 months ahead | renfe.com (~€57/person) |
-| **Canalla Bistro (dinner Aug 27)** | 1–2 weeks before | canallabistro.com or phone |
-
----
-
-> 📁 **Valencia reference files:** [valencia_food_research.md](valencia_food_research.md) · [valencia_sights_research.md](valencia_sights_research.md)
-
----
-
 ## 🇪🇸 Barcelona — Aug 26–31 (5 nights)
 
 **Best areas:** Eixample (metro access, Gaudí central), Gràcia (village feel, local tapas), El Born (walkable, best restaurants)
@@ -1137,7 +980,24 @@ Metro or taxi to hotel. Late casual dinner near hotel — see Madrid Sep 1 plan.
 
 ## 🇪🇸 Madrid — Sep 1–5 (4 nights)
 
-**Best areas:** Retiro or Salamanca (central, safe, park access)
+### Logistics
+
+| | |
+|---|---|
+| **Apartment** | Plenora Alejandro Dumas — C. de Alejandro Dumas 30, Arganzuela, Madrid 28005 |
+| **Booking** | ✅ Booking.com #5149971517 · €671.73 paid in full |
+| **PIN** | 7526 |
+| **Phone** | +34 661 781 481 |
+| **Check-in** | Tue Sep 1 from 15:00 — AVE arrives Atocha 19:44 → apartment ~20:30 |
+| **Check-out** | Sat Sep 5 by 11:00 ⚠️ Flight 10:25 — leave apartment by **06:45** |
+| **Free cancellation** | Until Aug 26, 2026 11:59 PM CEST (50% charge after Aug 27) |
+| **Key access** | Property will email instructions |
+| **Travel in** | AVE 03162: Zaragoza Delicias → Madrid Atocha, 17:48→19:44 (locator **4U5NZV**) |
+| **Travel out** | AA95: MAD → JFK, Sep 5, 10:25 → 12:25 · Be at T4 (Barajas) by **08:00** |
+| **Atocha → apartment** | Metro (Atocha Cercanías → Legazpi, ~12 min, ~€2) or taxi ~€10 |
+| **Status** | ✅ Apartment booked · 🔲 Prado tickets to book · 🔲 Segovia AVE to book |
+
+> **Neighbourhood:** Arganzuela — just south of La Latina, about 15 min walk to Cava Baja, 20 min walk to Palacio Real and Prado. Matadero Madrid arts centre is a 5-min walk.
 
 ### Sights & Activities
 
@@ -1230,4 +1090,137 @@ Walk uphill from the Aqueduct into the old city (10 min). The **last great Gothi
 
 | | |
 |---|---|
-| C
+| Cost | ~€4/adult |
+| Open | From 09:30 |
+| Allow | 30–40 min |
+
+**11:45 — Jewish Quarter (La Judería)** ⭐
+
+The narrow medieval streets between the Aqueduct and the Cathedral preserve the layout of one of Spain's largest medieval Jewish communities — expelled in 1492 along with all Spanish Jews. Look for the **Corpus Christi convent**, built on the foundations of the main synagogue (the original stonework is still visible). Free wander; 30 min.
+
+**12:30 — Cochinillo Lunch** ⭐⭐
+
+*Cochinillo asado* — whole suckling pig (maximum 21 days old), slow-roasted at low heat until the skin is translucently crisp and the meat falls off the bone. At the table, the waiter carves it using the **edge of a ceramic plate** — the plate is then smashed on the floor to demonstrate the meat's tenderness. This is the only dish in Segovia. You came for this.
+
+**Book well ahead — both main restaurants fill weeks in advance in August/September.**
+
+| Restaurant | Notes | Price |
+|-----------|-------|-------|
+| **Mesón de Cándido** ⭐⭐ | Spain's most celebrated cochinillo restaurant since 1884, directly beneath the Aqueduct arch. Every Spanish president has eaten here. The setting and ceremony are part of the experience | €35–45/person |
+| **Restaurante José María** ⭐⭐ | The critics' pick — more refined and modern, slightly less theatrical. Consistently rated best cochinillo in the city | €35–45/person |
+| **Casa Duque** | The third of the classic trio (since 1895). Good backup if the above are full | €30–40/person |
+
+> *"The plate smashing is real and performed straight-faced. Then you eat the pig and understand why people make the trip just for this."*
+
+**14:30 — Alcázar de Segovia** ⭐⭐
+
+Walt Disney visited Segovia before designing Cinderella Castle — and the resemblance is obvious. The **Alcázar** sits on a dramatic wedge of cliff at the exact confluence of two rivers, with sheer drops on three sides. Built as a royal fortress in the 12th century, rebuilt and expanded through the 16th. The interior shows medieval royal life across 10 rooms.
+
+The real reason to visit: climb the **Torre de Juan II** (148 steps, narrow spiral staircase) for a 360° panorama — the whole old city below, the Guadarrama mountains behind, the Roman Aqueduct in the distance.
+
+| | |
+|---|---|
+| Cost | ~€10/adult; under 6 free; tower included |
+| Allow | 1–1.5 hours |
+| Don't miss | Torre de Juan II climb — the view is extraordinary |
+
+**16:00 — Mirador below the Alcázar** ⭐
+
+Walk down the path from the Alcázar gates into the river valley (10–15 min descent). From the valley floor you get the **classic Segovia postcard shot**: the cliff-face Alcázar towering above the Eresma river, the old city walls on the ridge behind it. This is the most photographed view in the city and most visitors never find it.
+
+| Also nearby | Cost | Notes |
+|------------|------|-------|
+| **Vera Cruz Church** | ~€2 | 12th-century Templar church, 12-sided design. Almost no tourists. The tower has Alcázar views across the valley |
+| **Casa de la Moneda (Royal Mint)** | ~€3 | Spain's first royal mint, on the riverbank — fascinating industrial history; skip if time-pressed |
+
+**17:00 — Plaza Mayor + Ponche Segoviano**
+
+Taxi or walk back up into the old city (15 min). Segovia's main plaza is quieter and more beautiful than most — arcaded, proportioned, almost no chain cafés. Order **ponche segoviano** at any café on the square: layers of sponge, marzipan, and cream — the local pastry that no café would dare not serve.
+
+**17:30 — Taxi to Segovia-Guiomar station**
+
+~€8, 15 min. Catch a train back in the 17:30–18:00 window.
+
+**~18:15 — Arrive Madrid Atocha**
+
+**Evening in Madrid:**
+
+| Activity | What | Notes |
+|----------|------|-------|
+| **Retiro Park rowboats** | Classic Madrid evening — row on the crystal palace lake (€5–8/boat, 45 min) | Metro: Retiro or Atocha |
+| **Churros + chocolate at San Ginés** ⭐ | The farewell-to-Spain churros — thick, doughy, served with dense hot chocolate for dipping. Since 1894. Open 24h | Pasadizo de San Ginés, off C/ Arenal (near Sol) |
+
+---
+
+### Segovia Food Quick-Reference
+
+| Meal | What | Notes |
+|------|------|-------|
+| **Lunch (the only meal)** | *Cochinillo asado* | Book Cándido or José María weeks ahead |
+| Pastry snack | *Ponche segoviano* | Plaza Mayor cafés — afternoon treat |
+| Evening back in Madrid | Churros at San Ginés | The perfect farewell |
+
+### Segovia Must-Book
+
+| Item | Deadline | Where |
+|------|----------|-------|
+| **AVE Madrid → Segovia + back (Sep 4)** | 1–2 weeks before | renfe.com (~€15–20 each way) |
+| **Cochinillo lunch — Cándido or José María** | **1–2 weeks before** | Phone or email — fills every summer |
+
+---
+
+> 📁 **Segovia reference files:** [segovia_food_research.md](segovia_food_research.md) · [segovia_sights_research.md](segovia_sights_research.md)
+
+---
+
+## 💶 Overall Budget Estimate
+
+| Category | Estimate (USD) |
+|----------|----------------|
+| Flights (all 4 segments, 4 pax) | ~$2,400 |
+| Hotels (Porto booked; Lisbon/BCN/MAD TBD) | ~$800–1,200 |
+| Food & restaurants | ~$1,200–1,600 |
+| Activities & sights | ~$400–600 |
+| Local transport | ~$200–300 |
+| Buffer | ~$500 |
+| **Total** | **~$5,500–6,500** |
+
+---
+
+## 📋 Master Must-Book List
+
+| Item | City | Deadline | Where |
+|------|------|----------|-------|
+| **Livraria Lello tickets** | Porto | ASAP | livrarialello.pt |
+| **Taberna dos Mercadores** | Porto | Email now | tabernadosmercadores.com |
+| **Loca (farewell dinner)** | Porto | 2–3 weeks before | Restaurant website |
+| **O Gaveto** | Porto | 1 week before | ogaveto.com |
+| **Escama** | Porto | 1 week before | escamaporto.com |
+| ~~**Lisbon apartment**~~ ✅ | Lisbon | Booked | 64 Rua da Bempostinha, Arroios — €579.50 paid, non-refundable |
+| **Oceanário** | Lisbon | 1–2 weeks before | oceanario.pt |
+| ~~**Pena Palace, Sintra**~~ | ~~Lisbon~~ | ~~3–4 weeks before~~ | Sintra day removed — depart Aug 26 |
+| ~~**Quinta da Regaleira, Sintra**~~ | ~~Lisbon~~ | ~~1–2 weeks before~~ | Sintra day removed |
+| ~~**LIS → BCN flight (TP1038)**~~ ✅ | Barcelona | Booked | TP1038 LIS→BCN Aug 26, 18:55→21:50 |
+| **Sagrada Família** | Barcelona | ASAP (August is peak) | sagradafamilia.org |
+| ~~**Barcelona hotel**~~ ✅ | Barcelona | Booked | AB Sagrada Família Bofill, Eixample 08013 · Booking.com |
+| ~~AVE BCN → Zaragoza (Aug 31 11:00)~~ ✅ | Zaragoza | Booked | Locator **WJXSCF** · Coche 6 · 2A/2B/3A/3B |
+| ~~Zaragoza apartment (1 night)~~ ✅ | Zaragoza | Booked | Airbnb #HM28SJ8P8C — Apartamento Centro 5 PSN Wifi |
+| **Zaragoza online guest registration form** (releases lockbox code) | Zaragoza | A few days before Aug 31 | [u.partee.es link](https://u.partee.es/4396/Oga33Ze0llPQgN7MIWtK3jHpu) |
+| ~~AVE Zaragoza → Madrid (Sep 1 17:48)~~ ✅ | Madrid | Booked | Locator **4U5NZV** · Coche 7 · 2C/2D/3C/3D |
+| ~~**Madrid hotel (4 nights, Sep 1–5)**~~ ✅ | Madrid | Booked | Plenora Alejandro Dumas — C. de Alejandro Dumas 30, Arganzuela · Booking.com #5149971517 · €671.73 paid |
+| **Museo del Prado** | Madrid | 2–4 weeks before | museodelprado.es |
+| **AVE Madrid → Segovia + back (Sep 4)** | Segovia | 1–2 weeks before | renfe.com (~€15–20 each way) |
+| **Cochinillo lunch — Cándido or José María (Sep 4)** | Segovia | 1–2 weeks before | Book by phone or email — fills in summer |
+
+---
+
+## 📝 General Notes
+
+- **Baggage:** 0PC checked bags on all TAP flights. Pack light — carry-on only
+- **Apps:** Bolt (taxis across all cities), Google Maps, local transit apps (Andante for Porto, Viva Viagem for Lisbon, Valencia Metrovalencia card, T-Casual for Barcelona, Metro Madrid)
+- **Cash:** Carry €50–80 at all times; some local spots are cash-only in every city (La Cova Fumada, El Xampanyet, Casa Dani in Madrid)
+- **Kids:** All cities are very family-friendly. Barcelona and Lisbon are easiest (flat areas / Metro). Porto is hilly but short distances. Valencia is flat and very walkable.
+
+---
+
+*Last updated: May 2026 · Research: Portoalities blog, Reddit r/porto / r/travel / r/solotravel, TripAdvisor, official city tourism sites*

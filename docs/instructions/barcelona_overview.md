@@ -74,4 +74,9 @@
 | Item | Deadline | Where |
 |------|----------|-------|
 | ~~**Barcelona hotel**~~ | ✅ Booked | AB Sagrada Família Bofill, Eixample |
-| **Sagrada Família** | ASAP (August = peak) | sagradafamil
+| **Sagrada Família** | ASAP (August = peak) | sagradafamilia.org |
+| ~~**AVE BCN → Zaragoza (Aug 31 11:00)**~~ ✅ Booked | — | Locator **WJXSCF** · Coche 6 · 2A/2B/3A/3B |
+
+---
+
+> 📁 **Detailed files:** [barcelona_food_research.md](barcelona_food_research.md) · [barcelona_sights_research.md](barcelona_sights_research.md)

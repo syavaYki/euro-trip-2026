@@ -90,4 +90,70 @@
 
 > Aljafería at 10:00 opening, checkout at noon, then a full afternoon before the **17:48 AVE**. Pace is relaxed.
 
-**08:30 — Breakfast at Pastelería Fantoba** ⭐. *Trenz
+**08:30 — Breakfast at Pastelería Fantoba** ⭐. *Trenza de Almudévar* — buy two (one now, one for the AVE).
+
+**09:30 — Taxi to La Aljafería** (~10 min, ~€7). Arrive just before 10:00 opening.
+
+**10:00 — La Aljafería Palace** ⭐⭐ — **the reason to stop in Zaragoza**
+
+11th-century Moorish palace, extraordinary Islamic stucco, Catholic Monarchs' throne room. Almost no crowds. €5/adult · allow 1.5h minimum.
+
+**11:30 — Taxi back to apartment** (~€7).
+
+**11:45 — Pack, drop keys.**
+
+**12:00 — Check out** (hard deadline). Stash bags at Delicias lockers on the way out — frees up the afternoon.
+
+**12:30 — Lunch — sit-down (train isn't until 17:48)**
+
+| Option | Notes | Price |
+|--------|-------|-------|
+| **Casa Lac** (lunchtime) | If not yesterday — Spain's oldest restaurant | €25–35 |
+| **La Rinconada de Lorenzo** | Classic *ternasco*, proper dining room | €25–35 |
+| **Restaurante El Fuelle** (host pick) | Reserve 976 39 80 33 | €25–35 |
+| **Mercado de las Artes** | Faster + variety | €15–20 |
+
+**14:00 — La Lonja exterior + Plaza del Pilar daylight.**
+
+**14:30 — El Pilar towers** ⭐ — €5, panoramic Ebro + city views.
+
+**15:15 — Ebro riverside walk.**
+
+**16:00 — Café break + final *trenza*** near the plaza.
+
+**16:45 — Tram L1 or taxi to Delicias** (allow 20–25 min — be at platform 17:25). Pick up bags from locker on the way.
+
+> Access closes 2 min before departure — don't cut it fine.
+
+**17:48 — AVE 03162 Zaragoza Delicias → Madrid Atocha** (locator **4U5NZV** · Coche 7 · 2C/2D/3C/3D · 1h56m).
+
+**19:44 — Arrive Madrid Atocha.** Metro or taxi to hotel. Late dinner near hotel.
+
+---
+
+### Food Quick-Reference
+
+| Meal | Best Bet | Notes |
+|------|---------|-------|
+| Lunch (Aug 31) | *Menú del día* at an Old Town bar | After AVE arrival, before sights |
+| Dinner (Aug 31) | **Casa Lac** ⭐ | Book ahead. Alts: El Fuelle, Bar Gallizo, La Rinconada |
+| Late drink (Aug 31) | El Temple / Bar La Viña / El Ángel del Pincho / The Lynx | Walkable from apt |
+| Breakfast (Sep 1) | **Pastelería Fantoba** | *Trenza* — buy two |
+| Lunch (Sep 1) | Casa Lac (if not yesterday) / El Fuelle / La Rinconada | Sit-down OK — train at 17:48 |
+| Dish to eat | *Ternasco aragonés* | Aragonese milk lamb |
+
+---
+
+### Must-Book / Must-Do Before Arrival
+
+| Item | Status | Where / When |
+|------|--------|--------------|
+| **Online guest registration form** (releases lockbox code) | 🔲 Do a few days before Aug 31 | [u.partee.es link](https://u.partee.es/4396/Oga33Ze0llPQgN7MIWtK3jHpu) — all 4 guests |
+| AVE BCN → Zaragoza (Aug 31 11:00) | ✅ Booked | Locator **WJXSCF** · Coche 6 · 2A/2B/3A/3B |
+| AVE Zaragoza → Madrid (Sep 1 17:48) | ✅ Booked | Locator **4U5NZV** · Coche 7 · 2C/2D/3C/3D |
+| **Casa Lac (dinner Aug 31 or lunch Sep 1)** | 🔲 Book 1 week ahead | Phone or website |
+| Apartment | ✅ Booked | Airbnb #HM28SJ8P8C |
+
+---
+
+> 📁 **Detailed files:** [zaragoza_food_research.md](zaragoza_food_research.md) · [zaragoza_sights_research.md](zaragoza_sights_research.md)
