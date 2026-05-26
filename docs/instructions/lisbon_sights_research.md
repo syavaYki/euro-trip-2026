@@ -241,4 +241,4 @@ Evening: Fado dinner in Alfama — A Tasca do Chico (Mon/Wed only, most authenti
 
 **Essential for 4-day visit (non-negotiable):** Jerónimos Monastery · São Jorge Castle · Alfama district (wander before 10am) · Carmo Convent (open-sky Gothic) · Praça do Comércio at sunset · Oceanarium · Fado experience (dinner or A Tasca do Chico)
 
-**Best free sights:** São Jorge Castle ramparts (peacocks!) · Alfama alleys · Praça do Comércio · MAAT rooftop walk · Casa do Alentejo courtyard · Rua do Capelão tile murals (Mouraria) · Tapada
+**Best free sights:** São Jorge Castle ramparts (peacocks!) · Alfama alleys · Praça do Comércio · MAAT rooftop walk · Casa do Alentejo courtyard · Rua do Capelão tile murals (Mouraria) · Tapada das Necessidades (royal garden, no tourists) · Jardim do Torel (secret

@@ -1133,4 +1133,192 @@ Metro or taxi to hotel. Late casual dinner near hotel — see Madrid Sep 1 plan.
 | **Museo del Prado** | 2–4 weeks ahead | [museodelprado.es](https://www.museodelprado.es/en) |
 | **Palacio Real** | 1–2 weeks ahead | [patrimonionacional.es](https://www.patrimonionacional.es/) |
 | **Avant Madrid CHAMARTÍN ↔ Segovia (Sep 4)** ⚠️ | 1–2 weeks ahead | [renfe.com](https://www.renfe.com/) — **Chamartín** |
-| **Mesón de Cándido** (Sep 4 Segovia lunch) | **2–3 weeks ahead** | +34 921 428 103 · [mesondecandido.es/en/reservations/](https://mesondecandido.es/en/reser
+| **Mesón de Cándido** (Sep 4 Segovia lunch) | **2–3 weeks ahead** | +34 921 428 103 · [mesondecandido.es/en/reservations/](https://mesondecandido.es/en/reservations/) |
+| **Sobrino de Botín** (Sep 2 dinner) | 1–2 weeks ahead | [botin.es](https://botin.es/en/) or +34 91 366 42 17 |
+| **Taberna La Bola** (Sep 3 lunch) | 3–5 days ahead | +34 91 547 69 30 (no online booking) |
+| **Casa Lucio** (Sep 3 dinner alt) | 2 weeks ahead | [casalucio.es](https://www.casalucio.es/) |
+| **Cardamomo flamenco** (optional Day 3 eve) | 1–2 weeks ahead | [cardamomo.es](https://www.cardamomo.es/en/) |
+
+### Madrid Critical Warnings
+
+- ⚠️ **Segovia trains depart Chamartín-Clara Campoamor, NOT Atocha** — older guides may say Atocha
+- ⚠️ **Ermita de San Antonio de la Florida (Goya tomb + frescoes) closed for conservation since Mar 17, 2025** — verify before going
+- ⚠️ **Casa Dani, Casa Labra, and many classics close all of August** for staff holidays — call to confirm hours week of arrival
+- ⚠️ **Sep 5 morning departure:** flight 10:25 from T4 — taxi by 06:45
+- ⚠️ **Pickpockets:** Puerta del Sol, Plaza Mayor, El Rastro, Atocha — bags in front
+
+---
+
+---
+
+> 📁 **Madrid reference files:** [madrid_food_research.md](madrid_food_research.md) · [madrid_sights_research.md](madrid_sights_research.md)
+
+---
+
+## 🇪🇸 Segovia — Sep 4 (day trip from Madrid)
+
+> One of the most perfectly preserved medieval cities in Spain — a **1st-century Roman aqueduct** built without a drop of mortar, a **cliff-top Alcázar** that inspired Disney's Cinderella castle, the **last great Gothic cathedral** built anywhere in Spain, and the dish the whole city exists for: ***cochinillo asado***. **26 min from Madrid Chamartín by Avant.** Mix of essential sights and hidden corners — Templar Vera Cruz, El Parral monastery, Sephardic cemetery on the hillside.
+
+### Logistics
+
+| | |
+|---|---|
+| **Type** | Day trip from Madrid — no hotel |
+| **Depart** | ⚠️ **Avant from Madrid Chamartín-Clara Campoamor → Segovia-Guiomar (NOT Atocha)**. ~26 min, ~€14 each way |
+| **Tickets** | [renfe.com](https://www.renfe.com/) — Avant trains, **Chamartín only**; book 1–2 weeks ahead |
+| **Station → Old City** | **Bus 11** (€2, ~15 min, timed to each Avant) or taxi (~€8). **Do not walk** — 6 km uphill |
+| **Return** | Aim for the 19:00 or 19:30 Avant; trains run roughly hourly |
+| **Apt → Chamartín** | Metro L3 Legazpi → Tribunal → L1 Chamartín (~30 min) or taxi ~€18 |
+
+> ⚠️ The Segovia-Guiomar AVE station is **5–6 km outside town** in a flat development area. **Always Bus 11 or taxi up.** Older guidebooks may say *Atocha → Segovia* — that referred to the old Cercanías (~2 hr), now superseded by the high-speed Avant from Chamartín.
+
+### Day Trip — Thursday Sep 4
+
+**08:00** — Wake; coffee/pastry at apt
+**08:15** — Metro L3 Legazpi → Tribunal → L1 Chamartín (~30 min) or taxi (~€18, 20 min)
+**08:45** — Arrive Chamartín-Clara Campoamor; locate Avant platform
+**~09:00 — Avant departs Chamartín → Segovia-Guiomar** (26 min)
+**09:30** — Bus 11 (€2) or taxi (~€8) to **Plaza del Azoguejo**
+
+**10:00 — Roman Aqueduct** ⭐⭐ (free · 30–45 min)
+
+166 arches, 29 m at its tallest, made of granite blocks fitted **without mortar, without cement, without metal clamps** — pure precision stonecutting from the 1st century AD. Carried water 15 km from the Frío river. **In active use until 1973** — 1,900 years of service. Walk the full length back from Plaza del Azoguejo toward the source; then return underneath. Standing directly beneath an arch and looking up is the moment.
+
+**11:00 — Iglesia de San Martín** [📍](https://maps.google.com/?q=Iglesia+de+San+Mart%C3%ADn+Segovia+Spain) (Romanesque, hidden gem · free · 20 min)
+
+11th-century Romanesque with rare exterior arcaded porch and 13th-century tower. Quiet, dim, ancient. On a square just north of the Aqueduct.
+
+**11:45 — Segovia Cathedral** ⭐ (€4 · 40–50 min)
+
+The **last great Gothic cathedral built in Spain** — begun **1525** after the previous one burned in the Comuneros' revolt. Anachronistically Gothic when Europe was building Renaissance. Beautiful carved walnut choir stalls. Cloister stonework salvaged from the burned predecessor. Daily 09:30–18:30 (last entry 17:45).
+
+**12:35 — Jewish Quarter (La Judería)** ⭐ (free · 30 min)
+
+Segovia had one of Spain's largest medieval Jewish communities before the **1492 expulsion** (the Edicto de Granada was signed by Isabella and Ferdinand in Segovia itself). Walk C/ de la Judería Vieja + C/ de la Judería Nueva. Stop at the **Corpus Christi convent** — built on the foundations of the main synagogue, with the original 13th-century stonework still visible.
+
+**13:30 — Cochinillo Lunch** ⭐⭐ (book 2–3 weeks ahead!)
+
+***Cochinillo asado*** — whole suckling pig (max 4.5 kg dressed weight), slow-roasted in a wood-fired clay oven at 250–280°C for 90–120 minutes until **the skin shatters like glass** and the meat falls off the bone. By tradition the waiter carves it using **the edge of a ceramic plate** — and then **smashes the plate** on the floor to prove the tenderness. The kids' eyes go wide.
+
+| Restaurant | Notes | Price |
+|-----------|-------|-------|
+| **Mesón de Cándido** [📍](https://maps.google.com/?q=Mes%C3%B3n+de+C%C3%A1ndido+Segovia+Spain) ⭐⭐ | **The cochinillo temple — since 1884**, 5 generations of the Cándido family, **directly beneath the Aqueduct arch**. Every Spanish president, 3 monarchs of Spain, Hemingway, Bobby Fischer, Dalai Lama have eaten here. Plate-smashing ceremony performed straight-faced. The setting (5 rooms in a 16th-century inn) is part of the experience. | €40–55/pp |
+| **Restaurante José María** [📍](https://maps.google.com/?q=Restaurante+Jos%C3%A9+Mar%C3%ADa+Segovia+Spain) ⭐⭐ | **The critics' pick** — more refined, less theatrical, considered the best cochinillo in town by the Spanish food press. José María's own-label Ribera del Duero wines. One block from Plaza Mayor. | €40–55/pp |
+| **Casa Duque** [📍](https://maps.google.com/?q=Casa+Duque+Segovia+Spain) | Third of the classic trio (since 1895). Same plate-smashing, rustic stone interior. Good backup. | €30–45/pp |
+| **El Fogón Sefardí** [📍](https://maps.google.com/?q=El+Fog%C3%B3n+Sefard%C3%AD+Segovia+Spain) | Sephardic-influenced (no cochinillo) in the Jewish Quarter — completely different angle. Lamb tagine, eggplant in honey. | €30–40/pp |
+
+Reserve **Mesón de Cándido 13:30**, *cochinillo para 4 personas, cuarto cochinillo cada dos*. Order also **judiones de La Granja** (giant white beans), *sopa castellana*, *ponche segoviano* for dessert. Allow 2 hours.
+
+**Book:** +34 921 428 103 · candido@mesondecandido.es · [mesondecandido.es/en/reservations/](https://mesondecandido.es/en/reservations/)
+
+**15:30 — Alcázar de Segovia** ⭐⭐ (€10/adult, under 6 free · 1.5h)
+
+The castle Walt Disney visited before sketching Cinderella Castle. **Perched on an 80m granite wedge** at the confluence of the Eresma and Clamores rivers. Site of **Isabella's coronation as Queen of Castile (1474)**. Fire-destroyed 1862, faithfully reconstructed. 10 reception rooms — Sala de los Reyes (gallery of all 52 Spanish monarchs), Throne Room, Sala de las Piñas. **The Torre de Juan II climb (152 narrow spiral steps) — best view in central Spain.**
+
+**17:00 — Mirador below the Alcázar** ⭐ (free · 15 min walk down)
+
+Walk down the steep path into the Eresma valley. From the river floor: the **classic Segovia postcard** — Alcázar towering on the cliff above. The most photographed view in town, and most day-trippers miss it.
+
+**17:30 — Iglesia de la Vera Cruz** [📍](https://maps.google.com/?q=Iglesia+de+la+Vera+Cruz+Segovia+Spain) ⭐ (€2.50 · 30 min)
+
+15-min uphill walk from the Mirador (or 5-min taxi). **12-sided Romanesque Templar church** consecrated 1208 — one of the only 12-sided churches in Spain. Once held a fragment of the True Cross. Climb the tower for the best long-distance view back at the Alcázar across the valley. Tue–Sun 10:30–13:30 + 16:00–19:00.
+
+**18:15 — Monasterio de El Parral** (optional · free · 20 min)
+
+5-min walk from Vera Cruz. **Active 15th-century Hieronymite monastery** founded by Enrique IV (Isabella's half-brother). The church is open to visitors; **Gregorian-chant Vespers daily at 19:00 in summer** — singular if you're there.
+
+**19:00 — Plaza Mayor + Ponche Segoviano** at **Pastelería El Alcázar** [📍](https://maps.google.com/?q=Pasteler%C3%ADa+El+Alc%C3%A1zar+Segovia+Spain) (where the ponche was invented in 1926). Café + the city's signature layered pastry.
+
+**19:30 — Taxi to Segovia-Guiomar** (~€8, 15 min). **Be on platform 10 min before** — Renfe closes access 2 min before departure. Aim for 20:00 or 20:35 Avant back.
+
+**~20:30 — Arrive Madrid Chamartín** → metro L1 or taxi back to apt (~€22, 25 min)
+
+**Evening in Madrid:**
+
+| Option | What | Notes |
+|--------|------|-------|
+| **Quiet dinner near apt** (recommended) | El Brillante calamares or Carambola tapas | Walkable, family is tired |
+| **Churros at San Ginés** ⭐ | 24h institution near Sol | The perfect Madrid farewell |
+
+> **Don't book flamenco for Sep 4 evening** — too much after Segovia + cochinillo + Alcázar. If you want flamenco, slot it for Day 3 evening or skip this trip.
+
+### Segovia Food Quick-Reference
+
+| Meal | What | Notes |
+|------|------|-------|
+| **Lunch (the only meal)** | ***Cochinillo asado*** | Book Cándido or José María 2–3 weeks ahead |
+| Side | *Judiones de La Granja* | Giant white beans — Segovia's other signature |
+| Side | *Sopa castellana* | Bread-garlic-paprika-egg soup |
+| Pastry | *Ponche segoviano* | Pastelería El Alcázar (Plaza Mayor) — the inventor |
+| Evening back in Madrid | Churros at San Ginés (24h) | Farewell ritual |
+
+### Segovia Must-Book
+
+| Item | Deadline | Where |
+|------|----------|-------|
+| **Avant Madrid Chamartín ↔ Segovia (Sep 4)** ⚠️ | 1–2 weeks ahead | [renfe.com](https://www.renfe.com/) — Avant from **Chamartín** |
+| **Mesón de Cándido** (or José María) | **2–3 weeks ahead** | +34 921 428 103 · [mesondecandido.es/en/reservations/](https://mesondecandido.es/en/reservations/) |
+| Alcázar de Segovia (skip-queue) | Optional, 1 week | [alcazardesegovia.com](https://www.alcazardesegovia.com/) |
+
+---
+
+> 📁 **Segovia reference files:** [segovia_food_research.md](segovia_food_research.md) · [segovia_sights_research.md](segovia_sights_research.md)
+
+---
+
+## 💶 Overall Budget Estimate
+
+| Category | Estimate (USD) |
+|----------|----------------|
+| Flights (all 4 segments, 4 pax) | ~$2,400 |
+| Hotels (all booked: Porto/Lisbon/BCN/Zaragoza/Madrid) | ~$1,600 (paid) |
+| Food & restaurants | ~$1,200–1,600 |
+| Activities & sights | ~$400–600 |
+| Local transport | ~$200–300 |
+| Buffer | ~$500 |
+| **Total** | **~$5,500–6,500** |
+
+---
+
+## 📋 Master Must-Book List
+
+| Item | City | Deadline | Where |
+|------|------|----------|-------|
+| **Livraria Lello tickets** | Porto | ASAP | livrarialello.pt |
+| **Taberna dos Mercadores** | Porto | Email now | tabernadosmercadores.com |
+| **Loca (farewell dinner)** | Porto | 2–3 weeks before | Restaurant website |
+| **O Gaveto** | Porto | 1 week before | ogaveto.com |
+| **Escama** | Porto | 1 week before | escamaporto.com |
+| ~~**Lisbon apartment**~~ ✅ | Lisbon | Booked | 64 Rua da Bempostinha, Arroios — €579.50 paid, non-refundable |
+| **Oceanário** | Lisbon | 1–2 weeks before | oceanario.pt |
+| ~~**Pena Palace, Sintra**~~ | ~~Lisbon~~ | ~~3–4 weeks before~~ | Sintra day removed — depart Aug 26 |
+| ~~**Quinta da Regaleira, Sintra**~~ | ~~Lisbon~~ | ~~1–2 weeks before~~ | Sintra day removed |
+| ~~**LIS → BCN flight (TP1038)**~~ ✅ | Barcelona | Booked | TP1038 LIS→BCN Aug 26, 18:55→21:50 |
+| **Sagrada Família** | Barcelona | ASAP (August is peak) | sagradafamilia.org |
+| ~~**Barcelona hotel**~~ ✅ | Barcelona | Booked | AB Sagrada Família Bofill, Eixample 08013 · Booking.com |
+| ~~AVE BCN → Zaragoza (Aug 31 11:00)~~ ✅ | Zaragoza | Booked | Locator **WJXSCF** · Coche 6 · 2A/2B/3A/3B |
+| ~~Zaragoza apartment (1 night)~~ ✅ | Zaragoza | Booked | Airbnb #HM28SJ8P8C — Apartamento Centro 5 PSN Wifi |
+| **Zaragoza online guest registration form** (releases lockbox code) | Zaragoza | A few days before Aug 31 | [u.partee.es link](https://u.partee.es/4396/Oga33Ze0llPQgN7MIWtK3jHpu) |
+| ~~AVE Zaragoza → Madrid (Sep 1 17:48)~~ ✅ | Madrid | Booked | Locator **4U5NZV** · Coche 7 · 2C/2D/3C/3D |
+| ~~**Madrid hotel (4 nights, Sep 1–5)**~~ ✅ | Madrid | Booked | Plenora Alejandro Dumas — C. de Alejandro Dumas 30, Arganzuela · Booking.com #5149971517 · €671.73 paid |
+| **Museo del Prado** | Madrid | 2–4 weeks before | [museodelprado.es](https://www.museodelprado.es/en) |
+| **Palacio Real** | Madrid | 1–2 weeks before | [patrimonionacional.es](https://www.patrimonionacional.es/) |
+| **Sobrino de Botín** (Sep 2 dinner) | Madrid | 1–2 weeks before | [botin.es](https://botin.es/en/) or +34 91 366 42 17 |
+| **Taberna La Bola — cocido** (Sep 3 lunch) | Madrid | 3–5 days before | +34 91 547 69 30 (no online booking) |
+| **Casa Lucio — huevos rotos** (alt Sep 3 dinner) | Madrid | 2 weeks before | [casalucio.es](https://www.casalucio.es/) |
+| **Cardamomo flamenco** (optional Day 3 evening) | Madrid | 1–2 weeks before | [cardamomo.es](https://www.cardamomo.es/en/) |
+| **Avant Madrid CHAMARTÍN ↔ Segovia (Sep 4)** ⚠️ | Segovia | 1–2 weeks before | [renfe.com](https://www.renfe.com/) — book Avant from **Chamartín**, not Atocha |
+| **Mesón de Cándido (Sep 4 cochinillo lunch)** | Segovia | **2–3 weeks before** | +34 921 428 103 · candido@mesondecandido.es · [mesondecandido.es/en/reservations/](https://mesondecandido.es/en/reservations/) |
+
+---
+
+## 📝 General Notes
+
+- **Baggage:** 0PC checked bags on all TAP flights. Pack light — carry-on only
+- **Apps:** Bolt (taxis across all cities), Google Maps, local transit apps (Andante for Porto, Viva Viagem for Lisbon, Valencia Metrovalencia card, T-Casual for Barcelona, Metro Madrid)
+- **Cash:** Carry €50–80 at all times; some local spots are cash-only in every city (La Cova Fumada, El Xampanyet, Casa Dani in Madrid)
+- **Kids:** All cities are very family-friendly. Barcelona and Lisbon are easiest (flat areas / Metro). Porto is hilly but short distances. Valencia is flat and very walkable.
+
+---
+
+*Last updated: May 2026 · Research: Portoalities blog, Reddit r/porto / r/travel / r/solotravel, TripAdvisor, official city tourism sites*
