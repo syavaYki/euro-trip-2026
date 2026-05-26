@@ -14,8 +14,8 @@
 | 1 | **Porto** | 🇵🇹 Portugal | Aug 20–23 | 3 | EWR→OPO (TP212, Aug 19 night) | Ribeira, bridges, francesinha, Douro |
 | 2 | **Lisbon** | 🇵🇹 Portugal | Aug 23–26 | 3 | OPO→LIS (TP1921, 09:00) | Alfama, Belém, Parque das Nações |
 | 3 | **Barcelona** | 🇪🇸 Spain | Aug 26–31 | 5 | TP1038 LIS→BCN 18:55→21:50 | Sagrada Família, La Cova Fumada, Bunkers del Carmel |
-| 5 | **Zaragoza** | 🇪🇸 Spain | Aug 31 – Sep 1 | 1 | AVE BCN→ZGZ (~1h20m) | La Aljafería, Basílica del Pilar, Casa Lac |
-| 6 | **Madrid** | 🇪🇸 Spain | Sep 1–5 | 4 | AVE ZGZ→MAD (~1h30m) | Prado, Reina Sofía, Palacio Real |
+| 5 | **Zaragoza** | 🇪🇸 Spain | Aug 31 – Sep 1 | 1 | AVE 03112 BCN→ZGZ 11:00→12:28 (WJXSCF) | La Aljafería, Basílica del Pilar, Casa Lac |
+| 6 | **Madrid** | 🇪🇸 Spain | Sep 1–5 | 4 | AVE 03162 ZGZ→MAD 17:48→19:44 (4U5NZV) | Prado, Reina Sofía, Palacio Real |
 | 7 | **Segovia** | 🇪🇸 Spain | Sep 4 | day trip | AVE MAD→SEG (28 min) | Roman Aqueduct, Alcázar, cochinillo lunch |
 | — | **Home** | 🇺🇸 USA | Sep 5 | — | MAD→JFK (AA95, 10:25) | — |
 
@@ -27,10 +27,10 @@
 | **Aug 20** | Arrive Porto 10:55 |
 | **Aug 23** | Fly Porto → Lisbon (09:00) |
 | **Aug 26** | Fly Lisbon → Barcelona (TP1038, 18:55 → 21:50) |
-| **Aug 31** | AVE Barcelona → Zaragoza (evening) |
-| **Sep 1** | Zaragoza morning (La Aljafería at 10:00) → check out by noon → afternoon AVE → Madrid |
-| **Sep 2** | Madrid: Prado (pre-booked) + Plaza Mayor + Palacio Real |
-| **Sep 3** | Madrid: Reina Sofía + Retiro + Cava Baja tapas |
+| **Aug 31** | AVE Barcelona → Zaragoza, 11:00 → 12:28 — full Zaragoza afternoon + evening |
+| **Sep 1** | Zaragoza: Aljafería at 10:00 → check out noon → afternoon sights → AVE 17:48 → Madrid 19:44 (dinner only) |
+| **Sep 2** | Madrid: Palacio Real + Plaza Mayor + Mercado de San Miguel + Templo de Debod |
+| **Sep 3** | Madrid: Prado (pre-booked) + Reina Sofía + Cava Baja tapas |
 | **Sep 4** | Day trip to Segovia (AVE, 28 min) — cochinillo lunch |
 | **Sep 5** | Fly Madrid → JFK 10:25 AM |
 
@@ -46,6 +46,18 @@
 | 4 | MAD → JFK (American) | Sep 5, 10:25 → 12:25 | AA 95 | Economy | ✅ Booked |
 
 **Booking ref:** Z5SCJS (TAP) · **Ticket:** 047 2524668983 · **Baggage:** 0PC per person — carry-on only on all TAP segments
+
+---
+
+## 🚄 Trains (Renfe AVE)
+
+| # | Route | Date / Time | Train | Locator | Coach / Seats | Total | Status |
+|---|-------|-------------|-------|---------|---------------|-------|--------|
+| 1 | Barcelona-Sants → Zaragoza Delicias | **Aug 31, 11:00 → 12:28** (1h28m) | AVE 03112 ESTÁNDAR | **WJXSCF** | Coche 6 · 2A · 2B · 3A · 3B | €123.80 (4 × €30.95) | ✅ Booked |
+| 2 | Zaragoza Delicias → Madrid Atocha | **Sep 1, 17:48 → 19:44** (1h56m) | AVE 03162 ESTÁNDAR | **4U5NZV** | Coche 7 · 2C · 2D · 3C · 3D | €120.60 (4 × €30.15) | ✅ Booked |
+| 3 | Madrid Atocha ↔ Segovia-Guiomar | Sep 4 — day trip | — | — | — | TBD (~€15–20 × 4 × 2) | 🔲 To book |
+
+> **Boarding:** Renfe closes train access **2 minutes before departure**. Sants and Atocha both have airport-style security (X-ray bags) — arrive at the platform area 20–25 minutes early. Be at **Barcelona-Sants by 10:30** on Aug 31. Be at **Zaragoza Delicias by 17:15** on Sep 1.
 
 ---
 
@@ -860,8 +872,8 @@ Sagrada Família, Park Güell, and Casa Batlló sell out weeks ahead in August.
 | Day 2 (Aug 27) | Explore + orient | El Born walk + Santa Maria del Mar + El Xampanyet cava (17:00 opening) → Bar del Pla dinner |
 | Day 3 (Aug 28) | Gaudí + neighbourhood | Sagrada Família (09:00 — pre-booked) + Hospital de Sant Pau + Gràcia evening: Bodega Quimet vermouth + Parking Pizza |
 | Day 4 (Aug 29) | Barceloneta + Montjuïc | **La Cova Fumada** (12:00 sharp!) + Barceloneta beach + Bunkers del Carmel sunset + Carrer de Blai pintxos |
-| Day 5 (Aug 30) | Flexible day | Park Güell / Casa Batlló / Parc del Laberint d'Horta / Sitges day trip — use the extra day well |
-| Aug 31 | Depart to Zaragoza | Morning free. Quimet & Quimet lunch (12:00!) before leaving. Train to Zaragoza. |
+| Day 5 (Aug 30) | Flexible day + Quimet & Quimet | **Quimet & Quimet lunch (12:00 sharp — opening)** in Poble-sec → afternoon flex: Park Güell / Casa Batlló / Parc del Laberint d'Horta / Sitges day trip |
+| Aug 31 | Depart to Zaragoza | Early breakfast, finalize packing, check out by 11:00, taxi/metro to **Sants by 10:30** → **AVE 11:00** (Coche 6 · seats 2A/2B/3A/3B · locator WJXSCF). No time for sit-down breakfast — grab pastries on the way. |
 
 > **Didn't fit but worth noting:** Park Güell (skip if short on time — do Sagrada Família + Casa Batlló instead), Girona day trip (save for another trip), La Pepita bocadillos, 7 Portes (great for a longer stay)
 
@@ -873,7 +885,7 @@ Sagrada Família, Park Güell, and Casa Batlló sell out weeks ahead in August.
 
 ## 🇪🇸 Zaragoza — Aug 31 – Sep 1 (1 night)
 
-> One night between Barcelona and Madrid. Zaragoza sits exactly halfway on the AVE high-speed rail — an underrated city with a Moorish palace that rivals the Alhambra, Roman ruins beneath the modern streets, and almost no international tourists. Tight visit: arrive Mon evening, La Aljafería first thing Tue, AVE to Madrid same afternoon.
+> One night between Barcelona and Madrid. Zaragoza sits exactly halfway on the AVE high-speed rail — an underrated city with a Moorish palace that rivals the Alhambra, Roman ruins beneath the modern streets, and almost no international tourists. **AVEs booked at both ends**, with a generous afternoon-in / late-afternoon-out shape: arrive Mon ~12:30, La Aljafería at opening Tue, train to Madrid Tue evening. Plenty of time for the full short-list of sights.
 
 ### Logistics
 
@@ -885,12 +897,14 @@ Sagrada Família, Park Güell, and Casa Batlló sell out weeks ahead in August.
 | **Cancellation** | Free until 16:00 on Aug 26; non-refundable after |
 | **Host contact** | Isabel · +34 659 60 06 43 (Jose Luis is co-host — main contact for arrival info) |
 | **🔑 Key access** | Lockbox at apt. **Code is only released after completing the online registration form** for all guests (Spain legal requirement). Form: [u.partee.es/4396/Oga33Ze0llPQgN7MIWtK3jHpu](https://u.partee.es/4396/Oga33Ze0llPQgN7MIWtK3jHpu). **Complete a few days before arrival** — don't leave for the day of. Each guest can fill their own. |
-| **Arrive** | Mon Aug 31 — check-in **after 16:00** (after Barcelona and Quimet & Quimet lunch) |
-| **Check-out** | Tue Sep 1 — **by 12:00 noon** |
-| **Travel in** | AVE from Barcelona Sants → Zaragoza Delicias (~1h20m, ~€25–40) |
-| **Travel out** | AVE from Zaragoza Delicias → Madrid Atocha, Sep 1 mid-afternoon (~1h30m, ~€25–40) |
-| **Centre** | Tram L1 from Delicias station → Plaza del Pilar (~20 min, ~€1.35); taxi ~€10 |
-| **Status** | ✅ Apartment booked · 🔲 Both AVE trains still to book |
+| **Arrive Zaragoza** | Mon Aug 31, **AVE arrives Delicias 12:28** (apartment check-in not until 16:00 — store bags at Delicias lockers in the meantime) |
+| **Check-in** | Mon Aug 31, after 16:00 |
+| **Check-out** | Tue Sep 1, by 12:00 noon |
+| **Depart Zaragoza** | Tue Sep 1, **AVE Delicias 17:48 → Madrid Atocha 19:44** |
+| **Travel in** | AVE 03112 ESTÁNDAR, locator **WJXSCF**, Coche 6 · seats 2A/2B/3A/3B · €30.95 × 4 |
+| **Travel out** | AVE 03162 ESTÁNDAR, locator **4U5NZV**, Coche 7 · seats 2C/2D/3C/3D · €30.15 × 4 |
+| **Delicias ↔ centre** | Tram L1 from Delicias → Plaza del Pilar (~20 min, ~€1.35); taxi ~€10 |
+| **Status** | ✅ Apartment booked · ✅ Both AVE trains booked |
 
 **House rules:** max 5 guests · no pets · no parties/events · quiet hours 22:00–08:00 · no candles or open flame · no smoke alarm (consider portable detector) · CO alarm present · stairs to apt · Spanish tax authority requires guest ID info — provide via Airbnb before arrival.
 
@@ -927,38 +941,79 @@ Sagrada Família, Park Güell, and Casa Batlló sell out weeks ahead in August.
 
 ---
 
-### Arriving — Monday Aug 31 · First Evening
+### Day 1 — Monday Aug 31 · Arrival + Afternoon + Evening
 
-After Quimet & Quimet lunch in Barcelona and the afternoon AVE, you'll arrive Zaragoza early evening.
+> AVE arrives Delicias at 12:28. Apartment check-in isn't until 16:00, so the early afternoon is "bags-stashed roaming." Lots of time for the Roman Caesaraugusta + La Seo + El Pilar interior. La Aljafería is held for tomorrow morning at opening.
 
-**~18:30 — Arrive Zaragoza Delicias → Hotel**
+**12:28 — Arrive Zaragoza Delicias**
+
+Off the AVE. Walk to the **locker bank in the bus station** (same building) and stash bags — €5–8 depending on size. This is the trick that unlocks the whole afternoon.
+
+**12:45 — Delicias → Old Town**
 
 | Option | Details | Cost |
 |--------|---------|------|
-| **Tram L1** | Delicias → Plaza del Pilar in ~20 min | ~€1.35/person |
-| **Taxi** | Delicias → Old Town in 10–15 min | ~€10 |
+| **Tram L1** | Delicias → Plaza del Pilar, ~20 min | ~€1.35/person |
+| **Taxi** | Delicias → Old Town, 10–15 min | ~€10 |
 
-Check in, drop bags. The El Pilar area is immediately walkable from most central hotels.
+**~13:15 — Lunch in Old Town**
 
-**19:00 — Plaza del Pilar + El Pilar exterior**
+| Option | Notes | Price |
+|--------|-------|-------|
+| **Casa Lac** (lunch, not dinner) | If you can shift dinner — they also do a great *menú del día*; book ahead | €25–35/person |
+| **Bar Gallizo** (host pick) | Tapas, C/ San Lorenzo 44 — casual, fast | €15–25/person |
+| Any Old Town bar *menú del día* | 3 courses + wine, best value in Spain | €12–14 |
+| **Mercado de las Artes** | Modern food hall — multiple stands, good for kids who want different things | €15–20/person |
 
-The enormous Baroque **Basílica de Nuestra Señora del Pilar** dominates the Ebro waterfront. Walk the full length of the plaza, then cross to the **Puente de Piedra** (15th-century stone bridge, 5-min walk) for the iconic view: the twin-towered basilica reflecting in the Ebro at golden hour.
+> If you keep Casa Lac for dinner Aug 31 (the historic vibe is best in the evening), do *menú del día* at a bar today.
+
+**14:30 — Museo del Foro de Caesaraugusta** ⭐
+
+Excavated Roman forum preserved underground beneath modern Zaragoza, with an excellent audiovisual reconstruction. Cool, uncrowded.
 
 | | |
 |---|---|
-| Pilar exterior | Free |
-| Towers | €5 — skip tonight, do tomorrow |
+| Cost | €4 (combo with other Roman museums ~€7 — covers Foro + Teatro + Termas + Puerto Fluvial) |
+| Allow | 30–45 min, or 1.5h for the combo |
 
-**19:45 — El Pilar interior** (quick look)
+**15:15 — La Seo Cathedral (Catedral del Salvador)** ⭐
 
-Empty and atmospheric in the evening. The painted central dome is spectacular. Note the two small bullet holes in the south tower facade — unexploded Civil War bombs hit the tower in 1936; Zaragoza treats them as miracles.
+Gothic-Mudéjar cathedral built over the Roman forum and a Moorish mosque — archaeological layers visible in the basement. Mudéjar apse (north face) is one of the finest in Spain. World-class tapestry collection (15th–17th century Flemish) inside.
 
-- Cost: Free; open until ~21:00
-- Allow 20 min
+| | |
+|---|---|
+| Cost | €5/adult |
+| Allow | 30–45 min |
+| Don't miss | Mudéjar north exterior; tapestry museum |
 
-**20:30 — Calle El Temple aperitivo**
+**16:00 — Back to Delicias, grab bags, taxi/tram to apartment**
 
-Zaragoza's pintxos street — a row of bars each with trays of pintxos on the bar. €1.50–2 each. Less famous than Carrer de Blai in Barcelona, more local and unhurried. Good warm-up before dinner.
+Apartment check-in opens at 16:00. Pick up the lockbox code via the online form (must be done in advance — see Must-Do).
+
+**~16:45 — Check in, drop bags, brief rest**
+
+**17:30 — Plaza del Pilar + El Pilar interior**
+
+Walk Plaza del Pilar at evening light scale (156 m long, 67 m wide) — the basilica is staggering from the square. Cross to **Puente de Piedra** (15th-century stone bridge) for the golden-hour Ebro view. Then into **El Pilar interior** — free, open until ~21:00. Painted dome, Civil War bullet holes in the south tower facade (1936 bombs that didn't explode — Zaragoza treats them as miracles).
+
+| | |
+|---|---|
+| Pilar exterior + Puente de Piedra | Free |
+| Pilar interior | Free (allow 20 min) |
+| Pilar towers | €5 — defer to Sep 1 afternoon |
+
+**~19:00 — Ebro riverside walk**
+
+Promenade between El Pilar and Puente de Piedra — locals walk dogs, kids play, the basilica glows in side light.
+
+**20:00 — Aperitivo**
+
+| Option | Notes |
+|--------|-------|
+| **Calle El Temple pintxos street** | Zaragoza's pintxos row — €1.50–2 each, very local |
+| **Bar La Viña** (host pick) | C/ Jordán de Urríes 3 — *berenjenas con miel* |
+| **El Ángel del Pincho** (host pick) | C/ Jordán de Urríes 5 — *pajaritos* + tempura. Right next to La Viña, easy two-stop crawl |
+| **The Lynx** (host pick) | Plaza de Santa Marta — neighborhood bar, no tourists |
 
 **21:30 — Dinner**
 
@@ -974,21 +1029,15 @@ Zaragoza's pintxos street — a row of bars each with trays of pintxos on the ba
 
 ---
 
-### Day — Tuesday Sep 1 · La Aljafería + AVE to Madrid
+### Day 2 — Tuesday Sep 1 · La Aljafería + AVE to Madrid
 
-> Tight half-day. Apartment check-out by **12:00 noon** so the morning is built around La Aljafería at opening, plus one final *trenza* and a Plaza del Pilar daylight walk. Lunch and dinner are in Madrid.
+> Aljafería at 10:00 opening, checkout at noon, then a full afternoon in town before the **17:48 AVE** (locator 4U5NZV). Pace is relaxed — no rush.
 
-**08:00 — Breakfast at Pastelería Fantoba** ⭐
+**08:30 — Breakfast at Pastelería Fantoba** ⭐
 
 *Trenza de Almudévar* — braided almond pastry, Zaragoza's signature sweet, since 1856. **Buy two** — one now, one for the AVE.
 
-**08:45 — Plaza del Pilar in daylight**
-
-Walk the full length of the square — last night's basilica at proper scale, 156 m long, 67 wide. Quick stop at **La Lonja** exterior (16th-century Renaissance merchant exchange) on the plaza. *La Seo Cathedral and Museo del Foro are regrettably skipped on this trip — both are 30–45 min visits and there is no time after the Aljafería.*
-
-**09:30 — Taxi to La Aljafería** (~10 min, ~€7)
-
-Arrive a few minutes before the 10:00 opening.
+**09:30 — Taxi to La Aljafería** (~10 min, ~€7) — arrive a few minutes before the 10:00 opening.
 
 **10:00 — La Aljafería Palace** ⭐⭐ — **the reason to stop in Zaragoza**
 
@@ -1009,30 +1058,53 @@ The undisputed highlight. An **11th-century Moorish palace** built by the Hudid 
 
 **12:00 — Check out** (hard deadline)
 
-> 💡 **Luggage tip:** Don't lug bags around for lunch. Stash them at **Estación Delicias bus station lockers** (same building as the AVE) or [megalockers.com](https://megalockers.com) on the way out. Frees you to do a real Old Town lunch instead of bag-tethered grazing.
+> 💡 **Luggage tip:** Don't lug bags around all afternoon. Stash them at **Estación Delicias bus station lockers** (same building as the AVE) or [megalockers.com](https://megalockers.com) for a few euros — frees you up until ~17:15.
 
-**12:15 — Lunch in Old Town** (light + quick)
+**12:30 — Lunch — sit-down**
+
+Train isn't until 17:48 — you have time for a proper meal.
 
 | Option | Notes | Price |
 |--------|-------|-------|
-| Bar *menú del día* near Plaza del Pilar | 3 courses + wine — best value in Spain. Be picky about how fast — say you have a train | €12–14 |
-| Pintxos on Calle El Temple | Faster — grab 3–4 plus a *caña* | €8–12 |
-| Fantoba pastry + bocadillo | Lightest, easiest to keep moving | <€10 |
+| **Casa Lac** (lunchtime *menú del día*) | If you didn't go for dinner Aug 31. Spain's oldest restaurant — phenomenal | €25–35/person |
+| **La Rinconada de Lorenzo** | Classic *ternasco* + Pyrenean trout in a proper old-school dining room | €25–35/person |
+| **Restaurante El Fuelle** (host pick) | Traditional Aragonese, C/ Mayor 59. Reserve 976 39 80 33 | €25–35/person |
+| **Mercado de las Artes** | Modern food hall — good if you want speed + variety | €15–20/person |
 
-> **Skip the sit-down two-hour lunch** — too risky with a train to catch.
+**14:00 — La Lonja exterior + Plaza del Pilar daylight**
 
-**13:30 — Tram L1 or taxi to Zaragoza Delicias**
+Quick stop at **La Lonja** (16th-century Renaissance merchant exchange) on the plaza. Daylight scale of the basilica is wildly different from last night.
+
+**14:30 — El Pilar towers** ⭐
+
+Climb the tower for panoramic Ebro + old city views. €5.
+
+**15:15 — Ebro riverside walk**
+
+Promenade between El Pilar and Puente de Piedra at full afternoon light. Last view of Zaragoza.
+
+**16:00 — Café break + *trenza***
+
+Sit at a café near the plaza with the second Fantoba *trenza* and a coffee. The trenza you bought this morning is for the train — this is a *third* one if you want, or the one you bought.
+
+**16:45 — Tram L1 or taxi to Delicias** (allow 20–25 min — be at platform 17:25)
 
 | Option | Time | Cost |
 |--------|------|------|
 | Taxi | 10–15 min | ~€10 |
 | Tram L1 from Plaza del Pilar | ~20 min | €1.35/person |
 
-**~14:30 — AVE Zaragoza Delicias → Madrid Atocha**
+> Pick up bags from the locker on the way to the platform. **Access closes 2 minutes before departure** — don't cut it fine.
 
-~1h30m. Aim for an AVE in the **14:00–15:00 window** when booking. Arrive Madrid Atocha ~16:00 — metro or taxi to hotel, settle in, evening at leisure.
+**17:48 — AVE 03162 Zaragoza Delicias → Madrid Atocha**
 
-> **Skipped this trip (no time):** La Seo Cathedral, Museo del Foro de Caesaraugusta, Sep 1 dinner in Zaragoza (now in Madrid), El Pilar towers, Ebro riverside afternoon walk.
+Locator **4U5NZV** · Coche 7 · seats 2C / 2D / 3C / 3D · 1h56m
+
+**19:44 — Arrive Madrid Atocha**
+
+Metro or taxi to hotel. Late casual dinner near hotel — see Madrid Sep 1 plan.
+
+> **Skipped this trip (still no time):** Some of the deeper Roman museum combo (Teatro, Termas, Puerto Fluvial — €7 combo if you want them, fit alongside Foro on Aug 31 afternoon).
 
 ---
 
@@ -1040,21 +1112,22 @@ The undisputed highlight. An **11th-century Moorish palace** built by the Hudid 
 
 | Meal | Best Bet | Notes |
 |------|---------|-------|
-| Dinner (Aug 31) | **Casa Lac** | Book ahead — Spain's oldest restaurant. Walk-in alternatives: Restaurante El Fuelle, Bar Gallizo, La Rinconada |
-| Late drink (Aug 31) | El Temple pintxos / Bar La Viña / El Ángel del Pincho | Walkable from apt |
+| Lunch (Aug 31) | *Menú del día* at an Old Town bar | After AVE arrival, before sightseeing |
+| Dinner (Aug 31) | **Casa Lac** ⭐ | Book ahead — Spain's oldest restaurant. Walk-in alternatives: Restaurante El Fuelle, Bar Gallizo, La Rinconada |
+| Late drink (Aug 31) | El Temple pintxos / Bar La Viña / El Ángel del Pincho / The Lynx | Walkable from apt |
 | Breakfast (Sep 1) | **Pastelería Fantoba** | *Trenza de Almudévar* — buy two (one for now, one for the AVE) |
-| Lunch (Sep 1) | Quick *menú del día* or pintxos — see Sep 1 plan | Don't sit down for two hours, train at ~14:30 |
+| Lunch (Sep 1) | Casa Lac (if not yesterday) or El Fuelle or La Rinconada — **sit-down OK** | Train isn't until 17:48 |
 | Dish to eat | *Ternasco aragonés* | Aragonese milk lamb — the regional speciality |
 
 ### Zaragoza Must-Book / Must-Do Before Arrival
 
-| Item | Deadline | Where |
-|------|----------|-------|
-| **Online guest registration form** (releases lockbox code) | A few days before Aug 31 | [u.partee.es/4396/Oga33Ze0llPQgN7MIWtK3jHpu](https://u.partee.es/4396/Oga33Ze0llPQgN7MIWtK3jHpu) — all 4 guests |
-| AVE BCN → Zaragoza (Aug 31 afternoon) | 1–2 months ahead | renfe.com |
-| **AVE Zaragoza → Madrid (Sep 1 ~14:30)** | 1–2 months ahead | renfe.com — aim for 14:00–15:00 |
-| **Casa Lac (dinner Aug 31)** | 1 week before | Phone or website |
-| Apartment | — | ✅ Already booked (#HM28SJ8P8C) |
+| Item | Status | Where / When |
+|------|--------|--------------|
+| **Online guest registration form** (releases lockbox code) | 🔲 Do a few days before Aug 31 | [u.partee.es/4396/Oga33Ze0llPQgN7MIWtK3jHpu](https://u.partee.es/4396/Oga33Ze0llPQgN7MIWtK3jHpu) — all 4 guests |
+| AVE BCN → Zaragoza (Aug 31 11:00) | ✅ Booked | Locator **WJXSCF** · Coche 6 · 2A/2B/3A/3B |
+| AVE Zaragoza → Madrid (Sep 1 17:48) | ✅ Booked | Locator **4U5NZV** · Coche 7 · 2C/2D/3C/3D |
+| **Casa Lac (dinner Aug 31, or lunch Sep 1)** | 🔲 Book 1 week ahead | Phone or website |
+| Apartment | ✅ Booked | Airbnb #HM28SJ8P8C |
 
 ---
 
@@ -1090,7 +1163,7 @@ The undisputed highlight. An **11th-century Moorish palace** built by the Hudid 
 
 ### Practical Info
 
-- **Arrival from Zaragoza (Sep 1 ~16:00):** AVE Zaragoza → Madrid Atocha (~1h30m)
+- **Arrival from Zaragoza (Sep 1 19:44):** AVE 03162 → Madrid Atocha (locator 4U5NZV)
 - **Airport → city:** Metro L8 → Sol (~35–45 min, ~€5); taxi ~€30 flat rate
 - **Weather:** 24–30°C early Sep, dry, pleasant evenings
 - **Book ahead:** Prado (timed entry), Palacio Real
@@ -1099,7 +1172,7 @@ The undisputed highlight. An **11th-century Moorish palace** built by the Hudid 
 
 | Day | Theme | Highlights |
 |-----|-------|-----------|
-| Day 1 (Sep 1) | Arrival from Zaragoza + soft evening | AVE arrives Atocha ~16:00 → settle into hotel → sunset stroll around Plaza Mayor / Puerta del Sol → casual La Latina tapas dinner |
+| Day 1 (Sep 1) | Late arrival from Zaragoza | AVE arrives Atocha 19:44 → metro/taxi to hotel by ~20:30 → late casual dinner nearby (La Latina or a tapas bar near the hotel) — no big sightseeing tonight |
 | Day 2 (Sep 2) | Royal Madrid | Palacio Real (10:00) + Plaza de Oriente + Plaza Mayor + Mercado de San Miguel lunch + Templo de Debod sunset |
 | Day 3 (Sep 3) | Art + old city | Prado (morning, pre-booked) + Reina Sofía (Guernica) + Cava Baja evening tapas |
 | Day 4 (Sep 4) | **Segovia day trip** ⭐ | AVE Atocha → Segovia (28 min) → Roman Aqueduct + Alcázar + old city + lunch → return → Retiro Park rowboats + churros farewell at San Ginés |
@@ -1157,138 +1230,4 @@ Walk uphill from the Aqueduct into the old city (10 min). The **last great Gothi
 
 | | |
 |---|---|
-| Cost | ~€4/adult |
-| Open | From 09:30 |
-| Allow | 30–40 min |
-
-**11:45 — Jewish Quarter (La Judería)** ⭐
-
-The narrow medieval streets between the Aqueduct and the Cathedral preserve the layout of one of Spain's largest medieval Jewish communities — expelled in 1492 along with all Spanish Jews. Look for the **Corpus Christi convent**, built on the foundations of the main synagogue (the original stonework is still visible). Free wander; 30 min.
-
-**12:30 — Cochinillo Lunch** ⭐⭐
-
-*Cochinillo asado* — whole suckling pig (maximum 21 days old), slow-roasted at low heat until the skin is translucently crisp and the meat falls off the bone. At the table, the waiter carves it using the **edge of a ceramic plate** — the plate is then smashed on the floor to demonstrate the meat's tenderness. This is the only dish in Segovia. You came for this.
-
-**Book well ahead — both main restaurants fill weeks in advance in August/September.**
-
-| Restaurant | Notes | Price |
-|-----------|-------|-------|
-| **Mesón de Cándido** ⭐⭐ | Spain's most celebrated cochinillo restaurant since 1884, directly beneath the Aqueduct arch. Every Spanish president has eaten here. The setting and ceremony are part of the experience | €35–45/person |
-| **Restaurante José María** ⭐⭐ | The critics' pick — more refined and modern, slightly less theatrical. Consistently rated best cochinillo in the city | €35–45/person |
-| **Casa Duque** | The third of the classic trio (since 1895). Good backup if the above are full | €30–40/person |
-
-> *"The plate smashing is real and performed straight-faced. Then you eat the pig and understand why people make the trip just for this."*
-
-**14:30 — Alcázar de Segovia** ⭐⭐
-
-Walt Disney visited Segovia before designing Cinderella Castle — and the resemblance is obvious. The **Alcázar** sits on a dramatic wedge of cliff at the exact confluence of two rivers, with sheer drops on three sides. Built as a royal fortress in the 12th century, rebuilt and expanded through the 16th. The interior shows medieval royal life across 10 rooms.
-
-The real reason to visit: climb the **Torre de Juan II** (148 steps, narrow spiral staircase) for a 360° panorama — the whole old city below, the Guadarrama mountains behind, the Roman Aqueduct in the distance.
-
-| | |
-|---|---|
-| Cost | ~€10/adult; under 6 free; tower included |
-| Allow | 1–1.5 hours |
-| Don't miss | Torre de Juan II climb — the view is extraordinary |
-
-**16:00 — Mirador below the Alcázar** ⭐
-
-Walk down the path from the Alcázar gates into the river valley (10–15 min descent). From the valley floor you get the **classic Segovia postcard shot**: the cliff-face Alcázar towering above the Eresma river, the old city walls on the ridge behind it. This is the most photographed view in the city and most visitors never find it.
-
-| Also nearby | Cost | Notes |
-|------------|------|-------|
-| **Vera Cruz Church** | ~€2 | 12th-century Templar church, 12-sided design. Almost no tourists. The tower has Alcázar views across the valley |
-| **Casa de la Moneda (Royal Mint)** | ~€3 | Spain's first royal mint, on the riverbank — fascinating industrial history; skip if time-pressed |
-
-**17:00 — Plaza Mayor + Ponche Segoviano**
-
-Taxi or walk back up into the old city (15 min). Segovia's main plaza is quieter and more beautiful than most — arcaded, proportioned, almost no chain cafés. Order **ponche segoviano** at any café on the square: layers of sponge, marzipan, and cream — the local pastry that no café would dare not serve.
-
-**17:30 — Taxi to Segovia-Guiomar station**
-
-~€8, 15 min. Catch a train back in the 17:30–18:00 window.
-
-**~18:15 — Arrive Madrid Atocha**
-
-**Evening in Madrid:**
-
-| Activity | What | Notes |
-|----------|------|-------|
-| **Retiro Park rowboats** | Classic Madrid evening — row on the crystal palace lake (€5–8/boat, 45 min) | Metro: Retiro or Atocha |
-| **Churros + chocolate at San Ginés** ⭐ | The farewell-to-Spain churros — thick, doughy, served with dense hot chocolate for dipping. Since 1894. Open 24h | Pasadizo de San Ginés, off C/ Arenal (near Sol) |
-
----
-
-### Segovia Food Quick-Reference
-
-| Meal | What | Notes |
-|------|------|-------|
-| **Lunch (the only meal)** | *Cochinillo asado* | Book Cándido or José María weeks ahead |
-| Pastry snack | *Ponche segoviano* | Plaza Mayor cafés — afternoon treat |
-| Evening back in Madrid | Churros at San Ginés | The perfect farewell |
-
-### Segovia Must-Book
-
-| Item | Deadline | Where |
-|------|----------|-------|
-| **AVE Madrid → Segovia + back (Sep 4)** | 1–2 weeks before | renfe.com (~€15–20 each way) |
-| **Cochinillo lunch — Cándido or José María** | **1–2 weeks before** | Phone or email — fills every summer |
-
----
-
-> 📁 **Segovia reference files:** [segovia_food_research.md](segovia_food_research.md) · [segovia_sights_research.md](segovia_sights_research.md)
-
----
-
-## 💶 Overall Budget Estimate
-
-| Category | Estimate (USD) |
-|----------|----------------|
-| Flights (all 4 segments, 4 pax) | ~$2,400 |
-| Hotels (Porto booked; Lisbon/BCN/MAD TBD) | ~$800–1,200 |
-| Food & restaurants | ~$1,200–1,600 |
-| Activities & sights | ~$400–600 |
-| Local transport | ~$200–300 |
-| Buffer | ~$500 |
-| **Total** | **~$5,500–6,500** |
-
----
-
-## 📋 Master Must-Book List
-
-| Item | City | Deadline | Where |
-|------|------|----------|-------|
-| **Livraria Lello tickets** | Porto | ASAP | livrarialello.pt |
-| **Taberna dos Mercadores** | Porto | Email now | tabernadosmercadores.com |
-| **Loca (farewell dinner)** | Porto | 2–3 weeks before | Restaurant website |
-| **O Gaveto** | Porto | 1 week before | ogaveto.com |
-| **Escama** | Porto | 1 week before | escamaporto.com |
-| ~~**Lisbon apartment**~~ ✅ | Lisbon | Booked | 64 Rua da Bempostinha, Arroios — €579.50 paid, non-refundable |
-| **Oceanário** | Lisbon | 1–2 weeks before | oceanario.pt |
-| ~~**Pena Palace, Sintra**~~ | ~~Lisbon~~ | ~~3–4 weeks before~~ | Sintra day removed — depart Aug 26 |
-| ~~**Quinta da Regaleira, Sintra**~~ | ~~Lisbon~~ | ~~1–2 weeks before~~ | Sintra day removed |
-| ~~**LIS → VLC flight**~~ ✅ | — | Booked | TP1038 LIS→BCN Aug 26, 18:55→21:50 |
-| **Sagrada Família** | Barcelona | ASAP (August is peak) | sagradafamilia.org |
-| **Barcelona hotel** | Barcelona | ASAP | — |
-| **AVE BCN → Zaragoza (Aug 31 afternoon)** | Zaragoza | 1–2 months ahead for best prices | renfe.com |
-| ~~Zaragoza apartment (1 night)~~ ✅ | Zaragoza | Booked | Airbnb #HM28SJ8P8C — Apartamento Centro 5 PSN Wifi |
-| **Zaragoza online guest registration form** (releases lockbox code) | Zaragoza | A few days before Aug 31 | [u.partee.es link](https://u.partee.es/4396/Oga33Ze0llPQgN7MIWtK3jHpu) |
-| **AVE Zaragoza → Madrid (Sep 1 ~14:30)** | Madrid | 1–2 months ahead | renfe.com |
-| **Madrid hotel (4 nights, Sep 1–5)** | Madrid | ASAP | — |
-| **Museo del Prado** | Madrid | 2–4 weeks before | museodelprado.es |
-| **AVE Madrid → Segovia + back (Sep 4)** | Segovia | 1–2 weeks before | renfe.com (~€15–20 each way) |
-| **Cochinillo lunch — Cándido or José María (Sep 4)** | Segovia | 1–2 weeks before | Book by phone or email — fills in summer |
-
----
-
-## 📝 General Notes
-
-- **Baggage:** 0PC checked bags on all TAP flights. Pack light — carry-on only
-- **LIS → VLC** not yet booked. Vueling flies direct ~1h45m; TAP also operates the route. Book ASAP.
-- **Apps:** Bolt (taxis across all cities), Google Maps, local transit apps (Andante for Porto, Viva Viagem for Lisbon, Valencia Metrovalencia card, T-Casual for Barcelona, Metro Madrid)
-- **Cash:** Carry €50–80 at all times; some local spots are cash-only in every city (La Cova Fumada, El Xampanyet, Casa Dani in Madrid)
-- **Kids:** All cities are very family-friendly. Barcelona and Lisbon are easiest (flat areas / Metro). Porto is hilly but short distances. Valencia is flat and very walkable.
-
----
-
-*Last updated: May 2026 · Research: Portoalities blog, Reddit r/porto / r/travel / r/solotravel, TripAdvisor, official city tourism sites*
+| C

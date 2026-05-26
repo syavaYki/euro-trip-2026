@@ -11,7 +11,7 @@
 |---|---|
 | **Hotel** | **AB Sagrada Família Bofill**, Eixample, 08013 Barcelona |
 | **Check-in** | Wed Aug 26 · 15:00–00:00 (arriving from airport after TP1038 lands 21:50) |
-| **Check-out** | Mon Aug 31 · by 11:00 — AVE to Zaragoza |
+| **Check-out** | Mon Aug 31 · by 11:00 — **AVE 11:00 to Zaragoza** (be at Sants by 10:30) |
 | **Travel in** | TP1038 LIS → BCN: departs 18:55 → lands **21:50** → T1, then Aerobus or taxi to Eixample |
 | **Travel out** | AVE BCN → Zaragoza Delicias (~1h20m, ~€25–40) |
 | **Status** | ✅ Hotel booked (Booking.com) · 🔲 Sagrada Família + AVE BCN→ZGZ to book |
@@ -62,8 +62,8 @@
 | **Day 1** (Aug 27) | El Born + Gothic Quarter | El Born walk + Santa Maria del Mar → El Xampanyet cava (opens 19:00) → Bar del Pla dinner |
 | **Day 2** (Aug 28) | Gaudí + Gràcia | Sagrada Família 09:00 (pre-booked) + Hospital de Sant Pau + Gràcia evening: vermut + Parking Pizza |
 | **Day 3** (Aug 29) | Barceloneta + Bunkers | **La Cova Fumada 12:00 sharp!** + Barceloneta beach + Bunkers del Carmel sunset + Carrer de Blai pintxos |
-| **Day 4** (Aug 30) | Flex day | Park Güell / Montjuïc / Parc del Laberint / Quimet & Quimet — use the extra time |
-| **Aug 31** | Depart to Zaragoza | Morning free. Quimet & Quimet 12:00 if not done. AVE to Zaragoza (by 11:00 check-out) |
+| **Day 4** (Aug 30) | Flex day + Quimet & Quimet | **Quimet & Quimet at 12:00 (opening) in Poble-sec** → afternoon flex: Park Güell / Montjuïc / Parc del Laberint / Sitges day trip |
+| **Aug 31** | Depart to Zaragoza | Early breakfast, finalize packing, check out by 11:00. Taxi/metro to **Sants by 10:30**. AVE **11:00** to Zaragoza (locator WJXSCF · Coche 6 · 2A/2B/3A/3B). No time for sit-down breakfast — grab pastries on the way. |
 
 > **Walk-in timing critical:** La Cova Fumada opens 12:00 (closes ~13:15), Quimet & Quimet opens 12:00, El Xampanyet opens 12:00 and 19:00
 
@@ -74,9 +74,4 @@
 | Item | Deadline | Where |
 |------|----------|-------|
 | ~~**Barcelona hotel**~~ | ✅ Booked | AB Sagrada Família Bofill, Eixample |
-| **Sagrada Família** | ASAP (August = peak) | sagradafamilia.org |
-| **AVE BCN → Zaragoza (Aug 31)** | 1–2 months ahead | renfe.com |
-
----
-
-> 📁 **Detailed files:** [barcelona_food_research.md](barcelona_food_research.md) · [barcelona_sights_research.md](barcelona_sights_research.md)
+| **Sagrada Família** | ASAP (August = peak) | sagradafamil

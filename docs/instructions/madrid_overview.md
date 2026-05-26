@@ -8,7 +8,7 @@
 | | |
 |---|---|
 | **Hotel** | TBD — Retiro or Salamanca area |
-| **Check-in** | Tue Sep 1 (arrive from Zaragoza by AVE ~16:00) |
+| **Check-in** | Tue Sep 1 (AVE 4U5NZV arrives Atocha **19:44**) |
 | **Check-out** | Sat Sep 5 — MAD → JFK 10:25 AM |
 | **Travel in** | AVE Zaragoza Delicias → Madrid Atocha (~1h30m) |
 | **Travel out** | AA95: MAD → JFK, Sep 5, departs 10:25, arrives 12:25 |
@@ -54,7 +54,7 @@
 
 | Day | Theme | Highlights |
 |-----|-------|-----------|
-| **Day 1** (Sep 1) | Arrival from Zaragoza | AVE arrives Atocha ~16:00 → settle in → sunset stroll Plaza Mayor / Puerta del Sol → casual La Latina tapas dinner |
+| **Day 1** (Sep 1) | Late arrival from Zaragoza | AVE 4U5NZV arrives Atocha **19:44** → metro/taxi to hotel by ~20:30 → late casual dinner nearby (La Latina or a tapas bar near hotel) — no big sightseeing tonight |
 | **Day 2** (Sep 2) | Royal Madrid | Palacio Real (10:00) + Plaza de Oriente + Plaza Mayor + Mercado de San Miguel lunch + Templo de Debod sunset |
 | **Day 3** (Sep 3) | Art + old city | Prado (morning, pre-booked) + Reina Sofía (Guernica) + Cava Baja evening tapas |
 | **Day 4** (Sep 4) | **Segovia day trip** ⭐ | AVE Atocha → Segovia (28 min) → Roman Aqueduct + Alcázar + cochinillo lunch → return → Retiro Park rowboats + churros farewell at San Ginés |
@@ -70,9 +70,4 @@
 |------|----------|-------|
 | Madrid hotel (4 nights, Sep 1–5) | ASAP | — |
 | Museo del Prado | 2–4 weeks before | museodelprado.es |
-| AVE Madrid → Segovia + back (Sep 4) | 1–2 weeks before | renfe.com |
-| Cochinillo lunch in Segovia (Sep 4) | 1–2 weeks before | Cándido or José María |
-
----
-
-> 📁 **Detailed files:** [madrid_food_research.md](madrid_food_research.md) · [madrid_sights_research.md](madrid_sights_research.md)
+| AVE Madrid → Segovia + back (Sep 4) | 1–2 
