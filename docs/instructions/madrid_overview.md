@@ -1,84 +1,45 @@
 # Madrid — City Overview
 ## Sep 1–5 (4 nights) · Euro Trip 2026
 
+> Arriving from Zaragoza by AVE 19:44 on Sep 1; flying home from MAD on Sep 5 at 10:25. Three full days + a Segovia day trip in the middle. The plan is **Royal Madrid → Art Day → Segovia → light departure morning**, anchored by hidden churches, gelato stops, and an evening at the Templo de Debod.
+
 ---
 
-### Logistics
+## Logistics
 
 | | |
 |---|---|
 | **Apartment** | Plenora Alejandro Dumas — C. de Alejandro Dumas 30, Arganzuela, Madrid 28005 |
 | **Booking** | ✅ Booking.com #5149971517 · €671.73 paid in full |
-| **PIN** | 7526 |
+| **PIN / door code** | **7526** |
 | **Phone** | +34 661 781 481 |
 | **Check-in** | Tue Sep 1 from 15:00 — AVE 4U5NZV arrives Atocha **19:44** → apartment ~20:30 |
-| **Check-out** | Sat Sep 5 by 11:00 ⚠️ Flight 10:25 — leave apartment by **06:45** |
-| **Free cancellation** | Until Aug 26, 2026 11:59 PM CEST (50% charge from Aug 27) |
-| **Key access** | Property will email instructions |
-| **Travel in** | AVE 03162: Zaragoza Delicias → Madrid Atocha, Sep 1 17:48→19:44 (locator **4U5NZV**) |
-| **Travel out** | AA95: MAD → JFK, Sep 5, departs 10:25, arrives 12:25 · Be at MAD T4 by **08:00** |
-| **Atocha → apartment** | Metro (Atocha Cercanías → Legazpi, ~12 min) or taxi ~€10 |
-| **Neighbourhood** | Arganzuela — 15 min walk to Cava Baja, 20 min walk to Palacio Real + Prado. Matadero Madrid 5 min walk. |
-| **Status** | ✅ Apartment booked · 🔲 Prado tickets to book · 🔲 Segovia AVE to book |
+| **Check-out** | Sat Sep 5 by 11:00 ⚠️ Flight 10:25 — **leave apartment by 06:45** |
+| **Free cancellation** | Until Aug 26, 2026 23:59 CEST (50% charge from Aug 27) |
+| **Key access** | Property emails instructions; PIN 7526 |
+| **Travel in** | AVE 03162: Zaragoza Delicias → Madrid Atocha, Sep 1 17:48 → 19:44 (locator **4U5NZV** · Coche 7 · 2C/2D/3C/3D) |
+| **Travel out** | AA 95: MAD T4 → JFK, Sep 5, 10:25 → 12:25 · Be at MAD T4 by **08:00** |
+| **Atocha → apartment** | Metro Línea 1 Atocha Renfe → Atocha → walk; OR taxi flat-rate ~€10 (15 min) |
+| **Apt → Airport (Sep 5)** | Taxi flat rate ~€30 (30 min); leave 06:45 |
+| **Neighbourhood** | **Arganzuela** — south-central, family-friendly, mixed working/middle-class. 15 min walk to La Latina (Cava Baja). 20 min walk to Palacio Real or Prado. **Matadero Madrid + Madrid Río linear park 5 min walk** — great for kid energy. Metro Legazpi (L3/L6) at the door. |
+| **Status** | ✅ Apartment booked · ✅ AVE in booked · ✅ Flight out booked · 🔲 Prado tickets · 🔲 Palacio Real tickets · 🔲 AVE Segovia (Chamartín!) · 🔲 Mesón de Cándido (Segovia lunch) · 🔲 Cardamomo flamenco (Sep 4 evening) |
 
 ---
 
-### Getting Around
+## Getting Around
 
-- **Metro:** Very extensive. Buy a 10-trip Metrobús card (~€12–15). Most sights are metro-accessible.
-- **Weather:** 24–30°C early September, dry, pleasant evenings
-- **Bolt/Uber:** Available city-wide
+- **Metro:** 12 lines, extremely extensive. **10-trip Metrobús card** (~€12.20, shared across 4 people for 2.5 trips each), or single tickets €1.50–2 depending on zone. Atocha + Sol + Legazpi are the relevant stations. Most sights are 1–2 metro stops apart or walking distance.
+- **Walking:** Centre is genuinely walkable. From Legazpi: 15 min to La Latina, 20 min to Palacio Real or Prado, 25 min to Plaza Mayor.
+- **Bolt / Uber / Cabify:** All operate citywide; €5–12 across the centre. Useful with kids tired at end of day.
+- **Airport:** Metro L8 Aeropuerto T4 → Nuevos Ministerios (35 min, €5–6 including airport supplement) — but **on Sep 5 morning a taxi flat-rate €30 from Arganzuela** is the right move.
+- **Weather Sep 1–5:** 26–32°C daytime, 16–19°C at night. Dry. Sunset ~20:15. Pleasant evenings — pack one layer for after dark.
 
 ---
 
-### Key Sights
+## Key Sights
 
 | Sight | Cost | Tips |
 |-------|------|------|
-| **Museo del Prado** ⭐⭐ | ~€15 (under 18 free) | Highlights: Las Meninas, Goya, Bosch. Free Mon–Sat 18:00+. Book timed entry 2–4 weeks ahead |
-| **Museo Reina Sofía** ⭐ | ~€12 (under 18 free) | Guernica + Dalí/Miró rooms. Closed Tue |
-| **Palacio Real** ⭐ | ~€12 (under 5 free) | Arrive 10:00. Throne Room + Royal Armoury. Gardens free |
-| **Parque del Retiro** | Free | Rowboats €5–8, playgrounds, puppet theatre (weekends) |
-| **Plaza Mayor** | Free | Iconic arcaded square. Go early AM or late PM |
-| **Segovia (day trip)** ⭐⭐ | AVE ~€15–20 each way | 28 min from Atocha → Roman Aqueduct + Alcázar + cochinillo lunch. See Segovia tab |
-
----
-
-### Key Restaurants
-
-| Restaurant | Area | Price | Notes |
-|-----------|------|-------|-------|
-| **Chocolatería San Ginés** | Sol/Ópera | € | Iconic churros + chocolate since 1894. Open 24h |
-| **Casa Dani** | Mercado de la Paz | € | Legendary tortilla. Cash only, go early |
-| **La Casa del Abuelo** | Multiple | €€ | Famous gambas al ajillo. Go right at opening |
-| **Flamenco de Leones** | Centro | €€€ | Tapas + flamenco show. Book ahead; earlier sittings best for kids |
-| **Cava Baja** | La Latina | €€ | Best tapas street. Go 17:00–19:00 |
-
----
-
-### Outline Itinerary
-
-| Day | Theme | Highlights |
-|-----|-------|-----------|
-| **Day 1** (Sep 1) | Late arrival from Zaragoza | AVE 4U5NZV arrives Atocha **19:44** → metro/taxi to hotel by ~20:30 → late casual dinner nearby (La Latina or a tapas bar near hotel) — no big sightseeing tonight |
-| **Day 2** (Sep 2) | Royal Madrid | Palacio Real (10:00) + Plaza de Oriente + Plaza Mayor + Mercado de San Miguel lunch + Templo de Debod sunset |
-| **Day 3** (Sep 3) | Art + old city | Prado (morning, pre-booked) + Reina Sofía (Guernica) + Cava Baja evening tapas |
-| **Day 4** (Sep 4) | **Segovia day trip** ⭐ | AVE Atocha → Segovia (28 min) → Roman Aqueduct + Alcázar + cochinillo lunch → return → Retiro Park rowboats + churros farewell at San Ginés |
-| **Day 5** (Sep 5) | Departure | MAD → JFK AA95 departs 10:25 |
-
-> ⚠️ **Sep 5 departure timing:** Flight at 10:25 → be at MAD T4 by 08:00 → metro from city centre by 07:00 → wake by 06:00.
-
----
-
-### Must-Book
-
-| Item | Deadline | Where |
-|------|----------|-------|
-| ~~Madrid hotel (4 nights, Sep 1–5)~~ ✅ | Booked | Booking.com #5149971517 |
-| Museo del Prado | 2–4 weeks before | museodelprado.es |
-| AVE Madrid → Segovia + back (Sep 4) | 1–2 weeks before | renfe.com |
-| Cochinillo lunch in Segovia (Sep 4) | 1–2 weeks before | Cándido or José María |
-
----
-
-> 📁 **Detailed files:** [madrid_food_research.md](madrid_food_research.md) · [madrid_sights_research.md](madrid_sights_research.md)
+| **Museo del Prado** ⭐⭐ | €15 (under 18 free; free Mon–Sat 18:00–20:00) | Book timed entry 2–4 weeks ahead. *Las Meninas*, Goya's Black Paintings, Bosch's *Garden of Earthly Delights* |
+| **Museo Reina Sofía** ⭐ | €12 (under 18 free; free Sat 14:30+ / Sun AM) | *Guernica* + Dalí. Closed Tue |
+| **Palacio Real** ⭐⭐ | €14 (under 5 free) | Arrive 10:00. **Royal Armoury is the kids' hi

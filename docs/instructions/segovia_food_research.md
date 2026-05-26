@@ -1,57 +1,41 @@
 # Segovia — Food & Drink Research
 ## Euro Trip 2026 — Day trip from Madrid (Sep 4)
-### One lunch + afternoon snacks
+### One lunch + afternoon pastry
 
-> Segovia has one dish and you eat it here or you've wasted the trip: **cochinillo asado** — whole roast suckling pig, skin crackling like glass, so tender it's carved with the edge of a plate. This is the dish's spiritual home. Every serious restaurant in Segovia does it. Order it.
+> Segovia has **one dish** and you eat it here or you've wasted the trip: ***cochinillo asado*** — whole roast suckling pig, skin crackling like glass, so tender it's carved with the **edge of a plate**. This is the dish's spiritual home — three rival restaurants have been doing it the same way for over a century each, and there is no better cochinillo in Spain than what's served beneath the Aqueduct.
 
 ---
 
 ## 🐷 The Cochinillo Imperative
 
-**Cochinillo asado** (roast suckling pig, *tostón* in local dialect) is Segovia's defining dish. The pig is 2–3 weeks old, roasted slowly in a wood-fired oven until the skin shatters like ceramic. By tradition, it's served and carved using the edge of a plate — to prove how tender it is — then the plate is smashed. Minimum order is usually a *cuarto* (quarter pig) per table, or individual *ración* at some restaurants.
+***Cochinillo asado*** — also called *tostón* in local dialect — is Segovia's defining dish.
 
-*What to order alongside:*
-- **Judiones de La Granja** — giant white beans from the nearby town of La Granja, slow-cooked with pork or chorizo. Segovia's other signature.
-- **Sopa castellana** — bread, garlic, paprika, egg soup — peasant food perfected
-- **Ponche segoviano** — the local pastry: layered sponge with marzipan and cream, glazed. Get it for dessert or as a café snack.
+**The pig:** 2–3 weeks old, exclusively milk-fed, **maximum 4.5 kg dressed weight**. Bred under the **D.O. Cochinillo de Segovia** (denomination of origin) at small farms in the surrounding countryside.
 
----
+**The cooking:** Slow-roasted in a **wood-fired clay oven** at 250–280°C for 90–120 minutes, sometimes basted with white wine and salt water. The result is **skin so thin and crisp it shatters like glass** (the chefs check it by tapping a knuckle) and meat so tender it requires no knife.
 
-## 🍽️ Restaurants
+**The ceremony at Mesón de Cándido (and Duque):** At the table, the maître d' carves the pig using **the edge of a ceramic plate** — to prove how tender the meat is — and then **smashes the plate** on the floor (or against a stone block). The crash is sharp; the room applauds; the kids' eyes go wide. The carved portion is served immediately to the table.
 
-| Name | Description | What to Order | Price Range | Address | Notes |
-|------|-------------|--------------|-------------|---------|-------|
-| **Mesón de Cándido** [📍](https://maps.google.com/?q=Mes%C3%B3n+de+C%C3%A1ndido+Segovia+Spain) ⭐⭐ | The most famous cochinillo restaurant in Spain — since 1884, on the Aqueduct square. Every Spanish president has eaten here. The plate-smashing ceremony is theatrical. | Cochinillo asado (half or quarter); judiones de La Granja | €35–50/person | Plaza del Azoguejo 5 | Book ahead in summer. Touristy but genuinely excellent. The location under the aqueduct is unbeatable. |
-| **Restaurante José María** [📍](https://maps.google.com/?q=Restaurante+Jos%C3%A9+Mar%C3%ADa+Segovia+Spain) ⭐⭐ | Generally considered the best cochinillo in Segovia by food critics — less theatrical than Cándido, more refined. Old city location. | Cochinillo asado; sopa castellana | €35–50/person | C/ Cronista Lecea 11 | Book ahead. The serious local choice for the dish. |
-| **El Fogón Sefardí** [📍](https://maps.google.com/?q=El+Fog%C3%B3n+Sefard%C3%AD+Segovia+Spain) | Jewish Quarter restaurant in a restored medieval building. Sephardic-influenced cuisine — a completely different angle on Segovia food. | Lamb dishes; eggplant in honey; Sephardic-inspired dishes | €25–35/person | C/ de la Judería Vieja 17 | Atmospheric setting in the old Jewish quarter. |
-| **Casa Duque** [📍](https://maps.google.com/?q=Casa+Duque+Segovia+Spain) | Another historic cochinillo institution since 1895. Rustic stone interior. | Cochinillo; roast lamb | €30–45/person | C/ Cervantes 12 | Third of the classic trio. Good if Cándido and José María are full. |
-| **La Concepción** [📍](https://maps.google.com/?q=La+Concepci%C3%B3n+Segovia+Spain) | More modern, relaxed café-restaurant on the Plaza Mayor. Good for a lighter lunch or coffee and ponche. | Tapas; ponche segoviano; coffee | €15–25/person | Plaza Mayor | Good option if not doing a full cochinillo sit-down. |
+**Portion sizing:**
+- Minimum order is usually **a quarter pig per 2 diners** (1 *cuarto*); for 4 it's **half a pig (medio cochinillo)** or **two cuartos**.
+- Individual *ración* (single plate of carved meat without ceremony) sometimes available at Cándido — check.
+- Confirm portion when reserving — "*cochinillo para 4 personas*".
 
----
+### What to order alongside
 
-## ☕ Snacks & Sweets
-
-| Item | What It Is | Where |
-|------|-----------|-------|
-| **Ponche segoviano** [📍](https://maps.google.com/?q=Ponche+segoviano+Segovia+Spain) | Segovia's signature pastry — sponge + marzipan + cream, lightly glazed. Every pastry shop has it. | Any café on Plaza Mayor or Rúa |
-| **Mazapán** [📍](https://maps.google.com/?q=Mazap%C3%A1n+Segovia+Spain) | Marzipan sweets — less famous than Toledo's but very good | Pastelerías in the old city |
-| **Tostadas with local olive oil** [📍](https://maps.google.com/?q=Tostadas+with+local+olive+oil+Segovia+Spain) | Morning coffee and bread — standard café breakfast | Any café near the aqueduct |
+- **Judiones de La Granja** — giant white beans from **La Granja** (a town 11 km north of Segovia), slow-cooked with chorizo, morcilla, and pork belly. **Segovia's other signature dish** — possibly more local-loved than cochinillo. €10–15 starter.
+- **Sopa castellana** — bread, garlic, paprika, egg, jamón broth. Peasant food perfected. €5–8.
+- **Lechazo asado** — milk lamb (Castilian style, same wood oven) — the alternative for anyone not eating pork.
+- **Ensalada segoviana** — local salad of escarole, tomato, white asparagus, anchovy.
+- **Ponche segoviano** — local pastry for dessert (see Sweets section below).
+- **Local red:** Ribera del Duero or Cigales (just north of Segovia). Or a regional white from Rueda.
 
 ---
 
-## 🍽️ Practical Notes
+## 🍽️ The Three Classic Cochinillo Restaurants
 
-- **Lunch timing:** 14:00–15:30 is peak. Aim to arrive at 13:30 for a table or book ahead (essential at Cándido and José María in summer).
-- **The cochinillo minimum:** Most restaurants require a minimum 2 people for cochinillo — sometimes a quarter pig per 2 pax. Check when booking.
-- **Budget:** A full cochinillo lunch with wine is €35–50/person. Worth it — it's the reason Segovia exists on the food map.
-- **Lighter option:** If the kids don't want the full cochinillo experience, La Concepción on the Plaza Mayor does tapas and individual dishes.
-
----
-
-## Dinner
-
-Day trip only — return to Madrid for dinner. See Madrid food file.
-
----
-
-*Stub — May 2026. Day trip from Madrid Sep 4. One lunch — book cochinillo restaurant ahead.*
+| Name | Description | Must-Order | Price Range | Address | Booking |
+|------|-------------|-----------|-------------|---------|---------|
+| **Mesón de Cándido** [📍](https://maps.google.com/?q=Mes%C3%B3n+de+C%C3%A1ndido+Segovia+Spain) ⭐⭐ | **The cochinillo temple — since 1884.** Run by the Cándido family for 5 generations, directly **beneath the Aqueduct arch** on Plaza del Azoguejo. The original Cándido (Cándido López Sanz, 1903–1992) was named *Mesonero Mayor de Castilla* by the Spanish government and made cochinillo a national export. Every Spanish president, three monarchs of Spain, Hemingway, Bobby Fischer, James Stewart, and the Dalai Lama have eaten here. The setting (5 dining rooms in a 16th-century inn), the **ceremony of the plate**, the food itself — all real. Touristy yes, but the food rivals or beats any rival. Closed only Mon evening. | **Cochinillo asado (cuarto for 2)**; *judiones de La Granja*; *sopa castellana*; *ponche segoviano* | €40–55/person | Plaza del Azoguejo 5, 40001 Segovia | +34 921 428 103 · candido@mesondecandido.es · [mesondecandido.es/en/reservations/](https://mesondecandido.es/en/reservations/) · **Book 2–3 weeks ahead in summer** |
+| **Restaurante José María** [📍](https://maps.google.com/?q=Restaurante+Jos%C3%A9+Mar%C3%ADa+Segovia+Spain) ⭐⭐ | **The critics' pick.** Founded 1982 by José María Ruíz (now run by his sons) — more refined, less theatrical, **considered the best cochinillo in Segovia by food press** (Repsol Sun guide, Michelin recommendation). Set in a beautifully restored 18th-century building one block from the Plaza Mayor. The wine list is the deepest in the city — own-label Ribera del Duero from José María's own vineyard. Less of a plate-smashing show; more of a grown-up restaurant. | **Cochinillo asado**; José María's signature *vinos de su propiedad*; *judiones*; *sopa castellana* | €40–55/person | C/ Cronista Lecea 11, 40001 Segovia | +34 921 461 111 · [restaurantejosemaria.com](https://www.restaurantejosemaria.com/) · **Book 2 weeks ahead** |
+| **Casa Duque** [📍](http

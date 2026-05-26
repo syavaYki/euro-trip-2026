@@ -1,114 +1,81 @@
 # Segovia — City Overview
 ## Sep 4 (day trip from Madrid) · Euro Trip 2026
 
-> One of the most perfectly preserved medieval cities in Spain — a 1st-century Roman aqueduct built without a drop of mortar, a cliff-top Alcázar that inspired Disney's Cinderella castle, and the dish the whole city exists for: *cochinillo asado*. 28 minutes from Madrid by AVE.
+> One of the most perfectly preserved medieval cities in Spain — a **1st-century Roman aqueduct** built without a drop of mortar, a **cliff-top Alcázar** that inspired Disney's Cinderella castle, a Gothic cathedral that's the last great medieval cathedral built in Spain, and the dish the whole city exists for: ***cochinillo asado***. **26 minutes from Madrid Chamartín by Avant train.** Mix of obvious essentials and hidden corners — Templar church, Sephardic cemetery, monastery on the river.
 
 ---
 
-### Logistics
+## Logistics
 
 | | |
 |---|---|
 | **Type** | Day trip from Madrid — no hotel |
-| **Depart Madrid** | AVE from Madrid Atocha → Segovia-Guiomar, ~28 min (~€15–20 each way) |
-| **Station → Old City** | Taxi or bus ~15 min. Taxi ~€8 — **do not walk** (5 km uphill) |
-| **Return** | Aim to taxi to station by 17:15; trains run throughout the afternoon |
-| **Book** | renfe.com — book both legs ahead for fixed prices |
+| **Depart** | ⚠️ **Avant from Madrid Chamartín-Clara Campoamor → Segovia-Guiomar** (NOT Atocha — common mistake). ~26 min, ~€14 each way |
+| **Tickets** | [renfe.com](https://www.renfe.com/) — book Avant 1–2 weeks ahead for fixed prices |
+| **Station → Old City** | **Bus 11** from Segovia-Guiomar to Plaza del Azoguejo (15 min, €2 — bus is timed to meet each Avant), or taxi (~€8, 15 min). **Do not walk** — 6 km uphill |
+| **Return** | Aim for the 19:00 or 19:30 train back; trains run roughly hourly throughout the evening |
+| **Apt → Chamartín** | Metro L10 Legazpi → Tribunal → Chamartín (~30 min) — or taxi ~€18 (20 min in light AM traffic) |
 
-> ⚠️ The AVE station (Segovia-Guiomar) is outside town — always taxi or bus into the old city.
+> ⚠️ **The AVE station (Segovia-Guiomar) is 5km outside town**, in a development area at the bottom of the hill. Always take Bus 11 or a taxi up. The walk is uphill and unpleasant.
 
 ---
 
-### Day Trip — Thursday Sep 4
+## Day Trip — Thursday Sep 4
 
-**09:00 — Madrid Atocha**
+### Morning Train
 
-Arrive by 09:00. Train tickets booked in advance on renfe.com.
+| Time | What |
+|------|------|
+| 08:00 | Wake; coffee + pastry at the apt or quick stop at Pastelería Nunos en route |
+| 08:15 | Metro L3 Legazpi → Tribunal (5 stops, ~12 min) → L1 to Chamartín (4 stops, ~10 min) — total ~30 min; or **taxi ~€18, 20 min in morning traffic** |
+| 08:45 | Arrive Chamartín-Clara Campoamor station — locate Avant platform (downstairs) |
+| ~09:00 | **Avant departs Chamartín → Segovia-Guiomar** (or 09:15 if 09:00 sold out — both are 26 min) |
+| 09:26 | Arrive Segovia-Guiomar |
+| 09:30 | **Bus 11** (€2) or taxi (~€8) to Plaza del Azoguejo / old city |
+
+> 🎫 **Book the return train at the same time.** Aim for **19:00 or 19:30 Avant** Segovia-Guiomar → Madrid Chamartín — gives a full but relaxed day.
+
+---
+
+### 10:00 — Roman Aqueduct ⭐⭐
+
+You exit the bus at **Plaza del Azoguejo** and look up. **166 arches, 29 metres at its highest point**, made of granite blocks fitted together without mortar, without cement, without a single drop of any binder — pure precision stonecutting from the 1st century AD. It carried water 15 km from the Frío river and **was in active use until 1973** — still working after 1,900 years.
+
+Walk the **full length** from Plaza del Azoguejo back along the rising arches toward the source, then return underneath. The scale only registers when you walk both views. Standing directly beneath an arch and looking up is the moment.
 
 | | |
 |---|---|
-| Depart | Madrid Atocha ~09:30 |
-| Arrive | Segovia-Guiomar ~09:58 (28 min) |
-| Taxi to old city | ~€8, 15 min |
+| Cost | Free, always |
+| Allow | 30–45 min |
+| Photo angle | Approach via C/ del Carmen for the staggered-arches view |
 
-**10:15 — Roman Aqueduct** ⭐⭐
+---
 
-**166 arches, 29 metres high**, built in the 1st century AD without mortar — pure precision stonecutting. Walk the full length from the far end toward the main arch at **Plaza del Azoguejo**. Stand underneath and look up. Morning light hits the stone perfectly.
+### 11:00 — Walk up into the Old City
 
-- Cost: Free · Allow 30–45 min
+Climb the medieval staircase (the **Postigo del Consuelo**) on the right side of the Aqueduct — opens immediately into the old town's quieter back streets. Or walk up gradually via Calle de Cervantes. 10 min uphill.
 
-**11:00 — Segovia Cathedral** ⭐
+---
 
-The last Gothic cathedral built in Spain, begun 1525. Beautiful carved choir stalls. ~€4/adult. Allow 30–40 min.
+### 11:15 — Iglesia de San Martín (hidden church gem)
 
-**11:45 — Jewish Quarter (La Judería)**
+A short detour at the top — **Iglesia de San Martín** [📍](https://maps.google.com/?q=Iglesia+de+San+Mart%C3%ADn+Segovia+Spain), an 11th-century Romanesque church with an exterior arcaded porch (one of the only ones surviving in central Spain) and a 13th-century tower. Free interior usually 10:30–13:30. Quiet, dim, ancient. 20 min.
 
-Narrow medieval streets between the Aqueduct and Cathedral — one of Spain's best-preserved. Look for the Corpus Christi convent built on the site of the synagogue. Free wander, 30 min.
+---
 
-**12:30 — Cochinillo Lunch** ⭐⭐
+### 11:45 — Segovia Cathedral ⭐
 
-*Cochinillo asado* — whole suckling pig slow-roasted until the skin is crackly and translucent. Carved at the table with the **edge of a ceramic plate**, which is then smashed on the floor. **The only dish to order in Segovia.**
-
-**Book weeks ahead — both main restaurants fill in summer.**
-
-| Restaurant | Notes | Price |
-|-----------|-------|-------|
-| **Mesón de Cándido** ⭐⭐ | Since 1884, right under the Aqueduct arch. Every Spanish president has eaten here | €35–45/person |
-| **Restaurante José María** ⭐⭐ | Critics' pick — more refined. Book ahead | €35–45/person |
-| **Casa Duque** | Third classic, since 1895. Good backup | €30–40/person |
-
-**14:30 — Alcázar de Segovia** ⭐⭐
-
-Disney's Cinderella Castle inspiration. Perched on a cliff at the confluence of two rivers. Climb the **Torre de Juan II** (148 steps, narrow spiral staircase) for a 360° panorama — the whole old city, the Guadarrama mountains, the Roman Aqueduct in the distance.
+The **last great Gothic cathedral built in Spain** — begun **1525** after the previous one was burned in the Comuneros' revolt against Charles V. Pointed arches and ribbed vaults inside, **flying buttresses outside** — already an anachronism in 1525 when the rest of Europe was building Renaissance. Beautiful carved walnut choir stalls. Cloister reused from the burned predecessor cathedral.
 
 | | |
 |---|---|
-| Cost | ~€10/adult; under 6 free; tower included |
-| Allow | 1–1.5 hours |
-
-**16:00 — Mirador below the Alcázar** ⭐
-
-Walk down to the river valley for the classic **postcard view**: Alcázar on the cliff reflected in the Eresma river below. Most visitors never find it.
-
-| Also nearby | Cost | Notes |
-|------------|------|-------|
-| **Vera Cruz Church** | ~€2 | 12th-century Templar church, 12-sided design. Almost no tourists. Tower has Alcázar views |
-| **Casa de la Moneda** | ~€3 | Spain's first royal mint — skip if time-pressed |
-
-**17:00 — Plaza Mayor + Ponche Segoviano**
-
-Segovia's gorgeous main square. Try **ponche segoviano** (layers of sponge, marzipan, and cream — the local pastry) at any café.
-
-**17:30 — Taxi to Segovia-Guiomar → AVE back to Madrid**
-
-~€8 taxi, 15 min. Aim for a 17:45–18:00 train. Arrive Madrid ~18:15.
-
-**Evening in Madrid:**
-
-| Activity | What | Notes |
-|----------|------|-------|
-| **Retiro Park rowboats** | Row on the lake (€5–8/boat, 45 min) | Metro: Retiro or Atocha |
-| **Churros at San Ginés** ⭐ | Farewell churros + chocolate. Open 24h since 1894 | Pasadizo de San Ginés, near Sol |
+| Cost | €4/adult; under 14 free |
+| Hours | Daily 09:30–18:30 (last entry 17:45) |
+| Allow | 40–50 min |
+| Don't miss | Cloister; carved choir stalls; the *Tríptico de las Ánimas* by Ambrosius Benson |
 
 ---
 
-### Food Quick-Reference
+### 12:35 — Jewish Quarter (La Judería) wander ⭐
 
-| Meal | What | Notes |
-|------|------|-------|
-| **Lunch (the only meal)** | *Cochinillo asado* | Book Cándido or José María weeks ahead |
-| Pastry snack | *Ponche segoviano* | Plaza Mayor cafés — afternoon treat |
-| Evening back in Madrid | Churros at San Ginés | The perfect farewell |
-
----
-
-### Must-Book
-
-| Item | Deadline | Where |
-|------|----------|-------|
-| **AVE Madrid → Segovia + back (Sep 4)** | 1–2 weeks before | renfe.com (~€15–20 each way) |
-| **Cochinillo lunch — Cándido or José María** | **1–2 weeks before** | Phone or email — fills every summer |
-
----
-
-> 📁 **Detailed files:** [segovia_food_research.md](segovia_food_research.md) · [segovia_sights_research.md](segovia_sights_research.md)
+Segovia had **one of Spain's largest medieval Jewish communities** before the 1492 expulsion. The streets between the Cathedral and the Alcázar preserve the medieval Jewish layout. Walk **C/ de la Judería Vieja** and **C/ de la Judería Nueva** — narrow cobbled lanes, low whitewashed houses, the occasiona
