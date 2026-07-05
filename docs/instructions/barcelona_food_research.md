@@ -1,5 +1,5 @@
 # Barcelona Food & Drink Research
-## Euro Trip 2026 — Aug 28–31 (3 nights, arriving by train from Valencia)
+## Euro Trip 2026 — Aug 26–31 (5 nights, arriving by flight from Lisbon)
 ### Family of 4: Seva, wife, 2 daughters (ages 16 & 18)
 
 > ✅ *Full research — sourced from "100 Authentic Local Tascas & Restaurants," local expat YouTube transcript, Reddit r/barcelona, Spotted by Locals, Time Out Barcelona, and Devour Tours guides.*

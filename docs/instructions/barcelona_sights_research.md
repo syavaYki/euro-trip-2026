@@ -1,6 +1,6 @@
 # Barcelona — Sights & Things to Do
 ## Full Research: Main Attractions + Hidden Gems + Neighbourhoods + Day Trips
-### Euro Trip 2026 · Family of 4 · Aug 28–31 (3 nights, arriving by Euromed train from Valencia)
+### Euro Trip 2026 · Family of 4 · Aug 26–31 (5 nights, arriving by flight TP1038 from Lisbon)
 
 ---
 
@@ -148,6 +148,20 @@
 > **Pickpocket zones:** Las Ramblas + Gothic Quarter + Boqueria + busy metro stations (L1 Sagrada Família, L3 Drassanes). Keep bags in front, phones in pockets. The upper city (Sant Gervasi, Gràcia, Eixample) is safe at all hours.
 
 ---
+
+## ⛪ Churches & Monasteries (family favourites)
+
+> Added for the church/monastery-loving crew. **Day 4** threads three Old-City churches on foot; **Montserrat (Day 3)** and **Girona (Day 5, Option A)** are monastery/cathedral day trips; **Pedralbes / Sagrat Cor (Day 5, Option B)**.
+
+| Place | What to look for | Cost | Notes |
+|-------|------------------|------|-------|
+| **Catedral de Barcelona (La Seu)** [📍](https://maps.google.com/?q=Barcelona+Cathedral+La+Seu+Spain) | Gothic cathedral; cloister with **13 geese**; rooftop | ~€11 | Mon–Sat 09:30–18:30; Sun mornings closed to tourists |
+| **Basílica de Santa Maria del Pi** [📍](https://maps.google.com/?q=Basilica+de+Santa+Maria+del+Pi+Barcelona+Spain) | Catalan Gothic; huge rose window; Plaça del Pi | ~€5 | Mon–Sat 10:00–20:00, Sun from 13:00 |
+| **Basílica de Santa Maria del Mar** [📍](https://maps.google.com/?q=Santa+Maria+del+Mar+Barcelona+Spain) | "Cathedral of the Sea" — purest Catalan Gothic, all light | Free | El Born; visit morning for the rose-window light |
+| **Montserrat — Basilica & La Moreneta** [📍](https://maps.google.com/?q=Montserrat+Monastery+Basilica+Spain) | Benedictine monastery; **Black Madonna**; **boys' choir 13:00 (weekdays)** | Monastery free | Day 3; FGC R5 from Pl. d'Espanya + cable car/rack railway |
+| **Temple del Sagrat Cor (Tibidabo)** [📍](https://maps.google.com/?q=Temple+del+Sagrat+Cor+Tibidabo+Barcelona+Spain) | Mountaintop basilica; lift to the Sacred Heart statue = **biggest city view** | Church free; lift ~€4 | Day 5 Option B; Tramvia Blau / funicular |
+| **Monestir de Pedralbes** [📍](https://maps.google.com/?q=Monestir+de+Pedralbes+Barcelona+Spain) | 14th-c Gothic monastery; three-storey cloister | €5 | **Closed Mon**; free 1st Sun |
+| **Girona Cathedral + Sant Pere de Galligants** [📍](https://maps.google.com/?q=Girona+Cathedral+Spain) | Widest Gothic nave in the world + Romanesque monastery | ~€7 / €6 | Day 5 Option A day trip (38 min by AVE) |
 
 ## 📋 Barcelona Sights — Quick-Pick by Category
 

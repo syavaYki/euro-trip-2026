@@ -1,5 +1,5 @@
 # Lisbon — Sights & Experiences Research
-## Euro Trip 2026 — Aug 23–27 (4 nights, ~4 full days)
+## Euro Trip 2026 — Aug 23–26 (3 nights · apt paid through Aug 27, ~3.5 days)
 ### Family of 4: Seva, wife, 2 daughters
 
 ---
@@ -231,11 +231,23 @@ Evening: Fado dinner in Alfama — A Tasca do Chico (Mon/Wed only, most authenti
 
 **Tickets to pre-book:** Pena Palace family ticket (book 3–4 weeks ahead for August — sells out). Quinta da Regaleira online (recommended).
 
-**On Aug 26:** Last full day in Lisbon — pack and explore neighbourhood in the morning, light lunch, then TP1038 LIS → BCN at 18:55 (be at LIS T1 by 17:00). ✅ Booked. (Valencia removed from itinerary.)
+**On Aug 26:** Last full day in Lisbon — pack and explore neighbourhood in the morning, light lunch, then TP1038 LIS → BCN at 18:55 (be at LIS T1 by 17:00). ✅ Booked.
 
 ---
 
 ---
+
+## ⛪ Churches, Monasteries & a Cemetery (family favourites)
+
+> Added for the church/cemetery-loving crew. All sequenced into **Day 3 (Tue Aug 25)** in the master itinerary — Tuesday threads the Sun/Mon closures. (Jerónimos is in Main Attractions; Pena in Sintra was built on a Hieronymite monastery.)
+
+| Place | What to look for | Cost | Notes |
+|-------|------------------|------|-------|
+| **Mosteiro de São Vicente de Fora** [📍](https://maps.google.com/?q=Mosteiro+de+Sao+Vicente+de+Fora+Lisbon+Portugal) | Azulejo cloister + the **Bragança Royal Pantheon** (kings & queens) + Alfama rooftop | €8 | Daily ~10:00–19:00 (summer). Feira da Ladra market outside Tue & Sat |
+| **Panteão Nacional (Santa Engrácia)** [📍](https://maps.google.com/?q=Panteao+Nacional+Santa+Engracia+Lisbon+Portugal) | Vast baroque dome; tomb of fado legend **Amália Rodrigues**; dome-terrace 360° view | €4 | **Closed Mon.** Apr–Sep 10:00–18:00 |
+| **Igreja de São Roque** [📍](https://maps.google.com/?q=Igreja+de+Sao+Roque+Lisbon+Portugal) | Plain façade hiding the gilded **Chapel of St John the Baptist** (built in Rome) | Free (museum €2.50) | **Closed Mon.** Tue–Sun 10:00–18:00 |
+| **Sé de Lisboa (Cathedral)** [📍](https://maps.google.com/?q=Se+de+Lisboa+Cathedral+Lisbon+Portugal) | Fortress-like 1147 cathedral, the city's oldest; cloister excavations | Free / €5 cloister | **Closed Sun.** Jun–Oct Mon–Sat 09:30–19:00 |
+| **Cemitério dos Prazeres** [📍](https://maps.google.com/?q=Cemiterio+dos+Prazeres+Lisbon+Portugal) | Cypress-lined "streets" of mausoleums; the giant Palmela tomb; bridge views | Free | Daily 09:00–18:00. Tram 28/25 |
 
 ## 📋 Lisbon Sights — Quick-Pick by Category
 

@@ -1,5 +1,5 @@
 # Lisbon — City Overview
-## Aug 23–27 (4 nights) · Euro Trip 2026
+## Aug 23–26 · 3 nights (apartment paid through Aug 27) · Euro Trip 2026
 
 ---
 
@@ -8,81 +8,83 @@
 | | |
 |---|---|
 | **Apartment** | 64 Rua da Bempostinha 5º direito, Arroios, 1150-067 Lisbon |
-| **Check-in** | Sun Aug 23 · 4:00 PM–10:00 PM ⚠️ Flight lands 09:55 — ~6 hrs before check-in |
-| **Check-out** | Thu Aug 27 · by 10:00 AM (but physically depart Aug 26 evening — apt paid through Aug 27) |
+| **Check-in** | Sun Aug 23 · 16:00–22:00 ⚠️ Flight lands 09:55 — ~6 hrs before check-in |
+| **Check-out** | Thu Aug 27 by 10:00 — but **physically depart Wed Aug 26 evening** (apt paid through Aug 27) |
 | **Phone** | +351 925 360 038 |
-| **Booking** | ✅ Booked via Booking.com · Non-refundable · €579.50 paid |
+| **Booking** | ✅ Booking.com · Non-refundable · €579.50 paid |
 | **Flight in** | TP1921: OPO → LIS, Aug 23 09:00 → 09:55 |
-| **Flight out** | TP1038: LIS → BCN, Aug 26 18:55 → 21:50 (Terminal 1). Be at LIS by 17:00. ✅ Booked |
+| **Flight out** | TP1038: LIS → BCN, Aug 26 18:55 → 21:50 (Terminal 1). Be at LIS by 17:00. |
 | **Status** | ✅ All Lisbon logistics booked |
 
 ---
 
 ### Getting Around
 
-- **Airport → city:** Metro Red Line → Alameda → Green Line → Baixa (~25 min). Viva Viagem card + 24hr pass (~€7.25)
-- **All 3 funiculars closed** after fatal Glória crash (Sep 2025). Tram 28 still running.
-- **Weather:** 28–29°C, sunny, almost no rain
+No car. Metro + trams + Bolt do everything; Lisbon is big and hilly.
 
----
+**Viva Viagem / Navegante card** — €0.50 reusable card. Single €1.85 · **24-hr unlimited (Metro + bus + tram + funiculars) €6.80** — worth it on a heavy day.
 
-### Key Sights
+| Need | How |
+|------|-----|
+| Airport → city/Arroios | Metro Red → Alameda → Green → Anjos/Arroios (~25–30 min); or Bolt ~€10–14 with bags |
+| To Belém | Tram 15E or Cascais-line train from Cais do Sodré (~30 / 10 min) |
+| Alfama / Castle | Walk down, Bolt/tuk-tuk up (it's steep) |
+| Sintra (Day 2) | Train from **Rossio** (~40 min, €2.40); Bus 434 hop-on at Sintra |
 
-| Sight | Cost | Tips |
-|-------|------|------|
-| **Oceanário de Lisboa** | ~€25/adult, ~€15/child | World-class aquarium. Book timed entry — sells out in August |
-| **Pavilhão do Conhecimento** | ~€15/adult, ~€9/child | Best kids science museum — hands-on, air-conditioned |
-| **Castelo de São Jorge** | ~€17/person | Peacocks + battlements + city views. Book online. Go at opening |
-| **Mosteiro dos Jerónimos** | ~€18/person | UNESCO Manueline monastery. Book online. Go at 10am opening |
-| **Carmo Convent** | €7 | Gothic arches open to sky + mummy museum. No queues |
-| **Alfama district** | Free | Wander before 10am. Avoid Tram 28 in August — walk instead |
-| **Pena Palace, Sintra** ⭐ | ~€65 family (palace + park) | Book 3–4 weeks ahead — sells out in August |
-| **Quinta da Regaleira, Sintra** ⭐ | ~€46 for 4 | Initiation Well underground tunnels. Pre-book |
-| **Cabo da Roca** | Free (certificate €10) | Westernmost point of continental Europe. Bus 403 from Sintra/Cascais |
-| **Cascais** | Free | Elegant coastal town. Train 40 min from Lisbon Cais do Sodré |
+> ⚠️ **Funiculars:** Glória closed (being redesigned after the Sep 2025 crash), Bica & Lavra suspended; only **Graça reopened (Apr 2026)**. Walk or Bolt the hills.
+> ⚠️ **Tram 28** = top pickpocket spot, packed in August — ride before 09:30 or walk the route.
+> **Weather:** 28–32 °C, sunny.
 
 ---
 
 ### Outline Itinerary
 
-| Day | Theme | Highlights |
-|-----|-------|-----------|
-| **Day 1** (Aug 23) | Arrival + Belém + Baixa | Jerónimos Monastery + Monument to the Discoveries + Carmo Convent + Time Out Market |
-| **Day 2** (Aug 24) | **Sintra → Cabo da Roca → Cascais** ⭐ | Leave 07:15 — Pena Palace + Quinta da Regaleira + Bus 403 to Cabo da Roca + Cascais dinner + train back |
-| **Day 3** (Aug 25) | Alfama + Castle + Parque das Nações | São Jorge Castle + Alfama walk + Fado dinner; or Oceanário + Pavilhão do Conhecimento |
-| **Day 4** (Aug 26) | City sightseeing + depart | Príncipe Real / Alfama / Time Out Market — fly LIS → BCN TP1038 18:55 (at airport by 17:00) |
-
-### Day 2 — Aug 24 · Sintra → Cabo da Roca → Cascais ⭐
-
-| Time | Where | What |
-|------|-------|------|
-| 07:15 | Leave apartment → Rossio Station | Grab takeaway coffee |
-| 07:35 | Train Rossio → Sintra | ~40 min, €2.30/person |
-| 09:00–11:00 | **Pena Palace** ⭐ | Pre-booked family ticket — go early before crowds |
-| 11:15–12:15 | Moorish Castle via forest trail | 30-min downhill from Pena |
-| 12:30 | Sintra village lunch | Casa Piriquita — *travesseiros* pastries |
-| 14:00–16:00 | **Quinta da Regaleira** ⭐ | Initiation Well underground tunnels — bring torch |
-| 16:20 | Bus 403 → Cabo da Roca | ~35 min |
-| 17:00–17:45 | **Cabo da Roca** ⭐ | Westernmost point of continental Europe |
-| 18:00 | Bus 403 → Cascais | ~30 min |
-| 18:30 | Cascais | Marina walk, Boca do Inferno, fish dinner |
-| 19:30–20:00 | Train → Lisboa Cais do Sodré | ~40 min, €2.40/person |
+| Day | Theme | Key Activities |
+|-----|-------|---------------|
+| **Day 1** (Sun Aug 23) | Arrival + Belém (bags-light) | Land 09:55 → stash bags → Jerónimos (free church + cloister) → Pastéis de Belém → Monument to the Discoveries → check in 16:00 → Baixa/Chiado + Time Out Market + gelato |
+| **Day 2** (Mon Aug 24) | **Sintra → Cabo da Roca → Cascais** ⭐⭐ | 07:40 train → Pena Palace 09:00 → Moorish Castle → Sintra lunch → Quinta da Regaleira → Bus 403 to Cabo da Roca → Cascais dinner → train back |
+| **Day 3** (Tue Aug 25) | Alfama, Castle & Churches ⭐⭐ | Castelo de São Jorge 09:00 → Sé → Alfama miradouros → São Vicente de Fora → Panteão Nacional → **A:** São Roque + Prazeres cemetery · **B:** Oceanário + Pavilhão → fado dinner |
+| **Day 4** (Wed Aug 26) | Slow morning + depart | Convento do Carmo → Príncipe Real / LX Factory → Time Out lunch → Metro to airport 16:00 → TP1038 18:55 |
 
 ---
 
-### Day 4 — Aug 26 · City Sightseeing + Departure
+### Sights Quick-Reference
 
-> Flight departs 18:55 — plenty of time for a solid city day. Be at Terminal 1 by 17:00; metro to airport takes ~25 min so leave by 16:00.
+| Sight | Cost | Book? | Best Time |
+|-------|------|-------|-----------|
+| Mosteiro dos Jerónimos (cloister) | €18 (church free) | ✅ timed | Day 1 — **closed Mon** |
+| Padrão dos Descobrimentos | €10 | ❌ | Day 1 |
+| Torre de Belém | €15 | ⚠️ verify open | Day 1 — closed Mon |
+| **Palácio da Pena (Sintra)** | €20 | ✅ **strict window** | Day 2, 09:00 |
+| **Quinta da Regaleira (Sintra)** | €15 | ✅ | Day 2 PM |
+| Cabo da Roca | Free (cert €11) | ❌ | Day 2, 17:00 |
+| Castelo de São Jorge | €17 (under 12 free) | ✅ BOL | Day 3, 09:00 |
+| Sé de Lisboa | Free / €5 | ❌ | Day 3 — **closed Sun** |
+| **São Vicente de Fora** (monastery + royal pantheon) | €8 | ❌ | Day 3 |
+| **Panteão Nacional** | €4 | ❌ | Day 3 — closed Mon |
+| **Igreja de São Roque** | Free (museum €2.50) | ❌ | Day 3 — closed Mon |
+| **Cemitério dos Prazeres** | Free | ❌ | Day 3 PM |
+| Oceanário de Lisboa | ~€25 / €15 child | ✅ timed | Day 3 (Option B) |
+| Convento do Carmo | €7 | ❌ | Day 4 — **closed Sun** |
 
-| Time | What |
-|------|------|
-| Morning | Príncipe Real (leafy neighbourhood, antique market, great cafés) or Alfama wander before the crowds |
-| Lunch | Time Out Market or Mercado da Ribeira |
-| Afternoon | Castelo de São Jorge if not done Day 3, or Carmo Convent / LX Factory |
-| 16:00 | Metro to airport: Green line → Alameda → Red line → Aeroporto (~25 min) |
-| 17:00 | Arrive Terminal 1 |
-| 18:55 | TP1038 departs LIS |
-| 21:50 | Arrive BCN El Prat Terminal 1 |
+---
+
+### Food Quick-Reference
+
+| Budget | Best Bets |
+|--------|-----------|
+| €1–4 (snacks) | Pastéis de nata (Pastéis de Belém, Manteigaria, Aloma), bifana, ginjinha |
+| €8–15 (lunch) | Time Out Market, Alfama tascas, grilled sardines |
+| €15–30 (mid) | Petiscos bars, seafood tascas, Cascais fish |
+| €30–50 (splurge) | Marisqueiras, fado-house dinner |
+| Treats | Gelato: Santini (Chiado), Nannarella (Príncipe Real); travesseiros at Piriquita (Sintra) |
+
+| Day | Breakfast | Lunch | Dinner |
+|-----|-----------|-------|--------|
+| Day 1 | (travel) | Belém kiosks + pastéis | Time Out Market |
+| Day 2 | Rossio takeaway | Piriquita (Sintra) | Cascais seafront fish |
+| Day 3 | Baixa pastéis | Alfama tasca | **Fado-house dinner** (book) |
+| Day 4 | Café + nata | Time Out / Príncipe Real | (plane / BCN) |
 
 ---
 
@@ -90,13 +92,30 @@
 
 | Item | Deadline | Where |
 |------|----------|-------|
+| **Palácio da Pena (Day 2)** | 1–2 weeks before | parquesdesintra.pt — timed window |
+| **Quinta da Regaleira (Day 2)** | 1 week before | regaleira.pt |
+| **Jerónimos cloister (Day 1)** | 1 week before | patrimoniocultural.gov.pt |
+| **Oceanário (Day 3 Option B)** | 1 week before | oceanario.pt |
+| **Castelo de São Jorge (Day 3)** | A few days before | BilheteiraOnline (BOL) |
+| **Fado-house dinner (Day 3)** | 1 week before | Clube de Fado / Parreirinha de Alfama |
 | ~~Lisbon apartment~~ ✅ | Booked | 64 Rua da Bempostinha — €579.50 paid |
-| ~~LIS → BCN flight~~ ✅ | Booked | TP1038, Aug 26 18:55 |
-| **Pena Palace, Sintra (Aug 24)** | 3–4 weeks before | penapalace.pt |
-| **Quinta da Regaleira, Sintra (Aug 24)** | 1–2 weeks before | regaleira.pt |
-| Oceanário (timed entry) | 1–2 weeks before | oceanario.pt |
-| Mosteiro dos Jerónimos | 1–2 weeks before | mosteirojeronimos.pt |
-| Castelo de São Jorge | 1 week before | castelodesaojorge.pt |
+| ~~LIS → BCN flight (TP1038)~~ ✅ | Booked | Aug 26 18:55 |
+
+---
+
+### Budget Estimate
+
+Per person · ~3 days · excl. accommodation:
+
+| Category | Budget | Mid | Comfort |
+|----------|--------|-----|---------|
+| Breakfast × 3 | €6–10 | €12–20 | €20–35 |
+| Lunch × 3 | €25–40 | €45–75 | €75–120 |
+| Dinner × 3 | €35–60 | €75–130 | €120–210 |
+| Activities (Sintra-heavy) | €55–75 | €75–100 | €100–140 |
+| Transport (incl. Sintra trains/buses) | €25–35 | €35–50 | €50–75 |
+| **Total / person** | **€146–220** | **€242–375** | **€365–580** |
+| **Total for 4** | **~€585–880** | **~€970–1,500** | **~€1,460–2,320** |
 
 ---
 
