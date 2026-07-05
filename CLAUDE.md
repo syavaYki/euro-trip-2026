@@ -12,6 +12,7 @@ The user uses Claude to iteratively update the plan — adding restaurants, sigh
 
 ```bash
 npm start    # serves the site locally via `npx serve .`
+npm run dev  # same, alias for start
 ```
 
 Deployment is fully automated: push to `main` → `.github/workflows/pages.yml` uploads the repo root to GitHub Pages. There is no build step, no bundler, no tests, no linter.
