@@ -24,6 +24,8 @@ No car. Metro + trams + Bolt do everything; Lisbon is big and hilly.
 
 **Viva Viagem / Navegante card** — €0.50 reusable card. Single €1.85 · **24-hr unlimited (Metro + bus + tram + funiculars) €6.80** — worth it on a heavy day.
 
+> 🎟️ **Better for this trip: the Lisboa Card (72h, €62 adult).** Covers all transport *and* the Sintra & Cascais trains *and* free entry + fast-track to most monuments (Jerónimos, Torre de Belém, Castelo de São Jorge, São Vicente, Panteão, Carmo…). **Not** free: Pena, Regaleira, Oceanário. Activate Day 1 at the airport. Full breakdown in the master itinerary's **Lisboa Card** section.
+
 | Need | How |
 |------|-----|
 | Airport → city/Arroios | Metro Red → Alameda → Green → Anjos/Arroios (~25–30 min); or Bolt ~€10–14 with bags |

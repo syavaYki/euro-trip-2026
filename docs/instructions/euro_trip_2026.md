@@ -632,6 +632,8 @@ Lisbon is bigger and hillier than Porto. No car. Metro + trams + Bolt do everyth
 
 **Metro + buses/trams (Viva Viagem / Navegante card)** — Buy a reusable **Viva Viagem** card (€0.50) at any Metro machine and load it. Single €1.85 · **24-hr unlimited (Metro + bus + tram + funiculars + elevator) €6.80**. The 24-hr pass pays off fast on a heavy day.
 
+> 🎟️ **Strongly consider the Lisboa Card instead.** A 72h card (€62 adult) covers *all* this transport **plus** the Sintra & Cascais trains **plus** free entry + fast-track to most of your monuments. Full breakdown in the **Lisboa Card** section at the end of Lisbon. Buy it and you don't need a Viva Viagem at all.
+
 - **Airport → apartment/city:** Metro **Red Line** (Aeroporto) → **Alameda** → change to **Green Line** → **Anjos / Arroios** (your neighbourhood) or **Baixa-Chiado**. ~25–30 min, €1.85 + card. No car/taxi needed, but a Bolt to Arroios is ~€10–14 and easier with bags.
 - **Trams:** **28** (Graça–Alfama–Baixa–Estrela — the famous one) and **12** (Alfama loop). Scenic but **pickpocket magnets and jammed in August** — ride early (before 09:30) or treat the route as a walk.
 - **Tram 15E** — Praça da Figueira / Cais do Sodré → **Belém** along the river (~30 min). The easy way to Belém; the suburban **train from Cais do Sodré** (Cascais line) is faster (~7 min to Belém).
@@ -655,24 +657,26 @@ Lisbon is bigger and hillier than Porto. No car. Metro + trams + Bolt do everyth
 
 > Land, stash the bags, and spend the check-in gap in Belém — Lisbon's monumental riverfront — then check in and ease into the Baixa in the evening. Low-stress first day, no hills until you choose them.
 
-**09:55 — Land at LIS (Terminal 1).** Carry-on only → straight through passport control. Aim to be out by ~10:30.
+**09:55 — Land at LIS (Terminal 1).** Carry-on only, so you skip the baggage carousel entirely — straight through passport control and out. Aim to be at the Metro by ~10:30.
 
-**10:45 — Metro in + drop the bags.** Red Line → Alameda → Green Line.
+**10:45 — Metro into town + drop the bags.** Down to the **Aeroporto** station (Red Line), ride to **Alameda**, change to the **Green Line** — ~25–30 min, €1.85 on a Viva Viagem card. The one job before Belém is getting the bags off your backs. **Anjos** sits on this exact Green-Line route, 3–5 min from the apartment, so it's the natural drop point — you pass through it on the way in and again coming home to check in.
 
 | Option | Details | Cost |
 | --- | --- | --- |
-| **Early bag-drop at the apartment** | Message the host 2–3 days ahead — Arroios sits on the Green Line, 3–5 min from Anjos/Arroios Metro | Free if host agrees |
-| **Left-luggage locker, Cais do Sodré** ⭐ | Radical Storage / Bounce by the Belém tram + train — drop everything, do Belém luggage-free | ~€5–6/bag |
-| **Bolt straight to a locker** | Fastest with tired kids and bags in the heat | €10–14 group |
+| **Early bag-drop at the apartment** ⭐ | Free if it works — message the host 2–3 days ahead; Arroios is on the Green Line | Free |
+| **Locker at Anjos** (Radical Storage / LuggageHero) | On the Green-Line route + 3–5 min from the apartment — drop on the way in, collect on the way to check-in | ~€5/bag/day |
+| **LUGGit door-to-door** | A "Keeper" collects your bags and delivers them to the apartment for 16:00 — never touch them after landing | ~€5/bag |
 
-**11:45 — To Belém.**
+> Full comparison in the **Luggage-drop** research note. Skip the airport lockers — they'd strand your bags on the wrong side of town from Belém.
+
+**11:45 — To Belém.** From Cais do Sodré the **Cascais-line train** hugs the Tagus westward and sets you down in Belém in about 10 minutes. Belém is Lisbon's grand Age-of-Discovery quarter, 6 km downriver — wide ceremonial boulevards, sea air off the estuary, and the great white Manueline monuments strung along the waterfront where the caravels once set sail for India and Brazil. It's flat, spacious, and everything today is within a 10-minute walk of everything else. Get off at **Belém station** and cross under the tracks to the river side.
 
 | Option | Why | Cost |
 | --- | --- | --- |
-| **Cascais-line train** (Cais do Sodré → Belém) ⭐ | Fastest — ~7–10 min, air-conditioned | €1.85 |
+| **Cascais-line train** (Cais do Sodré → Belém) ⭐ | Fastest — ~10 min, air-conditioned | €1.85 |
 | **Tram 15E** | Scenic riverside roll, but slow and jammed midday | €3 on board / €1.85 on card |
 
-**12:15 — Pastéis de Belém** ⭐ — where the pastel de nata was invented (1837), still made to the monastery recipe only three people know.
+**12:15 — Pastéis de Belém** ⭐ — a 3-minute walk from the station, the yellow-fronted pastelaria on Rua de Belém is where the pastel de nata was invented (1837), still made to the monastery recipe only three people know.
 
 | | |
 | --- | --- |
@@ -681,7 +685,7 @@ Lisbon is bigger and hillier than Porto. No car. Metro + trams + Bolt do everyth
 
 > _"The takeaway queue looks insane but clears in five minutes. Eat them hot on the wall outside — a totally different pastry to a cold one."_ — r/lisbon
 
-**12:45 — Mosteiro dos Jerónimos** ⭐⭐ (open Sun; **closed Mondays** — the reason Belém is Day 1) — Portugal's greatest Manueline building (1501), tombs of Vasco da Gama and Camões.
+**12:45 — Mosteiro dos Jerónimos** ⭐⭐ — 2 minutes across the gardens from the pastelaria (open Sun; **closed Mondays** — the reason Belém is Day 1). Portugal's greatest Manueline building, begun in 1501 on the wealth of the spice route and carved for a century in soft golden limestone. Inside are the tombs of Vasco da Gama and the poet Camões; the two-storey cloister is the thing people cross the country to see.
 
 |                                   |                                                                                                                     |
 | --------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
@@ -696,13 +700,13 @@ Lisbon is bigger and hillier than Porto. No car. Metro + trams + Bolt do everyth
 | **Pastéis de Belém, sit-down** | If the queue's died — full lunch menu behind the pastry counter | €12–18/person |
 | **Time Out is saved for tonight** | (Don't double up — dinner plan below) | — |
 
-**15:00 — Padrão dos Descobrimentos** — €10, **lift to the roof** for the best single view in Belém: Jerónimos, the Tagus, and Belém Tower in one sweep, plus the giant compass-rose mosaic on the pavement below. 30 min.
+**15:00 — Padrão dos Descobrimentos** — 5 min from Jerónimos, straight down to the river through the pedestrian underpass beneath the road. The 52-metre limestone prow (1960) juts into the Tagus with Henry the Navigator at the bow leading 32 figures of the Discoveries behind him. Take the **lift to the roof** (€10) for the best single view in Belém — Jerónimos, the river, and Belém Tower in one sweep — then look down at the giant compass-rose and world map set into the pavement below. 30 min.
 
-**15:30 — Belém Tower + MAAT** — the 16th-century river fort; find the **rhinoceros** carved on the north bastion (Europe's first). ⚠️ **Verify it's open** — restoration closures have hit it; the riverbank is lovely regardless. Next door, the **MAAT** wave-roof museum is a **free** rooftop walk with river views.
+**15:30 — Belém Tower + MAAT** — a flat ~10-min walk west along the waterfront promenade. The 16th-century **Torre de Belém** is the fortified gateway that once guarded the harbour mouth; find the **rhinoceros** carved on the north bastion — the first in European stone, modelled on a beast the king was gifted in 1515. ⚠️ **Verify it's open** — restoration closures have hit it and the entry queue is slow; the exterior and riverbank are lovely regardless. Walking back, the **MAAT** museum's white wave-roof is a **free** rooftop climb over the river.
 
-**16:30 — Back to Arroios, check in,** collect bags, settle, cool off.
+**16:30 — Back to Arroios + check in.** Train back to Cais do Sodré, then Metro or a quick Bolt up to the apartment (~40 min door to door). Collect the bags from Anjos on the way — or meet the LUGGit delivery — check in at 16:00, drop everything, and cool off. This is the one built-in rest of the day; don't skip it before a late Lisbon evening.
 
-**18:30 — Evening in Baixa & Chiado** (all downhill, easy):
+**18:30 — Evening in Baixa & Chiado.** From Arroios it's ~12 min downhill on foot (or one Metro stop) into the **Baixa** — the flat, dead-straight Pombaline grid the Marquês de Pombal threw up after the 1755 earthquake flattened the medieval city. Walk the black-and-white mosaic pavements down toward the river:
 
 | Stop | What |
 | --- | --- |
@@ -770,17 +774,23 @@ Then walk up to **Miradouro de São Pedro de Alcântara** for the lit-up castle 
 | **A Padaria Portuguesa** | Solid local chain — Pão de Deus, fresh OJ, meal deals from €5 | Multiple, incl. near Graça |
 | **Grab-and-go pastéis in the Baixa** | Fastest if you want to be first at the castle | On the walk up |
 
-**09:00 — Castelo de São Jorge** ⭐ (open daily 09:00–21:00, €17, **under 12 free**, book online via BOL) — be there at opening before the heat and crowds. Ramparts, archaeology, sweeping views over the whole city, and the resident **peacocks** the kids will chase. 1.5 hrs. Bolt or tuk-tuk up the hill; walk down.
+> 🧭 **Geography of the day:** start at the top (the castle) and spiral **downhill all morning** — miradouros → São Vicente → Feira da Ladra → Panteão → down through Alfama's lanes to the Sé at the bottom. No climb repeated, no backtrack. Ride **up** by Bolt/tuk-tuk, walk everything **down**.
 
-**10:45 — Sé de Lisboa (Cathedral)** ⭐ (Tue OK; **closed Sundays**) — the fortress-like 1147 cathedral, Lisbon's oldest. Free to enter; the **cloister excavation** (~€2.50–5) reveals Roman garum workshops and Moorish walls beneath the church — more interesting than it sounds and uncrowded. Next door, the tiny **Igreja de Santo António** marks St Anthony's birthplace.
+**09:00 — Castelo de São Jorge** ⭐ (open daily 09:00–21:00, €17, **under 12 free**, book online via BOL) — be there at opening, before the cruise crowds and the heat. Bolt or tuk-tuk up (the climb from the Baixa is brutal in August). Moorish ramparts you can walk, an archaeological dig, the resident **peacocks** the kids will chase, and the finest all-round view in Lisbon. Local tip: the **camera obscura** in the Tower of Ulysses projects a live 360° image of the city — ask a guide for the next showing. ~1.5 hrs.
 
-**11:30 — Alfama wander + miradouros** — drop downhill through the medieval lanes (laundry, tiles, fado spilling out). Two viewpoints back to back: **Miradouro de Santa Luzia** (tiled terrace, romantic) and **Portas do Sol** (the postcard rooftops-to-river shot — best before 09:00 but fine now). Cooling gelato en route: **Gelato Davvero** at Rua de São Cristóvão (Alfama edge, rated 4.9/5).
+**10:45 — Alfama miradouros** — 5 min downhill from the castle gate to two viewpoints side by side: **Portas do Sol** (the postcard sweep over Alfama's rooftops to the river and the Panteão's white dome) and, just below it, **Miradouro de Santa Luzia** (a rose-draped, tiled terrace with two azulejo panels of pre-earthquake Lisbon). Both turn into cruise-ship scrums by midday — you're catching them early. Cooling scoop en route at **Gelato Davvero** (Rua de São Cristóvão, Alfama edge, 4.9/5).
 
-**12:30 — Mosteiro de São Vicente de Fora** ⭐⭐ (daily, €8) — vast white monastery: walls lined floor-to-ceiling with **azulejo panels**, the **Royal Pantheon of the Bragança dynasty** (kings and queens in marble tombs — the history-minded will linger), and a **rooftop terrace** over Alfama. Right outside: the **Feira da Ladra** flea market (Tuesdays & Saturdays — today's a Tuesday; good for vintage azulejo tiles and old Port bottles).
+**11:15 — Mosteiro de São Vicente de Fora** ⭐⭐ — a 5-min walk northeast along the ridge (daily, €8). Vast white monastery: cloisters lined floor-to-ceiling with **azulejo panels** (look for the Aesop's-fables set), the **Bragança Royal Pantheon** where the kings and queens lie in marble, and a **rooftop terrace** over Alfama and the Tagus. The history-minded will linger at the tombs.
 
-**13:15 — Panteão Nacional (Santa Engrácia)** ⭐ (Tue OK; closed Mon; €4) — the great baroque dome; tombs of Portuguese greats including **fado legend Amália Rodrigues**. Climb to the dome terrace for a 360° view.
+**12:00 — Feira da Ladra** (Tue & Sat only — today's a Tuesday) — the flea market spills across **Campo de Santa Clara** right beside São Vicente, so it's zero detour. Real antique azulejo tiles, old Port bottles and ceramics among the junk. 20–30 min; haggle gently, and keep bags zipped.
 
-**13:45 — Lunch in Alfama / Mouraria:**
+**12:30 — Panteão Nacional (Santa Engrácia)** ⭐ — 3 min downhill (Tue OK; **closed Mon**; €4). The great white baroque dome, four centuries in the building (its endless construction gave Portuguese the phrase "_obras de Santa Engrácia_" for a never-ending job); tombs of Portuguese greats, among them **fado legend Amália Rodrigues**. Climb to the dome terrace for a 360° over the rooftops and river.
+
+**13:00 — Descend through Alfama to the Sé** — the best walking of the day: drop into the medieval maze on foot (Rua de São Miguel and the _becos_ and staircases below it), laundry strung overhead, tiles underfoot, fado leaking from open doors. ~15 min of downhill wandering — don't fight the map — landing you at the cathedral. ⚠️ The polished **_calçada_ cobbles are slippery**; flat grippy shoes.
+
+**13:20 — Sé de Lisboa (Cathedral)** ⭐ (Tue OK; **closed Sundays**) — the fortress-like 1147 cathedral, Lisbon's oldest, raised the year after the city was retaken, on the site of the old mosque. Free to enter; the **cloister excavation** (~€2.50–5) exposes Roman garum tanks and Moorish walls beneath the floor — quiet, and better than it sounds. Next door, the tiny **Igreja de Santo António** marks St Anthony's birthplace.
+
+**13:50 — Lunch in Alfama / Mouraria:**
 
 | Option | Why | Price |
 | --- | --- | --- |
@@ -788,7 +798,7 @@ Then walk up to **Miradouro de São Pedro de Alcântara** for the lit-up castle 
 | **Páteo 13** | Outdoor Alfama square, charcoal-grilled **sardines** (August is peak season) | €–€€ |
 | **O Velho Eurico** | Cult Alfama tasca — bacalhau à Brás, pork-belly petiscos (book ahead if you can) | €15–25/person |
 
-**15:00 — Afternoon: pick your lane**
+**15:00 — Afternoon: pick your lane** — lunch leaves you at the bottom of the hill by the Baixa, so the two options fan out in opposite directions: **A** trams **west** up into Bairro Alto and out to Prazeres; **B** takes the Metro **east** to Parque das Nações. Pick one — don't try both.
 
 | Option                                                                  | What                                                                                                                                                                                                                                                                                                                                                                   | Notes                                                                 |
 | ----------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
@@ -813,7 +823,7 @@ Then walk up to **Miradouro de São Pedro de Alcântara** for the lit-up castle 
 
 > Flight TP1038 departs **18:55**; be at Terminal 1 by **17:00**, so leave the apartment by **16:00**. A full, easy morning first — and the one church that's closed Sun/Mon is open today.
 
-**09:00 — Breakfast + last pastéis:**
+**09:00 — Breakfast + last pastéis** — from Arroios drop down into Chiado (12 min on foot, or one Metro stop to Baixa-Chiado). All three sit a couple of minutes from the Carmo climb:
 
 | Option | Why | Where |
 | --- | --- | --- |
@@ -821,15 +831,15 @@ Then walk up to **Miradouro de São Pedro de Alcântara** for the lit-up castle 
 | **Fabrica Coffee Roasters** | Pour-over next door to Manteigaria — _"the fruity coffee complements the custard perfectly"_ | Rua Nova da Trindade 18F |
 | **Aloma** | Award-winning crispiest shell in the city if you're near Campo de Ourique | Multiple |
 
-**09:45 — Convento do Carmo (Museu Arqueológico)** ⭐ (Mon–Sat, €7 — **closed Sundays**, so today's the day) — the Gothic church whose roof collapsed in the **1755 earthquake**, left open to the sky. Skeletal arches, a small museum with two pre-Columbian mummies the kids find ghoulish-good. Beside it, the **Elevador de Santa Justa** viewing platform (if running).
+**09:45 — Convento do Carmo (Museu Arqueológico)** ⭐ — a 4-min uphill walk from Manteigaria up Rua Garrett into Largo do Carmo (Mon–Sat, €7, **free with Lisboa Card** — **closed Sundays**, so today's the day). The Gothic church whose roof caved in during the **1755 earthquake** and was never rebuilt: the nave is now a cage of skeletal arches open to the sky, with a small museum at the back holding two pre-Columbian mummies the kids find ghoulish-good. Right beside it, the top deck of the **Elevador de Santa Justa** (if running) stares straight across at the ruined arches — reach it from the **Carmo side** to skip the long queue at the bottom.
 
-**11:00 — Choose a final neighbourhood:**
+**11:00 — Choose a final neighbourhood** — three directions off Chiado, pick by mood and don't zig-zag: **Príncipe Real** is a short climb north, **LX Factory** is west in Alcântara (Tram 15E or a quick Bolt), **Alfama** is east.
 
 | Option                     | Why                                                                                                                            |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| **Príncipe Real + Jardim** | Leafy garden, boutiques, antique stalls; **Embaixada** concept-mall in a Moorish palace; great gelato at **Nannarella**        |
-| **LX Factory** (Alcântara) | Industrial-cool complex under the bridge — the **Ler Devagar** bookshop with the flying-bicycle sculpture, murals, lunch spots |
-| **Alfama** redux           | If you skipped a viewpoint or church yesterday                                                                                 |
+| **Príncipe Real + Jardim** | Leafy garden, boutiques, antique stalls; **Embaixada** concept-mall in a Moorish palace; great gelato at **Nannarella**. A short climb north of Chiado |
+| **LX Factory** (Alcântara) | Industrial-cool complex under the bridge — **Ler Devagar** bookshop with the flying-bicycle, murals, lunch spots. Next door: **Pilar 7 – Bridge Experience** (glass deck up the 25 de Abril bridge pillar — **free with Lisboa Card**) |
+| **Alfama** redux           | If you skipped a viewpoint or church yesterday — east, easy Tram 28 or walk                                                    |
 
 **13:00 — Lunch** (keep it light and near a Metro for the airport run):
 
@@ -887,6 +897,8 @@ Then walk up to **Miradouro de São Pedro de Alcântara** for the lit-up castle 
 | Oceanário de Lisboa                            | ~€25 / €15 child    | ✅ timed             | Day 3 (Option B)       |
 | Convento do Carmo                              | €7                  | ❌                   | Day 4 — **closed Sun** |
 
+> 🎟️ **Most of these are free with the Lisboa Card** — Jerónimos, Torre de Belém, Castelo de São Jorge, São Vicente, Panteão, Sé cloister, Convento do Carmo (+ fast-track at Jerónimos & Belém Tower). **NOT** free: Pena, Regaleira, Oceanário. See the **Lisboa Card** section below.
+
 ---
 
 ### Lisbon Must-Book
@@ -912,6 +924,46 @@ Then walk up to **Miradouro de São Pedro de Alcântara** for the lit-up castle 
 - ⚠️ **Sintra timed tickets** (Pena) are strict — arrive in your window. The day is long and hot; carry water.
 - ⚠️ **Heat:** late August is 28–32 °C and sunny. Hats, water, and the air-conditioned Oceanário as a midday reset.
 - ⚠️ **Pickpockets** generally: Tram 28, Santa Justa queue, Time Out Market crush, Rossio. Bags in front.
+
+---
+
+### Lisboa Card
+
+> The official Turismo de Lisboa city pass. For this itinerary it's a clear win — almost every monument on Days 1, 3 and 4 is **free** with it, plus all transport and the Sintra/Cascais trains. **Buy the 72h adult card and activate it Day 1 at the airport.**
+
+**Price (2026, valid Apr 2026 – Mar 2027):** Adult 24h €31 · 48h €51 · **72h €62** · Child (4–15) 24h €21 · 48h €28 · **72h €35** · under 4 free. Valid by the **hour** from first tap, not by calendar day — a 72h card from ~11:00 Day 1 runs to ~11:00 Day 4, so just buy a single €1.85 ticket for the Day-4 airport run.
+
+**Free with the card, on your exact route:**
+
+- **Transport:** all Metro (incl. airport), CARRIS trams/buses/lifts (incl. Tram 28), **Elevador de Santa Justa**, **CP trains to Sintra AND Cascais**, Fertagus over the bridge.
+- **Day 1 Belém:** Jerónimos (**+ fast-track** — kills the 1–2 hr August queue), Torre de Belém, MAAT, Coach Museum.
+- **Day 3:** Castelo de São Jorge, Sé, São Vicente de Fora, Panteão Nacional, Museu do Fado, São Roque, Igreja da Graça terrace.
+- **Day 4:** Convento do Carmo, Elevador de Santa Justa.
+
+**NOT free — budget separately:**
+
+- **Sintra: Pena (€20) + Quinta da Regaleira (€15) + the 434/403 buses** — the card covers only that day's **trains**. Regaleira isn't a card partner at all.
+- **Oceanário** & **Pavilhão do Conhecimento** (Day 3 Option B) — discount only, claimed at the ticket office.
+- Parque das Nações cable car — discount only.
+
+**Kids:** under-12s already enter these monuments free, so a child card mainly buys transport — worth it only for a **12–15**-year-old. _(Still need the daughters' ages to call this.)_
+
+**With the card, you still:** reserve a **free timed slot** for Jerónimos online; and book + pay **Pena and Regaleira** separately.
+
+---
+
+#### Free extras (optional — only if you have spare time)
+
+All free with the card, none essential, listed by where they'd slot in geographically:
+
+| Spot | Where it fits | Worth it for |
+| --- | --- | --- |
+| **Pilar 7 – Bridge Experience** | Alcântara, next to LX Factory (Day 4) | Kids — glass deck up the 25 de Abril bridge pillar |
+| **Lisboa Story Centre** | Praça do Comércio (you cross it Day 1 eve) | 1755-quake immersive, indoors, kids |
+| **Museu do Tesouro Real** | Ajuda, on the hill above Belém (Day 1) | Crown jewels + gilded regalia — only if energy allows |
+| **Museu Nacional de Arte Antiga** | Santos, on the Belém↔centre line (Day 4) | Portugal's top art; the Polyptych of St Vincent; Tagus-view terrace |
+| **Museu Nacional do Azulejo** | East of Alfama (bus from Santa Apolónia) | Tile-lovers — ⚠️ **verify reopened** (renovation ~Jun 2026) |
+| **Museu do Oriente / Tram Museum** | Alcântara | Rainy-day / theme picks |
 
 ---
 
