@@ -5,5 +5,8 @@
       "Bash(curl -sI https://syavayki.github.io/euro-trip-2026/)",
       "Bash(rtk git *)"
     ]
+  },
+  "env": {
+    "ANTHROPIC_BASE_URL": "http://127.0.0.1:8787"
   }
 }
