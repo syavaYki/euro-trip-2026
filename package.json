@@ -2,7 +2,10 @@
   "name": "euro-trip-2026",
   "private": true,
   "scripts": {
-    "start": "npx serve .",
-    "dev": "npx serve ."
+    "start": "serve .",
+    "dev": "serve ."
+  },
+  "devDependencies": {
+    "serve": "^14.2.6"
   }
 }

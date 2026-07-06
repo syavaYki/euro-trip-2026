@@ -11,7 +11,7 @@ The user uses Claude to iteratively update the plan — adding restaurants, sigh
 ## Commands
 
 ```bash
-npm start    # serves the site locally via `npx serve .`
+npm start    # serves the site locally via `serve .` (devDependency, no npx)
 npm run dev  # same, alias for start
 ```
 
