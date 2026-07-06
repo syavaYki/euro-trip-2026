@@ -653,36 +653,79 @@ Lisbon is bigger and hillier than Porto. No car. Metro + trams + Bolt do everyth
 
 ### Day 1 — Sunday Aug 23 · Arrival + Belém + Baixa (bags-light)
 
-> Land, stash the bags, and spend the gap in Belém — Lisbon's monumental riverfront — then check in and ease into the Baixa in the evening. Low-stress first day.
+> Land, stash the bags, and spend the check-in gap in Belém — Lisbon's monumental riverfront — then check in and ease into the Baixa in the evening. Low-stress first day, no hills until you choose them.
 
-**09:55 — Land at LIS (Terminal 1).** Carry-on only → straight through. Aim to be out by ~10:30.
+**09:55 — Land at LIS (Terminal 1).** Carry-on only → straight through passport control. Aim to be out by ~10:30.
 
-**10:45 — Metro into town + drop the bags.** Red Line → Alameda → Green Line. Either drop bags at the apartment (if the host allows early drop) or at a **left-luggage locker near Cais do Sodré** (Radical Storage / Bounce, ~€5–6/bag).
+**10:45 — Metro in + drop the bags.** Red Line → Alameda → Green Line.
 
-**11:45 — To Belém.** Tram **15E** from Cais do Sodré or the **Cascais-line train** (~10 min).
+| Option | Details | Cost |
+| --- | --- | --- |
+| **Early bag-drop at the apartment** | Message the host 2–3 days ahead — Arroios sits on the Green Line, 3–5 min from Anjos/Arroios Metro | Free if host agrees |
+| **Left-luggage locker, Cais do Sodré** ⭐ | Radical Storage / Bounce by the Belém tram + train — drop everything, do Belém luggage-free | ~€5–6/bag |
+| **Bolt straight to a locker** | Fastest with tired kids and bags in the heat | €10–14 group |
 
-**12:15 — Pastéis de Belém** ⭐ — the original 1837 recipe, secret and unchanged. Eat them **piping hot at the counter**, dusted with cinnamon. Long queue, but the takeaway line moves fast. €1.40 each.
+**11:45 — To Belém.**
 
-**12:45 — Mosteiro dos Jerónimos** ⭐⭐ (open Sun; **closed Mondays**) — Portugal's greatest Manueline building (1501), tombs of Vasco da Gama and Camões.
+| Option | Why | Cost |
+| --- | --- | --- |
+| **Cascais-line train** (Cais do Sodré → Belém) ⭐ | Fastest — ~7–10 min, air-conditioned | €1.85 |
+| **Tram 15E** | Scenic riverside roll, but slow and jammed midday | €3 on board / €1.85 on card |
+
+**12:15 — Pastéis de Belém** ⭐ — where the pastel de nata was invented (1837), still made to the monastery recipe only three people know.
+
+| | |
+| --- | --- |
+| **The move** | Skip the sit-down queue — join the **takeaway line** (fast-moving). Get them piping hot, dust with cinnamon + icing sugar, eat standing |
+| **Cost** | €1.40 each — buy a half-dozen |
+
+> _"The takeaway queue looks insane but clears in five minutes. Eat them hot on the wall outside — a totally different pastry to a cold one."_ — r/lisbon
+
+**12:45 — Mosteiro dos Jerónimos** ⭐⭐ (open Sun; **closed Mondays** — the reason Belém is Day 1) — Portugal's greatest Manueline building (1501), tombs of Vasco da Gama and Camões.
 
 |                                   |                                                                                                                     |
 | --------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| **The free church** (Santa Maria) | No ticket, enter from the west door — soaring vaulting, Vasco da Gama's tomb                                        |
-| **The cloister** (€18, pre-book)  | The masterpiece — two storeys of carved stone lace. Book a timed slot online; August queues hit 1–2 hrs at the door |
+| **The free church** (Santa Maria) | No ticket — enter from the west door. Soaring palm-like columns, Vasco da Gama's tomb                                |
+| **The cloister** (€18, pre-book)  | The masterpiece — two storeys of carved stone lace. Book a timed slot online; August door-queues hit 1–2 hrs        |
 
-**14:15 — Lunch in Belém** — quick and casual: pastéis + a _prego_ (steak sandwich), or grab seats at the riverside kiosks.
+**14:15 — Lunch in Belém** — casual, near the monuments:
 
-**15:00 — Padrão dos Descobrimentos** (Monument to the Discoveries) — €10, **take the lift to the roof** for the best single view in Belém: the river, the bridge, and the giant compass-rose mosaic on the pavement below. 30 min.
+| Option | Vibe | Price |
+| --- | --- | --- |
+| **Riverside kiosks** (Jardim de Belém) ⭐ | _Prego_ + a beer/juice in the shade, kids roam the lawn | €6–12/person |
+| **Pastéis de Belém, sit-down** | If the queue's died — full lunch menu behind the pastry counter | €12–18/person |
+| **Time Out is saved for tonight** | (Don't double up — dinner plan below) | — |
 
-**15:30 — Torre de Belém** ⭐ — the 16th-century river fort (look for the rhinoceros carved on the north bastion). ⚠️ **Verify it's open** — it has had restoration closures; the exterior + riverbank are lovely regardless. Optional: the **MAAT** waved-roof art museum next door (great rooftop walk, free to climb).
+**15:00 — Padrão dos Descobrimentos** — €10, **lift to the roof** for the best single view in Belém: Jerónimos, the Tagus, and Belém Tower in one sweep, plus the giant compass-rose mosaic on the pavement below. 30 min.
 
-**16:30 — Back to Arroios, check in,** collect bags, settle.
+**15:30 — Belém Tower + MAAT** — the 16th-century river fort; find the **rhinoceros** carved on the north bastion (Europe's first). ⚠️ **Verify it's open** — restoration closures have hit it; the riverbank is lovely regardless. Next door, the **MAAT** wave-roof museum is a **free** rooftop walk with river views.
 
-**18:30 — Evening in the Baixa & Chiado** (downhill, easy). Wander **Rua Augusta → Praça do Comércio** (huge riverfront square, golden at sunset) → up to **Chiado**.
+**16:30 — Back to Arroios, check in,** collect bags, settle, cool off.
 
-**19:30 — Dinner at Time Out Market (Mercado da Ribeira)** ⭐ — 30+ stalls under one roof, something for everyone, kids choose their own. Or a classic _tasca_ in Chiado.
+**18:30 — Evening in Baixa & Chiado** (all downhill, easy):
 
-**21:00 — Gelato + sunset stroll** — **Santini** (Chiado, the 1949 Lisbon classic) or **Nannarella** (Roman-style, Príncipe Real). Then the **Miradouro de São Pedro de Alcântara** for the lit-up castle view across the valley.
+| Stop | What |
+| --- | --- |
+| **Rua Augusta → the Arco** | Pedestrian spine; climb the **Arco da Rua Augusta** (€3) for a golden-hour rooftop view |
+| **Praça do Comércio** | Vast riverfront square, best light of the day — grab a **ginjinha** at a counter on the way (€1.50) |
+| **Up into Chiado** | Livraria Bertrand (world's oldest bookshop, 1732), A Brasileira's zinc bar |
+
+**19:30 — Dinner:**
+
+| Option | Why | Price | Book |
+| --- | --- | --- | --- |
+| **Time Out Market** ⭐ | 26 curated stalls under one roof — everyone picks their own; grilled octopus, bifana, nata | €10–20/person | Walk-in |
+| **Taberna da Rua das Flores** ⭐ | Chalkboard petiscos, no printed menu — the local favourite in Chiado | €€ | Arrive at opening |
+| **A classic Chiado tasca** | Grilled fish + house wine, calmer than the market crush | €15–25/person | Walk-in |
+
+**21:00 — Gelato + sunset stroll:**
+
+| Spot | Why |
+| --- | --- |
+| **Santini** (Chiado) ⭐ | The 1949 Lisbon classic — lemon, pistachio, torrone; only fresh fruit |
+| **Nannarella** (Príncipe Real) | Roman-style, _Somebody Feed Phil_ famous — the basil gelato converts sceptics |
+
+Then walk up to **Miradouro de São Pedro de Alcântara** for the lit-up castle across the valley.
 
 ---
 
@@ -719,19 +762,31 @@ Lisbon is bigger and hillier than Porto. No car. Metro + trams + Bolt do everyth
 
 > The day the family will love most — Lisbon's oldest quarter, the castle, a clutch of extraordinary churches, the royal pantheon, and a historic cemetery, finished with fado. Everything below is **open on a Tuesday** (several of these close Sun/Mon — Tuesday threads the needle).
 
-**08:30 — Breakfast** near Arroios or grab pastéis in the Baixa on the way.
+**08:30 — Breakfast** near Arroios, or grab pastéis in the Baixa on the way down:
+
+| Option | Why | Where |
+| --- | --- | --- |
+| **Copenhagen Coffee Lab** ⭐ | Named the city's #1 specialty coffee; the Danish cinnamon buns alone are worth it | Alfama branch (Campo de Santa Clara) is on today's route |
+| **A Padaria Portuguesa** | Solid local chain — Pão de Deus, fresh OJ, meal deals from €5 | Multiple, incl. near Graça |
+| **Grab-and-go pastéis in the Baixa** | Fastest if you want to be first at the castle | On the walk up |
 
 **09:00 — Castelo de São Jorge** ⭐ (open daily 09:00–21:00, €17, **under 12 free**, book online via BOL) — be there at opening before the heat and crowds. Ramparts, archaeology, sweeping views over the whole city, and the resident **peacocks** the kids will chase. 1.5 hrs. Bolt or tuk-tuk up the hill; walk down.
 
-**10:45 — Sé de Lisboa (Cathedral)** ⭐ (Tue OK; **closed Sundays**) — the fortress-like 1147 cathedral, Lisbon's oldest. Free to enter; cloister + treasury ~€5. Next door, the tiny **Igreja de Santo António** marks St Anthony's birthplace.
+**10:45 — Sé de Lisboa (Cathedral)** ⭐ (Tue OK; **closed Sundays**) — the fortress-like 1147 cathedral, Lisbon's oldest. Free to enter; the **cloister excavation** (~€2.50–5) reveals Roman garum workshops and Moorish walls beneath the church — more interesting than it sounds and uncrowded. Next door, the tiny **Igreja de Santo António** marks St Anthony's birthplace.
 
-**11:30 — Alfama wander + miradouros** — drop downhill through the medieval lanes (laundry, tiles, fado spilling out). Two viewpoints back to back: **Miradouro de Santa Luzia** (tiled terrace) and **Portas do Sol** (the postcard view over the rooftops to the river).
+**11:30 — Alfama wander + miradouros** — drop downhill through the medieval lanes (laundry, tiles, fado spilling out). Two viewpoints back to back: **Miradouro de Santa Luzia** (tiled terrace, romantic) and **Portas do Sol** (the postcard rooftops-to-river shot — best before 09:00 but fine now). Cooling gelato en route: **Gelato Davvero** at Rua de São Cristóvão (Alfama edge, rated 4.9/5).
 
-**12:30 — Mosteiro de São Vicente de Fora** ⭐⭐ (daily, €8) — vast white monastery: walls lined floor-to-ceiling with **azulejo panels**, the **Royal Pantheon of the Bragança dynasty** (kings and queens in marble tombs — the history-minded will linger), and a **rooftop terrace** over Alfama. Right outside: the **Feira da Ladra** flea market (Tuesdays & Saturdays — today's a Tuesday).
+**12:30 — Mosteiro de São Vicente de Fora** ⭐⭐ (daily, €8) — vast white monastery: walls lined floor-to-ceiling with **azulejo panels**, the **Royal Pantheon of the Bragança dynasty** (kings and queens in marble tombs — the history-minded will linger), and a **rooftop terrace** over Alfama. Right outside: the **Feira da Ladra** flea market (Tuesdays & Saturdays — today's a Tuesday; good for vintage azulejo tiles and old Port bottles).
 
 **13:15 — Panteão Nacional (Santa Engrácia)** ⭐ (Tue OK; closed Mon; €4) — the great baroque dome; tombs of Portuguese greats including **fado legend Amália Rodrigues**. Climb to the dome terrace for a 360° view.
 
-**13:45 — Lunch in Alfama** — a _tasca_ for grilled sardines / bacalhau, or petiscos.
+**13:45 — Lunch in Alfama / Mouraria:**
+
+| Option | Why | Price |
+| --- | --- | --- |
+| **Zé da Mouraria** ⭐ | Iconic — bacalhau à minhota, portions that serve 2–4, line out the door at noon | €10–15/person |
+| **Páteo 13** | Outdoor Alfama square, charcoal-grilled **sardines** (August is peak season) | €–€€ |
+| **O Velho Eurico** | Cult Alfama tasca — bacalhau à Brás, pork-belly petiscos (book ahead if you can) | €15–25/person |
 
 **15:00 — Afternoon: pick your lane**
 
@@ -740,7 +795,17 @@ Lisbon is bigger and hillier than Porto. No car. Metro + trams + Bolt do everyth
 | **A — More churches + a famous cemetery** (recommended for this family) | **Igreja de São Roque** ⭐⭐ (Bairro Alto; free, Tue–Sun) — plain façade hiding the dazzling gilded **Chapel of St John the Baptist** (built in Rome, once the most expensive chapel in the world) → tram to **Cemitério dos Prazeres** ⭐ (daily 09:00–18:00, free) — a silent city of cypress-lined mausoleum "streets," the giant Palmela tomb, views to the bridge | Tram 28/25 links them; very atmospheric, never crowded                |
 | **B — Aquarium / beat the heat**                                        | **Parque das Nações:** **Oceanário de Lisboa** ⭐⭐ (book timed entry, ~€25 adult/€15 child — world-class, central ocean tank) + **Pavilhão do Conhecimento** (hands-on science museum, air-conditioned)                                                                                                                                                               | Metro Red Line to Oriente; great if it's hot or the kids need a reset |
 
-**19:00 — Fado dinner in Alfama** ⭐ (family-friendly — dinner with live fado, **not a bar**): **Clube de Fado**, **Parreirinha de Alfama**, or the communal **A Baiuca** (book ahead). Or, if you'd rather: **Miradouro da Senhora do Monte** for the best sunset view in the city + gelato on the walk home.
+**19:00 — Fado dinner in Alfama** ⭐ (family-friendly — dinner with live fado, **not a bar**):
+
+| Option | Why | Price | Book |
+| --- | --- | --- | --- |
+| **Clube de Fado** ⭐ | Prestige house founded by a celebrated fado guitarist — superb performers, serious food | €50–75/person | 1–2 weeks ahead |
+| **Parreirinha de Alfama** | Amália Rodrigues's old house — nightly professional fado, deeply Alfama | €35–55/person | Book ahead |
+| **Sr. Fado** | Mid-size, less cramped, good for the kids — multiple performers | €35–55/person | Book ahead |
+
+> ⚠️ **Tuesday note:** the two most authentic _fado vadio_ (amateur) spots are dark tonight — **A Tasca do Chico** runs fado only **Mon & Wed**, and **A Baiuca** only **Thu–Sat**. On a Tuesday, book one of the three above (all run nightly).
+
+**Alternative if you're fado'd out:** **Miradouro da Senhora do Monte** — the highest, least-crowded viewpoint in Lisbon — for the best sunset in the city, then a tasca dinner and gelato on the walk home.
 
 ---
 
@@ -748,7 +813,13 @@ Lisbon is bigger and hillier than Porto. No car. Metro + trams + Bolt do everyth
 
 > Flight TP1038 departs **18:55**; be at Terminal 1 by **17:00**, so leave the apartment by **16:00**. A full, easy morning first — and the one church that's closed Sun/Mon is open today.
 
-**09:00 — Breakfast + last pastéis.**
+**09:00 — Breakfast + last pastéis:**
+
+| Option | Why | Where |
+| --- | --- | --- |
+| **Manteigaria** (Chiado) ⭐ | Standing-counter nata, piping hot — the great rival to Belém, and on the way to Carmo | Rua do Loreto 2 |
+| **Fabrica Coffee Roasters** | Pour-over next door to Manteigaria — _"the fruity coffee complements the custard perfectly"_ | Rua Nova da Trindade 18F |
+| **Aloma** | Award-winning crispiest shell in the city if you're near Campo de Ourique | Multiple |
 
 **09:45 — Convento do Carmo (Museu Arqueológico)** ⭐ (Mon–Sat, €7 — **closed Sundays**, so today's the day) — the Gothic church whose roof collapsed in the **1755 earthquake**, left open to the sky. Skeletal arches, a small museum with two pre-Columbian mummies the kids find ghoulish-good. Beside it, the **Elevador de Santa Justa** viewing platform (if running).
 
@@ -760,7 +831,13 @@ Lisbon is bigger and hillier than Porto. No car. Metro + trams + Bolt do everyth
 | **LX Factory** (Alcântara) | Industrial-cool complex under the bridge — the **Ler Devagar** bookshop with the flying-bicycle sculpture, murals, lunch spots |
 | **Alfama** redux           | If you skipped a viewpoint or church yesterday                                                                                 |
 
-**13:00 — Lunch:** Time Out Market (if not done Day 1) or a Príncipe Real café.
+**13:00 — Lunch** (keep it light and near a Metro for the airport run):
+
+| Option | Why | Price |
+| --- | --- | --- |
+| **Time Out Market** | If you skipped it Day 1 — fast, everyone picks their own, right at Cais do Sodré | €10–20/person |
+| **Príncipe Real café / Stō** | Calmer sit-down if you spent the morning up there | €15–25/person |
+| **LX Factory spot** | If that's your final neighbourhood — lunch under the bridge before heading out | €12–20/person |
 
 **14:30 — Collect bags / final packing.** Repack to strict carry-on (TAP 0 checked bags).
 
