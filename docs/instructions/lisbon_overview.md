@@ -24,7 +24,7 @@ No car. Metro + trams + Bolt do everything; Lisbon is big and hilly.
 
 **Viva Viagem / Navegante card** — €0.50 reusable card. Single €1.85 · **24-hr unlimited (Metro + bus + tram + funiculars) €6.80** — worth it on a heavy day.
 
-> 🎟️ **Better for this trip: the Lisboa Card (72h, €62 adult).** Covers all transport *and* the Sintra & Cascais trains *and* free entry + fast-track to most monuments (Jerónimos, Torre de Belém, Castelo de São Jorge, São Vicente, Panteão, Carmo…). **Not** free: Pena, Regaleira, Oceanário. Activate Day 1 at the airport. Full breakdown in the master itinerary's **Lisboa Card** section.
+> 🎟️ **Better for this trip: the Lisboa Card (72h, €62 adult) — but buy it late.** It must be redeemed within **28 days of purchase**, so don't buy before **~26 Jul 2026** for this trip. Covers all transport *and* the Sintra & Cascais trains, plus genuinely **free** entry to Jerónimos, Torre de Belém, Castelo de São Jorge (not ages 13-15), and Panteão Nacional. São Vicente, the Sé cloister, and Carmo are **discounts only** (-25%/-20%/-20%), not free — a correction from an earlier draft of this guide. Real discounts also apply in Sintra: Pena -10%, Castelo dos Mouros -15% (Regaleira gets **zero** discount, confirmed). Nets roughly **+€32–64 per adult**; skip a child card if a daughter is under 12, buy one if she's 13-15. Full breakdown in the master itinerary's **Lisboa Card** section.
 
 | Need | How |
 |------|-----|
@@ -52,22 +52,23 @@ No car. Metro + trams + Bolt do everything; Lisbon is big and hilly.
 
 ### Sights Quick-Reference
 
-| Sight | Cost | Book? | Best Time |
-|-------|------|-------|-----------|
-| Mosteiro dos Jerónimos (cloister) | €18 (church free) | ✅ timed | Day 1 — **closed Mon** |
-| Padrão dos Descobrimentos | €10 | ❌ | Day 1 |
-| Torre de Belém | €15 | ⚠️ verify open | Day 1 — closed Mon |
-| **Palácio da Pena (Sintra)** | €20 | ✅ **strict window** | Day 2, 09:00 |
-| **Quinta da Regaleira (Sintra)** | €15 | ✅ | Day 2 PM |
-| Cabo da Roca | Free (cert €11) | ❌ | Day 2, 17:00 |
-| Castelo de São Jorge | €17 (under 12 free) | ✅ BOL | Day 3, 09:00 |
-| Sé de Lisboa | Free / €5 | ❌ | Day 3 — **closed Sun** |
-| **São Vicente de Fora** (monastery + royal pantheon) | €8 | ❌ | Day 3 |
-| **Panteão Nacional** | €4 | ❌ | Day 3 — closed Mon |
-| **Igreja de São Roque** | Free (museum €2.50) | ❌ | Day 3 — closed Mon |
-| **Cemitério dos Prazeres** | Free | ❌ | Day 3 PM |
-| Oceanário de Lisboa | ~€25 / €15 child | ✅ timed | Day 3 (Option B) |
-| Convento do Carmo | €7 | ❌ | Day 4 — **closed Sun** |
+| Sight | Cost | With Lisboa Card | Book? | Best Time |
+|-------|------|-------------------|-------|-----------|
+| Mosteiro dos Jerónimos (cloister) | €18 (church free) | **FREE** (mandatory MMP timed slot) | ✅ timed (MMP) | Day 1 — **closed Mon** |
+| Padrão dos Descobrimentos | €10 | **FREE** | ❌ | Day 1 |
+| Torre de Belém | €15 | **FREE** (mandatory MMP timed slot) | ✅ timed (MMP) | Day 1 — closed Mon |
+| **Palácio da Pena (Sintra)** | €20 | -10% (adult) → €18 | ✅ **strict window** | Day 2, 09:00 |
+| **Castelo dos Mouros (Sintra)** | €12 | -15% (bundled) → €10.20; buy at Pena office | ❌ | Day 2 |
+| **Quinta da Regaleira (Sintra)** | €15 | **No discount** (confirmed, not a partner) | ✅ | Day 2 PM |
+| Cabo da Roca | Free (cert €11) | n/a | ❌ | Day 2, 17:00 |
+| Castelo de São Jorge | €17 (under 12 free) | **FREE** — except ages 13-15 | ✅ BOL | Day 3, 09:00 |
+| Sé de Lisboa | Free nave / €5 cloister | Cloister -20% → €4 | ❌ | Day 3 — **closed Sun** |
+| **São Vicente de Fora** (monastery + royal pantheon) | €8 | -25% → €6 (**not free**) | ❌ | Day 3 |
+| **Panteão Nacional** | €4 | **FREE** | ❌ | Day 3 — closed Mon |
+| **Igreja de São Roque** | Church free (museum €2.50) | Museum -50% → €1.25 | ❌ | Day 3 — closed Mon |
+| **Cemitério dos Prazeres** | Free | n/a | ❌ | Day 3 PM |
+| Oceanário de Lisboa | ~€25 / €15 child | -15% → ~€21.25 / €12.75 | ✅ timed | Day 3 (Option B) |
+| Convento do Carmo | €7 | -20% → €5.60 (**not free**) | ❌ | Day 4 — **closed Sun** |
 
 ---
 
@@ -94,10 +95,12 @@ No car. Metro + trams + Bolt do everything; Lisbon is big and hilly.
 
 | Item | Deadline | Where |
 |------|----------|-------|
-| **Palácio da Pena (Day 2)** | 1–2 weeks before | parquesdesintra.pt — timed window |
-| **Quinta da Regaleira (Day 2)** | 1 week before | regaleira.pt |
-| **Jerónimos cloister (Day 1)** | 1 week before | patrimoniocultural.gov.pt |
-| **Oceanário (Day 3 Option B)** | 1 week before | oceanario.pt |
+| **Lisboa Card** | Buy on/after ~26 Jul 2026 | lisboacard.org — 28-day redeem window, don't buy earlier |
+| **Exchange for physical card** | Day 1, on arrival | Ask Me Lisboa desk (airport or city) |
+| **Palácio da Pena (Day 2)** | 1–2 weeks before | parquesdesintra.pt — timed window, -10% w/ card code |
+| **Quinta da Regaleira (Day 2)** | 1 week before | regaleira.pt — no card discount |
+| **Jerónimos + Belém Tower (Day 1)** | 1 week before | patrimoniocultural.gov.pt (walk-up) or mmp.bymeoblueticket.pt (Lisboa Card — pay via "Lisboa Card" method + card code) |
+| **Oceanário (Day 3 Option B)** | 1 week before | oceanario.pt — -15% w/ card |
 | **Castelo de São Jorge (Day 3)** | A few days before | BilheteiraOnline (BOL) |
 | **Fado-house dinner (Day 3)** | 1 week before | Clube de Fado / Parreirinha de Alfama |
 | ~~Lisbon apartment~~ ✅ | Booked | 64 Rua da Bempostinha — €579.50 paid |
@@ -118,6 +121,8 @@ Per person · ~3 days · excl. accommodation:
 | Transport (incl. Sintra trains/buses) | €25–35 | €35–50 | €50–75 |
 | **Total / person** | **€146–220** | **€242–375** | **€365–580** |
 | **Total for 4** | **~€585–880** | **~€970–1,500** | **~€1,460–2,320** |
+
+> These ranges assume paying à la carte. With the Lisboa Card, each adult nets roughly **+€32–64** in combined transport + entry savings (72h card costs €62) — see the **Lisboa Card** section in the master itinerary for the full per-person math and why child cards only pay off for a 13-15-year-old.
 
 ---
 
