@@ -762,6 +762,30 @@ Then walk up to **Miradouro de São Pedro de Alcântara** for the lit-up castle 
 
 ---
 
+#### 🔀 Alternative Day 2 — Sintra-only, Lisboa Card + Pena Combo (lighter version)
+
+> Swap for the Cabo da Roca/Cascais version above if a 13-hour transit-heavy day feels like too much. This trades the coastal leg for one slower Sintra day, paid via the **[Lisboa Card + Pena Palace combo](https://www.lisboacard.org/tickets/lisboa-card-pena-palace)** (from €58) — one voucher bundles a 24/48/72h Lisboa Card **and** timed Pena Palace entry (palace + Park of Pena + Chalet of the Countess of Edla). Card clock starts on first tap, so activate it this morning. **Sintra train is covered by the card; Bus 434 up to Pena is not** — pay on the day (or online day pass). Quinta da Regaleira isn't part of this combo — it's a separate paid add-on if you want it.
+
+| Time | Where | What |
+| --- | --- | --- |
+| **07:30** | Apartment | Light breakfast — coffee + pastry, nothing sit-down |
+| **08:00** | Metro/Bolt → Rossio | Exchange combo voucher for physical Lisboa Card at a pickup point (Praça do Comércio / Cais do Sodré) if not already done |
+| **08:15** | Train Rossio → Sintra | ~40 min — covered by the card |
+| **09:00** | Bus 434 (Circuito da Pena) | ~15 min up — pay on board/online, not card-covered |
+| **09:30–12:15** ⭐⭐ | **Palácio da Pena** | Timed slot, but no rush back down for Castelo dos Mouros today — take the extra time: full Park of Pena grounds, Queen's Terrace, Chalet of the Countess of Edla, all included in the combo |
+| **12:30** | Bus 434 back to Sintra village | |
+| **13:00** | **Sintra village lunch** ⭐ | **Casa Piriquita** (_travesseiros_, _queijadas_) or **Tascantiga** — casual, unhurried |
+| **14:00–15:30** | Wander Sintra town | Palácio Nacional de Sintra (twin chimneys, town-centre, separate ticket) and the old-town lanes/shops — as much or little as energy allows. **Skip Regaleira** unless you've pre-booked it separately |
+| **15:30** | **Decision point** | Back to Lisbon now, or stay for dinner in Sintra (see below) |
+
+**Option A — back to Lisbon:** 15:45 train Sintra → Rossio (~40 min, card-covered) → free evening in Baixa/Chiado, dinner in Lisbon.
+
+**Option B — dinner in Sintra, then home:** 18:00–19:30 dinner in the village (**Tascantiga** or **Incomum**) → 20:00 train Sintra → Rossio (~40 min, card-covered) → Bolt/Metro to apartment.
+
+> ⚠️ Pena's timed slot is still strict even inside the combo — book the date/time ahead, same as the standalone ticket. Bus 434 queues build by mid-morning; being on the 08:15 train keeps you ahead of the coach-tour crowd.
+
+---
+
 ### Day 3 — Tuesday Aug 25 · Alfama, the Castle & Lisbon's Churches ⭐⭐
 
 > The day the family will love most — Lisbon's oldest quarter, the castle, a clutch of extraordinary churches, the royal pantheon, and a historic cemetery, finished with fado. Everything below is **open on a Tuesday** (several of these close Sun/Mon — Tuesday threads the needle).
