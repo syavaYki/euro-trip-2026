@@ -24,7 +24,9 @@ No car. Metro + trams + Bolt do everything; Lisbon is big and hilly.
 
 **Viva Viagem / Navegante card** — €0.50 reusable card. Single €1.85 · **24-hr unlimited (Metro + bus + tram + funiculars) €6.80** — worth it on a heavy day.
 
-> 🎟️ **Better for this trip: the Lisboa Card (72h, €62 adult) — but buy it late.** It must be redeemed within **28 days of purchase**, so don't buy before **~26 Jul 2026** for this trip. Covers all transport *and* the Sintra & Cascais trains, plus genuinely **free** entry to Jerónimos (not ages 13-15), Torre de Belém (not ages 13-15), Castelo de São Jorge (not ages 13-15), and Panteão Nacional. São Vicente, the Sé cloister, and Carmo are **discounts only** (-25%/-20%/-20%), not free — a correction from an earlier draft of this guide. Real discounts also apply in Sintra: Pena -10%, Castelo dos Mouros -15% (Regaleira gets **zero** discount, confirmed). Nets roughly **+€32–64 per adult**; skip a child card if a daughter is under 12, buy one if she's 13-15. Full breakdown in the master itinerary's **Lisboa Card** section.
+> 🎟️ **Better for this trip: the Lisboa Card (72h, €62 adult) — but buy it late.** It must be redeemed within **28 days of purchase**, so don't buy before **~26 Jul 2026** for this trip. Covers all transport *and* the Sintra & Cascais trains, plus genuinely **free** entry to Jerónimos (not ages 13-15), Torre de Belém (not ages 13-15), Castelo de São Jorge (not ages 13-15), and Panteão Nacional. São Vicente, the Sé cloister, and Carmo are **discounts only** (-25%/-20%/-20%), not free — a correction from an earlier draft of this guide. Real discounts also apply in Sintra: Pena -10%, Castelo dos Mouros -15% (Regaleira gets **zero** discount, confirmed). Nets roughly **+€32 per adult**.
+>
+> ✅ **RESOLVED — buy 4 × ADULT 72h cards (€248), and the buying window is open now.** Daughters are **17 and 19**, so the child rate (**ages 4–15 only**) doesn't apply — all four buy adult, and the **13-15 exclusion is irrelevant** to you. ⚠️ But note: at 17/19 they sit in Portugal's **youth band (13–24/25) — ~50% off** at the same monuments the card makes free (Torre de Belém €15→€7.50, Castelo de São Jorge €17→€8.50), so their card value is only **~€58–63 vs the €62 price — roughly breakeven**. Buy theirs anyway for the single booking system and to skip the photo-ID-at-every-gate routine. The old "don't buy before ~26 Jul" hold has **expired** — as of 30 Jul you're 24 days from landing, inside the 28-day redemption window. Full breakdown in the master itinerary's **Lisboa Card** section.
 
 | Need | How |
 |------|-----|
@@ -95,7 +97,7 @@ No car. Metro + trams + Bolt do everything; Lisbon is big and hilly.
 
 | Item | Deadline | Where |
 |------|----------|-------|
-| **Lisboa Card** | Buy on/after ~26 Jul 2026 | lisboacard.org — 28-day redeem window, don't buy earlier |
+| **Lisboa Card** ✅ window open | **BUY NOW** — 4 × adult 72h (€248) | lisboacard.org — 28-day redeem window, now inside it |
 | **Exchange for physical card** | Day 1, on arrival | Ask Me Lisboa desk (airport or city) |
 | **Palácio da Pena (Day 2)** | 1–2 weeks before | parquesdesintra.pt — timed window, -10% w/ card code |
 | **Quinta da Regaleira (Day 2)** | 1 week before | regaleira.pt — no card discount |
@@ -122,7 +124,7 @@ Per person · ~3 days · excl. accommodation:
 | **Total / person** | **€146–220** | **€242–375** | **€365–580** |
 | **Total for 4** | **~€585–880** | **~€970–1,500** | **~€1,460–2,320** |
 
-> These ranges assume paying à la carte. With the Lisboa Card, each adult nets roughly **+€32–64** in combined transport + entry savings (72h card costs €62). For kids, skip it under 12 (most sights already free); for 13-15 the net value is now uncertain — Jerónimos and Belém Tower also exclude that age band, cutting the free-value materially below an earlier estimate — see the **Lisboa Card** section in the master itinerary before buying a child card.
+> These ranges assume paying à la carte. **Confirmed plan: 4 × adult 72h Lisboa Card = €248.** Each parent nets **~+€32** in combined transport + entry savings. Each daughter (17/19) is **~breakeven** — the youth band (13–24/25) already halves her à-la-carte cost at Jerónimos, Belém Tower, Castelo de São Jorge and the Panteão, so the card has less to give her. Bought anyway for the single booking system. Full math in the **Lisboa Card** section of the master itinerary.
 
 ---
 

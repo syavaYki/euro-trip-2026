@@ -7,9 +7,25 @@
 
 ### ⚠️ Book immediately — 2026 is Gaudí's centenary
 
-- **Sagrada Família** — **nominative tickets** (name must match passport; 15-min entry window). €26 / €36 with tower; under 11 free but need a QR. sagradafamilia.org
-- **Park Güell** (Monumental Zone) — **advance-online only**, sells out weeks ahead. ~€13 / €7 youth.
+- ~~**Sagrada Família**~~ ✅ **BOOKED — Thu Aug 27 · entry 17:45 · English guided tour 18:30 · code `103719876`.** **Nominative** — bring everyone's passport, names are checked. Be at the Carrer de la Marina entrance by **17:30**; the 15-min window is enforced. _(Reference: €26 basic / €24 Under 30s / €36 + towers / under 11 free but still needs a QR.)_
+- **Park Güell** (Monumental Zone) — **book now, advance-online only**, sells out weeks ahead. ⚠️ **Now €18**, not the ~€13 quoted in an earlier draft (7–12 €13.50, 0–6 free). Book the **09:30 opening slot** for Aug 27.
 - **Casa Batlló / La Pedrera** — book if wanted.
+
+---
+
+### 🎟️ City pass verdict: **don't buy one**
+
+Researched all of them. **Every Barcelona pass loses money on this itinerary** — they're built around museums, and this trip is Gaudí + churches + two day trips.
+
+| Pass | Cost for our four | Real value | Verdict |
+|------|-------------------|-----------|---------|
+| **Barcelona Card 96h** | €268 (daughters at 17/19 pay adult — the child rate is ages 4–12) | ~€76 | ❌ **loses ~€190** |
+| **Go City All-Inclusive 2-day** | €756 | — covers 2 of our 5 days, Sagrada only as a fixed guided tour | ❌ **hard no** |
+| Articket BCN / Card Express / Card Family | — | wrong museums for this trip | ❌ |
+
+It covers **none** of Sagrada Família, Park Güell, the Cathedral, Santa Maria del Pi, Montserrat or Girona. Only −20% on Sant Pau.
+
+**Buy instead:** **4 × T-casual (€50.20)** + exploit the free windows below.
 
 ---
 
@@ -29,8 +45,9 @@
 ### Getting Around
 
 - **Airport (T1) → Eixample (Aug 26):** taxi ~€35–40 flat (easiest at night), or Aerobus A1 → Plaça Catalunya
-- **Metro:** T-casual (10 rides ~€12.55, shareable) or Hola Barcelona unlimited card for heavy days; covers Metro + bus + Montjuïc funicular
-- **Day trips:** Montserrat = FGC R5 from Plaça d'Espanya (combined Trans Montserrat ticket); Girona = AVE from Sants (~38 min)
+- **Metro: buy 4 × T-casual (€12.55 each = €50.20).** ⚠️ **Correction:** the T-casual is **single-person**, *not* shareable — one card can't be tapped for four people. The shareable ticket is the **T-familiar** (€11.05, 8 journeys, multi-person, **airport excluded**). Covers Metro + bus + tram + FGC/Rodalies zone 1 + the Montjuïc **funicular** (the €13 Montjuïc **cable car** is never included).
+- **Skip Hola Barcelona** (96h = €127 for four) — it needs ~20 rides pp to break even and we'll do ~13–15.
+- **Day trips:** Montserrat = FGC R5 from Plaça d'Espanya — take the **Tot Montserrat** combined ticket (~€65–71.50, bundles Metro + train + cable car/rack railway + both funiculars + museum + buffet lunch; **full price from age 5**). Girona = AVE from Sants (~38 min)
 - **Weather:** 28–31 °C, sea ~24 °C swimmable. Sunset ~20:10.
 
 > ⚠️ **Pickpockets** — Las Ramblas, Gothic Quarter, airport Metro line, Sagrada exit, beach. Bags in front.
@@ -42,10 +59,10 @@
 | Day | Theme | Key Activities |
 |-----|-------|---------------|
 | **Day 1** (Wed Aug 26) | Late arrival | Land 21:50 → taxi to Eixample → check in → late bite → sleep |
-| **Day 2** (Thu Aug 27) | Gaudí Day ⭐⭐ | Sagrada Família 09:00 (ID!) → Hospital de Sant Pau → Park Güell → Gràcia squares + gelato |
-| **Day 3** (Fri Aug 28) | **Montserrat day trip** ⭐⭐ | R5 + cable car/rack railway → monastery + Black Madonna → **boys' choir 13:00** → Sant Joan funicular views |
+| **Day 2** (Thu Aug 27) | Gaudí Day ⭐⭐ **(runs backwards — Sagrada is booked for the evening)** | Park Güell 09:30 → Gràcia squares + gelato → lunch → **siesta** → Sant Pau 15:45 → walk Avinguda de Gaudí → **Sagrada Família 17:45, guided tour 18:30 (passports!)** → Eixample dinner |
+| **Day 3** (Fri Aug 28) | **Montserrat day trip** ⭐⭐ | **Tot Montserrat** ticket → R5 + cable car/rack railway → monastery + Black Madonna → **boys' choir 13:00** → buffet lunch → museum → Sant Joan funicular views |
 | **Day 4** (Sat Aug 29) | Old City churches + beach ⭐ | La Seu cathedral → Santa Maria del Pi → Santa Maria del Mar → La Cova Fumada lunch → Barceloneta → Bunkers (late PM) → Carrer de Blai pintxos |
-| **Day 5** (Sun Aug 30) | **A: Girona day trip** / **B: city depth** | A: cathedral + Jewish Quarter + Sant Pere de Galligants · B: Pedralbes monastery + Montjuïc + Tibidabo Sagrat Cor |
+| **Day 5** (Sun Aug 30) | **A: Girona day trip** / **B: city depth — free-museum Sunday** 💰 | A: cathedral + Jewish Quarter + Sant Pere de Galligants (~€130 for four) · B: Tibidabo Sagrat Cor AM → **Pedralbes 15:00 FREE** → **Montjuïc Castle FREE** (~€48 for four) |
 | **Day 6** (Mon Aug 31) | Departure | Check out by 11:00 → Sants by 10:30 → AVE 11:00 to Zaragoza |
 
 ---
@@ -54,17 +71,18 @@
 
 | Sight | Cost | Book? | Best Time |
 |-------|------|-------|-----------|
-| **Sagrada Família** | €26 / €36 tower | ✅ **nominative — bring ID** | Day 2, 09:00 |
-| Hospital de Sant Pau | €16 | ❌ | Day 2 |
-| **Park Güell** (Monumental) | ~€13 / €7 youth | ✅ **advance only** | Day 2 PM |
-| **Montserrat** (monastery free) | ~€55 combined transport | ✅ Pl. d'Espanya FGC | Day 3 (weekday = choir) |
+| **Sagrada Família** | €26 / €24 under-30 / €36 tower | ✅ **BOOKED — `103719876`, bring passports** | **Day 2, 17:45 · tour 18:30** |
+| Hospital de Sant Pau | ~€17 | ❌ | Day 2, 15:45 (closes ~18:30) |
+| **Park Güell** (Monumental) | **€18** (7–12 €13.50, 0–6 free) | ✅ **advance only** | **Day 2, 09:30** |
+| **Montserrat** (monastery free) | Trans ~€40–50 · **Tot ~€65–71.50** ⭐ | ✅ Pl. d'Espanya FGC | Day 3 (weekday = choir) |
 | Catedral de Barcelona (La Seu) | ~€11 (incl. rooftop) | ❌ | Day 4, 09:30 |
 | Santa Maria del Pi | ~€5 | ❌ | Day 4 |
 | Santa Maria del Mar | Free | ❌ | Day 4 |
 | Bunkers del Carmel | Free | ❌ | Day 4 **late PM (gate 19:30)** |
 | **Girona** (cathedral + Call) | ~€11 | book train | Day 5 (Option A) |
-| Monestir de Pedralbes | €5 | ❌ | Day 5 (Option B) — closed Mon |
-| Montjuïc Castle / MNAC | €5 / €12 | ❌ | Day 5 (Option B) |
+| Monestir de Pedralbes | €5 → **FREE Sun from 15:00** 💰 | ❌ | Day 5 (Option B) — closed Mon |
+| Montjuïc Castle | €5–12 → **FREE Sun from 15:00** 💰 | ❌ | Day 5 (Option B), sunset |
+| MNAC | €12 — ⚠️ free **Sat** 15:00+, **not** Sunday | ✅ online required even when free | Day 5 only if traded against Sat |
 
 ---
 
@@ -92,9 +110,11 @@
 
 | Item | Deadline | Where |
 |------|----------|-------|
-| **Sagrada Família** ⚠️ nominative | **ASAP** (centenary) | sagradafamilia.org |
-| **Park Güell** | 2–3 weeks before | parkguell.barcelona |
-| **Day-trip train** (Montserrat combo / Girona AVE) | A few days before | FGC Pl. d'Espanya / renfe.com |
+| ~~**Sagrada Família**~~ ✅ ⚠️ bring passports | Booked | **Aug 27 · 17:45 · tour 18:30 · code `103719876`** |
+| **Park Güell** ⚠️ now €18 | **NOW** — sells out, advance-only | parkguell.barcelona — **09:30 slot, Aug 27** |
+| **Montserrat combined** — take **Tot** | A few days before | FGC Pl. d'Espanya / Turisme de Barcelona, Pl. Catalunya |
+| **Girona AVE** (only if Day 5 Option A) | A few days before | renfe.com |
+| ❌ **Barcelona Card / Go City** | — | **Do not buy** — researched, loses money |
 | Casa Batlló / La Pedrera (optional) | 1 week before | official sites |
 | ~~Barcelona hotel~~ ✅ | Booked | AB Sagrada Família Bofill |
 | ~~AVE BCN → Zaragoza (Aug 31 11:00)~~ ✅ | Booked | Locator **WJXSCF** · Coche 6 · 2A/2B/3A/3B |
