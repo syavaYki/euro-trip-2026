@@ -39,7 +39,7 @@ Porto is a walkable city. No car needed — Metro + Uber/Bolt for longer hops.
 | Bolhão Market | 2 min |
 | Café Santiago (francesinha) | 8 min |
 | Torre dos Clérigos | 10 min |
-| Livraria Lello | 12 min |
+| Museu Nacional Soares dos Reis | 15 min |
 | São Bento Station | 12 min |
 | Cais da Ribeira | 18 min (downhill) |
 | Dom Luís I Bridge | 22 min |
@@ -50,8 +50,8 @@ Porto is a walkable city. No car needed — Metro + Uber/Bolt for longer hops.
 
 | Day | Theme | Key Activities |
 |-----|-------|---------------|
-| **Day 1** (Thu Aug 20) | Arrival + Ribeira | Livraria Lello → Igreja do Carmo → Cais da Ribeira → Dom Luís I Bridge → Igreja de São Francisco → dinner at Taberna dos Mercadores |
-| **Day 2** (Fri Aug 21) | Historic Core + Sunset Cruise | São Bento Station → Sé Cathedral → Francesinha at Café Santiago → Bolhão → Palácio da Bolsa → Photography Centre → Jardim das Virtudes → **6 Bridges Sunset Cruise 18:45** |
+| **Day 1** (Thu Aug 20) | Arrival + Ribeira | ~~Livraria Lello~~ **Museu Nacional Soares dos Reis** → Igreja do Carmo → Cais da Ribeira → **Dom Luís I Bridge Gaia loop** (lower deck → Cais de Gaia → cable car up → Jardim do Morro → upper deck back) → Igreja de São Francisco → dinner at Taberna dos Mercadores → **Clérigos night climb** |
+| **Day 2** (Fri Aug 21) | Historic Core + Sunset Cruise | São Bento Station → Sé Cathedral → **Igreja de Santa Clara** → Francesinha at Café Santiago → Capela das Almas → Bolhão → **MMIPO (Misericórdia)** → Photography Centre → Jardim das Virtudes → **6 Bridges Sunset Cruise 18:45** |
 | **Day 3** (Sat Aug 22) | Option A: Beach + Tram Loop / Option B: Douro Valley | A: Matosinhos Beach → Foz → Tram 1 → Tram Museum → Crystal Palace peacocks → farewell dinner · B: Train to Régua → lunch + port tasting → boat back |
 | **Day 4** (Sun Aug 23) | Departure | Wake 05:45 → Metro 06:25 → OPO 07:05 → TP1921 departs 09:00 |
 
@@ -61,11 +61,18 @@ Porto is a walkable city. No car needed — Metro + Uber/Bolt for longer hops.
 
 | Sight | Cost | Book? | Best Time |
 |-------|------|-------|-----------|
-| Livraria Lello | €10 | ✅ livrarialello.pt | Day 1 afternoon |
+| ~~Livraria Lello~~ **CANCELLED** | — | — | Replaced by Soares dos Reis |
+| Museu Nacional Soares dos Reis | €5 (under 12 free) | ❌ | Day 1, 14:30 — closed Mon |
+| **Teleférico de Gaia** | €3.50 one-way / €6 return | ❌ | Day 1, ~17:00 · high season 10:00–20:00 |
+| Funicular dos Guindais | €2.50 one-way | ❌ | Day 1, ~17:40 (or free via the 290 steps) |
+| **Torre dos Clérigos** (night visit) | €6–10 · €5 night ticket — verify | ❌ | Day 1, ~21:00 · night season 3 Jul–11 Oct |
 | São Bento Station | Free | ❌ | Day 2 morning |
 | Porto Cathedral (Sé) | €3 | ❌ | Day 2 morning |
 | Igreja de São Francisco | €9 adults / €2.50 children | ❌ | Day 1 afternoon |
-| Palácio da Bolsa (guided tour) | €14/adult, under 12 free | ✅ recommended | Day 2 afternoon |
+| **Igreja de Santa Clara** ⭐⭐ | €4 (under 10 free) | ❌ | Day 2, 10:45 — daily 09:00–13:00 & 14:00–18:00 |
+| **Igreja e Museu da Misericórdia (MMIPO)** | ~€5 (free under 7) — verify | ❌ | Day 2, 14:45 · Rua das Flores |
+| ~~Palácio da Bolsa~~ (guided tour) | €14/adult = €56 for four | swapped out for MMIPO | Day 2 — 3 min away if you change your mind |
+| _Free walk-bys, all already on route:_ Congregados (São Bento) · Grilos (below the Sé) · Santo Ildefonso (Batalha) · São Bento da Vitória (Vitória) | Free | ❌ | Day 2 |
 | Centro Português de Fotografia | Free | ❌ | Day 2 afternoon |
 | 6 Bridges Sunset Cruise | €35–45/person | ✅ Book in advance | Day 2, 18:45 |
 | Dom Luís I Bridge | Free | ❌ | Any time |
@@ -101,10 +108,11 @@ Porto is a walkable city. No car needed — Metro + Uber/Bolt for longer hops.
 
 | Item | Deadline | Where |
 |------|----------|-------|
-| Livraria Lello tickets | ASAP | livrarialello.pt |
+| ~~Livraria Lello tickets~~ | **CANCELLED** | — |
+| Cálem port lodge (optional, Day 1 Gaia) | 1 week before | tour.calem.pt — timed slots · €20 adult / €10 age 6–17 |
 | Taberna dos Mercadores (Day 1 dinner) | Email now | tabernadosmercadores.com |
 | **6 Bridges Sunset Cruise (Day 2, 18:45)** | 1–2 weeks before | getyourguide.com (t477703) |
-| Palácio da Bolsa (Day 2, English tour) | Day-of or 1 day ahead | palaciodabolsa.com |
+| ~~Palácio da Bolsa~~ — swapped for MMIPO | — | Day-of if you reinstate it: palaciodabolsa.com |
 | MUU (Day 2 dinner) | 1 week before | Restaurant website |
 | Loca (Day 3 dinner) | 2–3 weeks before | Restaurant website |
 | O Gaveto (Day 3 lunch splurge) | 1 week before | ogaveto.com |
