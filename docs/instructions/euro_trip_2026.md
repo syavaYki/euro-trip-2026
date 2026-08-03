@@ -354,21 +354,21 @@ The terraced belvedere at the top faces **due west** — Douro river to Foz, Gai
 
 > _"Best hidden gem in Porto — unknown even to most locals."_ — SpottedByLocals
 
-**18:15 — Walk to Cais da Ribeira pier**
+**18:15 — Walk to the meeting point (Vila Nova de Gaia)**
 
-~15–20 min walk east along the riverside via Ribeira to the cruise boarding point. Boarding typically begins 15 min before departure — aim to arrive by ~18:30.
+⚠️ **Per booking confirmation, the meeting point is Gaia-side, not Cais da Ribeira:** **430 Rua da Praia, Vila Nova de Gaia 4400-554 — door C.** [Get directions ›](https://maps.app.goo.gl/XRh8s6S5i9F55CbX8) From Passeio das Virtudes: down to Cais da Ribeira (~10 min), cross via the **Dom Luís I Bridge lower deck** to Gaia (~5 min), then along Cais de Gaia to Rua da Praia (~5 min) — budget ~20 min total, leave by 18:15 for a 18:30 arrival. Bring comfortable shoes.
 
-**18:45 — Porto 6 Bridges Cruise at Sunset** 🌅⭐
+**18:45 — 7 Bridges Cruise & Port Wine, Sunset Option** 🌅⭐ ✅ **Booked**
 
-Small-group sailboat from Cais da Ribeira. **2-hour cruise** under all six Porto bridges → out to the Atlantic Ocean where (conditions permitting) the boat heads into open water to catch the sunset over the sea. Glass of local port wine onboard. Sunset on **Aug 21, 2026 is ~20:25** — the 18:45 departure is timed exactly for this.
+Booking ref **GYG7VKRQ9BVG** (Booking #368686504) · operator **Leçaodouro** (+351 934 604 483, lecaodouro@gmail.com) · 4 people · confirmed 18:45–20:45.
 
-[**Book on GetYourGuide ›**](https://www.getyourguide.com/porto-l151/porto-6-bridges-cruise-port-wine-with-sunset-option-t477703?date_from=2026-08-21) · ~€35–45/person · 2 hours
+Small-group sailboat departing Gaia. **2-hour cruise** under Porto's bridges → out to the Atlantic Ocean where (conditions permitting) the boat heads into open water to catch the sunset over the sea. Glass of local port wine onboard. Sunset on **Aug 21, 2026 is ~20:25** — the 18:45 departure is timed exactly for this.
+
+[Booking details ›](https://www.getyourguide.com/porto-l151/porto-6-bridges-cruise-port-wine-with-sunset-option-t477703) · free cancellation up to 24h before
 
 > _"The crew was very friendly and attentive, explaining the history behind the bridges. With luck, you can find dolphins that come close to the coast at the end of the day to feed."_ — GetYourGuide review
 
-⚠️ Book this online to lock in the **18:45 sunset slot** — August sunset departures sell out.
-
-**~20:45 — Cruise returns to Ribeira**
+**~20:45 — Cruise returns to Gaia**
 
 Walk ~15 min uphill to dinner in the centre.
 
@@ -609,15 +609,15 @@ Confeitaria do Bolhão opens at 06:00 — nata and galão to go. Aloma (award-wi
 
 | Sight                                                                             | Cost                       | When                    | Book?                         | Time       |
 | --------------------------------------------------------------------------------- | -------------------------- | ----------------------- | ----------------------------- | ---------- |
-| Livraria Lello                                                                    | €10                        | Day 1 or 2              | ✅ livrarialello.pt           | 30–45 min  |
+| Museu Nacional Soares dos Reis _(replaces cancelled Lello)_                       | €5 (under 12 free)         | Day 1, 14:30             | ❌                            | 60–90 min  |
 | São Bento Station                                                                 | Free                       | Day 2 morning           | ❌                            | 15 min     |
 | Porto Cathedral (Sé)                                                              | €3                         | Day 2 morning           | ❌                            | 30 min     |
 | Capela das Almas (azulejo facade)                                                 | Free                       | Day 2 lunch break       | ❌                            | 15 min     |
-| Palácio da Bolsa (guided tour)                                                    | €14/adult, under 12 free   | Day 2 afternoon         | ✅ Recommended (English tour) | 45–60 min  |
+| Igreja e Museu da Misericórdia (MMIPO) _(replaces Palácio da Bolsa)_              | ~€5 (free under 7)         | Day 2, 14:45             | ❌                            | 45–60 min  |
 | Centro Português de Fotografia                                                    | Free                       | Day 2 afternoon         | ❌                            | 45–60 min  |
 | Café da Porta do Olival (medieval wall)                                           | ~€2 coffee                 | Day 2 afternoon snack   | ❌                            | 40 min     |
 | Jardim + Passeio das Virtudes                                                     | Free                       | Day 2 evening           | ❌                            | 30 min     |
-| 6 Bridges Sunset Cruise (GetYourGuide)                                            | €35–45/person              | Day 2 sunset (18:45)    | ✅ Book online in advance     | 2 hrs      |
+| 7 Bridges Sunset Cruise (GetYourGuide)                                            | €35–45/person              | Day 2 sunset (18:45)    | ✅ Booked — GYG7VKRQ9BVG      | 2 hrs      |
 | Igreja do Carmo                                                                   | Free                       | Day 1 or 2              | ❌                            | 10 min     |
 | Dom Luís I Bridge                                                                 | Free                       | Any                     | ❌                            | Anytime    |
 | Mosteiro da Serra do Pilar (Gaia · round church + cloister + **the** bridge view) | €4 (terrace free)          | Day 1 or 2, golden hour | ❌                            | 30–45 min  |
@@ -636,10 +636,10 @@ Confeitaria do Bolhão opens at 06:00 — nata and galão to go. Aloma (award-wi
 
 | Item                                       | When                          | Where                      |
 | ------------------------------------------ | ----------------------------- | -------------------------- |
-| Livraria Lello tickets                     | ASAP                          | livrarialello.pt           |
+| ~~Livraria Lello tickets~~                 | **CANCELLED**                 | —                           |
 | Taberna dos Mercadores (Day 1 dinner)      | Email now                     | tabernadosmercadores.com   |
-| **6 Bridges Sunset Cruise (Day 2, 18:45)** | 1–2 weeks before              | getyourguide.com (t477703) |
-| Palácio da Bolsa (Day 2, English tour)     | Walk-up day-of or 1 day ahead | palaciodabolsa.com         |
+| ~~7 Bridges Sunset Cruise (Day 2, 18:45)~~ ✅ Booked | — | ref **GYG7VKRQ9BVG** · Leçaodouro · meet 430 Rua da Praia, Gaia (door C) |
+| ~~Palácio da Bolsa~~ — swapped for MMIPO   | —                              | Day-of if you reinstate it: palaciodabolsa.com |
 | MUU (Day 2 dinner, 21:00)                  | 1 week before                 | Restaurant website / phone |
 | Loca (Day 3 dinner)                        | 2–3 weeks before              | Restaurant website / phone |
 | O Gaveto (Day 3 lunch)                     | 1 week before                 | ogaveto.com                |
@@ -746,7 +746,7 @@ Lisbon is bigger and hillier than Porto. No car. Metro + trams + Bolt do everyth
 
 > _"The takeaway queue looks insane but clears in five minutes. Eat them hot on the wall outside — a totally different pastry to a cold one."_ — r/lisbon
 
-**12:45 — Mosteiro dos Jerónimos, the cloister** ⭐⭐ — 2 minutes across the gardens from the pastelaria (**closed Mondays** — the reason Belém is Day 1). Portugal's greatest Manueline building, begun in 1501 on the wealth of the spice route and carved for a century in soft golden limestone. Inside are the tombs of Vasco da Gama and the poet Camões; the two-storey cloister is the thing people cross the country to see.
+**12:45 — Mosteiro dos Jerónimos, the cloister** ⭐⭐ ✅ **Booked — order 38185413, paid.** 2 minutes across the gardens from the pastelaria (**closed Mondays** — the reason Belém is Day 1). Portugal's greatest Manueline building, begun in 1501 on the wealth of the spice route and carved for a century in soft golden limestone. Inside are the tombs of Vasco da Gama and the poet Camões; the two-storey cloister is the thing people cross the country to see.
 
 ⚠️ **The free church (Santa Maria) is closed at this hour on a Sunday** — it only opens 14:00–17:00 on Sundays/religious holidays (vs. 10:30–17:00 Tue–Sat). At 12:45 only the **cloister** is open (Tue–Sun 9:30–17:30). Do the cloister now, then swing back into the free church right at 14:00 on your way to lunch — it's the same 2-minute walk.
 
@@ -765,7 +765,7 @@ Lisbon is bigger and hillier than Porto. No car. Metro + trams + Bolt do everyth
 
 **15:15 — Padrão dos Descobrimentos** — 5 min from Jerónimos, straight down to the river through the pedestrian underpass beneath the road. The 52-metre limestone prow (1960) juts into the Tagus with Henry the Navigator at the bow leading 32 figures of the Discoveries behind him. Take the **lift to the roof** (€10 adult; a youth rate applies to the daughters — verify at the desk) for the best single view in Belém — Jerónimos, the river, and Belém Tower in one sweep — then look down at the giant compass-rose and world map set into the pavement below. 30 min.
 
-**15:45 — Belém Tower + MAAT** — a flat ~10-min walk west along the waterfront promenade. The 16th-century **Torre de Belém** is the fortified gateway that once guarded the harbour mouth; find the **rhinoceros** carved on the north bastion — the first in European stone, modelled on a beast the king was gifted in 1515. **€15 adult / €7.50 youth 13–24 (bring ID) → €45 for four.** ⚠️ **Mandatory pre-booked timed slot** via patrimoniocultural.gov.pt, same as Jerónimos — **this is the one that sells out fastest, so book it first.** The earlier restoration-closure worry doesn't check out against the current official booking site, so book ahead simply because it's popular, not because it might be shut. Walking back, the **MAAT** museum's white wave-roof is a **free-to-everyone** rooftop climb over the river (the interior galleries are paid).
+**15:45 — Belém Tower + MAAT** — a flat ~10-min walk west along the waterfront promenade. The 16th-century **Torre de Belém** is the fortified gateway that once guarded the harbour mouth; find the **rhinoceros** carved on the north bastion — the first in European stone, modelled on a beast the king was gifted in 1515. **€15 adult / €7.50 youth 13–24 (bring ID) → €45 for four.** ✅ **Booked — order 38185394, 16:00 slot, paid.** Aim to reach the entrance by 15:55 for the timed slot. Walking back, the **MAAT** museum's white wave-roof is a **free-to-everyone** rooftop climb over the river (the interior galleries are paid).
 
 **16:45 — Back to Arroios + check in.** Train back to Cais do Sodré, then Metro or a quick Bolt up to the apartment (~40 min door to door). Collect the bags from Anjos on the way — or meet the LUGGit delivery — check in (window runs to 22:00), drop everything, and cool off. This is the one built-in rest of the day; don't skip it before a late Lisbon evening.
 
@@ -805,7 +805,7 @@ Then walk up to **Miradouro de São Pedro de Alcântara** for the lit-up castle 
 | **07:15**       | Apartment → **Rossio Station**    | Bolt or Metro to Rossio; grab takeaway coffee + pastry                                                                                                                         |
 | **07:40**       | **Train Rossio → Sintra**         | **€2.40/person** (Viva Viagem zapping). ~40 min, trains every ~20–30 min                                               |
 | 08:30           | Arrive Sintra                     | **Bus 434** (Circuito da Pena) from outside the station — **€13.50 hop-on-hop-off day pass** (8% off online), every ~15 min from 08:50. ⚠️ **Scotturb — on no Lisbon pass or card**; pay full fare regardless |
-| **09:00–11:00** | **Palácio da Pena** ⭐⭐          | Pre-booked **timed ticket (€20 adult, strict 30-min entry window)**. Parques de Sintra runs a **reduced youth band** — check whether 17 and 19 qualify at checkout. Go at opening — the candy-coloured romantic palace on its peak. Allow time for the gardens |
+| **09:00–11:00** | **Palácio da Pena** ⭐⭐          | ✅ **Booked & paid — Essential Visit, €20 adult.** ⚠️ **The 09:00 is Palace entry, not Park entry** — Bus 434 drops you at the Park's main gate; allow **~30 min** from there to the Palace (steep uphill walk, or a paid transfer ~€4.50/adult, book ahead). Late arrival = no entry, no refund. Go at opening — the candy-coloured romantic palace on its peak. Allow time for the gardens |
 | 11:15–12:00     | **Castelo dos Mouros**            | 8th-c Moorish walls along the ridge — walk the battlements, huge views. **€12 adult** (reduced youth band — check at checkout). ⚠️ **The on-site ticket booth is closed** — buy the discounted ticket at the **Palácio da Pena ticket office** while you're there, not here |
 | 12:30           | **Sintra village lunch**          | **Casa Piriquita** — the _travesseiros_ (flaky almond pillows) and _queijadas_. Casual + quick. **Optional free 20–30 min add-on right around here:** [Sintra Mitos e Lendas](https://maps.google.com/?q=Sintra+Mitos+e+Lendas) — inside the tourist office at Praça da República 23 (~€12), 17 interactive multimedia rooms on local myths/legends, air-conditioned, daily 10:00–18:30 (last entry 17:30). A good low-effort swap-in if Castelo dos Mouros gets cut for time or energy |
 | **14:00–16:00** | **Quinta da Regaleira** ⭐⭐      | Pre-booked (€15 adult / kids cheaper). The **Initiation Well** — a 27 m inverted spiral tower you descend into tunnels. Bring a phone torch. Kids' favourite of the whole trip. No pass or card discount exists here — pay full price regardless |
@@ -817,7 +817,8 @@ Then walk up to **Miradouro de São Pedro de Alcântara** for the lit-up castle 
 
 > ⚠️ **What to look out for:**
 >
-> - **Pena & Regaleira sell out in August** — book both online a week+ ahead, and respect Pena's 30-min entry window or you forfeit.
+> - **Regaleira sells out in August** — book online a week+ ahead. **Pena is ✅ already booked and paid.** Respect the 09:00 entry window or forfeit — no refund.
+> - ⚠️ **Pena timing risk:** the 09:00 slot is the *Palace* door, ~30 min uphill from where Bus 434 drops you at the Park's main gate. The 08:30–08:50 bus in this plan may be too late — aim to catch the **first 434 of the morning** to bank the buffer. No private-vehicle access from Sintra centre to Pena — bus, hike, or paid park transfer only.
 > - **Bus 434** queues get long midday; the day pass lets you hop off at the Moorish Castle and back on.
 > - The **403 bus to Cabo da Roca/Cascais** fills up — if it's full or you're flagging, **cut Cabo da Roca** and take the 434 back to Sintra → train home, or go straight Sintra → Cascais.
 > - This is a 13-hour day. A lighter version: **Pena + Regaleira + Sintra village**, train back, skip the coast.
@@ -868,7 +869,7 @@ Then walk up to **Miradouro de São Pedro de Alcântara** for the lit-up castle 
 
 **10:45 — Alfama miradouros** — 5 min downhill from the castle gate to two viewpoints side by side: **Portas do Sol** (the postcard sweep over Alfama's rooftops to the river and the Panteão's white dome) and, just below it, **Miradouro de Santa Luzia** (a rose-draped, tiled terrace with two azulejo panels of pre-earthquake Lisbon). Both turn into cruise-ship scrums by midday — you're catching them early. Cooling scoop en route at **Gelato Davvero** (Rua de São Cristóvão, Alfama edge, 4.9/5).
 
-**11:15 — Mosteiro de São Vicente de Fora** ⭐⭐ — a 5-min walk northeast along the ridge (daily, **€8**). Vast white monastery: cloisters lined floor-to-ceiling with **azulejo panels** (look for the Aesop's-fables set), the **Bragança Royal Pantheon** where the kings and queens lie in marble, and a **rooftop terrace** over Alfama and the Tagus. The history-minded will linger at the tombs.
+**11:15 — Mosteiro de São Vicente de Fora** ⭐⭐ ✅ **Booked — ref 980497008 (2 adult, 2 youth).** A 5-min walk northeast along the ridge. Vast white monastery: cloisters lined floor-to-ceiling with **azulejo panels** (look for the Aesop's-fables set), the **Bragança Royal Pantheon** where the kings and queens lie in marble, and a **rooftop terrace** over Alfama and the Tagus. The history-minded will linger at the tombs.
 
 **12:00 — Feira da Ladra** (Tue & Sat only — today's a Tuesday) — the flea market spills across **Campo de Santa Clara** right beside São Vicente, so it's zero detour. Real antique azulejo tiles, old Port bottles and ceramics among the junk. 20–30 min; haggle gently, and keep bags zipped.
 
@@ -970,17 +971,17 @@ Then walk up to **Miradouro de São Pedro de Alcântara** for the lit-up castle 
 
 | Sight                                          | Adult               | Youth rate (17 & 19)                        | Book?                | Best Time              |
 | ---------------------------------------------- | ------------------- | ------------------------------------------- | -------------------- | ---------------------- |
-| Mosteiro dos Jerónimos (cloister)              | €18 (church free)   | ~€9 (13–24, ID)                             | ✅ **mandatory timed slot** | Day 1 — **closed Mon** |
+| Mosteiro dos Jerónimos (cloister)              | €18 (church free)   | ~€9 (13–24, ID)                             | ✅ **Booked — order 38185413** | Day 1 — **closed Mon** |
 | Padrão dos Descobrimentos                      | €10                 | ~€5 _(unverified)_                          | ❌                    | Day 1                  |
-| Torre de Belém                                 | €15                 | **€7.50** (13–24, ID)                       | ✅ **mandatory — sells out first** | Day 1 — closed Mon |
-| **Palácio da Pena (Sintra)**                   | €20                 | reduced band — check at checkout            | ✅ timed              | Day 2, 09:00           |
+| Torre de Belém                                 | €15                 | **€7.50** (13–24, ID)                       | ✅ **Booked — order 38185394, 16:00** | Day 1 — closed Mon |
+| **Palácio da Pena (Sintra)**                   | €20                 | reduced band — check at checkout            | ✅ **Booked & paid**  | Day 2, 09:00           |
 | **Castelo dos Mouros (Sintra)**                | €12                 | reduced band — check at checkout            | ✅ buy at Pena office | Day 2                  |
 | **Quinta da Regaleira (Sintra)**               | €15                 | kids' rate only                             | ✅                    | Day 2, 14:00           |
 | Sintra Mitos e Lendas (Sintra)                 | ~€12                | —                                           | ❌                    | Day 2 (optional)       |
 | Cabo da Roca                                   | Free (cert €11)     | —                                           | ❌                    | Day 2                  |
-| Castelo de São Jorge                           | €17 (under 12 free) | **€8.50** (13–25, ID)                       | ✅ BOL                | Day 3, 09:00           |
+| Castelo de São Jorge                           | €17 (under 12 free) | **€8.50** (13–25, ID)                       | ✅ **Booked & paid** — open ticket, valid until 1 Nov 2026, entry from 09:00 | Day 3, 09:00 |
 | Sé de Lisboa                                   | Free nave / €5 cloister | €5                                      | ❌                    | Day 3 — closed Sun     |
-| **São Vicente de Fora** (monastery + pantheon) | €8                  | €8                                          | ❌                    | Day 3, 11:15           |
+| **São Vicente de Fora** (monastery + pantheon) | €8                  | €8                                          | ✅ **Booked — ref 980497008** | Day 3, 11:15    |
 | **Panteão Nacional**                           | €4                  | ~€2                                         | ❌                    | Day 3 — **closed Mon** |
 | **Igreja de São Roque**                        | Church free (museum €2.50) | €2.50                                | ❌                    | Day 4                  |
 | **Cemitério dos Prazeres**                     | Free                | —                                           | ❌                    | Day 4                  |
@@ -998,12 +999,13 @@ Then walk up to **Miradouro de São Pedro de Alcântara** for the lit-up castle 
 
 | Item                                        | Deadline          | Where                                                |
 | ------------------------------------------- | ----------------- | ---------------------------------------------------- |
-| **Exchange voucher → physical card**        | Day 1, on arrival | Ask Me Lisboa desk (airport arrivals or city) — required before any tap or the Jerónimos/Belém Tower booking below will work |
-| **Jerónimos + Belém Tower timed slots**     | 1 week before      | [patrimoniocultural.gov.pt](https://www.patrimoniocultural.gov.pt/) — **book Belém Tower first, it sells out fastest** |
-| **Palácio da Pena (Sintra, Day 2)**         | 1–2 weeks before  | parquesdesintra.pt — **timed window**; check whether 17/19 qualify for the reduced youth band |
+| **Exchange voucher → physical card**        | Day 1, on arrival | Ask Me Lisboa desk (airport arrivals or city) — required before any tap or the Jerónimos booking below will work |
+| ~~**Torre de Belém timed slot (Day 1, 16:00)**~~ ✅ Booked | — | order **38185394**, paid |
+| ~~**Jerónimos timed slot**~~ ✅ Booked      | —                  | order **38185413**, paid |
+| ~~**Palácio da Pena (Sintra, Day 2)**~~ ✅ Booked | —          | Essential Visit, €20 adult, paid — 09:00 Palace slot |
 | **Quinta da Regaleira (Sintra, Day 2)**     | 1 week before     | regaleira.pt — no discount available anywhere              |
 | **Oceanário (if Day 3 Option B)**           | 1 week before     | oceanario.pt                        |
-| **Castelo de São Jorge (Day 3)**            | A few days before | BilheteiraOnline (BOL) — official only               |
+| ~~**Castelo de São Jorge (Day 3)**~~ ✅ Booked | —              | Open ticket, valid until 1 Nov 2026, entry from 09:00 — paid |
 | **Fado-house dinner (Day 3)**               | 1 week before     | Clube de Fado / Parreirinha de Alfama                |
 | ~~Lisbon apartment~~ ✅                     | Booked            | 64 Rua da Bempostinha — €579.50 paid                 |
 | ~~LIS → BCN flight (TP1038)~~ ✅            | Booked            | Aug 26 18:55                                         |
@@ -1016,8 +1018,7 @@ Then walk up to **Miradouro de São Pedro de Alcântara** for the lit-up castle 
 - ⚠️ **Elevador de Santa Justa** was separately flagged "temporarily unavailable" as of mid-2026 (distinct from the funicular situation above) — re-verify closer to the trip.
 - ⚠️ **Tram 28** is the city's #1 **pickpocket** spot and is packed in August — ride before 09:30, keep bags zipped in front, or just walk the route.
 - ⚠️ **Day-of-week closures:** Jerónimos & Belém Tower **closed Mon**; Sé **closed Sun**; São Roque & Panteão Nacional **closed Mon**; Convento do Carmo **closed Sun**. (This itinerary is already sequenced around these.) Jerónimos's **free church** additionally keeps shorter Sunday hours (14:00–17:00 vs. 10:30–17:00 the rest of the week) — see the Day 1 timing note.
-- ⚠️ **Jerónimos & Belém Tower require mandatory advance timed-slot booking**, at [patrimoniocultural.gov.pt](https://www.patrimoniocultural.gov.pt/) — this isn't just a fast-track, it's a hard requirement to get in at all. **Belém Tower is the one that sells out; book it first.**
-- ⚠️ Earlier drafts of this guide flagged Belém Tower as possibly closed for restoration until ~June 2026 — no evidence of that surfaced on the current official booking site, and it's moot regardless since today is already past that date. Book ahead because it's popular, not because of a closure risk.
+- ✅ **Both Belém-day must-books are booked and paid:** Torre de Belém (order 38185394, 16:00 slot) and Mosteiro dos Jerónimos cloister (order 38185413).
 - ⚠️ **Sintra timed tickets** (Pena) are strict — arrive in your window. The day is long and hot; carry water.
 - ⚠️ **Heat:** late August is 28–32 °C and sunny. Hats, water, and the air-conditioned Oceanário as a midday reset.
 - ⚠️ **Pickpockets** generally: Tram 28, Santa Justa queue, Time Out Market crush, Rossio. Bags in front.
@@ -1034,11 +1035,11 @@ Then walk up to **Miradouro de São Pedro de Alcântara** for the lit-up castle 
 
 | Book | Where | Note |
 | ---- | ----- | ---- |
-| **Mosteiro dos Jerónimos** (cloister) | [patrimoniocultural.gov.pt](https://www.patrimoniocultural.gov.pt/) | **Mandatory timed slot.** Day 1, Sun Aug 23 |
-| **Torre de Belém** | same | **Mandatory timed slot — the one that sells out.** Book first |
-| **Palácio da Pena** (Sintra) | parquesdesintra.pt | Strict 30-min entry window. Day 2 |
+| ~~**Mosteiro dos Jerónimos** (cloister)~~ | same | ✅ **Booked — order 38185413** |
+| ~~**Torre de Belém**~~ | same | ✅ **Booked — order 38185394, 16:00** |
+| ~~**Palácio da Pena** (Sintra)~~ | same | ✅ **Booked & paid.** Strict 09:00 entry window. Day 2 |
 | **Quinta da Regaleira** (Sintra) | regaleira.pt | Day 2 |
-| **Castelo de São Jorge** | BilheteiraOnline (BOL) — official only | Day 3, 09:00 opening |
+| ~~**Castelo de São Jorge**~~ | same | ✅ **Booked & paid.** Open ticket, valid until 1 Nov 2026, entry from 09:00 |
 | **Fado-house dinner** | Clube de Fado / Parreirinha de Alfama | Day 3 |
 
 #### Entry prices, à la carte
@@ -1934,17 +1935,17 @@ Walk down the steep path into the Eresma valley. From the river floor: the **cla
 
 | Item                                                                | City      | Deadline                                   | Where                                                                                                                          |
 | ------------------------------------------------------------------- | --------- | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
-| **Livraria Lello tickets**                                          | Porto     | ASAP                                       | livrarialello.pt                                                                                                               |
+| ~~**Livraria Lello tickets**~~ ❌ Cancelled                         | Porto     | —                                           | Replaced by Museu Nacional Soares dos Reis (no booking needed)                                                                 |
 | **Taberna dos Mercadores**                                          | Porto     | Email now                                  | tabernadosmercadores.com                                                                                                       |
 | **Loca (farewell dinner)**                                          | Porto     | 2–3 weeks before                           | Restaurant website                                                                                                             |
 | **O Gaveto**                                                        | Porto     | 1 week before                              | ogaveto.com                                                                                                                    |
 | **Escama**                                                          | Porto     | 1 week before                              | escamaporto.com                                                                                                                |
 | ~~**Lisbon apartment**~~ ✅                                         | Lisbon    | Booked                                     | 64 Rua da Bempostinha, Arroios — €579.50 paid, non-refundable                                                                  |
 | **Oceanário**                                                       | Lisbon    | 1–2 weeks before                           | oceanario.pt                                                                                                                   |
-| **Pena Palace, Sintra** (Aug 24)                                    | Lisbon    | 1–2 weeks before                           | parquesdesintra.pt — **timed entry window**                                                                                    |
+| ~~**Pena Palace, Sintra** (Aug 24)~~ ✅ Booked                      | Lisbon    | —                                           | Essential Visit, €20 adult, paid — 09:00 Palace slot                                                                           |
 | **Quinta da Regaleira, Sintra** (Aug 24)                            | Lisbon    | 1 week before                              | regaleira.pt                                                                                                                   |
-| **Mosteiro dos Jerónimos cloister** (Aug 23)                        | Lisbon    | 1 week before                              | patrimoniocultural.gov.pt                                                                                                      |
-| **Castelo de São Jorge** (Aug 25)                                   | Lisbon    | A few days before                          | BilheteiraOnline (BOL) — official only                                                                                         |
+| ~~**Mosteiro dos Jerónimos cloister** (Aug 23)~~ ✅ Booked          | Lisbon    | —                                           | order **38185413**, paid                                                                                                       |
+| ~~**Castelo de São Jorge** (Aug 25)~~ ✅ Booked                     | Lisbon    | —                                           | Open ticket, valid until 1 Nov 2026, entry from 09:00 — paid                                                                    |
 | **Fado-house dinner** (Aug 25)                                      | Lisbon    | 1 week before                              | Clube de Fado / Parreirinha de Alfama                                                                                          |
 | ~~**LIS → BCN flight (TP1038)**~~ ✅                                | Barcelona | Booked                                     | TP1038 LIS→BCN Aug 26, 18:55→21:50                                                                                             |
 | ~~**Sagrada Família**~~ ✅ ⚠️ nominative (bring passports)          | Barcelona | Booked                                     | **Aug 27 · entry 17:45 · English guided tour 18:30 · code `103719876`**                                                        |

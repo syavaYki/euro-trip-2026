@@ -56,16 +56,16 @@ No car. Metro + trams + Bolt do everything; Lisbon is big and hilly.
 
 | Sight | Adult | Youth rate (17 & 19) | Book? | Best Time |
 |-------|------|-------------------|-------|-----------|
-| Mosteiro dos Jerónimos (cloister) | €18 (church free) | ~€9 (13–24, ID) | ✅ **mandatory timed slot** | Day 1 — **closed Mon** |
+| Mosteiro dos Jerónimos (cloister) | €18 (church free) | ~€9 (13–24, ID) | ✅ **Booked — order 38185413** | Day 1 — **closed Mon** |
 | Padrão dos Descobrimentos | €10 | ~€5 _(unverified)_ | ❌ | Day 1 |
-| Torre de Belém | €15 | **€7.50** (13–24, ID) | ✅ **mandatory — sells out first** | Day 1 — closed Mon |
-| **Palácio da Pena (Sintra)** | €20 | reduced band — check at checkout | ✅ **strict window** | Day 2, 09:00 |
+| Torre de Belém | €15 | **€7.50** (13–24, ID) | ✅ **Booked — order 38185394, 16:00** | Day 1 — closed Mon |
+| **Palácio da Pena (Sintra)** | €20 | reduced band — check at checkout | ✅ **Booked & paid** | Day 2, 09:00 |
 | **Castelo dos Mouros (Sintra)** | €12 | reduced band — check at checkout | ❌ buy at Pena office | Day 2 |
 | **Quinta da Regaleira (Sintra)** | €15 | kids' rate only | ✅ | Day 2 PM |
 | Cabo da Roca | Free (cert €11) | n/a | ❌ | Day 2, 17:00 |
-| Castelo de São Jorge | €17 (under 12 free) | **€8.50** (13–25, ID) | ✅ BOL | Day 3, 09:00 |
+| Castelo de São Jorge | €17 (under 12 free) | **€8.50** (13–25, ID) | ✅ **Booked & paid** — open ticket, valid until 1 Nov 2026, entry from 09:00 | Day 3, 09:00 |
 | Sé de Lisboa | Free nave / €5 cloister | €5 | ❌ | Day 3 — **closed Sun** |
-| **São Vicente de Fora** (monastery + royal pantheon) | €8 | €8 | ❌ | Day 3 |
+| **São Vicente de Fora** (monastery + royal pantheon) | €8 | €8 | ✅ **Booked — ref 980497008** | Day 3 |
 | **Panteão Nacional** | €4 | ~€2 | ❌ | Day 3 — closed Mon |
 | **Igreja de São Roque** | Church free (museum €2.50) | €2.50 | ❌ | Day 3 — closed Mon |
 | **Cemitério dos Prazeres** | Free | n/a | ❌ | Day 3 PM |
@@ -97,11 +97,12 @@ No car. Metro + trams + Bolt do everything; Lisbon is big and hilly.
 | Item | Deadline | Where |
 |------|----------|-------|
 | **Viva Viagem cards** | On arrival, Aug 23 | €0.50 each at any Metro machine, load with zapping |
-| **Palácio da Pena (Day 2)** | 1–2 weeks before | parquesdesintra.pt — timed window; check the youth band |
+| ~~**Palácio da Pena (Day 2)**~~ ✅ Booked | — | Essential Visit, €20 adult, paid — 09:00 Palace slot |
 | **Quinta da Regaleira (Day 2)** | 1 week before | regaleira.pt — no discount available |
-| **Jerónimos + Belém Tower (Day 1)** ⚠️ mandatory timed slots | **NOW** | patrimoniocultural.gov.pt — **book Belém Tower first, it sells out fastest** |
+| ~~**Torre de Belém (Day 1, 16:00)**~~ ✅ Booked | — | order **38185394**, paid |
+| ~~**Jerónimos (Day 1)**~~ ✅ Booked | — | order **38185413**, paid |
 | **Oceanário (Day 3 Option B)** | 1 week before | oceanario.pt |
-| **Castelo de São Jorge (Day 3)** | A few days before | BilheteiraOnline (BOL) |
+| ~~**Castelo de São Jorge (Day 3)**~~ ✅ Booked | — | Open ticket, valid until 1 Nov 2026, entry from 09:00 — paid |
 | **Fado-house dinner (Day 3)** | 1 week before | Clube de Fado / Parreirinha de Alfama |
 | ~~Lisbon apartment~~ ✅ | Booked | 64 Rua da Bempostinha — €579.50 paid |
 | ~~LIS → BCN flight (TP1038)~~ ✅ | Booked | Aug 26 18:55 |
