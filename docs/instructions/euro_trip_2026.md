@@ -1551,230 +1551,214 @@ The reason to do it even with the Aug 27 ticket in hand: **you see the opposite 
 
 ## 🇪🇸 Zaragoza — Aug 31 – Sep 1 (1 night)
 
-> One night between Barcelona and Madrid. Zaragoza sits exactly halfway on the AVE high-speed rail — an underrated city with a Moorish palace that rivals the Alhambra, Roman ruins beneath the modern streets, and almost no international tourists. **AVEs booked at both ends**, with a generous afternoon-in / late-afternoon-out shape: arrive Mon ~12:30, La Aljafería at opening Tue, train to Madrid Tue evening. Plenty of time for the full short-list of sights.
+> One night between Barcelona and Madrid. Zaragoza sits exactly halfway on the AVE high-speed rail — an underrated city with a Moorish palace that rivals the Alhambra, Roman ruins beneath the modern streets, and almost no international tourists. **AVEs booked at both ends**, and the shape is generous: arrive Mon 12:28, evening at the two cathedrals + tower + river sunset (20:37), La Aljafería at Tuesday opening, Casa Lac lunch, train to Madrid Tue 17:48. Monday is Zaragoza's museum-closure day — the plan below routes around it so nothing on the list is shut.
 
 ### Logistics
 
 |                       |                                                                                                                                                                                                                                                                                                                                               |
 | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Apartment**         | Apartamento Centro 5 PSN Wifi — entire home/apt, host Isabel (co-host Jose Luis)                                                                                                                                                                                                                                                              |
-| **Address**           | Calle Dr. Alejandro Palomar 38, 2º Izda, 50002 Zaragoza ([Google Maps](https://goo.gl/maps/HALZD1PEQYQ2)) — central old town, ~10 min walk to Plaza del Pilar. ⚠️ Streets with the same name exist in other towns — verify map shows downtown Zaragoza.                                                                                       |
+| **Address**           | Calle Dr. Alejandro Palomar 38, 2º Izda, 50002 Zaragoza ([Google Maps](https://goo.gl/maps/HALZD1PEQYQ2)) — Magdalena edge of the old town, ~10 min walk to Plaza del Pilar. ⚠️ Streets with the same name exist in other towns — verify map shows downtown Zaragoza.                                                                          |
 | **Booking**           | Airbnb #**HM28SJ8P8C** · $93.93 (PayPal, scheduled Aug 18, 2026)                                                                                                                                                                                                                                                                              |
 | **Cancellation**      | Free until 16:00 on Aug 26; non-refundable after                                                                                                                                                                                                                                                                                              |
 | **Host contact**      | Isabel · +34 659 60 06 43 (Jose Luis is co-host — main contact for arrival info)                                                                                                                                                                                                                                                              |
 | **🔑 Key access**     | Lockbox at apt. **Code is only released after completing the online registration form** for all guests (Spain legal requirement). Form: [u.partee.es/4396/Oga33Ze0llPQgN7MIWtK3jHpu](https://u.partee.es/4396/Oga33Ze0llPQgN7MIWtK3jHpu). **Complete a few days before arrival** — don't leave for the day of. Each guest can fill their own. |
-| **Arrive Zaragoza**   | Mon Aug 31, **AVE arrives Delicias 12:28** (apartment check-in not until 16:00 — store bags at Delicias lockers in the meantime)                                                                                                                                                                                                              |
+| **Arrive Zaragoza**   | Mon Aug 31, **AVE arrives Delicias 12:28** (check-in not until 16:00 — bag plan below)                                                                                                                                                                                                                                                        |
 | **Check-in**          | Mon Aug 31, after 16:00                                                                                                                                                                                                                                                                                                                       |
 | **Check-out**         | Tue Sep 1, by 12:00 noon                                                                                                                                                                                                                                                                                                                      |
-| **Depart Zaragoza**   | Tue Sep 1, **AVE Delicias 17:48 → Madrid Atocha 19:44**                                                                                                                                                                                                                                                                                       |
+| **Depart Zaragoza**   | Tue Sep 1, **AVE Delicias 17:48 → Madrid Atocha 19:44** — be at Delicias by 17:15                                                                                                                                                                                                                                                             |
 | **Travel in**         | AVE 03112 ESTÁNDAR, locator **WJXSCF**, Coche 6 · seats 2A/2B/3A/3B · €30.95 × 4                                                                                                                                                                                                                                                              |
 | **Travel out**        | AVE 03162 ESTÁNDAR, locator **4U5NZV**, Coche 7 · seats 2C/2D/3C/3D · €30.15 × 4                                                                                                                                                                                                                                                              |
-| **Delicias ↔ centre** | Tram L1 from Delicias → Plaza del Pilar (~20 min, ~€1.35); taxi ~€10                                                                                                                                                                                                                                                                          |
+| **Delicias ↔ centre** | ⚠️ The tram does **not** stop at Delicias. **Bus 34** from the station forecourt → Av. César Augusto 27 (Mercado Central stop), ~15–20 min, €1.70 on board; or **taxi** 10–12 min, ~€8–12. With 4 people a taxi costs about the same as bus fares                                                                                              |
+| **Station consigna**  | Left-luggage lockers inside the Delicias intermodal building (bus-station side): daily 08:00–21:00, €4–6/bag/day by size, 48h max, **passport/ID required**                                                                                                                                                                                    |
 | **Status**            | ✅ Apartment booked · ✅ Both AVE trains booked                                                                                                                                                                                                                                                                                               |
 
-**House rules:** max 5 guests · no pets · no parties/events · quiet hours 22:00–08:00 · no candles or open flame · no smoke alarm (consider portable detector) · CO alarm present · stairs to apt · Spanish tax authority requires guest ID info — provide via Airbnb before arrival.
+**House rules:** max 5 guests · no pets · no parties/events · quiet hours 22:00–08:00 · no candles or open flame · no smoke alarm (consider portable detector) · CO alarm present · stairs to apt · Spanish tax authority requires guest ID info — provide via the registration form before arrival.
 
 **Parking** (if arriving by car — N/A for us since arriving by AVE, but noted for completeness): street parking is free in the area but very limited (historic neighborhood). Paid public lots at Plaza de España, Plaza de El Pilar (both ~10-min walk), or cheapest at **Plaza de los Sitios** ([map](https://goo.gl/maps/YpqTnj14akUpj2H59) · [Saba Los Sitios](https://www.saba.es/es/parking-zaragoza/parking-saba-los-sitios)). Pedestrian plaza at the door for brief luggage drop only.
 
 ### Neighbourhood essentials (from host)
 
-**Luggage storage** — useful after Sep 1 check-out before the AVE:
+**Luggage storage** — options for Aug 31 midday (before 16:00 check-in) and Sep 1 afternoon (after 12:00 checkout):
 
-- Estación Delicias bus station (same building as the AVE — easiest)
-- Any post office
-- Caixaforum
-- [megalockers.com](https://megalockers.com)
+- **Estación Delicias consigna** (same building as the AVE — easiest; 08:00–21:00, €4–6/bag, ID needed)
+- **[Megalockers](https://megalockers.com)** [📍](https://maps.google.com/?q=Megalockers+Calle+Manifestacion+24+Zaragoza+Spain) — automated lockers at C/ Manifestación 24, 200 m from Plaza del Pilar; book online only (QR access), drop-off 07:00–24:00, pickup 24h; M €9.25/day, L €13.25/day
+- Any post office · Caixaforum (host's other suggestions)
 
-**Nearby supermarkets**
+**Nearby supermarkets:** Eroski City — C/ Coso 126 · Alcampo — C/ Reboleria 14 · Mercadona — C/ San Vicente Paul 42
 
-- **Eroski City** — Calle Coso 126
-- **Alcampo** — Calle Reboleria 14
-- **Mercadona** — Calle San Vicente Paul 42
+**Taxis:** 976 75 75 75 · 976 42 42 42 (Uber and Cabify also operate)
 
-**Taxis** — 976 75 75 75 · 976 42 42 42 (Uber and Cabify also operate)
+**Emergencies:** 112 (general) · 061 (medical) · 091 (police) · 080 (fire)
 
-**Emergencies** — 112 (general) · 061 (medical) · 091 (police) · 080 (fire)
+**City map / transport:** [idezar.zaragoza.es/callejero](http://idezar.zaragoza.es/callejero/) (official city map) · [zaragoza.callejero.net](http://zaragoza.callejero.net) (street finder) · [Avanza public transport](http://zaragoza.avanzagrupo.com/)
 
-**City map / transport**
+**Host's tapas picks** (walkable from apartment — see Food tab for full list): **Bar Gallizo** — C/ San Lorenzo 44 (excellent tapas) · **El Ángel del Pincho** — C/ Jordán de Urríes 5 (*pajaritos* + tempura) · **Bar La Viña** — C/ Jordán de Urríes 3 (eggplant with honey) · **The Lynx** — Plaza de Santa Marta (the bar Guardia Civil frequents) · **Restaurante El Fuelle** — Calle Mayor 59 (Aragonese, tel 976 39 80 33 — ⚠️ closed Mondays, so it's a Tue-lunch option for us)
 
-- [idezar.zaragoza.es/callejero](http://idezar.zaragoza.es/callejero/) (official city map)
-- [zaragoza.callejero.net](http://zaragoza.callejero.net) (street finder)
-- [Avanza public transport](http://zaragoza.avanzagrupo.com/)
-
-**Host's tapas picks** (walkable from apartment — see Food tab for full list):
-
-- **Bar Gallizo** — C/ San Lorenzo 44 (excellent tapas)
-- **El Ángel del Pincho** — C/ Jordán de Urríes 5 (_pajaritos_ + tempura)
-- **Bar La Viña** — C/ Jordán de Urríes 3 (eggplant with honey)
-- **The Lynx** — Plaza de Santa Marta (the bar Guardia Civil frequents)
-- **Restaurante El Fuelle** — Calle Mayor 59 (Aragonese, tel 976 39 80 33)
+> ⚠️ **August note on the host picks:** small Zaragoza bars take staff holidays in late August and hours are unverified for our week. The El Tubo bars in the day plans below are confirmed open Mondays — treat the host picks as bonus stops, not anchors.
 
 ---
 
-### Day 1 — Monday Aug 31 · Arrival + Afternoon + Evening
+### Day 1 — Monday Aug 31 · Arrival + Cathedrals + River Sunset ⭐
 
-> AVE arrives Delicias at 12:28. Apartment check-in isn't until 16:00, so the early afternoon is "bags-stashed roaming." Lots of time for the Roman Caesaraugusta + La Seo + El Pilar interior. La Aljafería is held for tomorrow morning at opening.
+> AVE in at 12:28, check-in at 16:00 — so early afternoon is bags-stashed roaming and lunch. **Monday closes Zaragoza's museums** (all four Roman-route museums, Pablo Gargallo, Alma Mater — and Museo Goya is closed for expansion until ~Oct 2026 anyway), so the Roman forum moves to Tuesday and today leans on what's genuinely open: La Seo (open Mon), the Pilar (open daily), the tower lift, and the Ebro at sunset (20:37). It works beautifully.
 
 **12:28 — Arrive Zaragoza Delicias**
 
-Off the AVE. Walk to the **locker bank in the bus station** (same building) and stash bags — €5–8 depending on size. This is the trick that unlocks the whole afternoon.
+Off AVE 03112 (Coche 6). Two bag options — decide before arrival:
 
-**12:45 — Delicias → Old Town**
+| Plan                      | How                                                                                                                                       | Cost           |
+| ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
+| **A — host early drop** ⭐ | If Isabel/Jose Luis OK'd it (ask via Airbnb this week), taxi straight to the apartment and leave bags inside the door (lockbox code works once the registration form is done) | Taxi ~€8–12    |
+| **B — station consigna**  | Lockers in the Delicias building (08:00–21:00, ID needed), then bus 34 or taxi into town bag-free                                          | €4–6/bag + ride |
 
-| Option      | Details                             | Cost          |
-| ----------- | ----------------------------------- | ------------- |
-| **Tram L1** | Delicias → Plaza del Pilar, ~20 min | ~€1.35/person |
-| **Taxi**    | Delicias → Old Town, 10–15 min      | ~€10          |
+> 💡 **Local tip:** with 4 people, skip the bus on arrival day — a taxi to the old town is 10–12 min and costs roughly the same as four bus fares.
 
-**~13:15 — Lunch in Old Town**
+**~13:15 — Lunch in the Casco Antiguo**
 
-| Option                           | Notes                                                                       | Price         |
-| -------------------------------- | --------------------------------------------------------------------------- | ------------- |
-| **Casa Lac** (lunch, not dinner) | If you can shift dinner — they also do a great _menú del día_; book ahead   | €25–35/person |
-| **Bar Gallizo** (host pick)      | Tapas, C/ San Lorenzo 44 — casual, fast                                     | €15–25/person |
-| Any Old Town bar _menú del día_  | 3 courses + wine, best value in Spain                                       | €12–14        |
-| **Mercado de las Artes**         | Modern food hall — multiple stands, good for kids who want different things | €15–20/person |
+Land in **El Tubo** [📍](https://maps.google.com/?q=El+Tubo+Zaragoza+Spain) — the knot of tapas alleys (Calles Estébanes, Libertad, 4 de Agosto, Mártires) between Plaza España and the Pilar. Its classics are open Mondays, which today makes it the safest lunch in town.
 
-> If you keep Casa Lac for dinner Aug 31 (the historic vibe is best in the evening), do _menú del día_ at a bar today.
+| Option                                  | Notes                                                                                             | Price       |
+| --------------------------------------- | -------------------------------------------------------------------------------------------------- | ----------- |
+| **El Tubo mini-crawl** ⭐               | **Bodegas Almau** (1870, vermouth + anchovies, 11:00–16:00) → **Taberna Doña Casta** (famous croquetas, 12:00–16:00) → **El Champi** (€1-ish grilled-mushroom pintxo, opposite Doña Casta) | €12–18/pp   |
+| Any Old Town bar *menú del día*         | 3 courses + drink, best value in Spain                                                              | €13–16/pp   |
+| **Mercado Central** tapas stalls        | 1903 Modernist iron market; degustación stands at the center (food stalls run till ~14:00)          | €10–15/pp   |
 
-**14:30 — Museo del Foro de Caesaraugusta** ⭐
+> ⚠️ **Don't plan Casa Lac today:** Spain's oldest restaurant serves **no dinner on Mondays** (several listings say closed Monday entirely). It's booked for Tuesday lunch instead — the slot that actually works.
 
-Excavated Roman forum preserved underground beneath modern Zaragoza, with an excellent audiovisual reconstruction. Cool, uncrowded.
+**14:30 — Siesta-hour loop: Plaza del Pilar at full scale**
 
-|       |                                                                                          |
-| ----- | ---------------------------------------------------------------------------------------- |
-| Cost  | €4 (combo with other Roman museums ~€7 — covers Foro + Teatro + Termas + Puerto Fluvial) |
-| Allow | 30–45 min, or 1.5h for the combo                                                         |
+Paid sights are shut or napping 14:30–16:00, and it's the hottest hour — so do the free open-air set now, with the basilica as your shade. Walk **Plaza del Pilar** (156 m long — one of Europe's biggest pedestrian squares), past the **Goya statue**, the **Fuente de la Hispanidad**, and **La Lonja** [📍](https://maps.google.com/?q=La+Lonja+Zaragoza+Spain) (1540s Renaissance merchant exchange — exterior; interior only opens for exhibitions, closed Mon). Then duck **into El Pilar itself** — free, open straight through the afternoon (~06:45–20:30). Painted Goya frescoes on the domes, and the two Civil War bombs that fell through the roof in 1936 and didn't explode — displayed as miracles. Cool, dim, perfect at siesta hour.
 
-**15:15 — La Seo Cathedral (Catedral del Salvador)** ⭐
+- Pilar interior: free · allow 25–30 min now (Santa Capilla gets its own moment tonight)
+- Modest dress; hats off; quiet during Masses
 
-Gothic-Mudéjar cathedral built over the Roman forum and a Moorish mosque — archaeological layers visible in the basement. Mudéjar apse (north face) is one of the finest in Spain. World-class tapestry collection (15th–17th century Flemish) inside.
+**~15:30 — Bags → apartment**
 
-|            |                                         |
-| ---------- | --------------------------------------- |
-| Cost       | €5/adult                                |
-| Allow      | 30–45 min                               |
-| Don't miss | Mudéjar north exterior; tapestry museum |
+Plan A: bags are already there — go check in properly at 16:00. Plan B: bus 34/taxi back to Delicias, collect from consigna, taxi to the apartment (~€10) for 16:00.
 
-**16:00 — Back to Delicias, grab bags, taxi/tram to apartment**
+**16:00 — Check in · Calle Dr. Alejandro Palomar 38, 2º Izda**
 
-Apartment check-in opens at 16:00. Pick up the lockbox code via the online form (must be done in advance — see Must-Do).
+Lockbox code came via the registration form (done days ago — see Must-Book). Drop everything, water, 45 min flop. Teens recover; parents scout the fridge situation (Eroski City is 4 min away on Coso 126).
 
-**~16:45 — Check in, drop bags, brief rest**
+**17:15 — Walk to La Seo** (~8 min, 600 m)
 
-**17:30 — Plaza del Pilar + El Pilar interior**
+**17:30 — La Seo (Catedral del Salvador) + Tapestry Museum** ⭐
 
-Walk Plaza del Pilar at evening light scale (156 m long, 67 m wide) — the basilica is staggering from the square. Cross to **Puente de Piedra** (15th-century stone bridge) for the golden-hour Ebro view. Then into **El Pilar interior** — free, open until ~21:00. Painted dome, Civil War bullet holes in the south tower facade (1936 bombs that didn't explode — Zaragoza treats them as miracles).
+Zaragoza's *other* cathedral — and the connoisseur's one. Gothic-Mudéjar, built over the Roman forum and the old mosque; walk around the outside first to the **Mudéjar north wall** (Parroquieta de San Miguel), the finest brick-and-tile wall in Aragón. Inside: the alabaster high altar, and upstairs a **world-class Flemish tapestry museum** (15th–17th c.) — one of the best collections on earth, in a city nobody visits for it.
 
-|                                   |                               |
-| --------------------------------- | ----------------------------- |
-| Pilar exterior + Puente de Piedra | Free                          |
-| Pilar interior                    | Free (allow 20 min)           |
-| Pilar towers                      | €5 — defer to Sep 1 afternoon |
+- **Open Mondays** (unlike the museums): Mon–Sat 10:00–14:30 & 16:00–20:00, last entry ~19:15 · allow 60–75 min
+- €10/adult · €7 youth 13–18 with student ID · under-12 free — includes the Tapestry Museum (diocese listings say it also covers the Pilar's Pilarista + Crystal Rosary museums — ask at the desk)
+- **Cathedral + Pilar tower combo €12** (youth €9) — buy the combo here, use the tower leg in an hour
 
-**~19:00 — Ebro riverside walk**
+**18:50 — Cross Plaza del Pilar to the tower**
 
-Promenade between El Pilar and Puente de Piedra — locals walk dogs, kids play, the basilica glows in side light.
+**19:00 — Torre Mirador del Pilar (the Ascensor)** ⭐
 
-**20:00 — Aperitivo**
+Lift up the basilica's northwest tower + a few stairs to an enclosed 360° gallery at ~80 m: the tiled domes right below you, the Ebro, and the whole city to the Pyrenees on a clear day. Ascents go in small groups every ~15 min.
 
-| Option                              | Notes                                                                                     |
-| ----------------------------------- | ----------------------------------------------------------------------------------------- |
-| **Calle El Temple pintxos street**  | Zaragoza's pintxos row — €1.50–2 each, very local                                         |
-| **Bar La Viña** (host pick)         | C/ Jordán de Urríes 3 — _berenjenas con miel_                                             |
-| **El Ángel del Pincho** (host pick) | C/ Jordán de Urríes 5 — _pajaritos_ + tempura. Right next to La Viña, easy two-stop crawl |
-| **The Lynx** (host pick)            | Plaza de Santa Marta — neighborhood bar, no tourists                                      |
+- Mon–Thu 10:30–14:30 & **16:00–20:00** · **last lift ~19:30 — do not arrive later**
+- €6/adult · €4 youth · under-12 free (or the €12/€9 combo from La Seo) · allow 30–40 min
+- ⚠️ Sunset is 20:37 — *after* the tower closes. Golden-hour light from the top at 19:15 is the best you can get up there; the actual sunset shot belongs to the bridge (next stop)
 
-**21:30 — Dinner**
+**20:05 — El Pilar: Santa Capilla moment**
 
-| Restaurant                            | Notes                                                                                                                                                              | Price         |
-| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------- |
-| **Casa Lac** ⭐                       | Est. 1825 — the oldest continuously operating restaurant in Spain. Beautiful historic rooms. _Ternasco al horno_ (Aragonese milk lamb) is the dish. **Book ahead** | €30–45/person |
-| **Restaurante El Fuelle** (host pick) | Aragonese, C/ Mayor 59, ~3 min walk from apt — call 976 39 80 33                                                                                                   | €25–35/person |
-| **Bar Gallizo** (host pick)           | Excellent tapas, C/ San Lorenzo 44 — casual sit-or-stand                                                                                                           | €15–25/person |
-| **La Rinconada de Lorenzo**           | Classic Aragonese home cooking — _ternasco_ + Pyrenean trout. Walk-in often fine but book to be safe                                                               | €25–35/person |
-| **El Temple pintxos**                 | Casual bar-hop if the restaurants are full                                                                                                                         | €15–20/person |
+Back inside the basilica (open to ~20:30) for the **Santa Capilla** — the pillar itself, on which the Virgin is said to have appeared to Santiago in 40 AD, making this the oldest Marian shrine in Christendom. Pilgrims line up to kiss the exposed sliver of the pillar; evening is the quiet time.
 
-> **The dish:** _Ternasco aragonés_ — Aragonese milk lamb (under 30 days old), roasted simply with garlic and olive oil. PDO product of the region, astonishingly tender.
+**20:20 — Puente de Piedra at sunset** ⭐
+
+Walk to the middle of the 15th-century stone bridge. **Sunset 20:37**: the basilica's towers and tiled domes go gold, then the floodlights come on for blue hour (~20:45–21:10) with the whole thing doubled in the Ebro. The classic Zaragoza photograph — take the family shot here.
+
+- Free · the north bank promenade (Balcón de San Lázaro side) gives the wider angle if you want both bridges in frame
+
+**21:00 — Dinner: El Tubo crawl (or host-picks crawl)**
+
+| Option                              | Notes                                                                                                  | Price     |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------------- | --------- |
+| **El Tubo crawl** ⭐                | **Doña Casta** (croquetas — get the *ternasco* one), **El Champi** (garlicky mushroom pintxo), **Bodegas Almau** (open till 24:00; anchovies, vermouth, 1870 woodwork) + whatever smells good | €18–28/pp |
+| **Host-picks crawl** (near apt)     | Bar Gallizo → La Viña (*berenjenas con miel*) → El Ángel del Pincho → nightcap at The Lynx — ⚠️ Monday/August hours unverified; if a shutter is down, El Tubo is 10 min away | €15–25/pp |
+| **Casa Lac**                        | ❌ Not tonight — no Monday dinner service. Booked for tomorrow's lunch                                   | —         |
+
+> 💡 **The dish:** *ternasco aragonés* — PDO Aragonese young lamb, roasted simply with garlic and olive oil, astonishingly tender. If you see *ternasco* croquetas or skewers tonight, that's your warm-up for tomorrow's main event.
+
+> ⚠️ Quiet hours at the apartment start at 22:00 — come home on cat feet.
 
 ---
 
-### Day 2 — Tuesday Sep 1 · La Aljafería + AVE to Madrid
+### Day 2 — Tuesday Sep 1 · La Aljafería + Casa Lac + AVE to Madrid ⭐
 
-> Aljafería at 10:00 opening, checkout at noon, then a full afternoon in town before the **17:48 AVE** (locator 4U5NZV). Pace is relaxed — no rush.
+> The flagship day: checkout maneuver first, Aljafería at 10:00-ish opening (booked online — see Must-Book), Roman forum at noon (open again — it's Tuesday), Spain's oldest restaurant for lunch, trenza for the road, **17:48 AVE** (locator 4U5NZV, at Delicias by 17:15). Bags go to the station consigna in the morning so the day ends with zero backtracking.
 
-**08:30 — Breakfast at Pastelería Fantoba** ⭐
+**08:15 — Pack fully before breakfast**
 
-_Trenza de Almudévar_ — braided almond pastry, Zaragoza's signature sweet, since 1856. **Buy two** — one now, one for the AVE.
+Everything zipped and by the door. Checkout is a lockbox drop, so clearing out early costs nothing and buys the whole morning.
 
-**09:30 — Taxi to La Aljafería** (~10 min, ~€7) — arrive a few minutes before the 10:00 opening.
+**08:30 — Bar breakfast near the apartment**
 
-**10:00 — La Aljafería Palace** ⭐⭐ — **the reason to stop in Zaragoza**
+*Tostada con tomate* + *café con leche* at any Coso-side bar (**Bar El Fútbol** is the local-institution pick — verify on site). ⚠️ Fantoba doesn't open until 10:00, so the famous pastry stop comes this afternoon instead.
 
-The undisputed highlight. An **11th-century Moorish palace** built by the Hudid kings when Zaragoza was the capital of a Muslim taifa kingdom — extraordinary Islamic filigree stucco, carved arches, and a hidden garden orchard. Later layers added by the Catholic Monarchs (Isabella and Ferdinand's **throne room** is here). Comparable to the Alhambra in quality, with almost no crowds.
+> ⛪ If you're doing the **09:00 Misa Conventual** at the Pilar (see Mass section), shift the bag run 30 min earlier and taxi from the Pilar straight to the Aljafería afterward.
 
-|                |                                                                |
-| -------------- | -------------------------------------------------------------- |
-| Cost           | €5/adult                                                       |
-| Allow          | **1.5 hours minimum — do not rush**                            |
-| Hours (summer) | Tue–Sat 10:00–14:00 and 16:00–20:00 — **confirm before going** |
-| Location       | 1.5 km from Old Town — taxi back ~€7                           |
+**09:30 — Keys in lockbox → taxi to Delicias with bags** (~€8–12)
 
-> _"Alhambra-quality but almost to yourself. One of the great hidden sights in Spain."_
+Bags into the **consigna** (08:00–21:00; keep passports handy). From here on you're hands-free and the bags are already exactly where tonight's train leaves from — nothing can go wrong at 17:15.
 
-**11:30 — Taxi back to apartment** (~€7)
+**10:00 — Short hop to La Aljafería** (taxi ~€6, or 20-min walk from the station)
 
-**11:45 — Final pack-up, drop keys per Isabel's instructions**
+**10:15 — La Aljafería Palace** ⭐⭐ — **the reason to stop in Zaragoza**
 
-**12:00 — Check out** (hard deadline)
+An **11th-century Moorish palace** built by the Hudid kings when Zaragoza was capital of a taifa kingdom — the finest surviving Islamic palace architecture in Spain outside Andalucía, and the model UNESCO cites for all Aragonese Mudéjar. Interlaced filigree arches around the Patio de Santa Isabel's orange trees, the tiny octagonal **oratory with its mihrab**, then the later layers stacked on top: the medieval Christian kings' palace and the **Catholic Monarchs' throne room** with its gilded *artesonado* ceiling (Isabella and Ferdinand's motto everywhere). Today it's also the seat of the Cortes de Aragón — parliament in a Moorish palace.
 
-> 💡 **Luggage tip:** Don't lug bags around all afternoon. Stash them at **Estación Delicias bus station lockers** (same building as the AVE) or [megalockers.com](https://megalockers.com) for a few euros — frees you up until ~17:15.
+- **Daily 10:00–18:00** (2026 continuous schedule) · allow **1.5–2 h, do not rush**
+- €7/adult · €2 reduced (students/carnet joven — bring the girls' student IDs) · under-12 free · audioguide €3 · guided visits in Spanish €9 (10:30/11:30/12:30…)
+- **Book timed entry online in advance** at [tickets.aljaferia.es](https://tickets.aljaferia.es) — capacity is limited; a Tuesday-morning slot is safe if booked this week (see Must-Book)
+- Occasional wings close for parliamentary business — the ticket portal shows real availability
+- ⚠️ Limited shade in the moat gardens; do the outside walk first while it's cool
 
-**12:30 — Lunch — sit-down**
+> *"Alhambra-quality but almost to yourself. One of the great hidden sights in Spain."*
 
-Train isn't until 17:48 — you have time for a proper meal.
+**12:15 — Walk back into the old town** (~18 min via C/ Conde de Aranda, or taxi ~€6)
 
-| Option                                  | Notes                                                                      | Price         |
-| --------------------------------------- | -------------------------------------------------------------------------- | ------------- |
-| **Casa Lac** (lunchtime _menú del día_) | If you didn't go for dinner Aug 31. Spain's oldest restaurant — phenomenal | €25–35/person |
-| **La Rinconada de Lorenzo**             | Classic _ternasco_ + Pyrenean trout in a proper old-school dining room     | €25–35/person |
-| **Restaurante El Fuelle** (host pick)   | Traditional Aragonese, C/ Mayor 59. Reserve 976 39 80 33                   | €25–35/person |
-| **Mercado de las Artes**                | Modern food hall — good if you want speed + variety                        | €15–20/person |
+Aim for the **Mercado Central** [📍](https://maps.google.com/?q=Mercado+Central+Zaragoza+Spain) end: 1903 Modernist iron-and-glass market by the Roman walls — stalls run till ~14:00, so you catch it alive. Snack restraint advised: Casa Lac is at 13:30. Outside, the surviving stretch of **Roman walls** and the bronze **Caesar Augustus statue** mark the city's founding (14 BC, one of only three cities Augustus named after himself in full: Caesaraugusta).
 
-**14:00 — La Lonja exterior + Plaza del Pilar daylight**
+**12:45 — Museo del Foro de Caesaraugusta** ⭐
 
-Quick stop at **La Lonja** (16th-century Renaissance merchant exchange) on the plaza. Daylight scale of the basilica is wildly different from last night.
+Now it's open (Tuesday!): the excavated Roman forum preserved underground beneath Plaza de la Seo, with a genuinely good audiovisual reconstruction of the city Augustus built. Cool, dark, 40 minutes — ideal pre-lunch.
 
-**14:30 — El Pilar towers** ⭐
+- Tue–Sat 10:00–14:00 & 17:00–21:00, **closed Mon** (which is why it's today) · €4/adult, €3 students, **under-15 free**
+- The €7 Roman-route combo (Foro + Teatro + Termas + Puerto Fluvial) only pays if you'll do 2+ — today one is enough; you'll pass the open-air **Teatro** ruins later for free
 
-Climb the tower for panoramic Ebro + old city views. €5.
+**13:30 — Lunch at Casa Lac** ⭐ — booked
 
-**15:15 — Ebro riverside walk**
+Spain's **oldest restaurant license (1825)**, in the heart of El Tubo — chandeliered upstairs dining room, downstairs bar. Order the *ternasco al horno* (roast Aragonese lamb) and the market vegetables they're quietly famous for; *migas aragonesas* to start if they have them.
 
-Promenade between El Pilar and Puente de Piedra at full afternoon light. Last view of Zaragoza.
+- Lunch service 12:30/13:00–16:00 · **book ahead: 976 39 61 96** or restaurantecasalac@gmail.com (reservation expected) · €30–45/pp à la carte; lunch menu cheaper when offered
+- C/ Mártires 12 [📍](https://maps.google.com/?q=Casa+Lac+Zaragoza+Spain) — 2 min from the Foro
+- Backup if full: **El Fuelle** (Aragonese wood-oven classic, C/ Mayor 59, open Tue lunch, tel 976 39 80 33) or an El Tubo crawl encore
 
-**16:00 — Café break + _trenza_**
+**15:15 — Calle Alfonso I + Fantoba** ⭐
 
-Sit at a café near the plaza with the second Fantoba _trenza_ and a coffee. The trenza you bought this morning is for the train — this is a _third_ one if you want, or the one you bought.
+Stroll **Calle Alfonso I** — the 19th-century straight-shot street framing the Pilar's domes, Zaragoza's postcard view in daylight. Halfway along on the parallel C/ Don Jaime I sits **Pastelería Fantoba** (1856, Egyptian-revival interior, open daily 10:00–22:00): buy **trenza de Almudévar** — the braided almond-and-raisin pastry that is the city's signature sweet. **Buy two: one now with coffee, one for the AVE.**
 
-**16:45 — Tram L1 or taxi to Delicias** (allow 20–25 min — be at platform 17:25)
+**16:00 — Last Ebro hit: riverside + Puente de Piedra in daylight**
 
-| Option                       | Time      | Cost         |
-| ---------------------------- | --------- | ------------ |
-| Taxi                         | 10–15 min | ~€10         |
-| Tram L1 from Plaza del Pilar | ~20 min   | €1.35/person |
+The daylight version of last night's sunset view — full-color tiled domes, herons on the sandbars. If anyone still has legs, the **Teatro de Caesaraugusta** ruins (free view from the surrounding walkway, 5 min south) or a peek at the Mudéjar tower of **La Magdalena** near the apartment street round out the set.
 
-> Pick up bags from the locker on the way to the platform. **Access closes 2 minutes before departure** — don't cut it fine.
+**16:35 — To Delicias: bus 34 from Av. César Augusto (Mercado Central stop) or taxi** (~€8–12; taxi recommended at this hour)
+
+**16:55 — Collect bags from consigna** (passports again) · water + snacks for the train
+
+**17:15 — At the platform area** — access gates close 2 minutes before departure; don't cut it fine.
 
 **17:48 — AVE 03162 Zaragoza Delicias → Madrid Atocha**
 
-Locator **4U5NZV** · Coche 7 · seats 2C / 2D / 3C / 3D · 1h56m
+Locator **4U5NZV** · Coche 7 · seats 2C / 2D / 3C / 3D · 1h56m. Trenza time.
 
 **19:44 — Arrive Madrid Atocha**
 
-Metro or taxi to hotel. Late casual dinner near hotel — see Madrid Sep 1 plan.
+Metro or taxi to the hotel. Late casual dinner near the hotel — see Madrid Sep 1 plan.
 
-> **Skipped this trip (still no time):** Some of the deeper Roman museum combo (Teatro, Termas, Puerto Fluvial — €7 combo if you want them, fit alongside Foro on Aug 31 afternoon).
+> **Skipped this trip (no time / closed):** the full Roman-route combo interiors (Teatro, Termas, Puerto Fluvial), Museo Pablo Gargallo and Alma Mater Museum (both Monday-closed and siesta-gapped Tuesday), Museo Goya (closed for expansion until ~Oct 2026 — its Goyas hang at Patio de la Infanta, "Goya. Interludio," if you find a spare 40 min), and the Origami Museum (EMOZ) the teens would've liked. All reachable on a future stop — Zaragoza is 1h20 from Madrid.
 
 ---
 
@@ -1795,36 +1779,61 @@ Zaragoza is **the only city in the world with two cathedrals**, and both are a f
 
 **La Seo (Catedral del Salvador)** — one Mass a day, **Mon–Sat 09:30**.
 
-> 💡 **The move:** the **09:00 Conventual at the Pilar on Tue Sep 1**, before La Aljafería. It's the basilica's principal daily Mass, it's free, and it puts you in there early — long before the coach groups. If you'd rather be at the pillar itself than in the nave, take the **12:00 in the Santa Capilla** instead. Monday Aug 31 works too: you arrive mid-afternoon, and the Pilar runs Masses hourly from 17:00 to 20:00.
+> 💡 **The move:** the **09:00 Conventual at the Pilar on Tue Sep 1**, before La Aljafería. It's the basilica's principal daily Mass, it's free, and it puts you in there early — long before the coach groups. If you'd rather be at the pillar itself than in the nave, take the **12:00 in the Santa Capilla** instead (tight against the Aljafería slot — the Monday 20:00 Santa Capilla Mass is the relaxed alternative). Monday Aug 31 works too: Masses run hourly 17:00–20:00 while we're right there.
 
 ---
 
 ### Zaragoza Food Quick-Reference
 
-| Meal                | Best Bet                                                                   | Notes                                                                                                          |
-| ------------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| Lunch (Aug 31)      | _Menú del día_ at an Old Town bar                                          | After AVE arrival, before sightseeing                                                                          |
-| Dinner (Aug 31)     | **Casa Lac** ⭐                                                            | Book ahead — Spain's oldest restaurant. Walk-in alternatives: Restaurante El Fuelle, Bar Gallizo, La Rinconada |
-| Late drink (Aug 31) | El Temple pintxos / Bar La Viña / El Ángel del Pincho / The Lynx           | Walkable from apt                                                                                              |
-| Breakfast (Sep 1)   | **Pastelería Fantoba**                                                     | _Trenza de Almudévar_ — buy two (one for now, one for the AVE)                                                 |
-| Lunch (Sep 1)       | Casa Lac (if not yesterday) or El Fuelle or La Rinconada — **sit-down OK** | Train isn't until 17:48                                                                                        |
-| Dish to eat         | _Ternasco aragonés_                                                        | Aragonese milk lamb — the regional speciality                                                                  |
+| Meal                | Best Bet                                                                    | Notes                                                                                                            |
+| ------------------- | --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| **Lunch (Mon Aug 31)**  | El Tubo mini-crawl (Almau → Doña Casta → El Champi) or *menú del día*   | All verified open Mondays; Mercado Central tapas stalls till ~14:00                                              |
+| **Dinner (Mon Aug 31)** | **El Tubo crawl** ⭐                                                     | Casa Lac & El Fuelle **don't serve Monday dinner** — the crawl is the plan. Host picks = bonus stops (unverified) |
+| **Breakfast (Tue Sep 1)** | Bar near apt (*tostada con tomate*)                                    | Fantoba opens only at 10:00 — it's the afternoon stop                                                            |
+| **Lunch (Tue Sep 1)**   | **Casa Lac** ⭐ — book: 976 39 61 96                                     | Lunch 12:30–16:00; the one slot Spain's oldest restaurant works for us. Backup: El Fuelle (976 39 80 33)         |
+| **Train snack (Tue)**   | **Fantoba** *trenza de Almudévar*                                        | Buy two at ~15:30 — one with coffee, one for the AVE                                                             |
+| **Dish to eat**         | *Ternasco aragonés*                                                      | PDO Aragonese young lamb — croquetas/skewers in El Tubo, roast at Casa Lac                                       |
+
+### Zaragoza Sights Quick-Reference
+
+| Sight                          | Our slot            | Hours that day                             | Cost                              | Book?                        |
+| ------------------------------ | ------------------- | ------------------------------------------ | --------------------------------- | ---------------------------- |
+| **La Aljafería** ⭐⭐          | Tue 10:15           | Daily 10:00–18:00                          | €7 · €2 student · u12 free        | ✅ Online, tickets.aljaferia.es |
+| **La Seo + Tapestries** ⭐     | Mon 17:30           | Mon–Sat 10:00–14:30 & 16:00–20:00          | €10 · €7 youth · u12 free         | No — buy at door             |
+| **Pilar Tower (Ascensor)** ⭐  | Mon 19:00           | Mon–Thu 10:30–14:30 & 16:00–20:00, last lift 19:30 | €6 · €4 youth (combo w/ Seo €12/€9) | No                       |
+| **Basílica del Pilar**         | Mon siesta + 20:05  | Daily ~06:45–20:30, free                   | Free                              | No                           |
+| **Foro de Caesaraugusta** ⭐   | Tue 12:45           | Tue–Sat 10–14 & 17–21, **closed Mon**      | €4 · €3 student · u15 free        | No                           |
+| **Puente de Piedra sunset**    | Mon 20:20           | Always open — sunset 20:37                 | Free                              | No                           |
+| **Mercado Central**            | Tue 12:20           | Stalls Mon–Sat ~09:00–14:00 (+ eve.)       | Free entry                        | No                           |
 
 ### Zaragoza Must-Book / Must-Do Before Arrival
 
-| Item                                                       | Status                         | Where / When                                                                                                    |
-| ---------------------------------------------------------- | ------------------------------ | --------------------------------------------------------------------------------------------------------------- |
-| **Online guest registration form** (releases lockbox code) | 🔲 Do a few days before Aug 31 | [u.partee.es/4396/Oga33Ze0llPQgN7MIWtK3jHpu](https://u.partee.es/4396/Oga33Ze0llPQgN7MIWtK3jHpu) — all 4 guests |
-| AVE BCN → Zaragoza (Aug 31 11:00)                          | ✅ Booked                      | Locator **WJXSCF** · Coche 6 · 2A/2B/3A/3B                                                                      |
-| AVE Zaragoza → Madrid (Sep 1 17:48)                        | ✅ Booked                      | Locator **4U5NZV** · Coche 7 · 2C/2D/3C/3D                                                                      |
-| **Casa Lac (dinner Aug 31, or lunch Sep 1)**               | 🔲 Book 1 week ahead           | Phone or website                                                                                                |
-| Apartment                                                  | ✅ Booked                      | Airbnb #HM28SJ8P8C                                                                                              |
+| Item                                                       | Status (as of Aug 5)                | Where / When                                                                                                     |
+| ---------------------------------------------------------- | ----------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| **🔑 Online guest registration form — RELEASES THE LOCKBOX CODE** | 🔲 **Do this week — hard gate, no code = no keys.** Deadline: well before Aug 31 | [u.partee.es/4396/Oga33Ze0llPQgN7MIWtK3jHpu](https://u.partee.es/4396/Oga33Ze0llPQgN7MIWtK3jHpu) — all 4 guests, each can fill their own |
+| **La Aljafería timed entry, Tue Sep 1 ~10:00–10:30**       | 🔲 Book by ~Aug 25 (capacity-limited) | [tickets.aljaferia.es](https://tickets.aljaferia.es) — €7/€2, bring student IDs                                    |
+| **Casa Lac lunch, Tue Sep 1 13:30**                        | 🔲 Call/email ~1 week ahead (by Aug 25) | 976 39 61 96 · restaurantecasalac@gmail.com — reservation expected                                                |
+| **Message host re: early bag drop Mon ~13:00**             | 🔲 Ask via Airbnb this week          | Isabel/Jose Luis · +34 659 60 06 43 — fallback is station consigna either way                                     |
+| AVE BCN → Zaragoza (Aug 31 11:00)                          | ✅ Booked                            | Locator **WJXSCF** · Coche 6 · 2A/2B/3A/3B                                                                        |
+| AVE Zaragoza → Madrid (Sep 1 17:48)                        | ✅ Booked                            | Locator **4U5NZV** · Coche 7 · 2C/2D/3C/3D                                                                        |
+| Apartment                                                  | ✅ Booked                            | Airbnb #HM28SJ8P8C · $93.93 PayPal fires **Aug 18** — make sure the account is funded                             |
+
+### Zaragoza Critical Warnings
+
+- ⚠️ **Monday = museum shutdown.** All four Roman-route museums, Pablo Gargallo, and Alma Mater are closed Mon Aug 31. Anything museum-shaped must happen Tuesday (the plan already does this). La Seo, the Pilar, and the tower are the Monday exceptions — they're open.
+- ⚠️ **Casa Lac serves no Monday dinner** (and several listings say closed Monday entirely). The booking is **Tuesday lunch** — don't drift back to a Monday-dinner plan.
+- ⚠️ **No lockbox code without the registration form.** The u.partee.es form is a legal-ID requirement; complete it days ahead or you'll be standing at the door at 16:00 phoning the host.
+- ⚠️ **The tram does not go to Delicias station.** It's bus 34 (€1.70) or a taxi — don't stand at a tram stop with a train to catch.
+- ⚠️ **Consigna needs passports** and closes at 21:00 (fine for our 17:48 train — but collect bags by 16:55 anyway; platform access closes 2 min before departure).
+- ⚠️ **Museo Goya is closed** for expansion until ~Oct 2026 — don't let anyone route the afternoon around it; the collection hangs at Patio de la Infanta meanwhile.
+- ⚠️ **La Rinconada de Lorenzo** (old itinerary suggestion) reportedly closes for holidays through August and never opens Mondays — call 976 55 51 08 before counting on it Sep 1.
 
 ---
 
 > 📁 **Zaragoza reference files:** [zaragoza_food_research.md](zaragoza_food_research.md) · [zaragoza_sights_research.md](zaragoza_sights_research.md)
 
 ---
+
 
 ## 🇪🇸 Madrid — Sep 1–5 (4 nights)
 
