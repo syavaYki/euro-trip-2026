@@ -3,21 +3,23 @@
 - **Destination:** Porto → Lisbon → Barcelona → Zaragoza → Madrid (+ Segovia day trip)
 - **Dates:** August 19 – September 5, 2026 (18 days)
 - **Travelers:** 4 — Seva, wife, 2 daughters
-- **Status:** Planning in progress
+- **Status:** 🎒 Ready for departure — open items live in the **Master Must-Book List** at the bottom
+
+> 💡 **How to use this guide:** this Overview is the full play-by-play — every day is executable straight from here (times, tickets, routes, fallbacks). The city tabs are the broad reference catalogs when you want options beyond the plan. Tap any section to expand it; during the trip, today's city and day open automatically with a 📍 badge. The 🖨️ button prints this tab or the entire guide — save a PDF to your phone before departure for offline backup.
 
 ---
 
 ## 🗺️ Trip at a Glance
 
-| #   | City          | Country     | Dates          | Nights   | Travel In                                       | Key Focus                                     |
-| --- | ------------- | ----------- | -------------- | -------- | ----------------------------------------------- | --------------------------------------------- |
-| 1   | **Porto**     | 🇵🇹 Portugal | Aug 20–23      | 3        | EWR→OPO (TP212, Aug 19 night)                   | Ribeira, bridges, francesinha, Douro          |
-| 2   | **Lisbon**    | 🇵🇹 Portugal | Aug 23–26      | 3        | OPO→LIS (TP1921, 09:00)                         | Belém, Sintra, Alfama & churches              |
-| 3   | **Barcelona** | 🇪🇸 Spain    | Aug 26–31      | 5        | TP1038 LIS→BCN 18:55→21:50                      | Sagrada Família, Montserrat, Girona, Old City |
-| 4   | **Zaragoza**  | 🇪🇸 Spain    | Aug 31 – Sep 1 | 1        | AVE 03112 BCN→ZGZ 11:00→12:28 (WJXSCF)          | La Aljafería, Basílica del Pilar, Casa Lac    |
-| 5   | **Madrid**    | 🇪🇸 Spain    | Sep 1–5        | 4        | AVE 03162 ZGZ→MAD 17:48→19:44 (4U5NZV)          | Prado, Reina Sofía, Palacio Real              |
-| 6   | **Segovia**   | 🇪🇸 Spain    | Sep 4          | day trip | Avant Madrid Chamartín→Segovia-Guiomar (26 min) | Roman Aqueduct, Alcázar, cochinillo lunch     |
-| —   | **Home**      | 🇺🇸 USA      | Sep 5          | —        | MAD→JFK (AA95, 10:25)                           | —                                             |
+| City             | Dates          | Nights   | Travel In                                       | Key Focus                                     |
+| ---------------- | -------------- | -------- | ----------------------------------------------- | --------------------------------------------- |
+| **1 · Porto** 🇵🇹     | Aug 20–23      | 3        | EWR→OPO (TP212, Aug 19 night)                   | Ribeira, bridges, francesinha, Douro          |
+| **2 · Lisbon** 🇵🇹    | Aug 23–26      | 3        | OPO→LIS (TP1921, 09:00)                         | Belém, Sintra, Alfama & churches              |
+| **3 · Barcelona** 🇪🇸 | Aug 26–31      | 5        | TP1038 LIS→BCN 18:55→21:50                      | Sagrada Família, Montserrat, Girona, Old City |
+| **4 · Zaragoza** 🇪🇸  | Aug 31 – Sep 1 | 1        | AVE 03112 BCN→ZGZ 11:00→12:28 (WJXSCF)          | La Aljafería, Basílica del Pilar, Casa Lac    |
+| **5 · Madrid** 🇪🇸    | Sep 1–5        | 4        | AVE 03162 ZGZ→MAD 17:48→19:44 (4U5NZV)          | Prado, Reina Sofía, Palacio Real              |
+| **6 · Segovia** 🇪🇸   | Sep 4          | day trip | Avant Madrid Chamartín→Segovia-Guiomar (26 min) | Roman Aqueduct, Alcázar, cochinillo lunch     |
+| **Home** 🇺🇸          | Sep 5          | —        | MAD→JFK (AA95, 10:25)                           | —                                             |
 
 ### Key Dates Summary
 
@@ -73,10 +75,6 @@
 | AB Sagrada Família Bofill, Eixample (08013)                                                            | Barcelona | Aug 26 (15:00)       | Aug 31 (by 11:00) | 5      | Booking.com                         | ✅ Booked                                                                      |
 | Apartamento Centro 5 PSN Wifi (host: Isabel) — Calle Dr. Alejandro Palomar 38, 2º Izda, 50002 Zaragoza | Zaragoza  | Aug 31 (after 16:00) | Sep 1 (by 12:00)  | 1      | Airbnb                              | ✅ Booked · $93.93 (PayPal, scheduled Aug 18) · Free cancel until 16:00 Aug 26 |
 | Plenora Alejandro Dumas — C. de Alejandro Dumas 30, Arganzuela, Madrid 28005                           | Madrid    | Sep 1 (from 15:00)   | Sep 5 (by 11:00)  | 4      | 5149971517 (Booking.com) · PIN 7526 | ✅ Booked · €671.73 paid · Free cancel until Aug 26                            |
-
----
-
-## 📅 Itinerary
 
 ---
 

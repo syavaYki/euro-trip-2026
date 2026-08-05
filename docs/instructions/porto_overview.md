@@ -1,6 +1,8 @@
 # Porto — City Overview
 ## Aug 20–23 (3 nights) · Euro Trip 2026
 
+> Three nights in the granite, gold-leaf, port-wine city on the Douro. Hotel sits 2 min from Bolhão market; the sunset sailboat cruise (Fri 18:45) is booked; everything else is walk-up or a quick reservation. Day 3 is beach-by-default, Douro Valley if booked in time.
+
 ---
 
 ### Logistics
@@ -20,17 +22,17 @@
 
 ### Getting Around
 
-Porto is a walkable city. No car needed — Metro + Uber/Bolt for longer hops.
+Walkable city — Metro + Uber/Bolt for longer hops. No car.
 
-**Metro (Andante Card)** — Buy at OPO airport (€0.60 card + load credit). Single €1.85 · 24hr pass €7.55 · 3-day pass €15.50.
+**Metro (Andante card, €0.60 + credit)** — 2026 fares: centre Z2 €1.40 · Matosinhos Z3 €1.85 · airport Z4 €2.25 · Andante Tour 24 h €7.75 / 72 h €16.55. Validate on entry only.
 
 | Line | Route | Use |
 |------|-------|-----|
-| **E (Blue)** | Airport ↔ Trindade / Bolhão | Airport transfers, ~35 min |
-| **A (Red)** | City centre ↔ Matosinhos-Sul | Beach day, ~20 min from Trindade |
+| **E (Blue)** | Airport ↔ Trindade / Bolhão | Airport transfers, ~35–40 min |
+| **A (Red)** | City centre ↔ Matosinhos-Sul | Beach day, ~20–25 min from Trindade |
 | **D** | São Bento ↔ Jardim do Morro (Gaia) | Cross to Gaia, 1 stop |
 
-**Tram 1** — Ribeira → Foz do Douro along the coast. €4.50 single. Scenic, not fast.
+**Tram 1** — Ribeira → Foz along the river. €6 single (ages 4–12 €3.50), buy on board. Scenic, not fast.
 
 **Hotel walkability** (Rua dos Poveiros is extremely central):
 
@@ -50,38 +52,38 @@ Porto is a walkable city. No car needed — Metro + Uber/Bolt for longer hops.
 
 | Day | Theme | Key Activities |
 |-----|-------|---------------|
-| **Day 1** (Thu Aug 20) | Arrival + Ribeira | ~~Livraria Lello~~ **Museu Nacional Soares dos Reis** → Igreja do Carmo → Cais da Ribeira → **Dom Luís I Bridge Gaia loop** (lower deck → Cais de Gaia → cable car up → Jardim do Morro → upper deck back) → Igreja de São Francisco → dinner at Taberna dos Mercadores → **Clérigos night climb** |
-| **Day 2** (Fri Aug 21) | Historic Core + Sunset Cruise | São Bento Station → Sé Cathedral → **Igreja de Santa Clara** → Francesinha at Café Santiago → Capela das Almas → Bolhão → **MMIPO (Misericórdia)** → Photography Centre → Jardim das Virtudes → **7 Bridges Sunset Cruise 18:45** ✅ Booked |
-| **Day 3** (Sat Aug 22) | Option A: Beach + Tram Loop / Option B: Douro Valley | A: Matosinhos Beach → Foz → Tram 1 → Tram Museum → Crystal Palace peacocks → farewell dinner · B: Train to Régua → lunch + port tasting → boat back |
-| **Day 4** (Sun Aug 23) | Departure | Wake 05:45 → Metro 06:25 → OPO 07:05 → TP1921 departs 09:00 |
+| **Day 1** (Thu Aug 20) | Arrival + Ribeira | ~~Livraria Lello~~ **Museu Soares dos Reis** → Igreja do Carmo → Ribeira → **Gaia loop** (lower deck → cable car → upper deck) → São Francisco → Taberna dos Mercadores → **Clérigos night climb ~21:00** |
+| **Day 2** (Fri Aug 21) | Historic Core + Sunset Cruise | São Bento → Sé → **Santa Clara** → francesinha at Café Santiago → Capela das Almas → Bolhão → **MMIPO** → Photography Centre → Virtudes → **7 Bridges Sunset Cruise 18:45** ✅ Booked |
+| **Day 3** (Sat Aug 22) | A (default): Beach + Tram Loop · B: Douro Valley | A: Matosinhos → Foz → Tram 1 → Tram Museum → Crystal Palace peacocks → farewell dinner · B: train 09:25 to Régua + mini-cruise (book boat by Aug 14) |
+| **Day 4** (Sun Aug 23) | Departure | Wake 05:45 → leave 06:15 → Metro 06:25 → OPO ~07:05 → breakfast airside → TP1921 09:00 |
 
 ---
 
 ### Sights Quick-Reference
 
-| Sight | Cost | Book? | Best Time |
+| Sight | Cost | Book? | When (our day) |
 |-------|------|-------|-----------|
 | ~~Livraria Lello~~ **CANCELLED** | — | — | Replaced by Soares dos Reis |
-| Museu Nacional Soares dos Reis | €5 (under 12 free) | ❌ | Day 1, 14:30 — closed Mon |
-| **Teleférico de Gaia** | €3.50 one-way / €6 return | ❌ | Day 1, ~17:00 · high season 10:00–20:00 |
-| Funicular dos Guindais | €2.50 one-way | ❌ | Day 1, ~17:40 (or free via the 290 steps) |
-| **Torre dos Clérigos** (night visit) | €6–10 · €5 night ticket — verify | ❌ | Day 1, ~21:00 · night season 3 Jul–11 Oct |
+| Museu Nacional Soares dos Reis | €5 · €2.50 ages 15–25 · under 12 free | ❌ | Day 1, 14:30 — closed Mon |
+| **Teleférico de Gaia** | €7 one-way / €10 return (ages 5–12 €3.50) | ❌ | Day 1, ~17:00 · daily 10:00–20:00 |
+| Funicular dos Guindais | €3.50 one-way (or free 290 steps) | ❌ | Day 1, ~17:40 |
+| Igreja de São Francisco | €9 adult / €2.50 ages 6–12 (door prices drifting €8–10) | ❌ in person only | Day 1, 18:00 · to 20:00 Aug |
+| **Torre dos Clérigos night climb** | **€5 flat**, under 10 free (day €10 w/ museum) | ❌ | Day 1, ~21:00 · 19:00–23:00 summer |
 | São Bento Station | Free | ❌ | Day 2 morning |
-| Porto Cathedral (Sé) | €3 | ❌ | Day 2 morning |
-| Igreja de São Francisco | €9 adults / €2.50 children | ❌ | Day 1 afternoon |
-| **Igreja de Santa Clara** ⭐⭐ | €4 (under 10 free) | ❌ | Day 2, 10:45 — daily 09:00–13:00 & 14:00–18:00 |
-| **Igreja e Museu da Misericórdia (MMIPO)** | ~€5 (free under 7) — verify | ❌ | Day 2, 14:45 · Rua das Flores |
-| ~~Palácio da Bolsa~~ (guided tour) | €14/adult = €56 for four | swapped out for MMIPO | Day 2 — 3 min away if you change your mind |
-| _Free walk-bys, all already on route:_ Congregados (São Bento) · Grilos (below the Sé) · Santo Ildefonso (Batalha) · São Bento da Vitória (Vitória) | Free | ❌ | Day 2 |
-| Centro Português de Fotografia | Free | ❌ | Day 2 afternoon |
+| Porto Cathedral (Sé) | Cloister €3 (nave free) | ❌ | Day 2 morning |
+| **Igreja de Santa Clara** ⭐⭐ | €5 (€4 student/65+, under 10 free) | ❌ | Day 2, 10:45 · 09–13 & 14–18 |
+| **MMIPO (Misericórdia)** | €5 · family-of-4 €16 · under 7 free | ❌ | Day 2, 14:45 · daily 10:00–18:30 |
+| ~~Palácio da Bolsa~~ (guided tour) | €14/adult = €56 for four | swapped out for MMIPO | 3 min away if you change your mind |
+| _Free walk-bys, all on route:_ Congregados · Grilos · Santo Ildefonso · São Bento da Vitória | Free | ❌ | Day 2 |
+| Centro Português de Fotografia | Free | ❌ | Day 2, 15:45 · daily 10:00–19:00 |
 | 7 Bridges Sunset Cruise | €35–45/person | ✅ Booked — GYG7VKRQ9BVG | Day 2, 18:45 |
-| Dom Luís I Bridge | Free | ❌ | Any time |
-| Cais da Ribeira | Free | ❌ | Best at night |
+| Mosteiro da Serra do Pilar | **CLOSED for works** (confirmed Aug 5, no reopening date) | — | Do not plan — Jardim do Morro has the view |
+| Cais da Ribeira / Dom Luís I Bridge | Free | ❌ | Any time, best at night |
 | Matosinhos Beach | Free | ❌ | Day 3 morning |
-| Tram 1 (Foz → Massarelos) | €4.50/person | ❌ | Day 3, 15:30 |
-| Museu do Carro Eléctrico | €8 adult / €4 child | ❌ | Day 3, 16:00 |
+| Tram 1 (Foz → Massarelos) | €6 (ages 4–12 €3.50) | ❌ | Day 3, 15:30 |
+| Museu do Carro Eléctrico | €8 · €4 ages 6–25 & 65+ | ❌ | Day 3, 16:00 · Sat 10–18 |
 | Jardim do Palácio de Cristal (peacocks) | Free | ❌ | Day 3, 17:00 |
-| Douro Valley train + cruise (Option B) | €85/person (package) | ✅ Book ahead | Day 3 |
+| Douro Valley (Option B) | Trains €20 rtn/adult + boat €20–88/pp | ✅ Boat by Aug 14 | Day 3 |
 
 ---
 
@@ -89,7 +91,7 @@ Porto is a walkable city. No car needed — Metro + Uber/Bolt for longer hops.
 
 | Budget | Best Bets |
 |--------|-----------|
-| €1–5 (snacks) | Pastel de nata (Bolhão / Manteigaria), bifana (Casa da Bifana) |
+| €1–5 (snacks) | Pastel de nata (Bolhão / Manteigaria), bifana (Casa da Bifana / Conga) |
 | €7–12 (lunch) | Cantarinha (francesinha), Matosinhos beach shacks |
 | €15–25 (mid) | Café Santiago, Terra Nova, Taberna de São Miguel, MUU |
 | €30–45 (splurge) | Escama, Loca, Taberna dos Mercadores |
@@ -100,23 +102,24 @@ Porto is a walkable city. No car needed — Metro + Uber/Bolt for longer hops.
 | Day 1 | Confeitaria do Bolhão | Mercado do Bolhão | Taberna dos Mercadores |
 | Day 2 | Época or Hakko | Café Santiago (francesinha) | MUU or Eleit |
 | Day 3 | SO Coffee Roasters | Matosinhos shacks / O Gaveto | Loca or Escama |
-| Day 4 | Bolhão grab & go | — | — |
+| Day 4 | OPO airside — Aloma nata + Costa (Bolhão & confeitaria closed Sun) | — | — |
 
 ---
 
 ### Must-Book
 
-| Item | Deadline | Where |
+| Item | Status/Deadline as of Aug 5 | Where |
 |------|----------|-------|
 | ~~Livraria Lello tickets~~ | **CANCELLED** | — |
-| Cálem port lodge (optional, Day 1 Gaia) | 1 week before | tour.calem.pt — timed slots · €20 adult / €10 age 6–17 |
-| Taberna dos Mercadores (Day 1 dinner) | Email now | tabernadosmercadores.com |
+| Taberna dos Mercadores (Day 1 dinner) | Email **today** | tabernadosmercadores.com |
 | ~~7 Bridges Sunset Cruise (Day 2, 18:45)~~ ✅ Booked | — | ref **GYG7VKRQ9BVG** · Leçaodouro · meet 430 Rua da Praia, Vila Nova de Gaia (door C) |
+| Cálem port lodge (optional, Day 1 Gaia) | By ~Fri Aug 14 — timed slots · was €20/€10 youth, platforms now €26–28 | tour.calem.pt |
 | ~~Palácio da Bolsa~~ — swapped for MMIPO | — | Day-of if you reinstate it: palaciodabolsa.com |
-| MUU (Day 2 dinner) | 1 week before | Restaurant website |
-| Loca (Day 3 dinner) | 2–3 weeks before | Restaurant website |
-| O Gaveto (Day 3 lunch splurge) | 1 week before | ogaveto.com |
-| Escama (Day 3 dinner alt) | 1 week before | escamaporto.com |
+| MUU (Day 2 dinner) | By Fri Aug 14 | Restaurant website |
+| Loca (Day 3 dinner) | **Book TODAY** — Sat window already tight | Restaurant website |
+| O Gaveto (Day 3 lunch splurge) | By Fri Aug 14 | ogaveto.com |
+| Escama (Day 3 dinner alt) | By Fri Aug 14 | escamaporto.com |
+| Douro boat leg (only if Option B) | By **Fri Aug 14** — Sat departures sell out; free-cancel platforms = zero-risk to reserve now | GetYourGuide / cruzeiros-douro.pt |
 
 ---
 
@@ -129,11 +132,11 @@ Per person · 3 full days · excl. accommodation:
 | Breakfast × 3 | €6–10 | €12–20 | €20–35 |
 | Lunch × 3 | €25–40 | €45–75 | €75–120 |
 | Dinner × 3 | €35–60 | €75–130 | €120–210 |
-| Activities | €29–39 | €39–59 | €59–89 |
-| Transport | €15–20 | €20–35 | €35–55 |
-| **Total / person** | **€113–185** | **€207–360** | **€350–575** |
-| **Total for 4** | **~€450–740** | **~€830–1,440** | **~€1,400–2,300** |
+| São Francisco + Activities | €44–54 | €54–74 | €74–104 |
+| Transport | €15–25 | €25–40 | €40–60 |
+| **Total / person** | **€125–190** | **€211–340** | **€330–530** |
+| **Total for 4** | **~€500–760** | **~€845–1,360** | **~€1,320–2,120** |
 
 ---
 
-> 📁 **Detailed files:** [porto_food_research.md](porto_food_research.md) · [porto_sights_research.md](porto_sights_research.md)
+> 📁 **Detailed files:** [porto_food_research.md](porto_food_research.md) · [porto_sights_research.md](porto_sights_research.md) · Full day-by-day: Overview tab.
