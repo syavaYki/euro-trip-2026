@@ -2,7 +2,8 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name="theme-color" content="#2c2c2c" />
   <title>Euro Trip 2026 🇵🇹🇪🇸</title>
 
   <!-- ── Auth guard — must be first script, blocks render until checked ── -->
@@ -87,14 +88,27 @@
     .city-tab.active { color: #fff; border-bottom-color: var(--accent2); }
     .city-tab .flag  { margin-right: 6px; font-size: 1.1em; }
 
-    /* ── Sub-tab bar (Food / Sights / Overview) ── */
+    /* ── Sub-tab bar (Food / Sights / Overview) — sticky under city tabs ── */
     #sub-tabs {
       display: flex;
+      align-items: center;
       background: var(--surface);
       border-bottom: 1px solid var(--border);
       padding: 0 12px;
       gap: 4px;
+      position: sticky;
+      top: var(--tab-h);
+      z-index: 90;
     }
+    #sub-tab-row {
+      display: flex;
+      flex: 1;
+      gap: 4px;
+      min-width: 0;
+      overflow-x: auto;
+      scrollbar-width: none;
+    }
+    #sub-tab-row::-webkit-scrollbar { display: none; }
     .sub-tab {
       padding: 0 14px;
       height: var(--subt-h);
@@ -331,8 +345,8 @@
       width: 200px;
       flex-shrink: 0;
       position: sticky;
-      top: calc(var(--tab-h) + 12px);
-      max-height: calc(100vh - var(--tab-h) - 32px);
+      top: calc(var(--tab-h) + var(--subt-h) + 12px);
+      max-height: calc(100vh - var(--tab-h) - var(--subt-h) - 32px);
       overflow-y: auto;
       scrollbar-width: thin;
       background: var(--surface);
@@ -377,14 +391,171 @@
     .toc-day:hover { color: var(--text); }
     .toc-day.active { color: var(--accent); font-weight: 600; }
 
+    /* ── Anchor offset under the two sticky bars ── */
+    .md h1, .md h2, .md h3 {
+      scroll-margin-top: calc(var(--tab-h) + var(--subt-h) + 10px);
+    }
+
+    /* ── Collapsible sections (Overview tab): level 1 = cities, level 2 = days ── */
+    .acc {
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      background: var(--surface);
+      margin: 14px 0;
+      overflow: hidden;
+    }
+    .acc-head {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 12px 14px;
+      min-height: 48px;
+      cursor: pointer;
+      user-select: none;
+      -webkit-tap-highlight-color: transparent;
+    }
+    .acc-head:hover { background: #fdf9f5; }
+    .md .acc-head h2, .md .acc-head h3 { margin: 0; flex: 1; min-width: 0; }
+    .md .acc-head h2 { font-size: 1.08rem; }
+    .md .acc-head h3 { font-size: .95rem; }
+    .acc-chevron {
+      flex-shrink: 0;
+      font-size: .75rem;
+      color: var(--muted);
+      transition: transform .2s ease;
+    }
+    .acc.open > .acc-head .acc-chevron { transform: rotate(180deg); }
+    .acc-body { display: none; padding: 2px 16px 16px; }
+    .acc.open > .acc-body { display: block; }
+
+    .acc-city { box-shadow: var(--shadow); }
+    .acc-city > .acc-head { background: #f6f1e8; }
+    .acc-city > .acc-head:hover { background: #f0e9dd; }
+    .acc-city.open > .acc-head { border-bottom: 1px solid var(--border); }
+
+    .acc-sub { margin: 10px 0; box-shadow: none; }
+    .acc-sub > .acc-head { padding: 10px 12px; min-height: 44px; }
+    .acc-sub > .acc-body { padding: 0 12px 12px; }
+
+    .acc-today {
+      flex-shrink: 0;
+      font-size: .68rem;
+      font-weight: 700;
+      color: #fff;
+      background: var(--accent);
+      border-radius: 20px;
+      padding: 2px 9px;
+      white-space: nowrap;
+    }
+
+    .acc-controls {
+      display: flex;
+      gap: 8px;
+      align-items: center;
+      margin: 10px 0 4px;
+    }
+    .acc-controls button {
+      border: 1px solid var(--border);
+      background: var(--surface);
+      color: var(--muted);
+      font-size: .74rem;
+      font-weight: 600;
+      padding: 5px 12px;
+      border-radius: 20px;
+      cursor: pointer;
+    }
+    .acc-controls button:hover { color: var(--accent); border-color: var(--accent); }
+
+    /* ── Print button + menu (in sub-tab bar) ── */
+    #print-btn {
+      flex-shrink: 0;
+      margin-left: auto;
+      border: none;
+      background: none;
+      font-size: 1.05rem;
+      padding: 6px 8px;
+      cursor: pointer;
+      color: var(--muted);
+      -webkit-tap-highlight-color: transparent;
+    }
+    #print-btn:hover { color: var(--text); }
+    #print-menu {
+      position: fixed;
+      display: none;
+      z-index: 300;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      box-shadow: 0 6px 24px rgba(0,0,0,.16);
+      overflow: hidden;
+    }
+    #print-menu.show { display: block; }
+    #print-menu button {
+      display: block;
+      width: 100%;
+      text-align: left;
+      border: none;
+      background: none;
+      padding: 11px 16px;
+      font-size: .84rem;
+      font-weight: 600;
+      color: var(--text);
+      cursor: pointer;
+      white-space: nowrap;
+    }
+    #print-menu button:hover { background: #fdf9f5; color: var(--accent); }
+    #print-menu button + button { border-top: 1px solid var(--border); }
+    #print-menu .print-hint {
+      padding: 6px 16px 9px;
+      font-size: .7rem;
+      color: var(--muted);
+      border-top: 1px solid var(--border);
+      max-width: 230px;
+      white-space: normal;
+    }
+
+    /* ── Scroll-to-top FAB ── */
+    #to-top {
+      position: fixed;
+      right: 16px;
+      bottom: calc(18px + env(safe-area-inset-bottom, 0px));
+      width: 46px;
+      height: 46px;
+      border-radius: 50%;
+      border: none;
+      background: var(--accent);
+      color: #fff;
+      font-size: 1.15rem;
+      line-height: 1;
+      cursor: pointer;
+      box-shadow: 0 4px 14px rgba(0,0,0,.25);
+      z-index: 250;
+      opacity: 0;
+      transform: translateY(10px);
+      pointer-events: none;
+      transition: opacity .2s, transform .2s;
+      -webkit-tap-highlight-color: transparent;
+    }
+    #to-top.show { opacity: .92; transform: translateY(0); pointer-events: auto; }
+    #to-top:hover { opacity: 1; }
+
+    /* ── Print-entire-guide container (hidden on screen) ── */
+    #print-all { display: none; }
+
+    /* Original tables kept alongside their card views, shown only on paper */
+    .print-only { display: none; }
+
     /* ── Responsive ── */
     @media (max-width: 768px) {
       .toc-sidebar { display: none; }
       .overview-layout { padding: 14px 10px 60px; }
     }
-    /* ── Print (packing list) ── */
+    @media (max-width: 560px) {
+      #last-updated { display: none; }
+    }
+    /* ── Print (current tab or entire guide) ── */
     @media print {
-      #city-tabs, #sub-tabs, .toc-sidebar { display: none; }
+      #city-tabs, #sub-tabs, .toc-sidebar, #to-top, #print-menu { display: none !important; }
       #content, #content.overview-active { max-width: none; padding: 0; }
       .overview-layout { display: block; padding: 0; }
       body { font-size: 11pt; background: #fff; }
@@ -398,6 +569,42 @@
         background: #fff;
       }
       .md li:has(> input:checked), .md li:has(> input:checked) strong { color: inherit; }
+
+      /* Force every collapsible open on paper */
+      .acc { border: none; box-shadow: none; margin: 6px 0; }
+      .acc-body { display: block !important; padding: 0 0 6px; }
+      .acc-head { padding: 0; min-height: 0; cursor: default; }
+      .acc-city > .acc-head, .acc-city.open > .acc-head { background: none; border-bottom: none; }
+      .acc-chevron, .acc-controls, .acc-today { display: none !important; }
+      .acc-city { break-before: page; }
+      .md .acc-head h2 { font-size: 1.25rem; margin: 14px 0 6px; }
+      .md .acc-head h3 { font-size: 1.02rem; margin: 10px 0 4px; }
+
+      /* Swap card views back to compact real tables on paper */
+      .table-cards { display: none !important; }
+      .print-only { display: block; }
+      .md tr:hover td { background: none; }
+
+      .tcard-body { display: block !important; }
+      .tcard-chevron { display: none !important; }
+      .tcard { break-inside: avoid; box-shadow: none; }
+      .tcard-desc { white-space: normal; }
+
+      .md table { font-size: 8.5pt; box-shadow: none; }
+      .table-wrap { overflow: visible; }
+
+      /* Entire-guide mode: show only the assembled document */
+      body.print-all-mode #content { display: none !important; }
+      body.print-all-mode #print-all { display: block !important; }
+      .print-cover { text-align: center; padding-top: 34vh; break-after: page; }
+      .print-cover h1 { font-size: 2rem; color: var(--accent); }
+      .print-cover p { color: #555; margin-top: 8px; }
+      .print-doc { break-before: page; }
+      .print-doc:first-of-type { break-before: auto; }
+      .print-doc-head {
+        font-size: 1.35rem; font-weight: 800; color: var(--accent);
+        border-bottom: 2px solid #ddd; padding-bottom: 6px; margin: 0 0 14px;
+      }
     }
 
     @media (max-width: 600px) {
@@ -441,7 +648,17 @@
 </div>
 
 <!-- Sub-tab bar -->
-<div id="sub-tabs"></div>
+<div id="sub-tabs">
+  <div id="sub-tab-row"></div>
+  <button id="print-btn" title="Print" aria-label="Print">🖨️</button>
+</div>
+
+<!-- Print menu (positioned under the print button) -->
+<div id="print-menu">
+  <button data-print="tab">🖨️ Print this tab</button>
+  <button data-print="all">📖 Print entire guide</button>
+  <div class="print-hint">Tip: choose "Save as PDF" in the print dialog to keep an offline copy on your phone.</div>
+</div>
 
 <!-- Main content -->
 <div id="content">
@@ -450,6 +667,9 @@
     Loading…
   </div>
 </div>
+
+<!-- Scroll-to-top FAB -->
+<button id="to-top" aria-label="Scroll to top">↑</button>
 
 <script>
 // ─── City → file map ─────────────────────────────────────────────────────────
@@ -525,7 +745,7 @@ let tocObserver = null; // IntersectionObserver for TOC highlight
 // ─── Elements ────────────────────────────────────────────────────────────────
 const contentEl  = document.getElementById("content");
 const loaderEl   = document.getElementById("loader");
-const subTabsEl  = document.getElementById("sub-tabs");
+const subTabsEl  = document.getElementById("sub-tab-row");
 const cityTabsEl = document.getElementById("city-tabs");
 
 // ─── Render sub-tabs ─────────────────────────────────────────────────────────
@@ -627,6 +847,143 @@ function assignHeadingIds(container) {
   });
 }
 
+// ─── Collapsible sections (Overview): level 1 = cities, level 2 = days ───────
+const ACC_KEY = 'accOpen:v1';
+const TRIP_YEAR = 2026;
+let accState = {};
+try { accState = JSON.parse(localStorage.getItem(ACC_KEY) || '{}'); } catch (e) { accState = {}; }
+
+function saveAccState() {
+  try { localStorage.setItem(ACC_KEY, JSON.stringify(accState)); } catch (e) {}
+}
+
+// Pull "Aug 20–23", "Aug 31 – Sep 1", "Day 1 — Thursday Aug 20" out of headings
+function parseDateRange(text) {
+  const MONTHS = { jan:0, feb:1, mar:2, apr:3, may:4, jun:5, jul:6, aug:7, sep:8, oct:9, nov:10, dec:11 };
+  const re = /(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\.?\s+(\d{1,2})(?:\s*[–—-]\s*(\d{1,2}))?/gi;
+  const dates = [];
+  let m;
+  while ((m = re.exec(text)) !== null) {
+    const mo = MONTHS[m[1].slice(0, 3).toLowerCase()];
+    dates.push(new Date(TRIP_YEAR, mo, parseInt(m[2], 10)));
+    if (m[3]) dates.push(new Date(TRIP_YEAR, mo, parseInt(m[3], 10)));
+  }
+  if (!dates.length) return null;
+  dates.sort((a, b) => a - b);
+  return { start: dates[0], end: dates[dates.length - 1] };
+}
+
+function rangeIncludesToday(range) {
+  if (!range) return false;
+  const now = Date.now();
+  return now >= range.start.getTime() && now <= range.end.getTime() + 86399999;
+}
+
+function setAccOpen(acc, open, persist = true) {
+  acc.classList.toggle('open', open);
+  if (persist && acc.dataset.accId) {
+    accState[acc.dataset.accId] = open ? 1 : 0;
+    saveAccState();
+  }
+}
+
+function makeAcc(heading, bodyNodes, cls) {
+  const acc = document.createElement('section');
+  acc.className = 'acc ' + cls;
+  acc.dataset.accId = heading.id || '';
+
+  const head = document.createElement('div');
+  head.className = 'acc-head';
+  head.appendChild(heading);
+
+  const isNow = rangeIncludesToday(parseDateRange(heading.textContent));
+  if (isNow) {
+    const badge = document.createElement('span');
+    badge.className = 'acc-today';
+    badge.textContent = '📍 Today';
+    head.appendChild(badge);
+  }
+
+  const chev = document.createElement('span');
+  chev.className = 'acc-chevron';
+  chev.textContent = '▾';
+  head.appendChild(chev);
+
+  const body = document.createElement('div');
+  body.className = 'acc-body';
+  bodyNodes.forEach(n => body.appendChild(n));
+
+  acc.appendChild(head);
+  acc.appendChild(body);
+
+  head.addEventListener('click', e => {
+    if (e.target.closest('a')) return; // links inside headings still work
+    setAccOpen(acc, !acc.classList.contains('open'));
+  });
+
+  // Restore saved state; default: open only if it's happening today
+  const saved = accState[acc.dataset.accId];
+  setAccOpen(acc, saved !== undefined ? !!saved : isNow, false);
+  return acc;
+}
+
+function buildSubAccordions(nodes) {
+  const out = [];
+  let i = 0;
+  while (i < nodes.length && nodes[i].tagName !== 'H3') { out.push(nodes[i]); i++; }
+  while (i < nodes.length) {
+    const h3 = nodes[i++];
+    const body = [];
+    while (i < nodes.length && nodes[i].tagName !== 'H3') { body.push(nodes[i]); i++; }
+    if (!body.some(n => n.tagName !== 'HR')) { out.push(h3, ...body); continue; }
+    out.push(makeAcc(h3, body, 'acc-sub'));
+  }
+  return out;
+}
+
+function buildAccordions(mdEl) {
+  const nodes = Array.from(mdEl.children);
+  const frag = document.createDocumentFragment();
+  let i = 0;
+
+  // Keep the H1 + intro above the fold, un-collapsed
+  while (i < nodes.length && nodes[i].tagName !== 'H2') { frag.appendChild(nodes[i]); i++; }
+
+  const controls = document.createElement('div');
+  controls.className = 'acc-controls';
+  controls.innerHTML = '<button data-acc-all="1">▾ Expand all</button><button data-acc-all="0">▴ Collapse all</button>';
+  controls.addEventListener('click', e => {
+    const btn = e.target.closest('button[data-acc-all]');
+    if (!btn) return;
+    const open = btn.dataset.accAll === '1';
+    mdEl.querySelectorAll('.acc').forEach(a => setAccOpen(a, open));
+  });
+  frag.appendChild(controls);
+
+  while (i < nodes.length) {
+    const h2 = nodes[i++];
+    const body = [];
+    while (i < nodes.length && nodes[i].tagName !== 'H2') { body.push(nodes[i]); i++; }
+    if (!body.some(n => n.tagName !== 'HR')) continue; // skip empty marker headings
+    frag.appendChild(makeAcc(h2, buildSubAccordions(body), 'acc-city'));
+  }
+
+  mdEl.innerHTML = '';
+  mdEl.appendChild(frag);
+}
+
+// Open every collapsed ancestor of a section, then scroll to it
+function revealSection(id) {
+  const h = document.getElementById(id);
+  if (!h) return;
+  let acc = h.closest('.acc');
+  while (acc) {
+    setAccOpen(acc, true);
+    acc = acc.parentElement ? acc.parentElement.closest('.acc') : null;
+  }
+  requestAnimationFrame(() => h.scrollIntoView({ behavior: 'smooth', block: 'start' }));
+}
+
 // ─── Build TOC nav element ────────────────────────────────────────────────────
 function buildTOC(container) {
   const nav = document.createElement('nav');
@@ -653,7 +1010,7 @@ function buildTOC(container) {
       a.textContent = label;
       a.addEventListener('click', e => {
         e.preventDefault();
-        document.getElementById(h.id)?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        revealSection(h.id);
       });
 
       currentGroup.appendChild(a);
@@ -662,7 +1019,7 @@ function buildTOC(container) {
       const text = h.textContent.trim();
       if (!text.startsWith('Day ')) return;
 
-      const label = text.match(/^Day \d+/)?.[0] || text;
+      const label = text.match(/^Day \d+ \(Option [A-Z]\)|^Day \d+|^Day Trip/)?.[0] || text;
 
       const a = document.createElement('a');
       a.href = `#${h.id}`;
@@ -671,7 +1028,7 @@ function buildTOC(container) {
       a.textContent = label;
       a.addEventListener('click', e => {
         e.preventDefault();
-        document.getElementById(h.id)?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        revealSection(h.id);
       });
 
       currentGroup.appendChild(a);
@@ -687,6 +1044,7 @@ function injectTOC() {
   if (!mdEl) return;
 
   assignHeadingIds(mdEl);
+  buildAccordions(mdEl);
   const toc = buildTOC(mdEl);
 
   contentEl.classList.add('overview-active');
@@ -721,6 +1079,12 @@ function injectTOC() {
     const el = document.getElementById(id);
     if (el) tocObserver.observe(el);
   });
+
+  // Deep links: #section-id expands its collapsed ancestors
+  if (location.hash) {
+    const id = decodeURIComponent(location.hash.slice(1));
+    if (document.getElementById(id)) setTimeout(() => revealSection(id), 80);
+  }
 }
 
 // ─── Transform tables into collapsible cards ─────────────────────────────────
@@ -817,7 +1181,12 @@ function transformTables() {
       container.appendChild(card);
     });
 
-    table.parentNode.replaceChild(container, table);
+    // Cards on screen; keep the original table (hidden) so print gets a compact real table
+    table.parentNode.insertBefore(container, table);
+    const printWrap = document.createElement("div");
+    printWrap.className = "table-wrap print-only";
+    container.parentNode.insertBefore(printWrap, table);
+    printWrap.appendChild(table);
   });
 }
 
@@ -829,15 +1198,98 @@ cityTabsEl.querySelectorAll(".city-tab").forEach(el => {
 
     cityTabsEl.querySelectorAll(".city-tab").forEach(t => t.classList.remove("active"));
     el.classList.add("active");
+    el.scrollIntoView({ inline: "center", block: "nearest", behavior: "smooth" });
 
     renderSubTabs(activeCity);
     loadContent(activeCity, activeSub);
+    window.scrollTo({ top: 0 });
   });
+});
+
+// ─── Scroll-to-top FAB ────────────────────────────────────────────────────────
+const toTopBtn = document.getElementById("to-top");
+window.addEventListener("scroll", () => {
+  toTopBtn.classList.toggle("show", window.scrollY > 500);
+}, { passive: true });
+toTopBtn.addEventListener("click", () => window.scrollTo({ top: 0, behavior: "smooth" }));
+
+// ─── Print: current tab or entire guide ──────────────────────────────────────
+const printBtn  = document.getElementById("print-btn");
+const printMenu = document.getElementById("print-menu");
+
+printBtn.addEventListener("click", e => {
+  e.stopPropagation();
+  const r = printBtn.getBoundingClientRect();
+  printMenu.style.top   = (r.bottom + 6) + "px";
+  printMenu.style.right = Math.max(8, window.innerWidth - r.right) + "px";
+  printMenu.classList.toggle("show");
+});
+document.addEventListener("click", () => printMenu.classList.remove("show"));
+
+printMenu.addEventListener("click", async e => {
+  e.stopPropagation();
+  const btn = e.target.closest("button[data-print]");
+  if (!btn) return;
+  printMenu.classList.remove("show");
+  if (btn.dataset.print === "tab") { window.print(); return; }
+  await printEntireGuide();
+});
+
+async function printEntireGuide() {
+  printBtn.textContent = "⏳";
+  try {
+    let container = document.getElementById("print-all");
+    if (!container) {
+      container = document.createElement("div");
+      container.id = "print-all";
+      document.body.appendChild(container);
+    }
+    container.innerHTML = `
+      <div class="print-cover">
+        <h1>Euro Trip 2026 🇵🇹🇪🇸</h1>
+        <p>Porto · Lisbon · Barcelona · Zaragoza · Madrid · Segovia</p>
+        <p>Aug 19 – Sep 5, 2026</p>
+      </div>`;
+    for (const cityKey of Object.keys(TABS)) {
+      for (const sub of TABS[cityKey].subs) {
+        const res = await fetch(RAW_BASE + sub.file);
+        if (!res.ok) continue;
+        const md = await res.text();
+        const sec = document.createElement("section");
+        sec.className = "print-doc";
+        const subLabel = sub.label.replace(/^\S+\s/, "");
+        const head = document.createElement("div");
+        head.className = "print-doc-head";
+        head.textContent = `${TABS[cityKey].label} — ${subLabel}`;
+        sec.appendChild(head);
+        const mdDiv = document.createElement("div");
+        mdDiv.className = "md";
+        mdDiv.innerHTML = marked.parse(md);
+        sec.appendChild(mdDiv);
+        container.appendChild(sec);
+      }
+    }
+    document.body.classList.add("print-all-mode");
+    await new Promise(r => requestAnimationFrame(() => setTimeout(r, 50)));
+    window.print();
+  } catch (err) {
+    alert("Could not assemble the full guide: " + err.message);
+    document.body.classList.remove("print-all-mode");
+  } finally {
+    printBtn.textContent = "🖨️";
+  }
+}
+
+window.addEventListener("afterprint", () => {
+  document.body.classList.remove("print-all-mode");
+  const c = document.getElementById("print-all");
+  if (c) c.remove();
 });
 
 // ─── Initial load ─────────────────────────────────────────────────────────────
 renderSubTabs(activeCity);
 loadContent(activeCity, activeSub);
+document.querySelector(".city-tab.active")?.scrollIntoView({ inline: "center", block: "nearest" });
 
 // ─── Last updated (written by CI at deploy time) ──────────────────────────────
 fetch("last-updated.txt").then(r => r.ok ? r.text() : "").then(date => {
