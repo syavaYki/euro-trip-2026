@@ -1,251 +1,240 @@
-# Lisbon Food & Drink Research
-## Euro Trip 2026 — Aug 23–26
-### Family of 4: Seva, wife, 2 daughters
+# Lisbon Food & Drink
+## Aug 23–26 · Euro Trip 2026
 
-> 🗓️ **August timing bonuses:** Sardine season peaks (May–Aug) — every grill restaurant has them. Caracóis (garlic snails) also in peak season. Outdoor terraces open late. Plan 2–3 gelato stops per day in the August heat.
+> 🗓️ **August timing bonuses:** sardine season peaks May–Aug — every grill terrace has them. Caracóis (garlic snails) are also in season. Terraces run late, gelato is a food group (plan 2–3 stops/day in the heat), and dinner at 20:30 is normal. The chosen day-by-day plan is at the bottom — everything above it is the full catalog.
 
 ---
 
-## 🥐 Pastéis de Nata & Breakfast Spots
+## 🥐 Pastéis de Nata & Breakfast
 
-> Lisbon's pastry scene is extraordinary. The custard tart (pastel de nata) was invented by monks of the Jerónimos Monastery — making the pilgrimage to Belém obligatory. The morning ritual: a hot nata + bica (espresso) standing at a café counter.
+> The custard tart was invented by the monks of the Jerónimos Monastery — the pilgrimage to Belém is obligatory. The morning ritual: a hot nata + bica (espresso) standing at a café counter, ~€3 total.
 
-| Name | Description | Must-Try / Featured Item | Address | Website |
-|------|-------------|--------------------------|---------|---------|
-| **Pastéis de Belém** [📍](https://maps.google.com/?q=Past%C3%A9is+de+Bel%C3%A9m+Lisbon+Portugal) ⭐ | The original since 1837 — these are where pastéis de nata were invented by monks of the Jerónimos Monastery. Produced in-house from a 190-year-old secret recipe (only 3 people know it). Always busy; eat standing at the counter, piping hot, dusted with cinnamon + icing sugar. | Pastel de nata straight from the oven + galão | Rua de Belém 84–92, 1300-085 Lisboa (Belém) | [pasteisdebelem.pt](https://pasteisdebelem.pt/) |
-| **Manteigaria** [📍](https://maps.google.com/?q=Manteigaria+Lisbon+Portugal) | Standing counter nata bar in Chiado — the local favourite and genuine rival to Pastéis de Belém. Piping hot, outstanding pastry shell, perfectly wobbly custard. No seating, no fuss. The glass-fronted pastry counter lets you watch production. ~€1.30/pastry. | Pastel de nata at the counter; bica (espresso) | Rua do Loreto 2, 1200-241 Lisboa (Chiado) | [manteigaria.com](https://www.manteigaria.com/en/) |
-| **Aloma** [📍](https://maps.google.com/?q=Aloma+Lisbon+Portugal) 🏆 | Award-winning nata — Best Pastel de Nata 2024–2025. Richer, more egg-forward custard than competitors. The crispiest shell in Lisbon. Campo de Ourique location is where locals queue. Airport location is useful on departure day. ~€1.50/pastry. | Pastel de nata (award-winning 2024–2025) | Multiple Lisbon locations + Lisbon Airport | [aloma.pt](https://aloma.pt/) |
-| **Pastelaria Santo António** [📍](https://maps.google.com/?q=Pastelaria+Santo+Ant%C3%B3nio+Lisbon+Portugal) | Award-winning neighbourhood pastry shop near São Jorge Castle and Alfama. Beloved by locals; far less crowded than tourist-facing spots. Perfect pit-stop mid-Alfama walking tour. | Pastel de nata; traditional Portuguese pastries | Near São Jorge Castle, Alfama area | — |
-| **A Brasileira** [📍](https://maps.google.com/?q=A+Brasileira+Lisbon+Portugal) | Historic Art Nouveau café in Chiado, a Lisbon landmark since 1905. Fernando Pessoa's bronze statue sits at an outdoor table. More atmosphere than cuisine — the coffee is good, pastries average. Worth one visit for the interior and the standing-at-the-zinc-bar experience. | Bica (espresso) at the bar; coffee with *torrada* (buttered toast) | Rua Garrett 120–122, 1200-205 Lisboa | [abrasileira.pt](https://www.abrasileira.pt/en/) |
-| **Fabrica Coffee Roasters** [📍](https://maps.google.com/?q=Fabrica+Coffee+Roasters+Lisbon+Portugal) ⭐ | Pioneer of Lisbon's specialty coffee wave (2014). Nordic-influenced space, expert baristas, rotating single-origin beans, visible Probat roaster. The combination of their Kenyan V60 with a pastel de nata "genuinely brilliant — the fruity coffee complements the custard perfectly." | Flat white; pour-over single-origin; pair with a nata from Manteigaria next door | Rua Nova da Trindade 18F, 1200-303 Lisboa | [fabricacoffeeroasters.com](https://fabricacoffeeroasters.com/) |
-| **Copenhagen Coffee Lab** [📍](https://maps.google.com/?q=Copenhagen+Coffee+Lab+Lisbon+Portugal) ⭐ | Danish sisters brought Nordic coffee culture to Lisbon — consistently named #1 specialty coffee in the city. Flat whites "among the best in Portugal." The Danish cinnamon buns are worth the visit alone. Six+ locations across the city. | Flat white; V60 pour-over; Danish cinnamon bun | Multiple: São Paulo (R. de São Paulo 60-62), Príncipe Real (R. Nova da Piedade 10), Alfama (Campo Santa Clara), Baixa, Alcântara | [copenhagencoffeelab.com](https://copenhagencoffeelab.com/) |
-| **Bettina & Niccolo Corallo** [📍](https://maps.google.com/?q=Bettina+%26+Niccolo+Corallo+Lisbon+Portugal) | Tiny artisan shop in Príncipe Real specialising in coffee and chocolate from the family plantation on São Tomé and Príncipe (West Africa). Drinking chocolate, chocolate sorbet, single-origin coffee — a genuinely unique provenance story. | Hot drinking chocolate; chocolate sorbet; single-origin espresso | Príncipe Real area | — |
-| **A Padaria Portuguesa** [📍](https://maps.google.com/?q=A+Padaria+Portuguesa+Lisbon+Portugal) | Beloved local artisan bakery chain with 70+ locations — genuinely popular with residents, not a tourist creation. Traditional recipes, organic coffee. Known for Pão de Deus (coconut-topped brioche) and pistachio croissants. Meal deals from €5. | Pão de Deus; pastel de nata; ham & cheese croissant; fresh OJ | Multiple — especially Largo da Graça 14 (perfect before the Graça viewpoint), Príncipe Real, Bairro Alto | [apadariaportuguesa.pt](https://apadariaportuguesa.pt/) |
-| **Pastelaria Alfama Doce** [📍](https://maps.google.com/?q=Pastelaria+Alfama+Doce+Lisbon+Portugal) | Hidden gem in Alfama's alleyways — a traditional pastelaria with glass counter of pastries, multilingual owner, genuine local atmosphere. Visitors consistently rate it among the best natas in the neighbourhood. | Pastel de nata; local pastries; fresh orange juice | Rua da Regueira 39, Alfama | — |
-| **Café O Corvo** [📍](https://maps.google.com/?q=Caf%C3%A9+O+Corvo+Lisbon+Portugal) | Vintage decor, wooden cinema chairs, stone countertops — an all-day neighbourhood café in multicultural Mouraria. Open daily 9am–midnight. TripAdvisor 4.6/5 (#154 of 5,498 Lisbon restaurants). Perfect before or after visiting Castelo or Igreja de São Domingos. | Breakfast plates; focaccia; tapas from €6 | Largo dos Trigueiros 15A-15B, Mouraria | [cafeocorvo.com](https://cafeocorvo.com/) |
-| **Dear Breakfast** [📍](https://maps.google.com/?q=Dear+Breakfast+Lisbon+Portugal) | Trendy but consistent brunch spot with multiple locations near major sightseeing routes. Relaxed daytime atmosphere; popular with locals and expats. | Eggs Benedict; avocado toast; granola bowls; fresh juice | Multiple: Chiado, Príncipe Real, Santos, Baixa | — |
-| **Augusto Lisboa** [📍](https://maps.google.com/?q=Augusto+Lisboa+Lisbon+Portugal) | Alfama café with a creative spin on breakfast — bacalhau with avocado and spinach on toast is a standout. Good quality without tourist-trap prices. | Bacalhau toast; scrambled eggs with premium ham; cream cheese variations | Alfama | — |
+| Name | What / why | Area | Price | Tip |
+|------|------------|------|-------|-----|
+| **Pastéis de Belém** ⭐ [📍](https://maps.google.com/?q=Past%C3%A9is+de+Bel%C3%A9m+Lisbon+Portugal) | The original since 1837 — secret monastery recipe only 3 people know | Belém (Rua de Belém 84–92) | ~€1.40/nata | Join the fast-moving **takeaway line**, not the sit-down queue; eat hot on the wall outside with cinnamon + icing sugar. On our Day 1 route |
+| **Manteigaria** ⭐ [📍](https://maps.google.com/?q=Manteigaria+Lisbon+Portugal) | The locals' rival — standing counter, glass-fronted oven | Chiado (Rua do Loreto 2) | ~€1.30/nata | Time it to the bell — they ring it when a fresh tray comes out. Day 4 breakfast |
+| **Aloma** 🏆 [📍](https://maps.google.com/?q=Aloma+Lisbon+Portugal) | Best Pastel de Nata winner 2024–2025 — crispiest shell in the city | Campo de Ourique + multiple; **also airside at LIS airport** | ~€1.50/nata | The airport branch is the last-nata-in-Portugal move on Day 4 |
+| **Pastelaria Santo António** [📍](https://maps.google.com/?q=Pastelaria+Santo+Ant%C3%B3nio+Lisbon+Portugal) | Award-winning neighbourhood shop by the castle | Alfama/Castelo | €1.30–1.50/nata | Zero-queue nata pit-stop right after the Day 3 castle visit |
+| **A Brasileira** [📍](https://maps.google.com/?q=A+Brasileira+Lisbon+Portugal) | 1905 Art Nouveau landmark, Pessoa's bronze outside | Chiado (Rua Garrett 120) | €3–7 | Drink the bica standing at the zinc bar like a local — the interior is the point, not the pastry |
+| **Fabrica Coffee Roasters** ⭐ [📍](https://maps.google.com/?q=Fabrica+Coffee+Roasters+Lisbon+Portugal) | Pioneer of Lisbon's specialty-coffee wave (2014) | Chiado (Rua Nova da Trindade 18F) | €3–7 | Order the Kenyan V60 and carry over a Manteigaria nata — the pairing is famous for a reason |
+| **Copenhagen Coffee Lab** ⭐ [📍](https://maps.google.com/?q=Copenhagen+Coffee+Lab+Lisbon+Portugal) | Danish-run, repeatedly named the city's best flat white | 6+ branches — Alfama (Campo de Santa Clara), Príncipe Real, Baixa | €3–7 | The Alfama branch sits on the Day 3 route — cinnamon bun + flat white before the castle |
+| **Bettina & Niccolo Corallo** [📍](https://maps.google.com/?q=Bettina+%26+Niccolo+Corallo+Lisbon+Portugal) | Coffee + chocolate from the family's São Tomé plantation | Príncipe Real | €4–9 | Get the thick drinking chocolate even in August — small cups exist for exactly this |
+| **A Padaria Portuguesa** [📍](https://maps.google.com/?q=A+Padaria+Portuguesa+Lisbon+Portugal) | Beloved 70+-branch local bakery chain, not a tourist creation | Citywide (Largo da Graça 14 is handy) | €2–5 | Pão de Deus (coconut brioche) + fresh OJ; meal deals from €5 |
+| **Pastelaria Alfama Doce** [📍](https://maps.google.com/?q=Pastelaria+Alfama+Doce+Lisbon+Portugal) | Hidden Alfama pastelaria, neighbourhood prices | Alfama (Rua da Regueira 39) | €1–3 | Among the best natas in the quarter — mid-descent stop on the Day 3 Alfama walk |
+| **Café O Corvo** [📍](https://maps.google.com/?q=Caf%C3%A9+O+Corvo+Lisbon+Portugal) | All-day Mouraria café, vintage cinema chairs | Mouraria (Largo dos Trigueiros 15A) | €5–12 | Open 09:00–midnight daily — the flexible option when everyone wakes at different speeds |
+| **Dear Breakfast** [📍](https://maps.google.com/?q=Dear+Breakfast+Lisbon+Portugal) | Trendy but consistent brunch, multiple locations | Chiado, Príncipe Real, Santos, Baixa | €8–15 | Eggs Benedict fix; go before 10:00 to skip the brunch-influencer wave |
+| **Augusto Lisboa** [📍](https://maps.google.com/?q=Augusto+Lisboa+Lisbon+Portugal) | Creative Alfama breakfasts without tourist pricing | Alfama | €10–18 | The bacalhau-avocado-spinach toast is the order |
 
-**Nata strategy:** Go to Pastéis de Belém on your Belém morning (queue, eat hot, get the ritual). Then in Chiado use Manteigaria for standing counter stops. In Campo de Ourique or elsewhere, Aloma for the award-winning crispy shell. Budget: ~€1.30–1.50/pastry.
+> 💡 **Nata strategy:** Pastéis de Belém on Day 1 (the ritual), Manteigaria on Day 4 (the rival), Aloma airside as the farewell. Budget ~€1.30–1.50 each and never buy a cold one.
 
 ---
 
 ## 🍦 Gelato & Ice Cream
 
-> August is gelato season. Plan 2–3 stops per day in the heat. Lisbon's scene is anchored by proper Italian-school gelaterias and one national champion.
+> August is gelato season, and Lisbon's scene is anchored by proper Italian-school gelaterias plus one national champion.
 
-| Name | Why Go | Location | Price | Family Rating | Tip |
-|------|--------|----------|-------|---------------|-----|
-| **Nannarella Gelati alla Romana** [📍](https://maps.google.com/?q=Nannarella+Gelati+alla+Romana+Lisbon+Portugal) ⭐ | Featured on Netflix's *Somebody Feed Phil*. Consistently called the best in Lisbon by locals and visitors. Italian-school alla romana style, generous scoops. Lines in peak summer — go at opening or late evening. | São Bento / Lapa — R. Nova da Piedade 64A (take-away to nearby Praça das Flores garden) | €–€€ | ⭐⭐⭐⭐⭐ | Basil gelato converts sceptics. Pistachio and hazelnut are outstanding. Walk 2 min to Praça das Flores to sit. |
-| **Artisani** [📍](https://maps.google.com/?q=Artisani+Lisbon+Portugal) ⭐ | 100% Portuguese ingredients (Vigor milk, Luso water). 50 flavours available in rotation, including dairy-free sorbets. Possibly Portugal's best artisan ice cream. The Doca de Santo Amaro (Alcântara) branch has waterfront views near Ponte 25 de Abril — perfect stop after Belém. | Main: Av. Álvares Cabral 65B (Estrela). Also: Doca de Santo Amaro (Alcântara, near the bridge), Telheiras, Mercado de Campo de Ourique | €€ | ⭐⭐⭐⭐⭐ | Pastel de nata flavour (custard tart gelato) is extraordinary. The Doca de Santo branch + bridge view = perfect family photo stop. |
-| **Gelados Santini** [📍](https://maps.google.com/?q=Gelados+Santini+Lisbon+Portugal) | Founded 1949 in Estoril by an Italian-Portuguese family — the most storied gelato brand in Portugal. Only fresh fruit, no artificial anything. Locals consider this the best glacier in Lisbon. | Chiado: Rua do Carmo 9 (also Cais do Sodré + other locations) | €€ | ⭐⭐⭐⭐⭐ | Lemon and pistachio are the classics. Torrone (almond caramel) is exceptional. Can get busy mid-day — go mid-morning or after 5pm. |
-| **Gelato Davvero** [📍](https://maps.google.com/?q=Gelato+Davvero+Lisbon+Portugal) | Authentic Italian gelateria in Lisbon since 2015, family-run. Rated 4.9/5. Multiple locations convenient to sightseeing routes — the Alfama-edge branch is perfect after Castelo and Sé visits. | Multiple: R. de São Cristóvão 14 (Baixa/Alfama edge); Av. Dom Carlos I 39 (Santos); R. Cais de Santarém 36 (riverfront) | €–€€ | ⭐⭐⭐⭐⭐ | The Alfama-edge branch at Rua de São Cristóvão fits naturally into a Castelo → Sé → ice cream route. |
-| **Amorino** [📍](https://maps.google.com/?q=Amorino+Lisbon+Portugal) | French chain, but the flower-shaped gelato presentation is a genuine hit with kids — petals arranged like a rose, letting you mix many flavours. Photogenic and fun. Chiado location is central. | Chiado and other central locations | €€ | ⭐⭐⭐⭐ | Not as local as others, but the flower format delights young children. |
-| **Matoli Gelato** [📍](https://maps.google.com/?q=Matoli+Gelato+Lisbon+Portugal) | Small-batch, seasonal, made daily — rated 5.0/5 on TripAdvisor. Cherry gelato described as tasting like freshly picked fruit. A true local hidden gem. | Entrecampos — R. de Entrecampos 56C (local neighbourhood, slightly off-centre) | €€ | ⭐⭐⭐⭐ | Worth seeking out if passing through Entrecampos. The seasonal specials are the draw. |
+| Name | What / why | Area | Price | Tip |
+|------|------------|------|-------|-----|
+| **Nannarella** ⭐ [📍](https://maps.google.com/?q=Nannarella+Gelati+alla+Romana+Lisbon+Portugal) | _Somebody Feed Phil_ famous; most locals' pick for best in Lisbon | São Bento (Rua Nova da Piedade 64A) | €3–5 | Basil gelato converts sceptics; take it 2 min to Praça das Flores to sit. Go at opening or late evening — the line is real |
+| **Artisani** ⭐ [📍](https://maps.google.com/?q=Artisani+Lisbon+Portugal) | 100% Portuguese ingredients, 50 rotating flavours | Estrela + Doca de Santo Amaro (Alcântara riverfront) | €3–5 | The **pastel-de-nata-flavour gelato** is extraordinary; the Doca branch has bridge views |
+| **Gelados Santini** ⭐ [📍](https://maps.google.com/?q=Gelados+Santini+Lisbon+Portugal) | The storied 1949 Estoril house — fresh fruit only | Chiado (Rua do Carmo 9) + Cais do Sodré | €3–5 | Lemon + torrone is the veteran order; quietest mid-morning or after 17:00. Day 1 evening stop |
+| **Gelato Davvero** [📍](https://maps.google.com/?q=Gelato+Davvero+Lisbon+Portugal) | Family-run Italian, 4.9/5 | Baixa/Alfama edge (Rua de São Cristóvão 14) + Santos + riverfront | €3–5 | Slots exactly into the Day 3 castle → Sé descent — the cool-down the afternoon needs |
+| **Amorino** [📍](https://maps.google.com/?q=Amorino+Lisbon+Portugal) | French chain, flower-shaped scoops | Chiado + central | €4–7 | Not the most local, but the rose-petal cone lets you mix many flavours — teen-photo catnip |
+| **Matoli Gelato** [📍](https://maps.google.com/?q=Matoli+Gelato+Lisbon+Portugal) | Small-batch, made daily, 5.0/5 | Entrecampos (off-centre) | €4–7 | Only if passing — the seasonal cherry tastes like fruit off the tree |
 
-**Best gelato routes:** After Jerónimos → Artisani's Doca de Santo Amaro branch (riverfront) · After Alfama/Castelo → Gelato Davvero (São Cristóvão) or Santini (Chiado) · After Príncipe Real market → Nannarella (São Bento, 10 min walk)
+> 💡 **Gelato routing:** after Belém → Artisani (Doca); after the castle/Sé → Gelato Davvero; after Chiado dinner → Santini; Príncipe Real evening → Nannarella.
 
 ---
 
 ## 🛒 Food Markets
 
-| Name | Description | Must-Try / Featured Item | Address | Website |
-|------|-------------|--------------------------|---------|---------|
-| **Time Out Market Lisboa** [📍](https://maps.google.com/?q=Time+Out+Market+Lisboa+Lisbon+Portugal) ⭐ | Vast restored 19th-century iron market hall housing 26 curated restaurants under one roof — from Michelin-starred chefs' casual counters to petiscos bars. Genuinely high quality, not a tourist trap. Perfect for families: everyone picks something different. | Grilled octopus (from Cervejaria Ramiro counter); bifana; pastéis de nata; vinho verde | Av. 24 de Julho 49, 1200-479 Lisboa (Cais do Sodré) | [timeoutmarket.com](https://www.timeout.com/time-out-market-lisboa) |
-| **Mercado de Campo de Ourique** [📍](https://maps.google.com/?q=Mercado+de+Campo+de+Ourique+Lisbon+Portugal) | Neighbourhood food market in the upmarket Estrela/Campo de Ourique district. Much calmer and more local than Time Out. Mix of fresh produce, butchers, cheese vendors, and a food hall section. Perfect Sunday morning while Aloma is steps away. | Market fresh produce; cheese tastings; food hall for lunch | Rua Coelho da Rocha 104, 1350-075 Lisboa | [mercadodecampodeourique.pt](https://www.mercadodecampodeourique.pt/) |
-| **Feira da Ladra** [📍](https://maps.google.com/?q=Feira+da+Ladra+Lisbon+Portugal) | Lisbon's famous outdoor flea market (Campo de Santa Clara, Graça) — Tuesdays and Saturdays. Mix of genuine antiques, old azulejo tiles, vintage goods, and some junk. Not a food market per se but surrounded by good tascas. Ideal for picking up vintage tile souvenirs. | Browse for vintage tiles, old Port bottles, Portuguese ceramics | Campo de Santa Clara, Graça (Tue & Sat mornings) | — |
+| Name | What / why | Area | Price | Tip |
+|------|------------|------|-------|-----|
+| **Time Out Market Lisboa** ⭐ [📍](https://maps.google.com/?q=Time+Out+Market+Lisboa+Lisbon+Portugal) | 26 chef-curated stalls in a 19th-c iron market hall — genuinely good, not a trap | Cais do Sodré (Av. 24 de Julho 49) | €10–20/pp | Everyone picks their own stall — octopus, bifana, nata. Open Sun–Wed 10:00–24:00, Thu–Sat to 02:00. Our Day 1 dinner; watch bags in the crush |
+| **Mercado de Campo de Ourique** [📍](https://maps.google.com/?q=Mercado+de+Campo+de+Ourique+Lisbon+Portugal) | The calm, local alternative — produce + small food hall | Campo de Ourique (Rua Coelho da Rocha 104) | €5–15/pp | Pair with Aloma (best nata shell) two streets away if you're out this way for Prazeres cemetery |
+| **Feira da Ladra** [📍](https://maps.google.com/?q=Feira+da+Ladra+Lisbon+Portugal) | The flea market, not food — but ringed by good tascas | Campo de Santa Clara, Graça | Free to browse | **Tue & Sat mornings only** — our Day 3 is a Tuesday, it's directly on the route |
 
 ---
 
 ## 🐟 Petiscos Bars
 
-> Petiscos = Portugal's small-plates culture. Shared, eaten slowly, paired with vinho verde. The custom is to use bread to soak up sauces (*molhar o pão*). Best in late afternoon or early evening. August = caracóis (garlic snails) season — order them wherever you see the sign.
->
-> **Classic petisco dishes:** Pica-pau (garlic beef cubes on toothpicks) · Pastéis de bacalhau (codfish fritters) · Amêijoas à Bulhão Pato (clams with garlic & coriander) · Caracóis (garlic snails — May–Aug peak) · Peixinhos da horta (battered green beans, the origin of Japanese tempura) · Rissóis (fried turnovers) · Chouriço assado (grilled chorizo)
+> Petiscos = Portugal's small plates. Shared, unhurried, with vinho verde; mop the sauces with bread (_molhar o pão_ — encouraged). Classic orders: **pica-pau** (garlic beef), **pastéis de bacalhau**, **amêijoas à Bulhão Pato** (garlic-coriander clams), **peixinhos da horta** (the battered beans that became Japanese tempura), **chouriço assado**, and in August, **caracóis**.
 
-| Name | Description | Must-Order | Price | Address | Notes |
-|------|-------------|-----------|-------|---------|-------|
-| **Taberna da Rua das Flores** [📍](https://maps.google.com/?q=Taberna+da+Rua+das+Flores+Lisbon+Portugal) ⭐ | Chef André Magalhães writes the menu daily on a chalkboard — no printed menu, no reservations. Creative petiscos blending Portuguese tradition with colonial influences. Taste of Lisboa's top recommendation. "The best petiscos in Lisbon by far" (TripAdvisor). Vintage decor, candlelit tables. | Amêijoas à Bulhão Pato; fresh oysters with seaweed; daily chalkboard specials | €€ | Rua das Flores 103–109, 1200-194 Lisboa (Chiado) | Arrive at opening (noon) for best chance of a table. |
-| **Restaurante Pica-Pau** [📍](https://maps.google.com/?q=Restaurante+Pica-Pau+Lisbon+Portugal) | Named for the pica-pau petisco (garlic beef cubes on toothpicks — "woodpecker"). Leafy patio perfect for families. Also does lagareiro octopus, feijoada, açorda, codfish fritters, charcuterie boards. Eating Europe's top recommendation for pica-pau specifically. | Pica-pau; salted cod fritters; cheese and charcuterie board | €€ | Rua da Escola Politécnica 27, 1200-244 Lisboa (Príncipe Real) | [restaurantepicapau.pt](https://restaurantepicapau.pt/) — the outdoor patio makes this excellent for families |
-| **O Velho Eurico** [📍](https://maps.google.com/?q=O+Velho+Eurico+Lisbon+Portugal) ⭐ | Cult tasca in Castelo. Chef Zé Paulo Rocha took over a beloved historic tavern in 2018 — now nearly impossible to walk into without booking weeks ahead. Known for extraordinary bacalhau à Brás and pork belly petiscos. Loud music, incredibly welcoming atmosphere. | Bacalhau à Brás; pork belly petiscos; seasonal specials | €€ | Largo São Cristóvão 3, 1100-179 Lisboa (Castelo) | Book weeks ahead. "One of the most sought-after taverns in Lisbon." |
-| **Tasca Baldracca** [📍](https://maps.google.com/?q=Tasca+Baldracca+Lisbon+Portugal) | Neighbouring O Velho Eurico in the Castelo area. Part of the same chef collective reshaping Lisbon's tasca scene. Small sharing dishes, great vibes. "A place you'll easily find yourself sitting at for hours." Good backup when O Velho Eurico is full. | Rotating sharing plates — ask the server | €€ | Rua das Farinhas 1, 1100-177 Lisboa (Castelo) | — |
-| **Ofício Tasco Atípico** [📍](https://maps.google.com/?q=Of%C3%ADcio+Tasco+At%C3%ADpico+Lisbon+Portugal) | "Atypical tasca" by chef Hugo Candeias in Chiado. Light and creative petiscos with international touches — mackerel with lettuce vinaigrette, beef tartare with bone marrow. The bolo de bolacha dessert (Marie biscuits + coffee + buttercream + chocolate ganache) is legendary. | Oven rice; beef tartare; bolo de bolacha dessert | €€–€€€ | Rua Nova da Trindade 11K, 1200-301 Lisboa (Chiado) | [oficiolisboa.pt](https://oficiolisboa.pt/) |
-| **Tasca do Chico** [📍](https://maps.google.com/?q=Tasca+do+Chico+Lisbon+Portugal) | Classic Bairro Alto spot since 1993 serving petiscos alongside fado vadio (amateur fado) Monday and Wednesday evenings. Simple shared plates: chouriço assado, caldo verde, São Pedro petiscos. Cash only. See Fado section below for full details. | Chouriço assado; caldo verde; petiscos | €€ | R. do Diário de Notícias 39, Bairro Alto | [tascadochico.com](https://www.tascadochico.com) |
-
----
-
-## 🦑 Seafood & Bacalhau Restaurants
-
-> Lisbon's seafood is among the finest in Europe. Two key categories: **marisqueiras** (shellfish restaurants) and **casas de peixe** (fish restaurants). Bacalhau (salt cod) is the national obsession — reportedly 365+ recipes, one for every day of the year. August sardine season makes grilled sardines a must.
-
-### Splurge / Classic Institutions
-
-| Name | Description | Must-Try / Featured Item | Price Range | Address | Website |
-|------|-------------|--------------------------|-------------|---------|---------|
-| **Cervejaria Ramiro** [📍](https://maps.google.com/?q=Cervejaria+Ramiro+Lisbon+Portugal) ⭐ | Lisbon's most legendary shellfish restaurant — operating since 1956, always packed (and always worth the queue). No reservations. Order: prawns in garlic, razor clams, percebes (gooseneck barnacles if available), and finish with a prego steak sandwich — the Portuguese ritual that surprises every first-timer. | Gambas à Guilho (garlic prawns); percebes; prego sandwich at the end | €40–60/person | Av. Almirante Reis 1, 1150-007 Lisboa | [cervejariaramiro.pt](https://cervejariaramiro.pt/) |
-| **Solar dos Presuntos** [📍](https://maps.google.com/?q=Solar+dos+Presuntos+Lisbon+Portugal) | Lisbon institution since 1974. Old-school azulejo-lined dining room, serious wine list, classic Portuguese dishes. Not flashy — just consistently excellent. One of the finest *açorda de marisco* (shellfish bread stew) in the city. | *Açorda de marisco*; grilled fish; roasted octopus | €30–45/person | Rua das Portas de Santo Antão 150, 1150-269 Lisboa | [solardospresuntos.com](https://www.solardospresuntos.com/) |
-| **Laurentina — O Rei do Bacalhau** [📍](https://maps.google.com/?q=Laurentina+%E2%80%94+O+Rei+do+Bacalhau+Lisbon+Portugal) ⭐ | Serving bacalhau since the 1970s. The most extensive bacalhau menu in Lisbon — "O Nosso Bacalhau" section alone has 12 preparations. Self-appointed "king of cod" with a rating of 9.4/10 on TheFork (14,900+ reviews). Also has Mozambican-influenced dishes reflecting Portugal's colonial history. | Bacalhau Lascado Especial (€24.50); Bacalhau com Natas e Espinafres (€27.50); Bacalhau à Brás (€21.50) | €€€ | Av. Conde Valbom 71A, 1050-067 Lisboa (Avenidas Novas) | — |
-| **A Cevicheria** [📍](https://maps.google.com/?q=A+Cevicheria+Lisbon+Portugal) | Creative ceviche-driven restaurant in Príncipe Real. Chef Kiko Martins applies Portuguese-Atlantic ingredients to Peruvian technique. Sophisticated and fun. The rubber octopus suspended from the ceiling is an Instagrammed landmark. | Signature ceviche; octopus tiradito; leite-creme dessert | €30–40/person | R. Dom Pedro V 129, 1250-097 Lisboa (Príncipe Real) | [acevicheria.pt](https://acevicheria.pt/) |
-
-### Mid-Range & Neighbourhood Gems
-
-| Name | Description | Must-Try / Featured Item | Price Range | Address | Notes |
-|------|-------------|--------------------------|-------------|---------|-------|
-| **O Velho Eurico** [📍](https://maps.google.com/?q=O+Velho+Eurico+Lisbon+Portugal) | Tiny Alfama tasca famous for grilled sardines and petiscos. Walls covered in Fado photos. Open kitchen, tables practically in the street, beloved by locals. One of the most atmospheric restaurants in Alfama. Also listed under Petiscos. | Grilled sardines; petiscos; *caldo verde* soup | €15–25/person | Beco do Carneiro 10, Alfama | — |
-| **Zé da Mouraria** [📍](https://maps.google.com/?q=Z%C3%A9+da+Mouraria+Lisbon+Portugal) ⭐ | Iconic neighbourhood restaurant in Mouraria. Formica tables, TV on the wall, line outside at lunchtime. Over 200kg of bacalhau à minhota served weekly — the house signature. Occasionally gets spontaneous fado singing from passing musicians. | Bacalhau à Minhota; bifinhos ao alhinho; chocos (cuttlefish) | €10–15/person | R. João do Outeiro 24, 1100-306 Lisboa (Mouraria) | AFAR recommended. Generous portions — many dishes serve 2–4. Best for lunch. |
-| **Páteo 13** [📍](https://maps.google.com/?q=P%C3%A1teo+13+Lisbon+Portugal) | Outdoor-only terrace in a charming small Alfama square. Charcoal grill. August is perfect — sardine season peak. Grilled sardines served with boiled potatoes, salad, and grilled peppers. Go for lunch to avoid peak-service disorganisation. Verify it's open on arrival in Alfama. | Sardinhas assadas; charcoal-grilled fish | €–€€ | Calcadinha de Santo Estevão 13, 1100-502 Lisboa (Alfama) | August = sardine peak season. Outdoor-only; verify open. |
-| **Taberna do Mar** [📍](https://maps.google.com/?q=Taberna+do+Mar+Lisbon+Portugal) | Portuguese-Japanese fusion seafood in Graça, steps from the viewpoint. Only 2 meat dishes — everything else from the sea. Sardine nigiri, smoked red mullet sashimi, cockles in Bulhão Pato sauce, oysters with Azores pineapple. Taste of Lisboa recommended. | Sardine nigiri; smoked red mullet sashimi; clams Bulhão Pato | €€–€€€ | Calçada da Graça 20B, 1100-266 Lisboa (Graça) | Combine with Graça miradouro visit. Dinner format. |
-| **Taberna Moderna** [📍](https://maps.google.com/?q=Taberna+Moderna+Lisbon+Portugal) | Contemporary Portuguese + gin bar (70+ gins) in Baixa. Chef-driven menu, sharing concept, outdoor terrace. Cuttlefish rice, braised tuna, ham and cuttlefish croquettes, ovos rotos with squid and shrimp. | Cuttlefish rice; ham and cuttlefish croquettes | €€–€€€ | R. dos Bacalhoeiros 18, 1100-070 Lisboa (Baixa) | [tabernamoderna.com](https://tabernamoderna.com/) |
-| **Os Gazeteiros** [📍](https://maps.google.com/?q=Os+Gazeteiros+Lisbon+Portugal) ⭐ | Set menu format: 4 small starters + main + 2 small desserts, ~€35. TripAdvisor reviewers call it "Noma in Lisbon." Intimate Alfama restaurant, trained staff, thoughtful creative cooking. One of the best value splurge options in the city. Dinner only; book ahead. | 6-course set menu (~€35pp) | €€€ | R. das Escolas Gerais 114-116, 1100-220 Lisboa (Alfama) | Dinner only Tue–Sat. Book ahead. |
-| **Tasca da Esquina** [📍](https://maps.google.com/?q=Tasca+da+Esquina+Lisbon+Portugal) | Chef Vítor Sobral's restaurant dedicated to traditional petiscos elevated with modern technique. Scallops with passion fruit emulsion, tuna tartare, squid with mushrooms and parsley, octopus with mango. In Campo de Ourique — authentically local neighbourhood. 9.4/10 TheFork. | Scallops; tuna with razor clams; Bacalhau à Brás; pica-pau | €€–€€€ | R. Domingos Sequeira 41C, 1350-119 Lisboa (Campo de Ourique) | [tascadaesquina.com](https://tascadaesquina.com/) |
-| **Taberna da Rua das Flores** [📍](https://maps.google.com/?q=Taberna+da+Rua+das+Flores+Lisbon+Portugal) | Also listed under Petiscos. The best chalkboard-menu petiscos bar in Lisbon — fresh oysters, amêijoas, seasonal specials. Excellent seafood focus. | Amêijoas à Bulhão Pato; oysters; daily fish specials | €€ | Rua das Flores 103, Chiado | Arrive at opening. |
+| Name | What / why | Area | Price | Book? | Tip |
+|------|------------|------|-------|-------|-----|
+| **Taberna da Rua das Flores** ⭐ [📍](https://maps.google.com/?q=Taberna+da+Rua+das+Flores+Lisbon+Portugal) | Chalkboard menu rewritten daily — "the best petiscos in Lisbon by far" (TripAdvisor) | Chiado (Rua das Flores 103) | €15–25/pp | No reservations | Be at the door at noon opening or expect a wait — worth either |
+| **Restaurante Pica-Pau** [📍](https://maps.google.com/?q=Restaurante+Pica-Pau+Lisbon+Portugal) | Named for its garlic-beef signature; leafy patio | Príncipe Real (Rua da Escola Politécnica 27) | €15–25/pp | Advisable | The patio is the family-dinner sweet spot — order the pica-pau and cod fritters first |
+| **O Velho Eurico** ⭐ [📍](https://maps.google.com/?q=O+Velho+Eurico+Lisbon+Portugal) | Cult Castelo tasca, chef Zé Paulo Rocha — loud, warm, brilliant | Castelo (Largo São Cristóvão 3) | €15–25/pp | **Weeks ahead** (Instagram/phone) | If unbooked, try the 12:00 sharp walk-in — the bacalhau à Brás is the dish |
+| **Tasca Baldracca** [📍](https://maps.google.com/?q=Tasca+Baldracca+Lisbon+Portugal) | Same new-tasca collective, next door vibes | Castelo (Rua das Farinhas 1) | €15–25/pp | Advisable | The official backup when O Velho Eurico is full — rotating plates, ask the server |
+| **Ofício Tasco Atípico** [📍](https://maps.google.com/?q=Of%C3%ADcio+Tasco+At%C3%ADpico+Lisbon+Portugal) | "Atypical tasca" — creative petiscos, Chiado polish | Chiado (Rua Nova da Trindade 11K) | €20–35/pp | Advisable | Save room for the bolo de bolacha — it's legendary |
+| **Tasco Force** [📍](https://maps.google.com/?q=Tasco+Force+Lisbon+Portugal) | Hidden courtyard patio, great for groups | Alvalade (Rua Acácio de Paiva 5D) | €15–25/pp | Advisable | Worth the Metro ride for a zero-tourist neighbourhood evening — pork cheeks + garlic prawns |
+| **A Tasca do Chico** [📍](https://maps.google.com/?q=Tasca+do+Chico+Lisbon+Portugal) | Petiscos with live fado in a cramped, storied room | Bairro Alto (Rua do Diário de Notícias 39) | €30–40/pp | 1 week ahead | Fado nightly; **Mon & Wed are the amateur _fado vadio_ nights** — cash only, arrive 20:30 |
 
 ---
 
-## 🍽️ Dinner & Lunch Restaurants
+## 🦑 Seafood & Bacalhau
 
-### Tascas & Portuguese Classics
+> Two institutions: **marisqueiras** (shellfish halls) and **casas de peixe** (fish houses). Bacalhau is the national obsession — 365+ recipes. August = grilled-sardine season.
 
-| Name | Description | Must-Try | Price | Address | Notes |
-|------|-------------|----------|-------|---------|-------|
-| **Taberna Sal Grosso** [📍](https://maps.google.com/?q=Taberna+Sal+Grosso+Lisbon+Portugal) | One of the first modern tascas to make its name in Lisbon. Rotating market-driven chalkboard menu. Bread served with garlic-infused lard. The chocolate mousse with fleur de sel and olive oil drizzle is legendary. Taste of Lisboa top pick. | Daily chalkboard specials; chocolate mousse | €€ | Calçada do Forte 22, 1100-256 Lisboa (Santa Apolónia) | Near Santa Apolónia station — good for evenings near Alfama. |
-| **Cantinho do Aziz** [📍](https://maps.google.com/?q=Cantinho+do+Aziz+Lisbon+Portugal) ⭐ | One of the most distinctive restaurants in Lisbon — Mozambican-Portuguese fusion in the heart of Mouraria, reflecting Portugal's deep colonial ties to East Africa. Run by the Aziz family since 1992: the late Aziz, his wife Fatima, and their children. The *matapa* (cassava leaves with prawns and peanut sauce) is the dish Lisbon food writers describe as "life-changing." Muamba (chicken stew with palm oil, okra, garlic), crab curry, and piri-piri dishes combine African spice with Portuguese technique. An experience genuinely impossible to find elsewhere in Portugal. | Matapa (cassava + prawn + peanut sauce); muamba chicken; prawn curry; piri-piri crab | €€ | Rua de São Lourenço 3–5, 1100-529 Lisboa (Mouraria) | [cantinhodoaziz.com](https://cantinhodoaziz.com/) — Book ahead; small space, neighbourhood institution. |
-| **Pigmeu** [📍](https://maps.google.com/?q=Pigmeu+Lisbon+Portugal) | Pork-focused restaurant in locally-beloved Campo de Ourique. Every dish contains pork — from Alentejano pork to nose-to-tail offal preparations. A sophisticated neighbourhood tasca far from tourist crowds. | Croquetes; pastéis de massa tenra; suckling pig confit | €€–€€€ | R. 4 de Infantaria 68, 1350-274 Lisboa (Campo de Ourique) | [pigmeu.pt](https://pigmeu.pt/) — Taste of Lisboa recommended |
-| **Taberna Albricoque** [📍](https://maps.google.com/?q=Taberna+Albricoque+Lisbon+Portugal) | Algarve-focused contemporary tavern with Moorish-influenced southern cuisine — unique in Lisbon. Ray fish with garlic sauce, chicken with figs and almonds, rissol filled with cockles. Reflects southern Portugal's culinary heritage. | Ray fish with garlic; chicken with figs and almonds | €€–€€€ | Rua Caminhos de Ferro 98, 1100-395 Lisboa (Alfama edge) | — |
-| **Stō Restaurante** [📍](https://maps.google.com/?q=St%C5%8D+Restaurante+Lisbon+Portugal) | Warm, neighbourhood-feel restaurant in Príncipe Real. Seasonal Portuguese menu, genuinely local crowd. One of the better mid-range options in a neighbourhood full of overpriced tourist traps. | Daily fish; Portuguese stews; grilled meats | €20–30/person | R. do Século 35, 1200-432 Lisboa (Príncipe Real) | — |
-| **Zé da Mouraria** [📍](https://maps.google.com/?q=Z%C3%A9+da+Mouraria+Lisbon+Portugal) | Also listed under Seafood — ideal for lunch. The most authentic cheap Portuguese lunch in central Lisbon. Daily specials chalked on the board. | *Prato do dia*; *caldo verde*; grilled chicken | €10–15/person | R. João do Outeiro 24, Mouraria | Line outside at midday — arrive at noon or 1:30pm. |
-| **Tasco Force** [📍](https://maps.google.com/?q=Tasco+Force+Lisbon+Portugal) | Hidden courtyard patio you'd never guess from the outside. Petiscos: pork cheeks with coriander, garlic prawns, breaded octopus, farinheira scrambled eggs, squid curry, muamba. Great for groups. | Pork cheeks; garlic prawns; breaded octopus | €€ | Rua Acácio de Paiva 5D, 1700-005 Lisboa (Alvalade) | [tascoforce.pt](https://tascoforce.pt/) — worth the metro for a different neighbourhood. |
+**Splurge / classic institutions:**
 
-### Family-Friendly Restaurants
+| Name | What / why | Area | Price | Book? | Tip |
+|------|------------|------|-------|-------|-----|
+| **Cervejaria Ramiro** ⭐ [📍](https://maps.google.com/?q=Cervejaria+Ramiro+Lisbon+Portugal) | THE shellfish legend since 1956 — 10 min walk from our apartment | Av. Almirante Reis 1 (Intendente) | €40–60/pp | No reservations | Arrive 19:00 sharp. Garlic prawns → razor clams → percebes if offered → finish with the **prego** steak sandwich, the local ritual |
+| **Solar dos Presuntos** [📍](https://maps.google.com/?q=Solar+dos+Presuntos+Lisbon+Portugal) | Old-school institution since 1974, azulejo room | Portas de Santo Antão 150 | €30–45/pp | Book ahead | Order the açorda de marisco — the city's best shellfish bread stew |
+| **Laurentina — O Rei do Bacalhau** ⭐ [📍](https://maps.google.com/?q=Laurentina+%E2%80%94+O+Rei+do+Bacalhau+Lisbon+Portugal) | 12+ bacalhau preparations, 9.4/10 on TheFork | Avenidas Novas (Av. Conde Valbom 71A) | €25–40/pp | Advisable | Bacalhau com natas e espinafres for first-timers; closed Sundays |
+| **A Cevicheria** [📍](https://maps.google.com/?q=A+Cevicheria+Lisbon+Portugal) | Chef Kiko's Peruvian-Atlantic ceviche bar under the rubber octopus | Príncipe Real (Rua Dom Pedro V 129) | €30–40/pp | No reservations (queue) | Go at off-hours (18:30) — the signature ceviche and pisco lemonade carry the wait |
 
-| Name | Description | Must-Try | Price | Address | Website |
-|------|-------------|----------|-------|---------|---------|
-| **Doca de Santo** [📍](https://maps.google.com/?q=Doca+de+Santo+Lisbon+Portugal) | Waterfront restaurant on Alcântara docks. Full kids' menu, high chairs, small play area — genuinely rare in Lisbon. Outdoor terrace facing the 25 de Abril bridge. Good relaxed family dinner with a view. | Grilled fish; pasta for kids; *arroz de pato* (duck rice) | €25–35/person | Av. de Brasília, Doca de Santo Amaro, 1350-352 Lisboa | [docadesanto.com.pt](https://www.docadesanto.com.pt/) |
-| **Pizzaria Lisboa** [📍](https://maps.google.com/?q=Pizzaria+Lisboa+Lisbon+Portugal) | Reliable Neapolitan-style pizza with multiple city-centre locations. An honest crowd-pleaser when the family needs a break from Portuguese food. Recommended for travelling families with kids. | Margherita; local toppings | €12–18/person | Multiple locations | — |
+**Mid-range & neighbourhood gems:**
+
+| Name | What / why | Area | Price | Book? | Tip |
+|------|------------|------|-------|-------|-----|
+| **Zé da Mouraria** ⭐ [📍](https://maps.google.com/?q=Z%C3%A9+da+Mouraria+Lisbon+Portugal) | Iconic lunch tasca — 200 kg of bacalhau à minhota a week | Mouraria (Rua João do Outeiro 24) | €10–15/pp | No — queue | Portions serve 2–4: order fewer dishes than people. Lunch only — our Day 3 pick at 13:50, after the noon line dies |
+| **Páteo 13** [📍](https://maps.google.com/?q=P%C3%A1teo+13+Lisbon+Portugal) | Charcoal sardines on an outdoor Alfama square | Alfama (Calçadinha de Santo Estêvão 13) | €10–20/pp | No | August = peak sardine season; go for lunch, not dinner, and expect cheerful chaos |
+| **Taberna do Mar** [📍](https://maps.google.com/?q=Taberna+do+Mar+Lisbon+Portugal) | Portuguese-Japanese fish fusion — sardine nigiri | Graça (Calçada da Graça 20B) | €20–35/pp | Book ahead | Steps from the Graça miradouro — pair with sunset up there |
+| **Taberna Moderna** [📍](https://maps.google.com/?q=Taberna+Moderna+Lisbon+Portugal) | Contemporary sharing plates + 70-gin bar | Baixa (Rua dos Bacalhoeiros 18) | €20–35/pp | Advisable | The cuttlefish rice is the table-silencer |
+| **Os Gazeteiros** ⭐ [📍](https://maps.google.com/?q=Os+Gazeteiros+Lisbon+Portugal) | "Noma in Lisbon" set menu at ~€35 — best-value splurge | Alfama (Rua das Escolas Gerais 114) | ~€35/pp set | Book 1–2 weeks ahead | Dinner only Tue–Sat — a candidate if the fado house can't seat us |
+| **Tasca da Esquina** [📍](https://maps.google.com/?q=Tasca+da+Esquina+Lisbon+Portugal) | Chef Vítor Sobral's elevated petiscos | Campo de Ourique (Rua Domingos Sequeira 41C) | €25–40/pp | Advisable | Trust the tasting suggestion — scallops + pica-pau |
+| **Taberna Sal Grosso** [📍](https://maps.google.com/?q=Taberna+Sal+Grosso+Lisbon+Portugal) | Modern-tasca pioneer, market chalkboard | Santa Apolónia (Calçada do Forte 22) | €15–25/pp | Advisable | Bread + garlic lard on arrival; the salt-flower chocolate mousse to finish |
+
+---
+
+## 🍽️ Dinner & Lunch Classics
+
+| Name | What / why | Area | Price | Book? | Tip |
+|------|------------|------|-------|-------|-----|
+| **Cantinho do Aziz** ⭐ [📍](https://maps.google.com/?q=Cantinho+do+Aziz+Lisbon+Portugal) | Mozambican-Portuguese fusion, Aziz family since 1992 — unlike anything else in town | Mouraria (Rua de São Lourenço 3) | €15–25/pp | Book ahead | The **matapa** (cassava + prawn + peanut) is the "life-changing" order; ask for mild piri-piri for the table |
+| **Pigmeu** [📍](https://maps.google.com/?q=Pigmeu+Lisbon+Portugal) | All-pork nose-to-tail neighbourhood spot | Campo de Ourique (Rua 4 de Infantaria 68) | €20–35/pp | Advisable | Croquetes + suckling-pig confit; genuinely local room |
+| **Taberna Albricoque** [📍](https://maps.google.com/?q=Taberna+Albricoque+Lisbon+Portugal) | Algarve/Moorish southern cooking, rare in Lisbon | Alfama edge (Rua Caminhos de Ferro 98) | €20–35/pp | Advisable | Chicken with figs and almonds — tastes like the south |
+| **Stō Restaurante** [📍](https://maps.google.com/?q=St%C5%8D+Restaurante+Lisbon+Portugal) | Warm seasonal Portuguese, local crowd | Príncipe Real (Rua do Século 35) | €20–30/pp | Advisable | The honest mid-range pick in a neighbourhood of overpriced traps |
+| **Doca de Santo** [📍](https://maps.google.com/?q=Doca+de+Santo+Lisbon+Portugal) | Waterfront terrace under the bridge — kids' menu, high chairs | Alcântara (Doca de Santo Amaro) | €25–35/pp | Advisable | The relaxed family-dinner option if you end a day at LX Factory |
+| **Pizzaria Lisboa** [📍](https://maps.google.com/?q=Pizzaria+Lisboa+Lisbon+Portugal) | Reliable Neapolitan pizza, several branches | Central | €12–18/pp | No | The pressure-release valve when someone needs a bacalhau break |
+| **Casa Piriquita** [📍](https://maps.google.com/?q=Casa+Piriquita+Sintra+Portugal) | The Sintra institution since 1862 | Sintra (Rua das Padarias 1) | €2–4/pastry | No | **Day 2 lunch stop:** _travesseiros_ (warm almond-cream pillows) + _queijadas_ — eat one of each minimum |
+| **Tascantiga** [📍](https://maps.google.com/?q=Tascantiga+Sintra+Portugal) | Petiscos terrace on the Sintra lanes | Sintra (Escadinhas da Fonte da Pipa 4) | €15–25/pp | Advisable | The sit-down Sintra alternative if Piriquita is a zoo |
+| **Incomum** [📍](https://maps.google.com/?q=Incomum+by+Luis+Santos+Sintra+Portugal) | Modern Portuguese near Sintra station | Sintra (Rua Dr. Alfredo Costa 22) | €20–35/pp | Book ahead | The "dinner in Sintra before the train home" pick on the lighter Day 2 variant |
+| **Centro Vasco da Gama food court** [📍](https://maps.google.com/?q=Centro+Vasco+da+Gama+Lisbon+Portugal) | Mall food court opposite Oriente station | Parque das Nações | €8–12/pp | No | Fast, air-conditioned, everyone picks — the practical Day 4 post-Oceanário lunch before the airport |
 
 ---
 
 ## 🥙 Snacks & Street Food
 
-> August is snail and sardine season. These experiences cost almost nothing and are among the most authentic Lisbon moments.
+### Bifana — the Lisbon pork sandwich
 
-### Bifana (The Lisbon Pork Sandwich)
+| Name | What / why | Area | Price | Tip |
+|------|------------|------|-------|-----|
+| **As Bifanas do Afonso** ⭐ [📍](https://maps.google.com/?q=As+Bifanas+do+Afonso+Lisbon+Portugal) | The city's best — Bourdain-visited, locals crowd the counter | Baixa (Rua da Madalena 146, near the Sé) | €3–5 | Garlic-wine pork in a sauce-soaked roll; daytime only, cash preferred. 2 min off the Day 3 descent |
+| **Casa das Bifanas** [📍](https://maps.google.com/?q=Casa+das+Bifanas+Lisbon+Portugal) | The classic Praça da Figueira counter | Baixa (Praça da Figueira 7A) | €2–4 | Tangier, garlickier sauce — good with a Sagres mini at the bar |
 
-> A thin pork cutlet in garlic + white wine sauce, piled into a crusty roll. The definitive Lisbon street food.
+### Codfish fritters & counters
 
-| Name | Description | Price | Address | Notes |
-|------|-------------|-------|---------|-------|
-| **As Bifanas do Afonso** [📍](https://maps.google.com/?q=As+Bifanas+do+Afonso+Lisbon+Portugal) ⭐ | The most-recommended bifana spot in Lisbon. Anthony Bourdain came here. Locals crowd the counter. Pork marinated in garlic + white wine + spice, simmered until tender, in a crusty roll soaking in the sauce. "A masterclass in simplicity." | ~€3–5 | R. da Madalena 146, Baixa (near the Sé Cathedral) | Daytime hours; cash preferred. |
-| **Casa das Bifanas** [📍](https://maps.google.com/?q=Casa+das+Bifanas+Lisbon+Portugal) | Second-best classic Baixa bifana option. "Soft, juicy, perfectly seasoned — sauce leans slightly tangy and garlicky." Nostalgic and comforting. | ~€3 | Praça da Figueira 7A, Baixa | Steps from Rossio Square — easy stop. |
+| Name | What / why | Area | Price | Tip |
+|------|------------|------|-------|-----|
+| **Casa Portuguesa do Pastel de Bacalhau** [📍](https://maps.google.com/?q=Casa+Portuguesa+do+Pastel+de+Bacalhau+Lisbon+Portugal) | Cod croquette stuffed with Serra da Estrela cheese | Baixa (Rua Augusta 106) | €2–3/piece | Theatrical but tasty; daily 10:00–23:00 — mid-stroll snack on the Rua Augusta walk |
 
-### Pastéis de Bacalhau & Codfish Fritters
+> 💡 Nearly every traditional café keeps pastéis de bacalhau, rissóis and croquetes behind the counter at ~€1.50 — the ultimate cheap fuel stop.
 
-| Name | Description | Price | Address | Notes |
-|------|-------------|-------|---------|-------|
-| **Casa Portuguesa do Pastel de Bacalhau** [📍](https://maps.google.com/?q=Casa+Portuguesa+do+Pastel+de+Bacalhau+Lisbon+Portugal) | Classic codfish croquettes with Serra da Estrela cheese filling. The cheese enriches the delicate cod and crunchy batter. Picture-perfect old-school interior on Rua Augusta. | ~€2–3/piece | Rua Augusta 106, 1100-053 Lisboa (Baixa pedestrian street) | Daily 10am–11pm. Great mid-sightseeing snack. |
+### Conservas — canned fish as souvenirs
 
-*General tip: Nearly every traditional café/tasca has pastéis de bacalhau, rissóis, and croquetes behind the counter at ~€1.50 each — the ultimate cheap fuel stop.*
+| Name | What / why | Area | Price | Tip |
+|------|------------|------|-------|-----|
+| **Loja das Conservas** ⭐ [📍](https://maps.google.com/?q=Loja+das+Conservas+Lisbon+Portugal) | 300+ tins from every Portuguese cannery, run by the industry association | Near Praça do Comércio (Rua do Arsenal 130) | €6–15/tin | Staff match tins to your taste; carry-on friendly gifts. Mon–Sat 10:00–20:00, Sun from 12:00 |
+| **Conserveira de Lisboa** [📍](https://maps.google.com/?q=Conserveira+de+Lisboa+Lisbon+Portugal) | 84+ years, family-owned, own label | Baixa (Rua dos Bacalhoeiros 34) | €6–15/tin | The historic wood-countered original — they wrap tins in paper like 1942 |
 
-### Conservas (Canned Fish) — A Cultural Experience
+### Ginjinha — the cherry-liqueur ritual
 
-> Portugal pioneered the canned sardine industry in the 19th century. The tins are collectible art objects — elaborate vintage labels, given as gifts. Budget €20–40 for souvenir tins.
+| Name | What / why | Area | Price | Tip |
+|------|------------|------|-------|-----|
+| **A Ginjinha** ⭐ [📍](https://maps.google.com/?q=A+Ginjinha+Lisbon+Portugal) | The original standing bar, since 1840 | Largo de São Domingos 8 (Rossio) | €1.50–2/shot | Order _com elas_ (with cherries — mind the pits). Step into the haunting Igreja de São Domingos next door after |
+| **Ginjinha Sem Rival** [📍](https://maps.google.com/?q=Ginjinha+Sem+Rival+Lisbon+Portugal) | The 1890 "friendly rival" | Portas de Santo Antão | €1.50–3/shot | Try the Eduardino (clown-recipe, 1908) for the variant nobody expects |
 
-| Name | Description | Price | Address | Notes |
-|------|-------------|-------|---------|-------|
-| **Loja das Conservas** [📍](https://maps.google.com/?q=Loja+das+Conservas+Lisbon+Portugal) ⭐ | Run by the Portuguese National Association of Canned Fish Manufacturers. 300+ different canned fish. White-tiled walls, wooden tables — beautiful interior. Stocks premium brands (Pinhais, Nuri, Ramirez). Staff offer personalized recommendations and tastings. | €6–15/tin | Rua do Arsenal 130, 1100-038 Lisboa (near Praça do Comércio) | Mon–Sat 10am–8pm; Sun 12pm–8pm. Perfect souvenir stop after Praça do Comércio. |
-| **Conserveira de Lisboa** [📍](https://maps.google.com/?q=Conserveira+de+Lisboa+Lisbon+Portugal) | 84+ years of history. Family-owned, their own brand of gourmet canned fish. "Kind, helpful and patient" staff. Tastings offered. | €6–15/tin | Rua dos Bacalhoeiros 34, Baixa (near Alfama edge) | A historic institution. |
+### Caracóis — August garlic snails 🐌
 
-### Ginjinha (Lisbon's Cherry Liqueur)
+| Name | What / why | Area | Price | Tip |
+|------|------------|------|-------|-----|
+| **Tico Tico** [📍](https://maps.google.com/?q=Tico+Tico+Lisbon+Portugal) | Eating Europe's top caracóis pick | Alvalade (Av. Rio de Janeiro 19) | €10–15 | Daily 12:00–22:00; our visit lands in the season's last peak week |
 
-> The traditional drink of Lisbon — drunk as a shot (~€1.50–3) at standing bars. Order *com elas* (with cherries) or *sem elas* (without). The fermented cherries are edible (watch for pits). Takes 5 minutes and costs pocket change — a ritual, not a drinking session.
-
-| Name | Description | Price | Address | Notes |
-|------|-------------|-------|---------|-------|
-| **A Ginjinha** [📍](https://maps.google.com/?q=A+Ginjinha+Lisbon+Portugal) ⭐ | The original ginjinha bar, operating since 1840. Standing room only, tiny shop. Standing at this counter is a Lisbon ritual that costs almost nothing. | ~€1.50–2/shot | Largo de São Domingos 8, 1100-201 Lisboa | The adjacent Igreja de São Domingos (Gothic interior, atmospheric and haunting) is worth stepping inside. |
-| **Ginjinha Sem Rival** [📍](https://maps.google.com/?q=Ginjinha+Sem+Rival+Lisbon+Portugal) | Family-owned since 1890. "The friendly rival." Also sells Eduardino (named for a clown who helped develop the recipe in 1908). | ~€1.50–3/shot | Rua das Portas de Santo Antão (Rossio area) | Spotted by Locals recommended. Same tradition, slightly different recipe. |
-
-### Caracóis (Garlic Snails) — August Seasonal 🐌
-
-> May–August is peak caracol season. The family's visit (Aug 23–26) falls in the last week of peak season. Tiny snails in a punchy garlic + oregano broth, served with bread to soak up the soup. An adventurous eating experience for kids.
-
-| Name | Description | Price | Address | Notes |
-|------|-------------|-------|---------|-------|
-| **Tico Tico** [📍](https://maps.google.com/?q=Tico+Tico+Lisbon+Portugal) | Eating Europe's top recommendation for caracóis. Generous portions, properly seasoned garlic-oregano broth. | €€ | Av. Rio de Janeiro 19, 1700-330 Lisboa (slightly off-centre) | Daily 12pm–10pm. Worth the Uber. |
-
-*General tip: Any traditional bar or tasca displaying a handwritten "Caracóis" sign in August is selling them — it's a neighbourhood ritual. Don't overthink it; order them at whichever tasca you're already at.*
+> 💡 Any tasca with a handwritten **"Caracóis"** sign in August sells them — it's a neighbourhood ritual. Order wherever you already are; toothpicks provided, bread mandatory.
 
 ---
 
-## 🎶 Fado Dinners & Evening Experiences
+## 🎶 Fado Dinners & Evening Music
 
-> Fado is Lisbon's soul music — melancholy, raw, performed live in small tascas. A fado evening in Alfama is one of the great experiences in Portugal. The music is about *saudade* (longing, yearning, something untranslatable) and is genuinely moving even if you don't understand the words.
+> Fado is Lisbon's soul music — raw, live, about _saudade_ (untranslatable longing). It's genuinely moving even with zero Portuguese. **Our fado night is Tuesday Aug 25 → the pick is Parreirinha de Alfama (🔴 unbooked as of Aug 5 — book this week).** Note the day-of-week trap: the famous amateur (_fado vadio_) rooms don't run Tuesdays.
 
-| Name | Description | Must-Try / Featured Item | Price | Address | Notes |
-|------|-------------|--------------------------|-------|---------|-------|
-| **A Baiuca** [📍](https://maps.google.com/?q=A+Baiuca+Lisbon+Portugal) ⭐ | The most raw and authentic fado experience in Alfama — and the hardest to get into. Fado vadio format where it's not a performance: regulars and neighbours spontaneously stand up and sing when moved to. No set show, no programme. The audience goes quiet mid-meal when someone rises from a table and begins. Run by the same family for decades. Tiny, impeccably local. Distinctly different from Tasca do Chico — this is Alfama fado in its most unvarnished form. | Fado vadio (spontaneous singing by locals) + traditional dinner | €35–50/person | Rua de São Miguel 20, 1100-543 Lisboa (Alfama) | Thu–Sat only. Book weeks ahead — very small and very sought-after. |
-| **A Tasca do Chico** [📍](https://maps.google.com/?q=A+Tasca+do+Chico+Lisbon+Portugal) ⭐ | The most authentic small fado tavern in Bairro Alto. Fado vadio (amateur fado) Monday and Wednesday evenings — performers and audience share the same cramped space. Not polished or curated: raw, unscripted, unforgettable. Tiny space; book ahead. | Fado performance + simple Portuguese dinner | €30–40/person | R. do Diário de Notícias 39, 1200-141 Lisboa (Bairro Alto) | Fado **Mon & Wed only**; arrive by 20:30 for a 21:00 start. Cash only. [tascadochico.com](https://www.tascadochico.com) |
-| **Sr. Fado** [📍](https://maps.google.com/?q=Sr.+Fado+Lisbon+Portugal) | Mid-size Alfama fado restaurant. More polished than Tasca do Chico but still authentic — multiple performers, good Portuguese food. Better for families who want the fado experience in a slightly less cramped setting. Good for kids 8+. | Fado performance + traditional dinner (set menu) | €35–55/person | R. dos Remédios 176, 1100-439 Lisboa (Alfama) | Book ahead |
-| **Restaurante Clube de Fado** [📍](https://maps.google.com/?q=Restaurante+Clube+de+Fado+Lisbon+Portugal) | The prestige fado dinner option — founded by a celebrated fado guitarist, excellent performers, superior food and wine. Tourists and Lisboetas both attend. | Full dinner + fado show | €50–75/person | R. de São João da Praça 92, 1100-521 Lisboa (Alfama) | Book well in advance; [clube-de-fado.com](https://www.clube-de-fado.com/) |
+| Name | What / why | Area | Price | Book? | Tip |
+|------|------------|------|-------|-------|-----|
+| **Parreirinha de Alfama** ⭐ **← our pick** [📍](https://maps.google.com/?q=Parreirinha+de+Alfama+Lisbon+Portugal) | The Amália-era house founded by fadista **Argentina Santos** — top singers, intimate room, nightly | Alfama (Beco do Espírito Santo 1) | Fado menu ~€45–65/pp | 🔴 **Book now** — parreirinhadealfama.com / +351 218 868 209 | Ask for the ~20:00 seating; singing starts once dinner lands. You'll have seen Amália's tomb at the Panteão that morning — full-circle day |
+| **Clube de Fado** [📍](https://maps.google.com/?q=Restaurante+Clube+de+Fado+Lisbon+Portugal) | The prestige house, founded by guitarist Mário Pacheco — serious food and performers | Alfama (Rua de São João da Praça 92) | €50–80/pp | Backup #1 — clubedefado.pt | Open nightly 19:30–01:00, music from 20:30; roomier tables, easier with four |
+| **Sr. Fado** [📍](https://maps.google.com/?q=Sr.+Fado+Lisbon+Portugal) | Small husband-and-wife house (she sings) — warm, uncramped | Alfama (Rua dos Remédios 176) | €35–55/pp | Backup #2 — book ahead | The gentlest introduction for teens; set dinner + show format |
+| **A Tasca do Chico** ⭐ [📍](https://maps.google.com/?q=A+Tasca+do+Chico+Lisbon+Portugal) | The Bairro Alto legend since 1993 — fado nightly in a photo-plastered room | Bairro Alto (Rua do Diário de Notícias 39) | €30–40/pp | 1 week ahead; cash only | **Mon & Wed are the amateur fado-vadio nights** — doesn't fit our Tuesday, but if plans shift, arrive 20:30 |
+| **A Baiuca** ⭐ [📍](https://maps.google.com/?q=A+Baiuca+Lisbon+Portugal) | Alfama fado vadio at its most unvarnished — neighbours rise mid-dinner and sing | Alfama (Rua de São Miguel 20) | €35–50/pp | Weeks ahead | **Thu–Sat only** — wrong nights for this stay; filed for the return trip |
 
 ---
 
 ## 🌆 Bars & Evening Views
 
-> Keeping it family-appropriate — these are view bars and rooftop terraces rather than nightlife spots. Lisbon's sunsets are extraordinary and worth planning around.
+> Family-appropriate view terraces, not nightlife. Sunset during the stay: **~20:20 → ~20:15**.
 
-| Name | Description | Recommended | Price | Address | Vibe |
-|------|-------------|-------------|-------|---------|------|
-| **Park Bar** [📍](https://maps.google.com/?q=Park+Bar+Lisbon+Portugal) | Hidden rooftop bar on the top floor of a multi-storey car park in Bairro Alto. One of the best sunset views in Lisbon — 25 de Abril bridge, Tagus, city spread below. Arrive before 7pm to beat the rush. No children's menu but the views are completely family-appropriate before peak nightlife hours. | Gin & tonic; *sangria*; the sunset view | €8–12/drink | Calçada do Combro 58, 1200-116 Lisboa (Bairro Alto) | Iconic, stunning views |
-| **TOPO Chiado** [📍](https://maps.google.com/?q=TOPO+Chiado+Lisbon+Portugal) | Rooftop bar directly above Chiado with sweeping castle and rooftop views. Good food menu. Book a table for sunset. | Signature cocktails; sunset views; tapas | €8–14/drink | Largo do Chiado, R. do Carmo 57, 1200-092 Lisboa | Upscale, beautiful |
-| **Ginjinha (standing bar)** [📍](https://maps.google.com/?q=Ginjinha+%28standing+bar%29+Lisbon+Portugal) | Not a bar — a 90-second cultural experience. Stand at the counter, order a ginjinha, sip it in the square outside. Costs less than a metro ticket. | Ginjinha shot | €1.50–2 | Largo de São Domingos / Rossio area | Authentic, quick, unmissable |
+| Name | What / why | Area | Price | Tip |
+|------|------------|------|-------|-----|
+| **Park Bar** [📍](https://maps.google.com/?q=Park+Bar+Lisbon+Portugal) | Rooftop garden on top of a parking garage — best bridge-and-river sunset in town | Bairro Alto (Calçada do Combro 58) | €8–12/drink | Arrive before 19:00 for a rail spot; fine with teens before the late crowd |
+| **TOPO Chiado** [📍](https://maps.google.com/?q=TOPO+Chiado+Lisbon+Portugal) | Terrace under the Carmo ruins with castle views | Chiado (Terraços do Carmo) | €8–14/drink | Book a sunset table; mocktails on the menu |
+| **A Ginjinha (standing bar)** [📍](https://maps.google.com/?q=A+Ginjinha+Lisbon+Portugal) | Not a bar — a 90-second ritual | Rossio | €1.50–2 | The cheapest "evening out" in Lisbon; see Snacks above |
 
 ---
 
-## 📋 Lisbon Food Quick-Reference
+## 🗓️ Day-by-Day Food Plan
 
-### By Budget
+*(Matches the master itinerary — Overview tab is the source of truth.)*
+
+| Day | Breakfast | Gelato stop | Lunch | Dinner / evening |
+|-----|-----------|-------------|-------|------------------|
+| **Day 1 · Sun Aug 23 (Belém + Baixa)** | On the plane / airport coffee | Artisani (Doca) if time after Belém Tower | Belém riverside kiosks + **Pastéis de Belém** natas | **Time Out Market** (walk-in), then **Santini** + ginjinha on the evening stroll |
+| **Day 2 · Mon Aug 24 (Sintra–coast)** | Rossio station takeaway ~07:10 | Sintra village scoop (tourist-tier but earned) | **Casa Piriquita** — travesseiros + queijadas | **Cascais seafront fish**; Option B version: Ramiro at 19:00 or Tascantiga/Incomum in Sintra |
+| **Day 3 · Tue Aug 25 (Alfama)** | **Copenhagen Coffee Lab** (Campo de Santa Clara) | **Gelato Davvero** (São Cristóvão) after the Sé | **Zé da Mouraria** at 13:50 (or Páteo 13 sardines / O Velho Eurico if booked) | **Parreirinha de Alfama fado dinner** 🔴 book — Clube de Fado backup |
+| **Day 4 · Wed Aug 26 (Oceanário + fly)** | **Manteigaria** + **Fabrica Coffee Roasters** (Chiado) | Skip — plane day | **Centro Vasco da Gama food court** after the Oceanário (Time Out if Oceanário dropped) | On the plane; **Aloma airside nata** as the goodbye |
+
+---
+
+## 📋 Quick-Reference
+
+### By budget
 
 | Budget | Best Bets |
 |--------|-----------|
-| €1–3 (snacks) | Pastel de nata (Manteigaria / Pastéis de Belém) · Ginjinha shot · Bifana (As Bifanas do Afonso) · Pastéis de bacalhau at any tasca counter |
-| €10–15 (lunch) | Zé da Mouraria (*prato do dia*) · Time Out Market stalls · Mercado de Campo de Ourique food hall · Páteo 13 sardines |
-| €20–35 (mid-range dinner) | Stō Restaurante · O Velho Eurico · Taberna da Rua das Flores · Doca de Santo · Taberna Sal Grosso |
-| €35–60 (splurge) | Cervejaria Ramiro · A Cevicheria · Solar dos Presuntos · Laurentina · Os Gazeteiros (set menu ~€35 — incredible value) |
-| €30–75 (fado dinner) | A Tasca do Chico (most authentic) · Clube de Fado (most prestigious) |
+| €1–3 (snacks) | Nata (Manteigaria / Pastéis de Belém) · ginjinha shot · bifana (As Bifanas do Afonso) · counter pastéis de bacalhau |
+| €10–15 (lunch) | Zé da Mouraria · Time Out stalls · Campo de Ourique market · Páteo 13 sardines · Vasco da Gama food court |
+| €20–35 (mid dinner) | Stō · Cantinho do Aziz · Taberna da Rua das Flores · Taberna Sal Grosso · Doca de Santo |
+| €35–60 (splurge) | Cervejaria Ramiro · A Cevicheria · Solar dos Presuntos · Laurentina · Os Gazeteiros (~€35 set) |
+| €45–80 (fado night) | **Parreirinha de Alfama** (pick) · Clube de Fado · Sr. Fado |
 
-### By Neighbourhood
+### By neighbourhood
 
-| Neighbourhood | Best Food Spots |
-|---------------|----------------|
-| **Belém** [📍](https://maps.google.com/?q=Bel%C3%A9m+Lisbon+Portugal) | Pastéis de Belém (essential) · Artisani Doca de Santo Amaro (gelato, Alcântara nearby) |
-| **Chiado / Bairro Alto** [📍](https://maps.google.com/?q=Chiado+%2F+Bairro+Alto+Lisbon+Portugal) | Manteigaria · Fabrica Coffee Roasters · Copenhagen Coffee Lab · Taberna da Rua das Flores · Santini · A Brasileira · Ofício |
-| **Príncipe Real** [📍](https://maps.google.com/?q=Pr%C3%ADncipe+Real+Lisbon+Portugal) | Bettina & Niccolo Corallo · A Cevicheria · Restaurante Pica-Pau · Santini (5 min walk) |
-| **Alfama / Castelo** [📍](https://maps.google.com/?q=Alfama+%2F+Castelo+Lisbon+Portugal) | O Velho Eurico · Páteo 13 · Pastelaria Alfama Doce · Taberna Albricoque · Os Gazeteiros · Gelato Davvero (edge) |
-| **Mouraria / Graça** [📍](https://maps.google.com/?q=Mouraria+%2F+Gra%C3%A7a+Lisbon+Portugal) | Zé da Mouraria · Café O Corvo · Taberna do Mar (Graça) · A Padaria Portuguesa (Largo da Graça) |
-| **Baixa (Rossio / Praça do Comércio)** [📍](https://maps.google.com/?q=Baixa+%28Rossio+%2F+Pra%C3%A7a+do+Com%C3%A9rcio%29+Lisbon+Portugal) | As Bifanas do Afonso · Casa Portuguesa do Pastel de Bacalhau · Loja das Conservas · A Ginjinha · Ginjinha Sem Rival |
-| **Campo de Ourique** [📍](https://maps.google.com/?q=Campo+de+Ourique+Lisbon+Portugal) | Aloma (best nata shell) · Mercado de Campo de Ourique · Pigmeu · Tasca da Esquina |
-| **Parque das Nações** [📍](https://maps.google.com/?q=Parque+das+Na%C3%A7%C3%B5es+Lisbon+Portugal) | Time Out Market (nearby) · D'Bacalhau — see the Oceanarium section |
-
-### Day-by-Day Suggestions
-
-| Day | Breakfast | Gelato Stop | Lunch | Dinner / Evening |
-|-----|-----------|-------------|-------|-----------------|
-| Day 1 (Aug 23 — Belém) | Pastéis de Belém (on site, 8:30am before the monastery crowds) | Artisani (Doca de Santo Amaro, after Belém) | Time Out Market | Stō Restaurante or Taberna Sal Grosso |
-| Day 2 (Aug 24 — Alfama/Castle) | A Padaria Portuguesa (Largo da Graça) + Copenhagen Coffee Lab | Gelato Davvero (Alfama edge, after Castelo) | O Velho Eurico or Páteo 13 (sardines!) | A Tasca do Chico (if Mon or Wed) OR Sr. Fado |
-| Day 3 (Aug 25 — Parque das Nações / Chiado) | Manteigaria (Chiado, standing counter) + Fabrica Coffee Roasters | Santini (Chiado) | Zé da Mouraria or Cervejaria Ramiro (early, before queue) | Restaurante Pica-Pau terrace or Taberna da Rua das Flores |
-
-### Must-Book Ahead — Lisbon
-
-| What | Why | When to Book | How |
-|------|-----|-------------|-----|
-| **Cervejaria Ramiro** [📍](https://maps.google.com/?q=Cervejaria+Ramiro+Lisbon+Portugal) | No reservations; queue can be 45–60 min at dinner | Walk-in only — arrive at 19:00 opening | Walk-in queue |
-| **A Tasca do Chico** [📍](https://maps.google.com/?q=A+Tasca+do+Chico+Lisbon+Portugal) | Tiny; fado nights (Mon/Wed) fill up | 1 week ahead | [tascadochico.com](https://www.tascadochico.com) |
-| **Clube de Fado** [📍](https://maps.google.com/?q=Clube+de+Fado+Lisbon+Portugal) | Most prestigious; sought-after | 2 weeks ahead | [clube-de-fado.com](https://www.clube-de-fado.com/) |
-| **O Velho Eurico** [📍](https://maps.google.com/?q=O+Velho+Eurico+Lisbon+Portugal) | Cult following; nearly impossible to walk in | Weeks ahead if possible | Instagram DM or phone |
-| **Os Gazeteiros** [📍](https://maps.google.com/?q=Os+Gazeteiros+Lisbon+Portugal) | Small, dinner-only, set menu format | 1–2 weeks ahead | Direct booking |
-| **Taberna da Rua das Flores** [📍](https://maps.google.com/?q=Taberna+da+Rua+das+Flores+Lisbon+Portugal) | Tiny; no printed menu | Walk-in at opening; or call same week | Arrive at noon |
-| **Park Bar (sunset)** [📍](https://maps.google.com/?q=Park+Bar+%28sunset%29+Lisbon+Portugal) | Best Lisbon view fills fast on nice evenings | Reserve a table online | [park-lisboa.com](http://park-lisboa.com/) |
+| Neighbourhood | Best spots |
+|---------------|-----------|
+| **Belém** | Pastéis de Belém (essential) · riverside kiosks · Artisani (Doca de Santo Amaro) |
+| **Chiado / Bairro Alto** | Manteigaria · Fabrica · Taberna da Rua das Flores · Ofício · Santini · A Brasileira · Park Bar · A Tasca do Chico |
+| **Príncipe Real / São Bento** | Nannarella · A Cevicheria · Pica-Pau · Corallo · Stō |
+| **Alfama / Castelo** | O Velho Eurico · Páteo 13 · Alfama Doce · Os Gazeteiros · Gelato Davvero · **Parreirinha de Alfama** · Clube de Fado · Sr. Fado |
+| **Mouraria / Graça / Intendente** | Zé da Mouraria · Cantinho do Aziz · Café O Corvo · Taberna do Mar · **Cervejaria Ramiro** (10 min from the apartment) |
+| **Baixa / Rossio** | As Bifanas do Afonso · Casa das Bifanas · Casa Portuguesa do Pastel de Bacalhau · Loja das Conservas · A Ginjinha |
+| **Campo de Ourique** | Aloma · the Mercado · Pigmeu · Tasca da Esquina |
+| **Parque das Nações** | Vasco da Gama food court (Day 4) |
+| **Sintra / Cascais (Day 2)** | Casa Piriquita · Tascantiga · Incomum · Cascais seafront fish houses |
 
 ---
 
-*Research date: May 2026. Sources: Reddit r/lisbon · Taste of Lisboa · Eating Europe · Spotted by Locals · Time Out Lisbon · AFAR · TheFork · TripAdvisor · Somebody Feed Phil (Netflix) · We Heart Lisbon · Atlas Obscura.*
+## ✅ Must-Book — status as of Aug 5
+
+| What | Why | Status / action |
+|------|-----|-----------------|
+| **Parreirinha de Alfama — Tue Aug 25, ~20:00** | Our fado night; houses fill 1–2 weeks out in August | 🔴 **Book this week** — parreirinhadealfama.com / +351 218 868 209 (Clube de Fado backup, nightly) |
+| **O Velho Eurico** | Cult tasca, near-impossible walk-in | 🟡 Optional — only if swapping it in for a Day 3 lunch; Instagram DM/phone, else 12:00 walk-in attempt |
+| **Os Gazeteiros** | Small set-menu room, Tue–Sat dinner | 🟡 Optional backup if fado falls through |
+| **Cervejaria Ramiro** | No reservations at all | 🕐 Nothing to book — arrive 19:00 sharp (fits Day 2 Option B) |
+| **Taberna da Rua das Flores** | No reservations | 🕐 Nothing to book — noon-opening walk-in |
+| **Time Out Market / Piriquita / food court** | Walk-in by design | ✅ No action |
+
+---
+
+*Research updated Aug 5, 2026 (prices & days re-verified for Aug 23–26). Sources: Reddit r/lisbon · Taste of Lisboa · Eating Europe · Spotted by Locals · Time Out Lisbon · AFAR · TheFork · TripAdvisor · Somebody Feed Phil (Netflix) · We Heart Lisbon · Atlas Obscura.*
