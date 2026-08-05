@@ -60,6 +60,15 @@
       z-index: 100;
     }
     #city-tabs::-webkit-scrollbar { display: none; }
+    #last-updated {
+      margin-left: auto;
+      flex-shrink: 0;
+      align-self: center;
+      padding: 0 8px;
+      font-size: .7rem;
+      color: rgba(255,255,255,.4);
+      white-space: nowrap;
+    }
     .city-tab {
       flex-shrink: 0;
       padding: 0 16px;
@@ -395,6 +404,7 @@
   <div class="city-tab" data-city="segovia">
     <span class="flag">🇪🇸</span>Segovia
   </div>
+  <span id="last-updated"></span>
 </div>
 
 <!-- Sub-tab bar -->
@@ -767,6 +777,11 @@ cityTabsEl.querySelectorAll(".city-tab").forEach(el => {
 // ─── Initial load ─────────────────────────────────────────────────────────────
 renderSubTabs(activeCity);
 loadContent(activeCity, activeSub);
+
+// ─── Last updated (written by CI at deploy time) ──────────────────────────────
+fetch("last-updated.txt").then(r => r.ok ? r.text() : "").then(date => {
+  if (date.trim()) document.getElementById("last-updated").textContent = `Updated ${date.trim()}`;
+}).catch(() => {});
 </script>
 
 </body>
