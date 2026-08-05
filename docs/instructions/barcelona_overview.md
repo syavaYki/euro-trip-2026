@@ -55,9 +55,9 @@
 |-----|-------|---------------|
 | **Day 1** (Wed Aug 26) | Late arrival | Land 21:50 → taxi to Eixample → check in → late bite → sleep |
 | **Day 2** (Thu Aug 27) | Gaudí Day ⭐⭐ **(runs backwards — Sagrada is booked for the evening)** | **Park Güell 09:30 ✅** → Gràcia squares + gelato → lunch → **siesta** → Sant Pau 15:45 → walk Avinguda de Gaudí → **Sagrada Família 17:45, guided tour 18:30 (passports!)** → Eixample dinner |
-| **Day 3** (Fri Aug 28) | **Montserrat day trip** ⭐⭐ | **Tot Montserrat** ticket → R5 + cable car/rack railway → monastery + Black Madonna → **boys' choir 13:00** → buffet lunch → museum → Sant Joan funicular views |
-| **Day 4** (Sat Aug 29) | Old City churches + beach ⭐ | La Seu cathedral → Santa Maria del Pi → Santa Maria del Mar → La Cova Fumada lunch → Barceloneta → Bunkers (late PM) → Carrer de Blai pintxos |
-| **Day 5** (Sun Aug 30) | **A: Girona day trip** / **B: city depth — free-museum Sunday** 💰 | A: cathedral + Jewish Quarter + Sant Pere de Galligants (~€130 for four) · B: Tibidabo Sagrat Cor AM → **Pedralbes 15:00 FREE** → **Montjuïc Castle FREE** (~€48 for four) |
+| **Day 3** (Fri Aug 28) | **Montserrat day trip** ⭐⭐ | **Tot Montserrat** ticket → R5 + cable car/rack railway → monastery + Black Madonna → **boys' choir 13:00 (⚠️ free but must be RESERVED at escolania.cat — choir returns from holiday Aug 27, so this is day two)** → buffet lunch → museum → Sant Joan funicular views |
+| **Day 4** (Sat Aug 29) | Old City churches + beach ⭐ | La Seu cathedral → Santa Maria del Pi → Santa Maria del Mar → La Cova Fumada lunch → **Picasso Museum 14:00 (shade through the UV peak)** → **Barceloneta 16:30–20:00** → Carrer de Blai pintxos 21:00 |
+| **Day 5** (Sun Aug 30) | **A: Girona day trip** / **B: city depth — free-museum Sunday** 💰 · ⛪ **optional 09:00 Sagrada Família Mass, free — decide first, it rules out the Girona train** | A: Eiffel bridge + Onyar houses → _xuixo_ → cathedral → Sant Feliu → Sant Pere de Galligants → Jardins de la Francesa → the Call → **Escales de Sant Martí (GoT)** → lunch → Rocambolesc → city walls late PM (~€170 for four; ⚠️ **museums shut 14:00 Sun**) · B: Tibidabo Sagrat Cor AM → **Pedralbes 15:00 FREE** → **Montjuïc Castle FREE** (~€48 for four) |
 | **Day 6** (Mon Aug 31) | Departure | Check out by 11:00 → Sants by 10:30 → AVE 11:00 to Zaragoza |
 
 ---

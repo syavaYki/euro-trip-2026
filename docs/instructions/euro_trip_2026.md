@@ -588,6 +588,14 @@ Confeitaria do Bolhão opens at 06:00 — nata and galão to go. Aloma (award-wi
 
 ---
 
+### ⛪ Mass in Porto — optional
+
+**Sé do Porto (the cathedral)** — **Mass at 11:00, every day _and_ Sunday** (the cathedral publishes a single time: _"Missa dominical e ferial: 11h00"_). Attending is free; the church, cloister and museum otherwise run **09:00–18:30** in summer.
+
+⚠️ **The clash to know about:** our only Porto Sunday is **Aug 23 — departure day to Lisbon.** An 11:00 Mass and the train south don't both fit comfortably. Either take a **weekday 11:00** earlier in the stay (it's the same celebration), or accept that Sunday belongs to Lisbon — where you land in **Belém**, which has its own answer below.
+
+---
+
 ### Porto Food Quick-Reference
 
 | Budget           | Best Bets                                                                            |
@@ -948,6 +956,21 @@ Then walk up to **Miradouro de São Pedro de Alcântara** for the lit-up castle 
 
 ---
 
+### ⛪ Mass in Lisbon — optional
+
+**Sunday Aug 23 is the trip's first Sunday, and it's the Belém day** — which is a gift, because the **Igreja de Santa Maria de Belém** (the church of the Jerónimos Monastery) is a **working parish**, and **entry to the church is free and separate from the paid cloister**. Attending Mass there means standing under those palm-vaulted columns without a ticket or a queue — the single best church moment available on that day, and it costs nothing.
+
+**Sé de Lisboa** (the cathedral, on the Alfama descent) is the Day 3 alternative — you pass its door at ~13:15 on Tuesday Aug 25.
+
+⚠️ **Times unverified — confirm before you go.** The Patriarcado de Lisboa publishes schedules behind a "Missas e Confissões" section and a dedicated **"Missas em Lisboa" app** rather than a plain page, and I could not pull the current timetable for either church. Check:
+
+- **patriarcado-lisboa.pt → "Missas e Confissões"**
+- the **"Missas em Lisboa"** app (diocesan, covers both churches)
+
+Plan it as **either/or with the paid Jerónimos cloister visit** — as everywhere on this trip, tourist access to a church closes while the liturgy is on.
+
+---
+
 ### Lisbon Food Quick-Reference
 
 | Budget           | Best Bets                                                                                                 |
@@ -1127,7 +1150,7 @@ Flat city, superb Metro. No car.
 | 3 | **Tot Montserrat over Trans Montserrat** — the €21.50 upgrade buys ~€26–30 (museum + the buffet lunch we were paying for anyway) | ~€20 net |
 | 4 | **Sagrada Família "Under 30s" rate (€24)** — both daughters qualify at 17 and 19 | ~€4 |
 
-> ⚠️ **MNAC is not on the Sunday rule** — free **Saturdays from 15:00** plus the first Sunday of the month, and **online booking is required even when free**. Aug 29 is a Saturday, but we're at the beach and Bunkers that afternoon. Skip it or trade it against the Saturday plan.
+> ⚠️ **MNAC is not on the Sunday rule** — free **Saturdays from 15:00** plus the first Sunday of the month, and **online booking is required even when free**. Aug 29 is a Saturday, but that slot is now the Picasso Museum in El Born (walkable from lunch) followed by the late-afternoon beach — MNAC is on Montjuïc and would mean crossing the city twice. Skip the interior; the **MNAC steps outside are free at any hour** and are the optional sunset stop that evening.
 
 ---
 
@@ -1197,7 +1220,9 @@ Flat city, superb Metro. No car.
 - **Basilica + La Moreneta** ⭐⭐ — queue along the side aisle to touch the orb the **Black Madonna** holds (the queue builds before the choir; go in early).
 - **Plaça de Santa Maria** + the monastery courtyards.
 
-**13:00 — L'Escolania boys' choir** ⭐⭐ — the choir sings the _Salve Regina_ and the _Virolai_ (Montserrat's hymn) inside the basilica. Be seated by **12:40**. ⚠️ The choir is on **summer break and returns ~Aug 20** — confirm the live calendar at **escolania.cat** before you go; on the off-chance they're not singing, the monastery + views still make the day.
+**13:00 — L'Escolania boys' choir** ⭐⭐ — the choir sings the _Salve Regina_ and the _Virolai_ (Montserrat's hymn) inside the basilica. Be seated by **12:40**. > ⚠️⚠️ **Corrected from an earlier draft — this was nearly a wasted trip.** The Escolania's 2026 summer break runs **Aug 1–26**, not "to ~Aug 20." They return **Thursday Aug 27**, so **Friday Aug 28 is only their second day back** — the timing works, but with zero margin. Their published calendar for Aug 28 shows **13:00–13:15, _Salve_ + _Virolai_** (the Saturday after, Aug 29, they don't sing at all).
+>
+> ⚠️ **Booking is required for the weekday 13:00 Salve/Virolai** — it is free, but it is not simply "turn up and sit down" as an earlier draft assumed. Reserve at **escolania.cat** as soon as the slot opens, and re-check the calendar the week before: a two-day-old return from holiday is exactly when a schedule slips.
 
 **11:00 (before the choir) or 13:30 (after) — Up the mountain:**
 
@@ -1220,7 +1245,7 @@ Flat city, superb Metro. No car.
 
 ### Day 4 — Saturday Aug 29 · Old City Churches + Barceloneta ⭐
 
-> Gothic Quarter and El Born on foot — three of Barcelona's most beautiful churches — then the famous _bomba_ lunch and an afternoon on the beach. End on a viewpoint and cheap-and-cheerful pintxos.
+> Gothic Quarter and El Born on foot — three of Barcelona's most beautiful churches — then the famous _bomba_ lunch, a shaded siesta through the worst of the sun, and the beach in the **late afternoon** when it's actually pleasant. Cheap-and-cheerful pintxos to close.
 
 **09:00 — Breakfast** in/near the Gothic Quarter (a _granja_ for _xocolata amb xurros_).
 
@@ -1234,16 +1259,28 @@ Flat city, superb Metro. No car.
 
 **12:15 — La Cova Fumada** ⭐⭐ (Barceloneta; **cash only, no sign on the door**) — the bar that **invented the _bomba_** (potato-and-meat croquette with _brava_ sauce). Opens for lunch; ⚠️ **Saturday it's morning-only and sells out fast** — be at the door by 12:00. Order the _bomba_ + the day's grilled fish.
 
-**13:30 — Barceloneta beach** — swim, build sandcastles, walk to the **W-hotel end** and back. The sea is ~24 °C. (Calmer family alternative two stops up: **Nova Icària**, with playgrounds.) Watch bags on the sand.
+> ☀️ **The beach has been moved off 13:30 on purpose.** End of August here is 30–31 °C and humid, UV peaks **12:00–17:00**, and dry sand gets hot enough to hurt bare feet. Barceloneta is also **packed by 11:00** in August and only starts emptying after 18:00. The same beach three hours later is a completely different day.
 
-**17:00 — A viewpoint:**
+**13:45 — Walk back into El Born** (~10 min from La Cova Fumada) and get out of the sun for the peak hours.
 
-| Option                    | Notes                                                                                                                                                                                                     |
-| ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Bunkers del Carmel** ⭐ | Best 360° in the city — but ⚠️ **the gates now close 19:30 and police clear everyone _before_ sunset**, so go **late afternoon, not for sunset.** Bus **24/V17** to "Ctra del Carmel – Mühlberg," then up |
-| **MNAC steps, Montjuïc**  | Grand staircase + terrace looking over the whole city — **open-air and free at any hour**, the better _sunset_ choice                                                                                     |
+**14:00 — Picasso Museum** (Tue–Sun 10:00–20:00) — five medieval palaces, air-conditioned, 1–1.5 hrs, Picasso's formative Barcelona years. €12 adult, **under-18 free** (so the 17-year-old walks in free), reduced rate under 25. ⚠️ **Book a slot online** — Saturday afternoon is its busiest window. _Not in the mood for a museum? Gelato and a slow shaded wander of Born's alleys does the same job — the only rule is not standing on open sand between 14:00 and 16:30._
 
-**20:00 — Carrer de Blai pintxos** (Poble-sec) — the fun, cheap dinner: a street of pintxo bars where the **kids pick their own** skewers off the counter and you pay by the toothpick. (Family-friendly food street — not a bar crawl.)
+**16:30 — Barceloneta beach** (Metro L4 Barceloneta, or ~15 min walk from El Born) — sand has cooled, sun is low, the sea is at its warmest of the day (~24 °C), and the crowd is thinning out. Swim, walk to the **W-hotel end** and back, stay for the golden light. (Calmer alternative two stops up: **Nova Icària**, with playgrounds.) ⚠️ **Lifeguards go off duty around 19:30** — do the real swimming before that. Watch bags on the sand.
+
+> 🚿 Free cold showers along the boardwalk, drinking fountains on the promenade. **Pack a change of clothes** and you go straight from sand to dinner with no hotel detour.
+
+> 🚲 **Optional swap:** rent bikes and ride the seafront path instead of walking — Barceloneta's promenade is flat and bike-friendly, an easy way to cover more coastline (Port Olímpic, Poblenou) if the beach alone feels short.
+
+**~19:45 — Sunset (sunset is ~20:10):**
+
+| Option                             | Notes                                                                                                                                                                              |
+| ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Stay on the sand** ⭐ recommended | You're already there and the light is best over the water. Rinse off at the boardwalk showers, then Metro L4 → L3 to Poble-sec (~25 min) for dinner                                |
+| **MNAC steps, Montjuïc**           | If legs allow: leave the beach 19:15, Metro Barceloneta L4 → Passeig de Gràcia → L3 Espanya (~25 min), sunset from the grand staircase, then walk 15 min down to Carrer de Blai — open-air and free at any hour |
+
+> ❌ **Bunkers del Carmel doesn't survive this reshuffle** — the gates close **19:30** and it's the opposite corner of the city from the beach. Bolt it onto **Day 5** (Option B, late afternoon) instead.
+
+**21:00 — Carrer de Blai pintxos** (Poble-sec) — the fun, cheap dinner: a street of pintxo bars where the **kids pick their own** skewers off the counter and you pay by the toothpick. (Family-friendly food street — not a bar crawl.)
 
 ---
 
@@ -1251,19 +1288,92 @@ Flat city, superb Metro. No car.
 
 > Your second day-trip slot. **Option A — Girona** (cathedrals, the best-preserved Jewish quarter in Europe, a Romanesque monastery) is the church/history pick and works perfectly on a Sunday. **Option B** stays in town and goes deeper. (Note: La Cova Fumada & Quimet & Quimet are **closed Sundays.**)
 
+#### ⛪ Sunday Mass — optional, and it changes which option you pick
+
+> This is the trip's **one full Sunday in Spain** (Aug 23 is the other, in Lisbon). If attending Mass matters, decide this **before** you choose Option A or B — the best celebration in Barcelona starts at 09:00, which is roughly when the Girona train is pulling out of Sants.
+
+**⭐ The pick: Sagrada Família — International Mass, Sunday 09:00. Free.**
+
+This is the best single answer for this family and it isn't close. **There is no charge to attend** — you walk into Gaudí's basilica for the liturgy without a ticket. It's billed as the _international_ Mass and is celebrated in **multiple languages**. Entry is via the **Nativity façade on Carrer de la Marina** — which is a **~4-minute walk from the hotel**, since AB Sagrada Família Bofill sits essentially at the basilica.
+
+The reason to do it even though you already have the Aug 27 evening ticket: **you see the opposite half of the building.** The paid Thursday slot at 17:45 is western light through the **Passion** windows — reds, oranges, gold. A 09:00 Sunday puts you inside for **morning light through the Nativity side** — blues and greens flooding the nave from the east. Same building, completely different room. Two visits, one ticket.
+
+| | |
+| --- | --- |
+| **When** | Sundays and holy days of obligation, **09:00** |
+| **Cost** | **Free** |
+| **Booking** | **None for individuals — capacity is limited and it is first-come.** Groups over 25 must submit a form in advance (not us) |
+| **Arrive** | **08:15–08:30.** No booking + limited capacity means the queue is the ticket |
+| **Entrance** | Nativity façade, **Carrer de la Marina** |
+| **Note** | This is a **service, not a visit** — you're seated in the nave for the liturgy, no audioguide, no wandering, no towers. Dress respectfully |
+
+> ⛪ **Saturday vigil alternative — and this is the one that rescues Option A.** The Sagrada Família also runs an **international Mass on Saturdays at 20:00**, same terms (free, limited capacity, Marina entrance). Taking the **vigil on Sat Aug 29** satisfies the Sunday obligation and leaves **all of Sunday free for Girona**. It costs you the tail of the Day 4 beach: leave the sand at **19:00** instead of 19:45, Mass 20:00, then dinner near the hotel in Eixample at ~21:15 rather than the Carrer de Blai pintxos run. ⚠️ Times of evening Masses are the ones the basilica says may shift for special events — confirm the week before.
+
+**If you're staying in town (Option B) and want the traditional choice instead:**
+
+**Barcelona Cathedral (La Seu)** — Sundays and feast days, all at the **high altar**:
+
+| Time | Language |
+| ---- | -------- |
+| 09:00 | Catalan |
+| **10:30** ⭐ | **Catalan — the _Missa Conventual_**, the solemn one; the cathedral's own calendar pairs it with **Laudes at 10:00** in the choir |
+| 12:00 | Spanish |
+| 13:00 | Catalan |
+| 18:00 | Spanish |
+| 19:15 | Catalan |
+
+Attending is free — you enter as a worshipper, not a ticket-holder. ⚠️ But **tourist visiting is suspended during services**: no rooftop lift, no cloister geese, no wandering. Since **Day 4 already covers La Seu properly as a visit**, treat Sunday here as worship only — or skip it in favour of the Sagrada Família, which you cannot otherwise enter for free.
+
+**If you take Option A (Girona), Mass there:**
+
+Girona Cathedral celebrates Sunday Mass, and attending gets you inside **free** — but ⚠️ **I could not verify the current timetable**: catedraldegirona.cat blocks automated access, and the diocese publishes its schedules only as per-deanery PDFs. **Confirm before you go**, via either:
+
+- **bisbatgirona.cat → "Horaris de misses" → _Arxiprestat de Girona-Salt_ PDF** (updated 2026)
+- **Bisbat de Girona, +34 972 41 27 20**
+
+Plan it as **either/or with the paid visit**, not both: like every cathedral here, tourist access closes during the liturgy, so a Mass slot will eat the 10:15 cathedral visit in the Option A timeline above. Given that, the **Saturday-vigil route above is the cleaner solve** — worship Saturday night, sightsee Girona all Sunday.
+
+**One more, if Montserrat stole the show on Day 3:**
+
+The **Escolania sings the 11:00 _Missa Conventual_ on Sunday Aug 30** (11:00–12:00), and again at **Vespers 18:45**. That's a fuller sing than the 13-minute weekday _Salve_/_Virolai_ you'll have heard on Aug 28 — a **sung Mass**, boys' choir, in the basilica. ⚠️ **The Sunday 11:00 requires a reservation** (escolania.cat). It means repeating the mountain, so only worth it if Friday leaves everyone wanting more — but as a "best church experience available to you that Sunday," it's a genuine rival to the Sagrada Família.
+
 **Option A — Girona day trip ⭐ (recommended 2nd trip)**
 
-| Time      | What                                                                                                                                                                                       |
-| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **08:20** | **Fast train BCN-Sants → Girona** (~38 min, ~€16.20; ~4/hr). The slow R11 is ~1h20 / €9.50                                                                                                 |
-| 09:10     | Arrive — 10-min walk into the compact, 100% walkable old town                                                                                                                              |
-| **09:30** | **Girona Cathedral** ⭐⭐ — the **widest Gothic nave in the world**; climb the 90 steps for the _Game of Thrones_ shot. Quiet before the afternoon crowds                                  |
-| 10:30     | **Basílica de Sant Feliu** (next door) — Romanesque-Gothic, ancient sarcophagi                                                                                                             |
-| 11:00     | **The Call (Jewish Quarter)** ⭐⭐ — one of the **best-preserved medieval Jewish quarters in Europe**; the **Bonastruc ça Porta** museum + 12th-c mikvah, stone lanes barely shoulder-wide |
-| 12:00     | **Monestir de Sant Pere de Galligants** — 12th-c Romanesque **monastery** (now the archaeology museum), serene cloister                                                                    |
-| 12:45     | The **Onyar river houses** (the painted facades) + the **Eiffel-built red bridge**; lunch in the old town                                                                                  |
-| 14:30     | Wander the city walls (Passeig de la Muralla)                                                                                                                                              |
-| ~16:00    | **Train back to Barcelona**, afternoon to spare                                                                                                                                            |
+> ⚠️ **The one hard constraint: Girona's museums shut at 14:00 on Sundays.** Bonastruc ça Porta (the Jewish history museum), Sant Pere de Galligants and the Banys Àrabs all close early — so **every interior gets front-loaded before lunch**, and the afternoon is deliberately outdoors, shaded and free. Don't reshuffle this order without re-checking hours.
+>
+> ☀️ Girona is **inland and runs hotter than Barcelona** — 32–34 °C is normal end of August. The city walls are fully exposed stone with no shade, which is why they sit at the **end** of the day, not the middle.
+
+**08:20 — Fast train BCN-Sants → Girona** (~38 min, ~€16.20 pp; ~4/hr). The slow R11 is ~1h20 / €9.50 — take the fast one, the €7 buys an hour of Girona. Book the day before; Sunday morning trains fill with day-trippers.
+
+**09:10 — Arrive.** ~10-min walk from the station into the old town, entirely flat and 100% walkable once you're in.
+
+**09:25 — Onyar river houses + the Eiffel bridge** ⭐ — start here, outdoors and free, before anything opens. The **Pont de les Peixateries Velles** is the red iron footbridge over the Onyar, built **1877 by Gustave Eiffel's workshop — twelve years before the Eiffel Tower**, and it's effectively a small dress rehearsal for it: same riveted lattice, same red-oxide paint. Stand mid-span for the classic shot of the **painted houses stacked over the water** (ochre, rust, mustard), then cross and shoot back at the bridge itself. Morning light hits the facades and the bridge is empty at this hour — by noon it's a queue of tripods.
+
+**09:45 — Coffee and a _xuixo_** ⭐ (pronounced **"SHOO-show"** — the "chucho" you were after). Girona's own pastry and the thing to eat here: a **fried, sugar-crusted cylinder of brioche dough filled with _crema catalana_** — think a croissant crossed with a doughnut, warm, crisp outside, custard inside. It was invented in Girona and you'll see them stacked in every pastisseria window in the old town — **Carrer Nou** and the arcades of the **Rambla de la Llibertat** are lined with them. Ask for one _acabat de fer_ (just made) if they have it; a cold one is a much sadder object. One each, they're rich.
+
+**10:15 — Girona Cathedral** ⭐⭐ (~€7–11 pp incl. Sant Feliu and the museum) — the **widest Gothic nave in the world** (23 m, unsupported), and the **90-step baroque staircase** out front is the _Game of Thrones_ shot: this was the **Great Sept of Baelor**, where Jaime rides his horse up the steps at the High Sparrow. Inside, don't skip the **Tapestry of Creation** in the treasury — an 11th-c embroidered cosmos, one of the great objects of medieval Europe. ⚠️ **Sunday hours run shorter and mass takes priority** — confirm the visiting window on catedraldegirona.cat before you go, and note the Onyar/bridge stop above is deliberately placed first so a later opening costs you nothing.
+
+**11:15 — Basílica de Sant Feliu** (right below the cathedral, usually on the same ticket) — Romanesque columns under a Gothic nave, a wonky spire, and eight **Roman and early-Christian sarcophagi** set into the walls above the altar. 20 minutes, worth it.
+
+**11:40 — Monestir de Sant Pere de Galligants** (~€6, ⚠️ **closes 14:00 Sunday**) — 12th-c Benedictine Romanesque **monastery**, now the archaeology museum. The reason to come is the **cloister**: carved capitals, deep shade, almost nobody in it. This one also did service as **Braavos** on screen.
+
+**12:15 — Jardins de la Francesa** ⭐ — the "French garden" tucked behind the cathedral apse, between the building and the city walls. **Free, open, and the coolest spot in Girona**: cypresses, ivy-covered stone, a couple of benches and the cathedral wall towering over you. Also a _Game of Thrones_ set — the Braavos street scenes were shot through here. Ten quiet minutes in the shade before the last museum push.
+
+**12:45 — The Call (Jewish Quarter)** ⭐⭐ — one of the **best-preserved medieval Jewish quarters in Europe**: stone lanes barely shoulder-wide, tunnels, staircases going nowhere. Inside it, the **Bonastruc ça Porta / Museu d'Història dels Jueus** (~€4) with the 12th-c **mikvah**. ⚠️ **Last entry ~13:30 on Sunday** — this is the day's tightest door, so if you're running late, skip Sant Pere and come here instead.
+
+**13:45 — Escales de Sant Martí** ⭐ (Pujada de Sant Domènec) — two minutes from the Call, and the staircase everyone recognises: the broad baroque flight sweeping up to the church of **Sant Martí Sacosta**, arch overhead, palm on the left. This is **Arya's chase through Braavos** in Season 6 — she runs down these stairs bleeding. Free, always open, and best photographed from the bottom looking up.
+
+**14:00 — Lunch in the old town** — the terraces on **Plaça de la Independència** are the obvious pick (big square, shaded awnings, easy with four). Girona is a serious food town — this is Celler de Can Roca's home city — so even the ordinary places punch above their weight.
+
+**15:30 — Rocambolesc** 🍦 — Jordi Roca's ice cream shop on Carrer Santa Clara. Same family as **El Celler de Can Roca** (three Michelin stars, repeatedly ranked world's best restaurant); this is the €5 way to eat their cooking. Ridiculous toppings, kids love it. Then wander the shaded lanes — the sun is at its worst right now and the walls can wait.
+
+**16:30 — Passeig de la Muralla** ⭐ (the city walls, free) — now that the heat has broken, walk the medieval ramparts. Roughly **1–1.5 km of walkway with towers to climb**, looking over terracotta rooftops to the Pyrenees foothills. Full sun, no railings in places, no water up there — **bring a bottle**. Come down near the cathedral.
+
+**18:15 — Walk back to the station** (~15 min).
+
+**~18:40 — Fast train back to Barcelona**, in by ~19:20 — enough time to clean up before the farewell dinner. ⚠️ Check the last fast departure when you book; the late-evening service thins out on Sundays and the R11 fallback is an 80-minute slog.
+
+> 💡 **If the day feels long with the family:** the natural cut is everything after lunch — take the ~16:00 train and keep the walls for another trip. The morning (bridge → cathedral → Call → GoT stairs) is the irreducible core.
 
 **Option B — Barcelona in depth** (church/monastery + views + beach, no transit)
 
@@ -1280,7 +1390,7 @@ Flat city, superb Metro. No car.
 > ⚠️ **MNAC is the exception** — free **Saturdays from 15:00** and the first Sunday of the month, **not** today. Full price €12, and **online booking is required even for free entry** (walk-ups are turned away). Same for the **Fundació Miró** — no weekly free slot at all.
 > ⚠️ The **Montjuïc cable car** (telefèric, €13) is **not** covered by any transport ticket — only the **funicular** is. Don't confuse the two.
 
-> 💡 **Cost delta, Option A vs B, for four people:** Girona runs ~€130 (train ~€16.20 pp each way + €11 cathedral pp); Option B runs ~€48 (just the Tibidabo funicular). **Option B saves ~€80** _and_ is the one that exploits the free-Sunday window. Girona is still the better sightseeing day if the budget's fine — decide on the ground.
+> 💡 **Cost delta, Option A vs B, for four people:** Girona runs **~€130 for transport + cathedral** (train ~€16.20 pp each way + ~€7–11 cathedral pp), and the full museum version above adds **~€40** more (Sant Pere ~€6 pp, Bonastruc ça Porta ~€4 pp) — call it **~€170 all in**, before food and ice cream. Option B runs ~€48 (just the Tibidabo funicular). **Option B saves ~€120** _and_ exploits the free-Sunday window. Girona is still the better sightseeing day if the budget's fine — decide on the ground. The free-and-outdoor half of Girona (Eiffel bridge, Onyar houses, Jardins de la Francesa, Sant Martí stairs, the Call's lanes, the city walls) costs **nothing but the train**, so a cheap Girona is also on the table.
 
 > Lighter 3rd alternative: **Sitges** — whitewashed beach town, a **seafront church on the breakwater**, best water near Barcelona (R2 Sud, ~40 min).
 
@@ -1347,6 +1457,8 @@ Flat city, superb Metro. No car.
 | ~~**Sagrada Família**~~ ✅ ⚠️ **bring passports**  | Booked                    | **Aug 27 · 17:45 · tour 18:30 · code `103719876`** |
 | ~~**Park Güell**~~ ✅                              | Booked                    | **Aug 27 · 09:30 · 4 × €18 = €72 · locator `700328431455`** |
 | **Montserrat combined ticket** (take **Tot**)      | A few days before         | FGC desk Pl. d'Espanya / Turisme de Barcelona, Pl. Catalunya |
+| **Escolania reservation** — Aug 28, **13:00** _Salve_/_Virolai_ | **As early as it opens** | escolania.cat — free but **booked**; choir returns from holiday Aug 27, so Aug 28 is day two |
+| **Picasso Museum** — Aug 29, **14:00 slot** (Day 4 shade block) | A few days before | museupicasso.bcn.cat — under-18 free, reduced under 25 |
 | **Girona AVE** (only if Day 5 Option A)            | A few days before         | renfe.com                                  |
 | **Casa Batlló / La Pedrera** (optional)            | 1 week before             | official sites                             |
 | ~~Barcelona hotel~~ ✅                             | Booked                    | AB Sagrada Família Bofill                  |
@@ -1361,7 +1473,7 @@ Flat city, superb Metro. No car.
 - ⚠️ **Bunkers del Carmel** gates close **19:30** and police clear visitors **before sunset** — it's a **late-afternoon** view now, not a sunset spot. Use **MNAC/Montjuïc** for sunset.
 - ⚠️ **Pickpockets** are the real risk: Las Ramblas, Gothic Quarter, the airport Metro line, Sagrada Família exit, the beach. Bags in front; nothing in back pockets.
 - ⚠️ **Sunday closures:** La Cova Fumada & Quimet & Quimet closed; Pedralbes monastery closed Mon; Cathedral closed to tourists Sun mornings.
-- ⚠️ **Montserrat choir** is on summer break to ~Aug 20 — confirm at escolania.cat; go on a **weekday** for the 13:00 performance.
+- ⚠️ **Montserrat choir** — 2026 summer break is **Aug 1–26**; they return **Aug 27**, so our Aug 28 visit catches their **second day back**. The 13:00 _Salve_/_Virolai_ is free but **requires a reservation** at escolania.cat. Re-check the calendar the week before.
 - ⚠️ **Heat & sun:** 28–31 °C and humid. Hydrate; midday is for shaded interiors or the beach.
 
 ---
@@ -1599,6 +1711,27 @@ Metro or taxi to hotel. Late casual dinner near hotel — see Madrid Sep 1 plan.
 
 ---
 
+### ⛪ Mass in Zaragoza — optional
+
+Zaragoza is **the only city in the world with two cathedrals**, and both are a five-minute walk from each other. No Sunday here (we're in town Mon Aug 31 – Tue Sep 1), so these are the **weekday** schedules — which is fine, because the weekday celebration at the Pilar is the good one.
+
+**⭐ Basílica del Pilar — weekdays:**
+
+| Time | Where |
+| ---- | ----- |
+| 08:00 | Capilla de San Judas |
+| **09:00** ⭐ | **_Misa Conventual_ at the main altar** — the solemn daily one |
+| 10:00 · 11:00 · 13:00 | Main altar |
+| **12:00** | **Santa Capilla** — the shrine chapel itself, at the pillar |
+| 17:00 · 18:00 · 19:00 | Main altar |
+| 20:00 | Santa Capilla |
+
+**La Seo (Catedral del Salvador)** — one Mass a day, **Mon–Sat 09:30**.
+
+> 💡 **The move:** the **09:00 Conventual at the Pilar on Tue Sep 1**, before La Aljafería. It's the basilica's principal daily Mass, it's free, and it puts you in there early — long before the coach groups. If you'd rather be at the pillar itself than in the nave, take the **12:00 in the Santa Capilla** instead. Monday Aug 31 works too: you arrive mid-afternoon, and the Pilar runs Masses hourly from 17:00 to 20:00.
+
+---
+
 ### Zaragoza Food Quick-Reference
 
 | Meal                | Best Bet                                                                   | Notes                                                                                                          |
@@ -1767,6 +1900,18 @@ Metro or taxi to hotel. Late casual dinner near hotel — see Madrid Sep 1 plan.
 
 > ⚠️ **MAD T4 is separate from T1/T2/T3** — different building 4 km away.
 
+### ⛪ Mass in Madrid — optional
+
+No Sunday in Madrid either — we're here **Tue Sep 1 – Sat Sep 5** — so this is a weekday or Saturday-vigil question.
+
+**Catedral de la Almudena** is the obvious address: it faces the Royal Palace, so it's already on the **Day 2 (Wed Sep 2) Royal Madrid** morning, and entry to the cathedral itself is free.
+
+⚠️ **Times unverified — confirm before you go.** catedraldelaalmudena.es serves its schedule dynamically and I couldn't retrieve it. Check the **"Horarios"** section on catedraldelaalmudena.es, or ask at the door on Day 2 — you're standing there anyway.
+
+> 💡 If you want a quieter alternative to the cathedral, **San Ginés** (beside the chocolatería of the same name) and **San Jerónimo el Real** (behind the Prado, on the Day 3 art route) are both working parishes on ground you're already covering.
+
+---
+
 ### Madrid Food Quick-Reference
 
 | Day                   | Breakfast                  | Lunch                                  | Dinner                                                                 |
@@ -1893,6 +2038,16 @@ Walk down the steep path into the Eresma valley. From the river floor: the **cla
 
 > **Don't book flamenco for Sep 4 evening** — too much after Segovia + cochinillo + Alcázar. If you want flamenco, slot it for Day 3 evening or skip this trip.
 
+### ⛪ Mass in Segovia — optional
+
+**Segovia Cathedral** — **Mon–Sat 10:00**, one Mass a day. (Sundays and feast days are 11:00 and 12:30, but our Segovia day is **Thursday Sep 4**, so 10:00 is the one.)
+
+Worth knowing where it's said: **from the first weekend of July until the Virgen de la Fuencisla feast in late September, Sunday and feast-day Masses are celebrated in the _Capilla Mayor_** — the main sanctuary — rather than the Capilla del Santísimo Sacramento used the rest of the year. Confessions daily 10:00–11:30.
+
+⚠️ A 10:00 Mass and the cathedral's 09:30–18:30 visiting day overlap — as ever, pick one or the other for that hour, not both.
+
+---
+
 ### Segovia Food Quick-Reference
 
 | Meal                      | What                       | Notes                                              |
@@ -1951,6 +2106,7 @@ Walk down the steep path into the Eresma valley. From the river floor: the **cla
 | ~~**Sagrada Família**~~ ✅ ⚠️ nominative (bring passports)          | Barcelona | Booked                                     | **Aug 27 · entry 17:45 · English guided tour 18:30 · code `103719876`**                                                        |
 | ~~**Park Güell** (Monumental Zone)~~ ✅                              | Barcelona | Booked                                     | **Aug 27 · 09:30 · 4 × €18 = €72 · locator `700328431455`**                                                                   |
 | **Montserrat** combined ticket (Aug 28) — take **Tot**              | Barcelona | A few days before                          | Tot Montserrat (museum + buffet lunch) — FGC desk, Pl. d'Espanya                                                               |
+| **Picasso Museum** (Aug 29, 14:00 slot)                             | Barcelona | A few days before                          | museupicasso.bcn.cat — the Day 4 shade block through the UV peak; under-18 free                                                |
 | **Girona AVE** (Aug 30, if Option A)                                | Barcelona | A few days before                          | renfe.com — BCN-Sants → Girona                                                                                                 |
 | ~~**Barcelona hotel**~~ ✅                                          | Barcelona | Booked                                     | AB Sagrada Família Bofill, Eixample 08013 · Booking.com                                                                        |
 | ~~AVE BCN → Zaragoza (Aug 31 11:00)~~ ✅                            | Zaragoza  | Booked                                     | Locator **WJXSCF** · Coche 6 · 2A/2B/3A/3B                                                                                     |

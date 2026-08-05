@@ -153,6 +153,18 @@
     .md ul, .md ol { padding-left: 20px; margin: 6px 0; }
     .md li { margin: 3px 0; }
     .md strong { color: #222; }
+
+    /* ── Checklists (task lists) ── */
+    .md li:has(> input[type="checkbox"]) { list-style: none; margin-left: -20px; }
+    .md input[type="checkbox"] {
+      width: 16px; height: 16px;
+      margin-right: 9px;
+      vertical-align: -3px;
+      accent-color: var(--accent);
+      cursor: pointer;
+    }
+    .md li:has(> input:checked), .md li:has(> input:checked) strong { color: var(--muted); }
+
     .md em { color: var(--muted); font-style: normal; font-size: .9em; }
     .md blockquote {
       border-left: 3px solid var(--accent2);
@@ -370,6 +382,24 @@
       .toc-sidebar { display: none; }
       .overview-layout { padding: 14px 10px 60px; }
     }
+    /* ── Print (packing list) ── */
+    @media print {
+      #city-tabs, #sub-tabs, .toc-sidebar { display: none; }
+      #content, #content.overview-active { max-width: none; padding: 0; }
+      .overview-layout { display: block; padding: 0; }
+      body { font-size: 11pt; background: #fff; }
+      .md a { color: inherit; text-decoration: none; }
+      .md h1, .md h2, .md h3 { break-after: avoid; }
+      .md li, .md blockquote { break-inside: avoid; }
+      .md input[type="checkbox"] {
+        -webkit-appearance: none; appearance: none;
+        width: 12px; height: 12px;
+        border: 1px solid #444; border-radius: 2px;
+        background: #fff;
+      }
+      .md li:has(> input:checked), .md li:has(> input:checked) strong { color: inherit; }
+    }
+
     @media (max-width: 600px) {
       .city-tab  { padding: 0 12px; font-size: .8rem; }
       #content   { padding: 14px 10px 60px; }
@@ -385,6 +415,9 @@
 <div id="city-tabs">
   <div class="city-tab active" data-city="overview">
     <span class="flag">📋</span>Overview
+  </div>
+  <div class="city-tab" data-city="packing">
+    <span class="flag">🎒</span>Packing
   </div>
   <div class="city-tab" data-city="porto">
     <span class="flag">🇵🇹</span>Porto
@@ -425,6 +458,12 @@ const TABS = {
     label: "Overview",
     subs: [
       { key: "master",  label: "📋 Full Itinerary", file: "docs/instructions/euro_trip_2026.md" }
+    ]
+  },
+  packing: {
+    label: "Packing",
+    subs: [
+      { key: "list", label: "🎒 Packing List", file: "docs/instructions/packing.md" }
     ]
   },
   porto: {
@@ -523,6 +562,7 @@ async function loadContent(city, sub) {
   if (cache[subCfg.file]) {
     contentEl.innerHTML = cache[subCfg.file];
     transformTables();
+    enableChecklist(subCfg.file);
     if (isOverview) injectTOC();
     return;
   }
@@ -536,6 +576,7 @@ async function loadContent(city, sub) {
     cache[subCfg.file] = html;
     contentEl.innerHTML = html;
     transformTables();
+    enableChecklist(subCfg.file);
     if (isOverview) injectTOC();
   } catch (err) {
     contentEl.innerHTML = `
@@ -546,6 +587,26 @@ async function loadContent(city, sub) {
         URL is configured correctly at the top of this file.
       </div>`;
   }
+}
+
+// ─── Make markdown task lists tickable + persist ticks ───────────────────────
+// State is keyed by checkbox index, so reordering the .md resets the ticks.
+function enableChecklist(file) {
+  const boxes = contentEl.querySelectorAll('.md input[type="checkbox"]');
+  if (!boxes.length) return;
+
+  const key   = `checks:${file}`;
+  const saved = JSON.parse(localStorage.getItem(key) || "[]");
+
+  boxes.forEach((box, i) => {
+    box.disabled = false;
+    box.checked  = saved.includes(i);
+    box.addEventListener("change", () => {
+      const on = [];
+      boxes.forEach((b, j) => { if (b.checked) on.push(j); });
+      localStorage.setItem(key, JSON.stringify(on));
+    });
+  });
 }
 
 // ─── Assign slug IDs to headings ──────────────────────────────────────────────
