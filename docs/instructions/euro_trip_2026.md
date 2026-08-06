@@ -3,7 +3,7 @@
 - **Destination:** Porto → Lisbon → Barcelona → Zaragoza → Madrid (~~+ Segovia day trip~~ — dropped Aug 5)
 - **Dates:** August 19 – September 5, 2026 (18 days)
 - **Travelers:** 4 — Seva, wife, 2 daughters
-- **Status:** 🎒 Ready for departure — open items live in the **Master Must-Book List** at the bottom
+- **Status:** 🎒 Ready for departure — open items live in the **Master Must-Book List** at the bottom, re-sorted by urgency and cancellation exposure in the **🎟️ Booking** tab
 
 > 💡 **How to use this guide:** this Overview is the full play-by-play — every day is executable straight from here (times, tickets, routes, fallbacks). The city tabs are the broad reference catalogs when you want options beyond the plan. Tap any section to expand it; during the trip, today's city and day open automatically with a 📍 badge. The 🖨️ button prints this tab or the entire guide — save a PDF to your phone before departure for offline backup.
 
@@ -2726,6 +2726,7 @@ _Re-sorted by urgency on **Aug 5** (T-14 days). Work the 🔴 table top to botto
 | Pena Palace (Sintra)                | Aug 24 · 09:00 palace slot · Essential Visit · paid                                     |
 | Jerónimos cloister                  | Aug 23 · order **38185413** · paid                                                      |
 | Torre de Belém                      | Aug 23 · 16:00 slot · order **38185394** · paid                                         |
+| São Vicente de Fora                 | Aug 25 · ref **980497008** (2 adult, 2 youth)                                           |
 | Castelo de São Jorge                | Open ticket to 1 Nov 2026 · entry from 09:00 · paid                                     |
 | 7 Bridges sunset cruise (Porto)     | Aug 21 · 18:45 · ref **GYG7VKRQ9BVG** · meet 430 Rua da Praia, Gaia (door C)            |
 
