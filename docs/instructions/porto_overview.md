@@ -15,7 +15,7 @@
 | **Check-out** | Sun Aug 23 — early, flight at 09:00 |
 | **Flight in** | TP212: EWR → OPO, departs Aug 19 23:10, arrives Aug 20 10:55 |
 | **Flight out** | TP1921: OPO → LIS, Aug 23 09:00. **Be at OPO by 07:15.** |
-| **Baggage** | Carry-on only on all TAP segments |
+| **Baggage** | 4 carry-ons (8 kg) + 2 checked bags (23 kg) on all TAP segments |
 | **Booking ref** | Z5SCJS / Ticket 047 2524668983 |
 
 ---

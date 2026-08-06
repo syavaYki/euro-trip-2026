@@ -38,7 +38,7 @@
 |-----|-------|---------------|
 | **Day 1** (Wed Aug 26) | Late arrival | Land 21:50 → taxi → check in ~22:45 → late bite → floodlit basilica peek → sleep |
 | **Day 2** (Thu Aug 27) | Gaudí Day ⭐⭐ (runs backwards — evening basilica) | **Park Güell 09:30 ✅** → walk down Gràcia (Casa Vicens facade) → menú del día → **siesta** → Sant Pau 15:45 → Av. Gaudí → **Sagrada Família 17:45 ✅ (passports!)** → Eixample dinner |
-| **Day 3** (Fri Aug 28) | Montserrat ⭐⭐ | 08:36 R5 + cremallera → Moreneta early → Sant Joan funicular → **choir 13:00 (free, RESERVED at escolania.cat — back from break Aug 27!)** → Tot buffet lunch → museum → mató stalls → down ~16:45 |
+| **Day 3** (Fri Aug 28) | Montserrat ⭐⭐ | 08:36 R5 + cremallera → Moreneta early → Sant Joan funicular → **choir 13:00 (free, reserve at [reserves.abadiamontserrat.cat](https://reserves.abadiamontserrat.cat/en/560-reservations/2985-noon-pray-cant-de-lescolania) — back from break Aug 27!)** → Tot buffet lunch → museum → mató stalls → down ~16:45 |
 | **Day 4** (Sat Aug 29) | Old City + beach ⭐ | Petritxol churros → **La Seu 09:30** (Sat closes 17:15) → Gothic lanes → Pi → **La Cova Fumada door 11:45 (Sat 09:00–13:00!)** → Sta. Maria del Mar → **Picasso 14:00 (book!)** → **beach 16:30–20:15** → Blai pintxos |
 | **Day 5** (Sun Aug 30) | **A: Girona** / **B: free-Sunday city depth** 💰 · ⛪ Mass options first | A: Eiffel bridge → xuixo → Call museum + Sant Pere **before 14:00 closures** → **cathedral from 12:00 (Sun!)** → Sant Feliu 13:00 → GoT stairs → lunch → Rocambolesc → walls → 18:40 train · B: Tibidabo (T-casual route) → **Pedralbes 15:00 FREE** → **Montjuïc Castle FREE** → beach hour. Either way: **7 Portes farewell ~21:00 (book!)** |
 | **Day 6** (Mon Aug 31) | Departure | Checkout 09:30–09:40 → taxi/L5 → **Sants 10:00–10:15, security** → **AVE 11:00** → Zaragoza 12:28 |
@@ -91,7 +91,7 @@
 |------|----------|-------|
 | ~~Sagrada Família~~ ✅ bring passports | Booked — Aug 27 · 17:45 · `103719876` | sagradafamilia.org |
 | ~~Park Güell~~ ✅ | Booked — Aug 27 · 09:30 · `700328431455` | parkguell.barcelona |
-| **Escolania choir Aug 28 13:00** (free) | 🔴 **Reserve TODAY** — re-check calendar week before | escolania.cat |
+| **Escolania choir Aug 28 13:00** (free) | 🔴 **Reserve TODAY** — re-check calendar week before | [reserves.abadiamontserrat.cat](https://reserves.abadiamontserrat.cat/en/560-reservations/2985-noon-pray-cant-de-lescolania) · calendar: [escolania.cat/when-do-we-sing](https://www.escolania.cat/en/when-do-we-sing/) |
 | **Picasso Sat Aug 29 14:00** | 🔴 **Book TODAY** (€35.50 for four) | museupicassobcn.cat |
 | **7 Portes — Sun Aug 30 ~21:00** | 🟠 Book this week | 7portes.com |
 | **Girona fast train** (if Option A) | 🟠 By ~Aug 26 | renfe.com |

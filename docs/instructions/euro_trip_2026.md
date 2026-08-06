@@ -1,6 +1,6 @@
 # Euro Trip 2026
 
-- **Destination:** Porto → Lisbon → Barcelona → Zaragoza → Madrid (+ Segovia day trip)
+- **Destination:** Porto → Lisbon → Barcelona → Zaragoza → Madrid (~~+ Segovia day trip~~ — dropped Aug 5)
 - **Dates:** August 19 – September 5, 2026 (18 days)
 - **Travelers:** 4 — Seva, wife, 2 daughters
 - **Status:** 🎒 Ready for departure — open items live in the **Master Must-Book List** at the bottom
@@ -18,7 +18,7 @@
 | **3 · Barcelona** 🇪🇸 | Aug 26–31      | 5        | TP1038 LIS→BCN 18:55→21:50                      | Sagrada Família, Montserrat, Girona, Old City |
 | **4 · Zaragoza** 🇪🇸  | Aug 31 – Sep 1 | 1        | AVE 03112 BCN→ZGZ 11:00→12:28 (WJXSCF)          | La Aljafería, Basílica del Pilar, Casa Lac    |
 | **5 · Madrid** 🇪🇸    | Sep 1–5        | 4        | AVE 03162 ZGZ→MAD 17:48→19:44 (4U5NZV)          | Prado, Reina Sofía, Palacio Real              |
-| **6 · Segovia** 🇪🇸   | Sep 4          | day trip | Avant Madrid Chamartín→Segovia-Guiomar (26 min) | Roman Aqueduct, Alcázar, cochinillo lunch     |
+| ~~6 · Segovia~~ 🇪🇸  | ~~Sep 4~~      | ❌ dropped | —                                             | ⚠️ **Cut Aug 5** — Emily's UAM commitment Fri 11:00–16:00. Guide kept for her semester |
 | **Home** 🇺🇸          | Sep 5          | —        | MAD→JFK (AA95, 10:25)                           | —                                             |
 
 ### Key Dates Summary
@@ -35,8 +35,8 @@
 | **Aug 31** | AVE Barcelona → Zaragoza, 11:00 → 12:28 — full Zaragoza afternoon + evening                               |
 | **Sep 1**  | Zaragoza: Aljafería at 10:00 → check out noon → afternoon sights → AVE 17:48 → Madrid 19:44 (dinner only) |
 | **Sep 2**  | Madrid: Palacio Real + Plaza Mayor + Mercado de San Miguel + Templo de Debod                              |
-| **Sep 3**  | Madrid: Prado (pre-booked) + Reina Sofía + Cava Baja tapas                                                |
-| **Sep 4**  | Day trip to Segovia (Avant from **Chamartín**, 26 min) — cochinillo lunch at Mesón de Cándido             |
+| **Sep 3**  | Madrid: Prado + La Bola cocido → **Emily to UAM Cantoblanco 15:00–18:00** → Reina Sofía → Retiro rowboats → Cava Baja |
+| **Sep 4**  | **Emily's move-in day:** bags to C/ Alonso Cano 4 → **UAM Cantoblanco 11:00–16:00** → El Pardo (royal village) → Chamberí evening + farewell dinner |
 | **Sep 5**  | Fly Madrid → JFK 10:25 AM                                                                                 |
 
 ---
@@ -50,7 +50,7 @@
 | 3   | LIS → BCN (TAP)      | Aug 26, 18:55 → 21:50         | TP1038 | Economy    | ✅ Booked |
 | 4   | MAD → JFK (American) | Sep 5, 10:25 → 12:25          | AA 95  | Economy    | ✅ Booked |
 
-**Booking ref:** Z5SCJS (TAP) · **Ticket:** 047 2524668983 · **Baggage:** 0PC per person — carry-on only on all TAP segments
+**Booking ref:** Z5SCJS (TAP) · **Ticket:** 047 2524668983 · **Baggage:** 4 carry-ons (8 kg each) **+ 2 checked bags** (23 kg each) on all three TAP segments — the 2 checked bags stay in Madrid with Emily and come home in December
 
 ---
 
@@ -60,7 +60,8 @@
 | --- | ------------------------------------------------------ | --------------------------------- | ------------------ | ---------- | --------------------------- | ------------------------- | ----------------------------------------- |
 | 1   | Barcelona-Sants → Zaragoza Delicias                    | **Aug 31, 11:00 → 12:28** (1h28m) | AVE 03112 ESTÁNDAR | **WJXSCF** | Coche 6 · 2A · 2B · 3A · 3B | €123.80 (4 × €30.95)      | ✅ Booked                                 |
 | 2   | Zaragoza Delicias → Madrid Atocha                      | **Sep 1, 17:48 → 19:44** (1h56m)  | AVE 03162 ESTÁNDAR | **4U5NZV** | Coche 7 · 2C · 2D · 3C · 3D | €120.60 (4 × €30.15)      | ✅ Booked                                 |
-| 3   | **Madrid Chamartín-Clara Campoamor** ↔ Segovia-Guiomar | Sep 4 — day trip                  | Avant              | —          | —                           | TBD (~€14 × 4 × 2 ≈ €112) | 🔲 To book — ⚠️ **Chamartín, not Atocha** |
+| ~~3~~ | ~~Madrid Chamartín ↔ Segovia-Guiomar~~               | ~~Sep 4~~                         | ~~Avant~~          | —          | —                           | ~~€112~~ **saved**        | ❌ **Cancelled Aug 5** — Segovia dropped (Emily's UAM day). **Do not book.** |
+| 4   | **Cercanías C-4** — any central station ↔ Cantoblanco Universidad | Sep 3 + Sep 4 — Emily's UAM runs | C-4a / C-4b | — | Unreserved | ~€2/pp per leg (verify) | 🔲 Buy at the machine on the day — ⚠️ **Renfe ticket, the Metro Multi card does NOT work** |
 
 > **Boarding:** Renfe closes train access **2 minutes before departure**. Sants and Atocha both have airport-style security (X-ray bags) — arrive at the platform area 20–25 minutes early. Be at **Barcelona-Sants by 10:30** on Aug 31. Be at **Zaragoza Delicias by 17:15** on Sep 1.
 
@@ -90,7 +91,7 @@
 | **Check-out**    | Sun Aug 23 — early, flight at 09:00                          |
 | **Flight in**    | TP212: EWR → OPO, departs Aug 19 23:10, arrives Aug 20 10:55 |
 | **Flight out**   | TP1921: OPO → LIS, Aug 23 09:00. **Be at OPO by 07:15.**     |
-| **Baggage**      | Carry-on only on all TAP segments                            |
+| **Baggage**      | 4 carry-ons (8 kg) + 2 checked bags (23 kg) on all TAP legs  |
 | **Booking ref**  | Z5SCJS / Ticket 047 2524668983                               |
 
 ### Getting Around
@@ -674,7 +675,7 @@ Per person · 3 full days · excl. accommodation:
 
 ## 🇵🇹 Lisbon — Aug 23–26 (3 nights · apartment paid through Aug 27)
 
-> Three days plus a Sintra day trip. Arrive **Sun Aug 23, 09:55** (carry-on only, so you clear the airport fast) — but the apartment isn't ready until 16:00, so Day 1 is built around bags-light Belém. Depart **Wed Aug 26 evening** on TP1038 to Barcelona. Shape: **Belém + Baixa → Sintra → Alfama & the churches → Oceanário + relaxed departure.** Lisbon is hilly like Porto but much bigger — lean on the Metro, trains, and Bolt for the climbs. Sunset slides from **~20:20 (Aug 23) to ~20:15 (Aug 26)** — the golden-hour blocks below are timed to it.
+> Three days plus a Sintra day trip. Arrive **Sun Aug 23, 09:55** (⚠️ carousel wait for the 2 checked bags) — and the apartment isn't ready until 16:00, so Day 1 is built around bags-light Belém. Depart **Wed Aug 26 evening** on TP1038 to Barcelona. Shape: **Belém + Baixa → Sintra → Alfama & the churches → Oceanário + relaxed departure.** Lisbon is hilly like Porto but much bigger — lean on the Metro, trains, and Bolt for the climbs. Sunset slides from **~20:20 (Aug 23) to ~20:15 (Aug 26)** — the golden-hour blocks below are timed to it.
 
 ### Logistics
 
@@ -723,7 +724,7 @@ Lisbon is bigger and hillier than Porto. No car. Metro + trains + Bolt do everyt
 
 > Land, stash the bags, and spend the check-in gap in Belém — Lisbon's monumental riverfront — then check in and ease into the Baixa for golden hour. Low-stress first day, no hills until you choose them.
 
-**09:55 — Land at LIS (Terminal 1).** Carry-on only, so you skip the baggage carousel entirely — straight through and out. Aim to be at the Metro by ~10:30.
+**09:55 — Land at LIS (Terminal 1).** ⚠️ **2 checked bags** — allow ~25–30 min at the carousel. Aim to be at the Metro by ~10:45.
 
 **10:45 — Metro into town + drop the bags.** Down to the **Aeroporto** station (Red Line), ride to **Alameda**, change to the **Green Line** — ~25–30 min. The one job before Belém is getting the bags off your backs. **Anjos** sits on this exact Green-Line route, 3–5 min from the apartment, so it's the natural drop point — you pass through it on the way in and again coming home to check in.
 
@@ -736,6 +737,8 @@ Lisbon is bigger and hillier than Porto. No car. Metro + trains + Bolt do everyt
 | **LUGGit door-to-door** | A "Keeper" collects your bags and delivers them to the apartment for 16:00 — never touch them after landing | ~€5/bag |
 
 > Skip the airport lockers — they'd strand your bags on the wrong side of town from Belém.
+
+> ⚠️ **That's 6 bags now, two of them full-size suitcases.** Early bag-drop with the host is worth chasing hard (message by ~Aug 20); failing that, **LUGGit** is the one option that doesn't involve wheeling two 23 kg cases through the Green Line — and at ~€5/bag it's ~€30 for the lot. If you use lockers, confirm they take large cases before you commit.
 
 **11:45 — To Belém.** From Cais do Sodré the **Cascais-line train** hugs the Tagus westward and sets you down in Belém in about 7 minutes. Belém is Lisbon's grand Age-of-Discovery quarter, 6 km downriver — wide ceremonial boulevards, sea air off the estuary, and the great white Manueline monuments strung along the waterfront where the caravels once set sail for India and Brazil. It's flat, spacious, and everything today is within a 10-minute walk of everything else. Get off at **Belém station** and cross under the tracks to the river side.
 
@@ -929,12 +932,13 @@ Then walk up to **Miradouro de São Pedro de Alcântara** for the lit-up castle 
 
 **12:00 — Oceanário de Lisboa** ⭐⭐ 🔴 **UNBOOKED — book the 12:00-band timed entry now (Aug 5); August slots go.** One of the world's great aquariums: a single 5-million-litre central ocean tank circled by four habitat coasts, sea otters, a sunfish, shark silhouettes overhead. Allow 2 hrs. **2026 pricing is time-banded and everyone 13+ pays adult:** 10:00–11:30 entry €29 / **12:00–15:30 €27** / 16:00–18:30 €25 → **€108 for four** at the 12:00 band, oceanario.pt. Open daily 10:00–20:00.
 
-- 💡 **Why the bags stayed at the apartment:** Oceanário lockers max out at daypack size (47.5 × 30 × 46 cm) — carry-on suitcases don't fit, and big bags aren't allowed inside. This loop is built so you never drag them here.
 - 💸 **If €108 feels steep for two hours, this is the one item to drop** — the fallback morning below costs nothing. Decide and book by ~Aug 10; don't leave it in limbo.
+
+> 💡 **Why the bags stayed at the apartment:** Oceanário lockers max out at daypack size (47.5 × 30 × 46 cm) — carry-on suitcases don't fit, and big bags aren't allowed inside. This loop is built so you never drag them here.
 
 **14:15 — Quick lunch at Centro Vasco da Gama** — the mall food court directly opposite Oriente station (fast, air-conditioned, everyone picks their own, €8–12/person) — or a riverside kiosk on the Parque das Nações boardwalk if there's slack.
 
-**15:00 — Back for the bags.** Metro Oriente → Alameda → **Anjos** (~20 min). Collect bags at the apartment, breathe, strict carry-on repack (TAP = 0 checked bags), leave the keys as agreed.
+**15:00 — Back for the bags.** Metro Oriente → Alameda → **Anjos** (~20 min). Collect bags at the apartment, breathe, repack (4 carry-ons at 8 kg + the 2 checked bags at 23 kg), leave the keys as agreed.
 
 **15:50 — To the airport.** Metro Anjos → Alameda → Aeroporto (~20 min, €1.90) — or a Bolt (~€10, 15 min) if the bags vote for it.
 
@@ -1098,7 +1102,7 @@ Demand is exceptional this year. The two big Gaudí tickets are **done** — the
 
 - ~~**Sagrada Família**~~ ✅ **BOOKED — Thu 27/08/2026 · entry 17:45 · English guided tour 18:30 · code `103719876`.** ⚠️ **Tickets are nominative**: the name on the ticket must match a **passport/photo ID**, checked at security. Arrive **within the 15-minute window** or you're refused entry, no refund. _Reference pricing:_ €26 basic / €30 guided / €36 + towers / €40 guided + towers; **Under 30s €24** (both daughters qualify), seniors €21, **under 11 free but still need a (free) QR ticket.** ⚠️ **No towers on our ticket** — tower access is a separate timed product and can't be bolted onto an existing booking; the interior is the show, skip without regret.
 - ~~**Park Güell**~~ ✅ **BOOKED — Thu 27/08/2026 · 09:30 · 4 × general @ €18 = €72 · locator `700328431455`.** **30-min entry window** from 09:30, no re-entry once you leave.
-- 🔴 **Escolania choir reservation (free)** — the Fri Aug 28 **13:00** _Salve/Virolai_ at Montserrat **requires a (free) reservation** at **escolania.cat**. The choir returns from summer break **Aug 27** — our visit is their second day back. **Reserve TODAY.**
+- 🔴 **Escolania choir reservation (free)** — the Fri Aug 28 **13:00** _Salve/Virolai_ at Montserrat **requires a (free) reservation**. Book at **[reserves.abadiamontserrat.cat → "Noon pray — Cant de l'Escolania"](https://reserves.abadiamontserrat.cat/en/560-reservations/2985-noon-pray-cant-de-lescolania)** — the abbey's ticket shop, **not** escolania.cat (that site is calendar-only). The choir returns from summer break **Aug 27** — our visit is their second day back. **Reserve TODAY.**
 - 🔴 **Picasso Museum — Sat Aug 29, 14:00** — **NOT yet booked** and Saturday slots sell out. €14 online (€15 door), 18–25 €7.50, **under 18 free**. **Book TODAY** at museupicassobcn.cat: 2 × €14 + €7.50 + free = **€35.50**.
 - 🟠 **7 Portes farewell dinner — Sun Aug 30 ~21:00** — the institution books out weeks ahead in August. **Book NOW** (7portes.com / OpenTable).
 - 🟠 **Girona fast train** (only if Day 5 = Option A) — book by ~Aug 26; Sunday-morning trains fill with day-trippers.
@@ -1150,7 +1154,7 @@ Flat city, superb Metro. No car.
 
 > Tonight is **land, get to bed.** Don't plan anything but a bite and sleep.
 
-**21:50 — Land BCN T1** (carry-on only → fast out). ⚠️ Guard bags from the kerb onward — the airport and its Metro line are prime pickpocket turf.
+**21:50 — Land BCN T1** (⚠️ 2 checked bags at the carousel — reckon on reaching the apartment ~23:00). ⚠️ Guard bags from the kerb onward — the airport and its Metro line are prime pickpocket turf.
 
 **22:15 — Airport → Hotel**
 
@@ -1211,7 +1215,8 @@ Flat city, superb Metro. No car.
 - **€17/pp after 14:00** (€18 before), **ages 12–24 €11.90** → **€57.80 for the four of you**. Under 12 free
 - Daily **09:30–18:30**, last entry 18:00 — entering 15:45 leaves a comfortable ~1.5 hrs
 - Buy online same-day or at the door; it doesn't sell out like the Gaudí sites
-- 💡 If the siesta ran long or feet are done, the **facades from Av. Gaudí are free** — cross the courtyard gate, photograph the entrance pavilion, and bank the €58; the 17:45 window is the immovable object today
+
+> 💡 If the siesta ran long or feet are done, the **facades from Av. Gaudí are free** — cross the courtyard gate, photograph the entrance pavilion, and bank the €58; the 17:45 window is the immovable object today
 
 **17:20 — Walk down Avinguda de Gaudí** (~10 min, a straight pedestrian avenue framed by the two UNESCO landmarks at either end). Be at the Sagrada Família entrance **17:30**, passports out.
 
@@ -1229,7 +1234,7 @@ Flat city, superb Metro. No car.
 
 > A serrated holy mountain an hour inland: a **Benedictine monastery (founded 1025)**, the revered **Black Madonna (La Moreneta)**, and the **Escolania** — one of Europe's oldest boys' choirs — singing at **13:00**. Dramatic rack-railway/cable-car approach, clifftop funicular, big hikes optional. Tailor-made for this family.
 
-> ✅ **Choir timing verified:** the Escolania's 2026 summer break is **Aug 1–26**; they return **Thu Aug 27**, and the official calendar shows **Fri Aug 28 · 13:00–13:15 · Salve + Virolai**. Our Friday catches their **second day back** — it works, but with zero margin, so ⚠️ **re-check the calendar at escolania.cat the week before** (a two-day-old return from holiday is exactly when a schedule slips). **The 13:00 weekday slot is free but requires a reservation** at escolania.cat — **reserve now**, it is not turn-up-and-sit. (They do **not** sing Saturdays — Fri was the only day this works.)
+> ✅ **Choir timing verified:** the Escolania's 2026 summer break is **Aug 1–26**; they return **Thu Aug 27**, and the official calendar shows **Fri Aug 28 · 13:00–13:15 · Salve + Virolai**. Our Friday catches their **second day back** — it works, but with zero margin, so ⚠️ **re-check the calendar at [escolania.cat/en/when-do-we-sing](https://www.escolania.cat/en/when-do-we-sing/) the week before** (a two-day-old return from holiday is exactly when a schedule slips). **The 13:00 weekday slot is free but requires a reservation** — **the booking page is NOT on escolania.cat**, it's the abbey's own ticket shop: **[reserves.abadiamontserrat.cat → "Noon pray — Cant de l'Escolania"](https://reserves.abadiamontserrat.cat/en/560-reservations/2985-noon-pray-cant-de-lescolania)** (pick Fri 28 Aug 2026, 4 seats). **Reserve now**, it is not turn-up-and-sit. (They do **not** sing Saturdays — Fri was the only day this works.)
 
 **07:50 — Metro to Plaça d'Espanya** (L5 → Diagonal → L3, or L2 from Sagrada Família side — ~20 min). Early start forced by the 08:36 train; coffee at the station if needed.
 
@@ -1455,7 +1460,7 @@ The reason to do it even with the Aug 27 ticket in hand: **you see the opposite 
 
 **If Girona (Option A):** Girona Cathedral celebrates Sunday Mass and worshippers enter free, but ⚠️ **the timetable could not be verified online** — confirm via **bisbatgirona.cat → "Horaris de misses" → _Arxiprestat de Girona-Salt_ PDF** or **+34 972 41 27 20**. Note the cathedral's tourist visit starts 12:00 Sunday, so a morning Mass there would slot _before_ the visit rather than replacing it.
 
-**And if Montserrat stole the show:** the **Escolania sings the Sunday 11:00 Missa Conventual** (Aug 30, 11:00–12:00, reservation required at escolania.cat) and **Vespers 18:45** — a full sung Mass rather than Friday's 13-minute Salve. It means repeating the mountain; only if Friday leaves everyone wanting more.
+**And if Montserrat stole the show:** the **Escolania sings the Sunday 11:00 Missa Conventual** (Aug 30, 11:00–12:00, free reservation required — [Missa Conventual booking page](https://reserves.abadiamontserrat.cat/en/560-reservations/2984-missa-conventual)) and **Vespers 18:45** — a full sung Mass rather than Friday's 13-minute Salve. It means repeating the mountain; only if Friday leaves everyone wanting more.
 
 ---
 
@@ -1488,7 +1493,7 @@ The reason to do it even with the Aug 27 ticket in hand: **you see the opposite 
 | **Sagrada Família** ✅ BOOKED                    | €26 / €24 under-30 / €36 tower | ✅ **BOOKED — code `103719876`** | **Day 2, 17:45 · tour 18:30 · passports!** |
 | **Park Güell** (Monumental) ✅ BOOKED            | €18 × 4 = **€72 paid**          | ✅ **BOOKED — `700328431455`** | **Day 2, 09:30** (30-min window) |
 | Recinte Modernista de Sant Pau                   | €17 pm / 12–24 €11.90 | ❌ (same-day fine)          | Day 2, 15:45 (daily 09:30–18:30)      |
-| **Montserrat** (monastery free; transport combo) | Trans ~€50 · **Tot ~€71.50** ⭐ | Desk at Pl. d'Espanya · **choir: escolania.cat 🔴** | Day 3 (choir 13:00 Fri only) |
+| **Montserrat** (monastery free; transport combo) | Trans ~€50 · **Tot ~€71.50** ⭐ | Desk at Pl. d'Espanya · **choir: [reserves.abadiamontserrat.cat](https://reserves.abadiamontserrat.cat/en/560-reservations/2985-noon-pray-cant-de-lescolania) 🔴** | Day 3 (choir 13:00 Fri only) |
 | Catedral de Barcelona (La Seu)                   | €16 (students ≤25 €14) | ❌                         | Day 4, 09:30 — **Sat closes 17:15**   |
 | Santa Maria del Pi                               | €8                   | ❌                           | Day 4, 11:00 (Mon–Sat 10–20)          |
 | Santa Maria del Mar                              | €5 visit (roof €10)  | ❌                           | Day 4, 13:30 (Mon–Sat 10–18)          |
@@ -1507,7 +1512,7 @@ The reason to do it even with the Aug 27 ticket in hand: **you see the opposite 
 | -------------------------------------------------- | ------------------------- | ------------------------------------------ |
 | ~~**Sagrada Família**~~ ✅ ⚠️ **bring passports**  | Booked                    | **Aug 27 · 17:45 · tour 18:30 · code `103719876`** |
 | ~~**Park Güell**~~ ✅                              | Booked                    | **Aug 27 · 09:30 · 4 × €18 = €72 · locator `700328431455`** |
-| **Escolania choir — Aug 28, 13:00** (free)         | 🔴 **Reserve TODAY** — choir back from holiday Aug 27, zero margin | escolania.cat (re-check calendar week before) |
+| **Escolania choir — Aug 28, 13:00** (free)         | 🔴 **Reserve TODAY** — choir back from holiday Aug 27, zero margin | [reserves.abadiamontserrat.cat → "Noon pray — Cant de l'Escolania"](https://reserves.abadiamontserrat.cat/en/560-reservations/2985-noon-pray-cant-de-lescolania) · calendar re-check: [escolania.cat/when-do-we-sing](https://www.escolania.cat/en/when-do-we-sing/) |
 | **Picasso Museum — Aug 29, 14:00**                 | 🔴 **Book TODAY** — Saturday sells out · €35.50 total | museupicassobcn.cat (under-18 free, 18–25 €7.50) |
 | **7 Portes — Sun Aug 30 ~21:00 farewell**          | 🟠 **Book this week**     | 7portes.com / OpenTable                    |
 | **Girona fast train** (only if Day 5 Option A)     | 🟠 By ~Aug 26 — Sunday morning fills | renfe.com                        |
@@ -1826,7 +1831,13 @@ Zaragoza is **the only city in the world with two cathedrals**, and both are a f
 
 ## 🇪🇸 Madrid — Sep 1–5 (4 nights)
 
-> Arriving from Zaragoza by AVE 19:44 on Sep 1; flying home from MAD on Sep 5 at 10:25. Three full days + a Segovia day trip in the middle: **Royal Madrid → Art Day → Segovia → dawn departure**, anchored by hidden churches, cocido, rowboats, gelato, and a sunset at an Egyptian temple. Early-Sep sunsets are **~20:45** — evenings run late and warm, exactly the way Madrid likes them.
+> Arriving from Zaragoza by AVE 19:44 on Sep 1; flying home from MAD on Sep 5 at 10:25. Three full days: **Royal Madrid → Art Day → Emily's move-in day → dawn departure**, anchored by hidden churches, cocido, rowboats, gelato, and a sunset at an Egyptian temple. Early-Sep sunsets are **~20:45** — evenings run late and warm, exactly the way Madrid likes them.
+>
+> ⚠️ **Rewritten Aug 5 around Emily's UAM commitments.** She has meetups with her incoming class at **Universidad Autónoma de Madrid, Campus de Cantoblanco** — **Thu Sep 3, 15:00–18:00** and **Fri Sep 4, 11:00–16:00** (the Friday end time may come in at 12:00 — plan holds either way). Consequences:
+>
+> - **Segovia is cut.** It sat exactly on Friday's block and there was no version that fit. The Segovia tab stays in this guide as a ready-made day trip for Emily's own semester — she's 27 minutes from it until December. Saves ~€112 of Avant tickets and the Cándido booking.
+> - **Day 3 shifts earlier** — Prado 10:00–12:30, La Bola cocido at **13:00** (not 14:00), Botánico dropped, Reina Sofía moved to 15:50 for whoever isn't on the campus run. Rowboats and the Cava Baja crawl survive untouched.
+> - **Day 4 becomes the move-in day** — the two checked bags go to her flat at **C/ Alonso Cano 4-2A, 28010** in the morning, El Pardo fills the middle, and the trip's farewell dinner is in **Chamberí**, on her new doorstep.
 
 ### Logistics
 
@@ -1845,11 +1856,18 @@ Zaragoza is **the only city in the world with two cathedrals**, and both are a f
 | **Atocha → apartment**    | Taxi ~€10–12, 15 min (easiest with bags); or Metro L1 from **Estación del Arte** 2 stops → Pacífico → L6 3 stops → Legazpi (~20 min + short walk)                                                                                                                       |
 | **Apt → Airport (Sep 5)** | Taxi **flat rate €33** to any terminal (fixed by law, no bag/night supplements), ~30 min; leave **06:45** — pre-book the night before                                                                                                                                    |
 | **Neighbourhood**         | **Arganzuela** — south-central, family-friendly. 15 min walk to La Latina (Cava Baja). 20 min walk to Palacio Real or Prado. **Matadero Madrid + Madrid Río linear park 5 min walk.** Metro Legazpi (L3/L6) at the door.                                                |
-| **Status**                | ✅ Apartment booked · ✅ AVE in booked · ✅ Flight out booked · 🔲 Prado (Sep 3) · 🔲 Palacio Real (Sep 2) · 🔲 Avant Chamartín↔Segovia Sep 4 (⚠️ Chamartín, not Atocha) · 🔲 Mesón de Cándido (Segovia lunch) · 🔲 Sobrino de Botín (Sep 2 dinner) · 🔲 Taberna La Bola (Sep 3 lunch) · 🔲 Casa Lucio (Sep 3 dinner) |
+| **Emily's flat** ⭐        | **C/ Alonso Cano 4, 2ºA — 28010 Madrid (Chamberí/Trafalgar)**. Her home to December. Nearest Metro **Iglesia (L1)** ~5 min or **Quevedo (L2)** ~6 min; **Plaza de Olavide 2 min**. Cercanías for UAM from **Nuevos Ministerios**, ~15–18 min on foot |
+| **Emily's UAM** ⭐         | **Universidad Autónoma de Madrid — Campus de Cantoblanco**, Ctra. de Colmenar Viejo (M-607) km 15, 28049. **Cercanías C-4 → "Cantoblanco Universidad."** Thu Sep 3 **15:00–18:00** · Fri Sep 4 **11:00–16:00** (may end 12:00 — confirm with her) |
+| **The 2 checked bags**    | 23 kg × 2, left with Emily, home in December. **Move them to Alonso Cano on Fri Sep 4 morning** — they cannot ride along to T4 at 06:45 Saturday |
+| **Status**                | ✅ Apartment booked · ✅ AVE in booked · ✅ Flight out booked · 🔲 Prado (Sep 3, 10:00) · 🔲 Palacio Real (Sep 2) · 🔲 Sobrino de Botín (Sep 2 dinner) · 🔲 Taberna La Bola (Sep 3 lunch — **13:00 now**) · 🔲 Casa Lucio (Sep 3 dinner) · 🔲 **Lakasa or Bacira (Sep 4 farewell dinner, Chamberí)** · ❌ ~~Avant Segovia~~ + ~~Mesón de Cándido~~ cancelled |
 
 ### Getting Around
 
 - **Metro:** buy one red **Multi card** (€2.50, from any station machine) and load a **10-trip Metrobús** — **€7.30 in 2026** (the 60% fare subsidy was extended for all of 2026; the pre-subsidy price was €12.20). The card is shareable: tap once per person and pass it back. Singles are €1.50–2. Legazpi (L3/L6) is at the door; **L3 runs Legazpi → Sol direct in ~12 min** — that one line covers most of this plan.
+- **Cercanías C-4 — the UAM line** ⭐ (new, and the single most useful fact of the Madrid leg): one Renfe suburban line runs **Atocha → Sol → Nuevos Ministerios → Chamartín → Fuencarral → Cantoblanco Universidad**, no changes, roughly every 5–10 min. Rough journey times: **Sol ~20 min · Atocha ~25 min · Nuevos Ministerios ~15 min · Chamartín ~11 min**. That means Emily's campus is a single direct train from the middle of the city, and this is the commute she'll ride daily until December — walk it with her once.
+  - ⚠️ **The Metro Multi card / Metrobús 10-trip does _not_ work on Cercanías.** Different operator. Buy a separate Renfe ticket at the machine (~€2/pp each way, zone B1 — **verify the 2026 fare on the day**). Cercanías machines take card.
+  - ⚠️ **Verify the timetable on renfe.com the week of travel.** The C-4 splits after Cantoblanco (C-4a → Colmenar Viejo, C-4b → Alcobendas) but **both branches call at Cantoblanco Universidad**, so either train works northbound.
+  - Taxi/Bolt alternative: centre ↔ Cantoblanco is ~25–30 min and **~€35–45** — outside the M-30, so the meter runs. Fine when the clock is tight, not for routine runs.
 - **Walking:** From Legazpi: 15 min to La Latina, 20 min to Palacio Real or Prado, 25 min to Plaza Mayor. Flat, unlike Porto/Lisbon.
 - **Bolt / Uber / Cabify / Free Now:** all work; €5–12 across the centre. The end-of-day taxi home from Sol/La Latina is ~€8–10.
 - **Airport:** taxi **flat €33** (city ↔ any terminal, fixed since Jan 2026). Metro L8 exists but is the wrong answer at 06:45 with bags.
@@ -1865,7 +1883,8 @@ Zaragoza is **the only city in the world with two cathedrals**, and both are a f
 | Sol / San Ginés                 | Metro L3, 12 min direct                |
 | Palacio Real                    | L3 → Sol + 8 min walk, or 20 min walk  |
 | Prado / Reina Sofía             | L3 → Estación del Arte area, or 20 min walk |
-| Chamartín (Segovia trains)      | Taxi ~€15–18 · Metro L6→L10, ~35 min   |
+| **Emily's flat** (Alonso Cano 4) | Taxi ~€13–16, 20 min · Metro L6 Legazpi → Cuatro Caminos → L1 → Iglesia, ~35 min |
+| **UAM Cantoblanco**             | Metro L6 → Nuevos Ministerios, then **Cercanías C-4**, ~40 min door to door |
 
 ### 💰 Madrid — Money-Savers (worth knowing, not always worth using)
 
@@ -1875,7 +1894,7 @@ Zaragoza is **the only city in the world with two cathedrals**, and both are a f
 | Reina Sofía free daily 19:00–21:00             | Collides with rowboat golden hour on Day 3 — noted in the plan as a conscious €24 tradeoff  |
 | Palacio Real free Mon–Thu 17:00–19:00          | **EU/Latin-American residents only** — not us                                               |
 | Descalzas free Wed/Thu 16:00–18:30             | Same EU-residents rule — not us; €6 with the tour included is fair anyway                   |
-| Botánico free Tuesdays                         | We visit Thursday; €6 is fine                                                               |
+| Botánico free Tuesdays                         | ❌ Dropped from Day 3 (the UAM run took its slot) — moved to Pocket Options                  |
 | CaixaForum expos free under 16                 | Under-16 only — one daughter maybe; exterior + wall garden free for everyone                |
 | Under-18s free at Prado + Reina Sofía          | Applies to the 17-year-old everywhere; the 19-year-old needs **student ID** for reductions — pack it |
 
@@ -1923,11 +1942,11 @@ Follow *Salida* signs off the AVE platforms — the taxi rank is signposted from
 | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------- |
 | **Chocolatería San Ginés** [📍](https://maps.google.com/?q=Chocolater%C3%ADa+San+Gin%C3%A9s+Madrid+Spain) ⭐ | Churros + chocolate at the 1894 marble counter — open 24h, calm at this hour     | €5/pp   |
 | **La Mallorquina** (Puerta del Sol 8)                                                        | 1894 pastry institution — *napolitana de chocolate*, upstairs room over the plaza | €3–6/pp |
-| Any corner bar en route                                                                      | The local ritual: *café con leche + tostada con tomate*, standing at the counter  | ~€3/pp  |
-
-> 💡 Save the full San Ginés ritual for tomorrow's 08:00 if you'd rather not do churros two days running — today's breakfast just needs to be quick.
+| **Any corner bar en route**                                                                  | The local ritual: *café con leche + tostada con tomate*, standing at the counter  | ~€3/pp  |
 
 While you're at Sol: the **Kilómetro 0** plaque (all Spanish roads measure from this pavement slab) and the **Bear and Strawberry Tree** statue — Madrid's coat of arms — are both 30 seconds from the metro exit. Photo, done.
+
+> 💡 Save the full San Ginés ritual for tomorrow's 08:00 if you'd rather not do churros two days running — today's breakfast just needs to be quick.
 
 **09:20 — Walk to Palacio Real** — 15 min via C/ del Arenal and Plaza de Oriente (statues of the Visigoth kings; the equestrian Felipe IV was calculated by Galileo to balance on two hooves). **Be at the gate by 09:50** — opens 10:00, and the first hour is the quietest.
 
@@ -1958,13 +1977,13 @@ C/ Mayor was medieval Madrid's spine. At no. 84, glance up at **Casa Ciriaco**'s
 
 The 1916 iron-and-glass hall, restored as a gourmet market — prettier than Barcelona's Boqueria, calmer, admittedly pricier. Graze standing at the marble counters, ~€20/pp all in:
 
-| Stall order                | What                                                      | ~€        |
-| -------------------------- | --------------------------------------------------------- | --------- |
-| Daniel Sorlut              | Oysters, shucked to order                                 | €2.50 each |
-| Carrasco / jamón counter   | Cone of hand-cut ibérico                                  | €6–8      |
-| Croquetas stall            | Jamón + bacalao croquetas, one of each                    | €1.50–2 each |
-| Vermut de grifo bar        | Vermouth on tap for the adults                            | €3–4      |
-| Dessert counters           | Fruit cups, mini tarts, chocolate for the girls           | €3–5      |
+| Stall order                  | What                                            | ~€           |
+| ---------------------------- | ----------------------------------------------- | ------------ |
+| **Daniel Sorlut**            | Oysters, shucked to order                       | €2.50 each   |
+| **Carrasco / jamón counter** | Cone of hand-cut ibérico                        | €6–8         |
+| **Croquetas stall**          | Jamón + bacalao croquetas, one of each          | €1.50–2 each |
+| **Vermut de grifo bar**      | Vermouth on tap for the adults                  | €3–4         |
+| **Dessert counters**         | Fruit cups, mini tarts, chocolate for the girls | €3–5         |
 
 > 💡 **Local tip:** no tables — claim a stretch of counter first, then send scouts to different stalls in parallel. If it's rammed, the side door onto Plaza de San Miguel has the shortest queues. **Cheap-and-perfect alternative:** a *bocadillo de calamares* from the bars on C/ Botoneras just off Plaza Mayor, ~€4 — the thing Madrid actually eats on this square.
 
@@ -1972,9 +1991,9 @@ The 1916 iron-and-glass hall, restored as a gourmet market — prettier than Bar
 
 Felipe III's 1619 square — bullfights, coronations and Inquisition *autos-da-fé* all happened between these arcades. Look up at the **Casa de la Panadería** frescoes (the only original building — the rest burned three times), count the nine gateways, find the arcade shops selling the same hats since the 1900s. Mid-afternoon is its quietest hour.
 
-> 💡 **Local tip:** never sit at the arcade cafés — same coffee is 30% cheaper one street off the square (Plaza Conde de Miranda, C/ Ciudad Rodrigo). The square is for standing in, not consuming in.
-
 - Optional 3-min detour: **Convento del Corpus Christi (Las Carboneras)** on Plaza del Conde de Miranda — cloistered nuns sell almond cookies through a revolving **turnstile in the wall**; you order blind, put cash in the wheel, it spins back with biscuits. Reopens 16:00 after the midday break (09:30–13:00 + 16:00–18:30) — worth circling back if the timing bites, €8–15/box
+
+> 💡 **Local tip:** never sit at the arcade cafés — same coffee is 30% cheaper one street off the square (Plaza Conde de Miranda, C/ Ciudad Rodrigo). The square is for standing in, not consuming in.
 
 **15:25 — Gelato: Heladerías Palazzo** [📍](https://maps.google.com/?q=Helader%C3%ADas+Palazzo+Madrid+Spain) (C/ del Arenal 1) — the Madrid family classic since 1972; lemon and *yogur natural* are the local picks. €3–5, eat walking.
 
@@ -2029,40 +2048,42 @@ A **genuine 2nd-century BC Egyptian temple** to Amun and Isis — Egypt's 1968 t
 
 > ⛪ **Optional swap for the church-lovers: Monasterio de las Descalzas Reales** [📍](https://maps.google.com/?q=Monasterio+de+las+Descalzas+Reales+Madrid+Spain) — a still-cloistered 1559 royal convent near Callao hiding Titian, Rubens and one of only two complete Rubens-cartoon tapestry sets in the world. **Compulsory guided tour, included in the €6 ticket** (Patrimonio Nacional guide, ~1h; English audio support). Tue–Sat 10:00–14:00 + **16:00–18:30** (last access ~17:30), closed Mon — so the real Day 2 window is a **16:00–17:00 tour instead of San Antonio + Malasaña**, rejoining the plan at San Antón. Book the slot at tickets.patrimonionacional.es. Two painted-church superlatives in one afternoon is a lot — pick one and keep the other for a return trip.
 
-### Day 3 — Thursday Sep 3 · Art Day + Old City + Retiro Rowboats ⭐
+### Day 3 — Thursday Sep 3 · Art Day + Emily's First UAM Run + Retiro Rowboats ⭐
 
-> Prado at opening → CaixaForum's hanging garden → cocido in clay pots → botanical-garden breather → Guernica → golden-hour rowboats on the Retiro lake → Cava Baja crawl. Museums bookend the heat; the lake gets the light.
+> Prado at opening → CaixaForum's hanging garden → cocido in clay pots at 13:00 → **the whole family rides Emily out to Cantoblanco for 15:00** → Guernica for whoever comes back → golden-hour rowboats on the Retiro lake → Cava Baja crawl. Everything before lunch moved up ~30 min to buy the campus run; the evening is untouched.
+
+> ⚠️ **The hard pin today: Emily must be on campus at 15:00.** The C-4 from **Sol** is ~20 min, trains every 5–10 min, and Cantoblanco Universidad station is a **~10 min walk from the faculty buildings** — the campus is big and signposting is thin. Budget the walk. Target the **14:15 train** and arrive with 20 minutes spare on her first-ever visit.
 
 **08:00 — Breakfast at San Ginés** ⭐ — Metro L3 Legazpi → Sol. *Chocolate con porras* at the white-marble counter — open 24h since 1894, and at 08:00 it's empty and magic. €5/pp.
 
 **09:15 — Walk to the Prado** — 20 min down Carrera de San Jerónimo: peek at **Casa Mira** (turrón dynasty since 1855, preserved shopfront), pass the lions of the Congreso de los Diputados (cast from melted-down cannons of Spain's African wars).
 
-**10:00 — Museo del Prado** ⭐⭐ (pre-book the 10:00 slot — see Must-Book) — 2.5–3h
+**10:00 — Museo del Prado** ⭐⭐ (pre-book the 10:00 slot — see Must-Book) — **2.5h, out by 12:30**
 
 One of the four or five greatest museums on earth. Don't try to "do" it — hit the spine and let the rest happen:
 
-| Stop | Room | Why |
-| ---- | ---- | --- |
-| **Velázquez, *Las Meninas*** | 12 | Go here FIRST at opening — near-private for 10 minutes |
-| **Goya's Black Paintings** | 67–68 | *Saturn Devouring His Son* — painted on his own walls, never meant to be seen |
-| **Goya, *2nd & 3rd of May 1808*** | 64 | The firing squad that invented modern war painting |
-| **Bosch, *Garden of Earthly Delights*** | 56A | The girls will stare at this longer than at anything else in Madrid |
-| **El Greco** | 8B–10B | Electric saints on the way back out |
+| Stop | Why | Room |
+| ---- | --- | ---- |
+| **Velázquez, *Las Meninas*** | Go here FIRST at opening — near-private for 10 minutes | 12 |
+| **Goya's Black Paintings** | *Saturn Devouring His Son* — painted on his own walls, never meant to be seen | 67–68 |
+| **Goya, *2nd & 3rd of May 1808*** | The firing squad that invented modern war painting | 64 |
+| **Bosch, *Garden of Earthly Delights*** | The girls will stare at this longer than at anything else in Madrid | 56A |
+| **El Greco** | Electric saints on the way back out | 8B–10B |
 
 - **€15/adult · €7.50 students 18–25 · under 18 free** → ~€37.50 for our four. Audio guide €5 — worth it, turns rooms into stories
 - Thu hours 10:00–20:00. Free window Mon–Sat 18:00–20:00 exists but runs its **own long queue** and 2h isn't enough here — the paid 10:00 slot is the right call
 - Timed tickets use the **Puerta de los Jerónimos** entrance (upper level, by the church); bags > A4 go to the free cloakroom; sketching allowed, flash isn't
 - Break glass in case of mutiny: the café in the Jerónimos foyer does decent cake, and nobody has to see all five stops
 
-**13:10 — CaixaForum + vertical garden** [📍](https://maps.google.com/?q=CaixaForum+Madrid+Spain) — 20 min
+**12:35 — CaixaForum + vertical garden** [📍](https://maps.google.com/?q=CaixaForum+Madrid+Spain) — 10 min, photo stop only today
 
 5 min down the Paseo: Herzog & de Meuron's levitating rusted-steel block — they sliced away the old power station's base so the whole brick mass floats on air — and across the lane Patrick Blanc's **24 m living wall**, 15,000 plants growing on a vertical surface. Photo stop is free; inside is €6 (under 16 free) — the **British Museum Assyria show runs to Oct 4, 2026** if anyone's still hungry, but the day is full.
 
-**13:40 — Metro to lunch** — Banco de España L2 → Ópera (8 min) or taxi ~€8.
+**12:45 — Metro to lunch** — Banco de España L2 → Ópera (8 min) or taxi ~€8.
 
-**14:00 — Lunch: Taberna La Bola** [📍](https://maps.google.com/?q=Taberna+La+Bola+Madrid+Spain) ⭐ (book — see Must-Book)
+**13:00 — Lunch: Taberna La Bola** [📍](https://maps.google.com/?q=Taberna+La+Bola+Madrid+Spain) ⭐ (⚠️ **book 13:00, not 14:00** — see Must-Book)
 
-The temple of **cocido madrileño** since 1870 — fourth-generation family, same method: each portion simmers all morning in its own clay *puchero* over oak charcoal, and the waiter pours yours out tableside. Served in acts: noodle broth first, then chickpeas + vegetables + the meats (chorizo, morcilla, hen, beef, *tocino*). It's Madrid's defining dish — a poverty stew promoted to monument — and 14:00 is the correct, Spanish hour for it. Pace yourselves; nobody needs dinner till 21:00, which is the plan. €25–35/pp.
+The temple of **cocido madrileño** since 1870 — fourth-generation family, same method: each portion simmers all morning in its own clay *puchero* over oak charcoal, and the waiter pours yours out tableside. Served in acts: noodle broth first, then chickpeas + vegetables + the meats (chorizo, morcilla, hen, beef, *tocino*). It's Madrid's defining dish — a poverty stew promoted to monument. **13:00 is early by Madrid standards but it's the first sitting and it's what buys the campus run** — the cocido is pre-simmered all morning, so service is fast once you're seated. Skip starters entirely, eat the three acts, be out by 14:05. Pace yourselves; nobody needs dinner till 21:00, which is the plan. €25–35/pp.
 
 - ⚠️ **Cash** (they don't take cards) · Thu hours 12:00–20:30 · look for the bright-red facade two blocks from the Royal Palace
 - Book by phone +34 91 547 69 30 (office hours Mon–Fri 9:00–14:00 + 17:00–20:00) — **an online widget now exists at labola.es/reservar too**
@@ -2071,27 +2092,55 @@ The temple of **cocido madrileño** since 1870 — fourth-generation family, sam
 
 > **No table?** **Casa Labra** (C/ Tetuán 12, since 1860 — the bar where the Spanish Socialist Party was founded, plaque inside) — battered-cod *tajadas* + croquetas standing up, the Madrid pilgrimage snack, €3–4/piece. Or **Casa Ciriaco** (C/ Mayor 84) for *pepitoria de gallina*.
 
-**15:45 — Slow walk back east** — C/ Arenal → Sol → Carrera de San Jerónimo (20 min), or metro Ópera → Banco de España. Ice-cream logic says **Giuseppe Ricci** (C/ del Espejo 8, 2 min from La Bola) before moving — Roman maestro, dairy-free chocolate sorbet.
+**14:05 — Walk to Sol Cercanías** — 10 min down C/ Arenal. Ice-cream on the move: **Giuseppe Ricci** (C/ del Espejo 8, 2 min from La Bola) — Roman maestro, dairy-free chocolate sorbet — eat it walking, don't sit.
 
-**16:30 — Real Jardín Botánico** [📍](https://maps.google.com/?q=Real+Jard%C3%ADn+Bot%C3%A1nico+Madrid+Spain) — 45 min–1h
+> ⚠️ **Sol Cercanías is a separate station under the Metro** — follow the red-and-white **Cercanías** signs, not the Metro ones, down to the deep C-3/C-4 platforms. Buy four singles at the machine (~€2/pp — **the Metro card does not work here**).
 
-Carlos III's 1755 garden next to the Prado: 5,000 species on shaded terraces, the greenhouse pavilions, and a **bonsai collection donated by a former prime minister** (many trees over a century old). €6/adult, under 18 free. The exact decompression the day needs at siesta hour.
+**14:15 — Cercanías C-4 → Cantoblanco Universidad** ⭐ — ~20 min, no changes
 
-**17:30 — Museo Reina Sofía** ⭐ — 1.5h
+Emily's line. Either branch (C-4a Colmenar Viejo or C-4b Alcobendas) calls at Cantoblanco Universidad — take whichever shows first. The city thins out past Chamartín and by Fuencarral you're in open scrub; the campus appears on the left.
+
+**14:40 — Walk her in** — ~10 min from the platform across the campus to the faculty buildings. Do this walk **with** her: the campus is a 1970s grid with poor signage and she'll be doing it alone from next week. Find her building, note the nearest café, agree the pickup plan.
+
+**15:00 — Emily's meetup begins** (to 18:00).
+
+**15:00 — What the rest of us do with three hours** — ⚠️ be honest about the geography: **there is nothing at Cantoblanco.** The campus sits alone in open country off the M-607; no town, no old quarter, no square. Don't plan to "wander nearby." Three real options:
+
+| Option | How | Why |
+| ------ | --- | --- |
+| **Go back into town** ⭐ (recommended) | Same C-4, **15:10 → Atocha ~15:35** — a single direct train, no changes | Puts you at the **Reina Sofía door at 15:50** with two clean hours for Guernica. This is the plan below |
+| **Alcobendas** | Taxi ~10 min, ~€12; or C-4b two stops | **Centro de Arte Alcobendas** (free, strong photography collection, Tue–Sat — verify), Parque de Andalucía's lake, or **Moraleja Green / Plaza Norte 2** malls if it's 32 °C and everyone wants air conditioning |
+| **Stay on campus** | Walk it | The UAM **Plaza Mayor** and its cafeterías, the library, the bookshop. Genuinely useful if you want to see where she'll spend her semester — and it costs nothing. Thin on entertainment, honest about it |
+
+**15:35 — Arrive Atocha** (if you took the recommended option) — the Reina Sofía is a 5-min walk.
+
+**15:50 — Museo Reina Sofía** ⭐ — 1.75h
 
 **Guernica is the reason.** Picasso's 1937 scream at the Nazi/Italian bombing of a Basque market town — 7.8 m of grey horror that still stops rooms, painted in six furious weeks for the Paris World's Fair and only allowed home to Spain in 1981, after Franco was gone, as Picasso demanded. Read the story with the girls beforehand; it lands differently when you know the newspaper-print greys were deliberate. Stand in front of it 10 full minutes — then find the preparatory sketches in the side rooms, where you watch the horse's head evolve.
 
 - The 90-minute route: Guernica + sketches → the Dalís (*Girl at the Window*, *The Great Masturbator* — brief the girls or breeze past the title) → Miró → the courtyard from the Sabatini balconies. The building is an 18th-century hospital; Nouvel's red glass wing is the modern half
 - **€12/adult · under 18 & students to 25 free** → €24 for us. Thu hours 10:00–21:00 (closed Tuesdays — good thing we're here Thursday)
-- 💡 **The tradeoff we're consciously making:** entry is **free daily 19:00–21:00** (doors at 19:00 sharp) — but that window is exactly rowboat golden hour, and the boat office shuts at 20:00. €24 buys the family the lake at sunset instead of a queue. If budget outranks boats, flip them: boats 17:30 (hotter, harsher light), free Reina Sofía 19:00
 
-**19:00 — Walk to the Retiro** — 15 min up past Atocha's brick facade to the Puerta del Ángel Caído gate — named for the park's *Fallen Angel* statue inside, one of the world's only public monuments to Lucifer, standing (the guides love this) exactly 666 m above sea level. Into the shaded avenues.
+> 💡 **The tradeoff we're consciously making:** entry is **free daily 19:00–21:00** (doors at 19:00 sharp) — but that window is exactly rowboat golden hour, and the boat office shuts at 20:00. €24 buys the family the lake at sunset instead of a queue. If budget outranks boats, flip them: boats 17:30 (hotter, harsher light), free Reina Sofía 19:00
+
+> 🎒 **Emily misses Guernica today — and that's fine.** She lives here until December, the Reina Sofía is free every evening 19:00–21:00, and it's four Metro stops from her flat. Tell her to go on a quiet Wednesday when she can stand in front of it for an hour. Today's version would have been a rushed 40 minutes anyway.
+
+**17:35 — Getting Emily back** — she's out at 18:00. Two ways, pick before you separate:
+
+| Option | How it runs | When to use it |
+| ------ | ----------- | -------------- |
+| **She rides back alone** ⭐ (recommended) | 18:00 out → 18:10 platform → **C-4 direct to Atocha, ~25 min** → meets everyone at the **Retiro boat kiosk, ~18:50**. One train, no changes, the exact route she'll ride all semester | The right call. Her first solo Madrid transit, on the easiest possible line, in daylight, with the family 25 minutes away. Send her a screenshot of the platform and the station name |
+| **One parent collects her** | Leave the Reina Sofía **~17:15** to catch the ~17:30 C-4 from Atocha (~25 min), arrive 18:00, ride back together, at the Retiro ~18:50 | If she'd rather not, or if her phone/eSIM isn't working yet. Costs one parent the last 20 min of the museum, nothing else |
+
+- ⚠️ **Before you split up:** confirm her eSIM has data, share live location, agree the meeting point out loud (*the boat kiosk on the west side of the Estanque*), and make sure she has a Cercanías return ticket in hand — don't leave her buying one at a machine she's never used.
+
+**18:30 — Walk to the Retiro** (the museum group) — 15 min up past Atocha's brick facade to the Puerta del Ángel Caído gate — named for the park's *Fallen Angel* statue inside, one of the world's only public monuments to Lucifer, standing (the guides love this) exactly 666 m above sea level. Into the shaded avenues.
 
 - 5-min pocket stop en route if unseen on Day 1: the **tropical garden inside Atocha station** — through the doors, under the palms, out again
 
-**19:20 — Rowboats on the Estanque** ⭐⭐
+**19:00 — Rowboats on the Estanque** ⭐⭐ (regrouped, all four)
 
-**The best family activity in Madrid.** One boat takes all four of us — **€6 per boat, 45 minutes** (weekday rate; €8 weekends — good thing it's Thursday). Sun low over the Alfonso XII colonnade, water gone gold, one daughter per oar, terrapins surfacing around the blades. The lake is the 1630s royal pleasure pond where Habsburg kings staged mock naval battles. Ticket kiosk on the west quay; **last boats ~20:00**, so 19:20 is the sweet spot. Reservable same-day on the Madrid Móvil app if the queue looks long.
+**The best family activity in Madrid.** One boat takes all four of us — **€6 per boat, 45 minutes** (weekday rate; €8 weekends — good thing it's Thursday). Sun low over the Alfonso XII colonnade, water gone gold, one daughter per oar, terrapins surfacing around the blades. The lake is the 1630s royal pleasure pond where Habsburg kings staged mock naval battles. Ticket kiosk on the west quay; **last boats ~20:00**, so 19:00 is the sweet spot. Reservable same-day on the Madrid Móvil app if the queue looks long. ⚠️ **If Emily's train slips**, you still have until ~19:30 before the last-boat window gets tight — buy the ticket while you wait rather than after she arrives.
 
 **20:10 — Palacio de Cristal** — 10-min stroll south through the trees: the 1887 glass-and-iron pavilion — built as a greenhouse for Philippine plants, now a light-box for free contemporary-art installations (Retiro exhibitions run till ~21:00 in summer) — above its duck pond. Peacocks patrol the gardens nearby; the girls will hear them before they see them.
 
@@ -2103,39 +2152,123 @@ Carlos III's 1755 garden next to the Prado: 5,000 species on shaded terraces, th
 
 **21:15 — Cava Baja bar-hop dinner** — the moving dinner. Order matters, because closing times do:
 
-| Stop | Order | What | Price |
-| ---- | ----- | ---- | ----- |
-| **Bodegas Ricla** [📍](https://maps.google.com/?q=Bodegas+Ricla+Madrid+Spain) (C/ Cuchilleros 6) | **1st — kitchen closes ~22:00** | Wine from the barrel, *boquerones*, embutidos in a century-old box of a bar | €10/pp |
-| **Casa Lucio** [📍](https://maps.google.com/?q=Casa+Lucio+Madrid+Spain) (Cava Baja 35) | **2nd — book 21:45** | ***Huevos rotos con jamón*** — the dish kings and Clintons queue for. ⚠️ Closed all Aug — reopens this week, book now | €25–30/pp |
-| **Casa Toni** [📍](https://maps.google.com/?q=Casa+Toni+Madrid+Spain) (C/ de la Cruz 14) | 3rd — open past midnight | *Oreja a la plancha* for whoever's brave, fluorescent-lit and proud | €10/pp |
-| **Posada de la Villa** [📍](https://maps.google.com/?q=Posada+de+la+Villa+Madrid+Spain) (Cava Baja 9) | Lucio's understudy | Wood-fired lamb in the 1642 inn. ⚠️ Also reopens from August this week | €40/pp |
+| Stop | What | Order | Price |
+| ---- | ---- | ----- | ----- |
+| **Bodegas Ricla** [📍](https://maps.google.com/?q=Bodegas+Ricla+Madrid+Spain) (C/ Cuchilleros 6) | Wine from the barrel, *boquerones*, embutidos in a century-old box of a bar | **1st — kitchen closes ~22:00** | €10/pp |
+| **Casa Lucio** [📍](https://maps.google.com/?q=Casa+Lucio+Madrid+Spain) (Cava Baja 35) | ***Huevos rotos con jamón*** — the dish kings and Clintons queue for. ⚠️ Closed all Aug — reopens this week, book now | **2nd — book 21:45** | €25–30/pp |
+| **Casa Toni** [📍](https://maps.google.com/?q=Casa+Toni+Madrid+Spain) (C/ de la Cruz 14) | *Oreja a la plancha* for whoever's brave, fluorescent-lit and proud | 3rd — open past midnight | €10/pp |
+| **Posada de la Villa** [📍](https://maps.google.com/?q=Posada+de+la+Villa+Madrid+Spain) (Cava Baja 9) | Wood-fired lamb in the 1642 inn. ⚠️ Also reopens from August this week | Lucio's understudy | €40/pp |
 
 > 💡 **How to crawl with teens:** one dish + drinks per stop, standing where locals stand, 30–40 min each. Ricla and Toni take no bookings — walk in. If the family wants one sit-down instead, make it Casa Lucio alone and skip the rest. And if everyone's actually wrecked after the boats: **Casa González** (C/ del León 12 — family *ultramarinos* since 1931, 7 min from Reina Sofía) does quiet cheese-and-charcuterie boards at €15–25/pp, no crawl required.
 
 **23:15 — Plaza Mayor by night → taxi home** (~€8). Gelato chaser at Palazzo Arenal if it's still open (Sol branch runs late in summer).
 
-> **Running late?** Droppable, in order: Botánico → CaixaForum → Palacio de Cristal. Protect the Prado slot, the cocido, Guernica and the boats. If the group is museum'd out by 17:00, skip Reina Sofía entirely and take the Retiro slowly — Guernica guilt is real but so are 17-year-old feet; the free 19:00 window exists on every remaining evening of nobody's life, and that's fine.
+> **Running late?** Droppable, in order: CaixaForum → Palacio de Cristal → the second half of the Reina Sofía. **Undroppable: Emily at Cantoblanco by 15:00.** Everything before lunch bends around that; if the Prado overruns, walk out of the Prado. After that, protect the cocido and the boats. (⚠️ **Real Jardín Botánico is cut from this day** — it was the 16:30 slot the campus run now occupies. It's €6, it's next to the Prado, and it'll still be there for Emily in October.) If the group is museum'd out by 17:00, skip Reina Sofía entirely and take the Retiro slowly — Guernica guilt is real but so are 17-year-old feet; the free 19:00 window exists on every remaining evening of nobody's life, and that's fine.
 
-> 💃 **Optional flamenco swap (tonight, not Sep 4):** **Cardamomo** (C/ Echegaray 15) — the critics' pick for real-deal flamenco, 100 seats close enough to feel the footwork, shows daily **18:00 / 19:30 / 21:00 / 22:30**, from ~€39 with a drink. Doing it = book the **21:00 show** and compress dinner to pre-show tapas at Casa Toni or Casa Labra. After a Segovia day it would be brutal on Sep 4 — tonight is its only real slot. Book at cardamomo.com if the family votes yes.
+> 💃 **Optional flamenco swap:** **Cardamomo** (C/ Echegaray 15) — the critics' pick for real-deal flamenco, 100 seats close enough to feel the footwork, shows daily **18:00 / 19:30 / 21:00 / 22:30**, from ~€39 with a drink. Doing it = book the **21:00 show** and compress dinner to pre-show tapas at Casa Toni or Casa Labra. ⚠️ **Tonight is the only slot** — Sep 4 is Emily's move-in day and ends with the farewell dinner in Chamberí, which is not something to cut short. Book at cardamomo.com if the family votes yes.
 
-### Day 4 — Friday Sep 4 · Segovia Day Trip ⭐⭐
+### Day 4 — Friday Sep 4 · Emily's Move-In + El Pardo + Chamberí Farewell ⭐⭐
 
-> Aqueduct, Alcázar, cochinillo. **Full hour-by-hour plan lives in the Segovia tab** — this is just the Madrid end of the day.
+> ~~Segovia~~. Bags to her flat in the morning, the family's last free afternoon in the royal village of **El Pardo**, then the evening on Emily's new doorstep in Chamberí — market, ghost metro station, and the trip's farewell dinner. The last night of the trip is also her first night at home.
 
-**Train: ⚠️ Avant from Madrid Chamartín-Clara Campoamor → Segovia-Guiomar — NOT Atocha.** ~27 min, ~€13–14/pp each way, fixed-price Avant. **Book now at renfe.com** (out ~09:00, back ~19:30–20:00; see Segovia tab for the chosen trains).
+> ⚠️ **Two hard pins today:** Emily on campus at **11:00**, and the **two 23 kg checked bags** inside C/ Alonso Cano 4-2A before the day ends. Everything else flexes.
 
-| Time      | What                                                                                                                     |
-| --------- | ------------------------------------------------------------------------------------------------------------------------ |
-| 07:45     | Up; coffee + pastry at the apt or Chamartín                                                                              |
-| 08:10     | To Chamartín: **taxi ~€15–18 (15 min at this hour — the safe call)**, or Metro L6 Legazpi → Nuevos Ministerios → L10 → Chamartín (~35 min) |
-| 08:40     | At Chamartín; find the Avant platform (security check like the AVE)                                                      |
-| **~09:00** | **Avant → Segovia-Guiomar** — then the full Segovia day: Aqueduct → cathedral → Judería → **Mesón de Cándido cochinillo** → Alcázar → Vera Cruz (see Segovia tab) |
-| ~20:00    | Avant back → Chamartín ~20:30                                                                                             |
-| 20:45     | Metro/taxi home — or one last city flourish below                                                                        |
-| 21:30     | Quiet dinner near apt: **El Brillante** round two, or whatever the legs allow                                             |
-| 22:30     | Optional farewell: **San Ginés churros at night** (open 24h — the classic last-night move), taxi back ~€10               |
+> ⚠️ **Confirm before you build on this: does she have keys to 2ºA on Sep 4?** If the landlord handover is Saturday or later, the 09:00 bag drop collapses and Saturday's 06:45 airport run cannot carry them. Sort this out **this week**, by message, in writing. Fallbacks if the keys slip: (a) she sleeps at the Arganzuela apartment Fri night and moves the bags herself Saturday morning after we leave — check-out is 11:00, we're gone at 06:45, so this works if the host allows it; (b) left-luggage lockers at **Chamartín** or **Atocha** (~€5–10/bag/day) and she collects when the keys land.
 
-> ⚠️ **Do not go to Atocha for Segovia.** Older guides and some map apps route Segovia trains from Atocha — the Avant leaves from **Chamartín-Clara Campoamor**. Double-check the station printed on the ticket.
+**08:15 — Breakfast at the apartment** — nothing scheduled, no station to catch. Corner-bar *café con leche + tostada con tomate* if the apartment's out of everything.
+
+**08:45 — The bag move: Arganzuela → C/ Alonso Cano 4** ⭐
+
+| | |
+| --- | --- |
+| **Route** | C. de Alejandro Dumas 30 → C/ Alonso Cano 4, ~20 min, north through the centre |
+| **Vehicle** | ⚠️ **4 people + 2 × 23 kg + daypacks does not fit one standard Madrid taxi.** Either book a **taxi grande** (7-seat monovolumen — ask Radio-Taxi **+34 91 547 82 00** for *"un taxi grande"*, ~€18–22) or take **two ordinary taxis** (~€13–16 each). Cabify/Uber both have an XL tier in-app |
+| **At the other end** | Alonso Cano 4 is a normal Chamberí residential block — **check whether there's a lift to the 2nd floor** before anyone shoulders 23 kg |
+
+**09:10 — Emily's flat, first look** — 50 minutes, and use them properly: bags in, find the fuse box, the boiler, the water shut-off, the rubbish room, the nearest 24h pharmacy. Photograph the meter readings and any damage in the flat **today** — deposit disputes in December start here.
+
+- 2 minutes away: **Plaza de Olavide**, which is the actual answer to "what's my neighbourhood like." Four terraces, a playground, and the neighbourhood's living room. Walk her through it.
+
+**10:05 — Walk her commute to Nuevos Ministerios** ⭐ — ~15–18 min on foot, south-east across Chamberí
+
+Do this on foot rather than by Metro, once, together — **it's the walk she'll make most mornings until December.** The alternative on a hot day or a late morning: Metro **Iglesia (L1) → Cuatro Caminos → L6 → Nuevos Ministerios**, ~15 min but with two changes; or the **bus 3 / 149** straight down. Point out where the Cercanías entrance is inside the enormous Nuevos Ministerios interchange — it is not obvious and it is not the Metro entrance.
+
+**10:30 — Cercanías C-4 → Cantoblanco Universidad** — ~15 min. Buy her ticket, then let her buy the return herself.
+
+**10:45 — On campus.** Walk in, 10 min. She's in at **11:00**.
+
+---
+
+**11:00–16:00 — The fork.** Her meetup may end at **16:00** or as early as **12:00** — ⚠️ **get the real end time from her the night before**, because the two versions of this afternoon are different days.
+
+#### Fork A — she's in until 16:00 (the plan as written)
+
+**11:15 — Taxi to El Pardo** — ~20 min west across the Monte de El Pardo, **~€22–28**. (Rare route; if no taxi is waiting at the campus rank, order one in Bolt/Free Now before you leave her building.)
+
+**11:35–15:20 — El Pardo** ⭐ — the royal village in the woods
+
+A walled village of 4,000 people inside a royal hunting estate 15 km from Sol, and almost no visitor to Madrid ever goes. The **Monte de El Pardo** around it is the best-preserved Mediterranean holm-oak forest in Europe — protected as a royal hunting ground since the 1400s, which is exactly why it survived. Deer graze in sight of the road.
+
+| Stop | What | Cost / hours |
+| ---- | ---- | ------------ |
+| **Palacio Real de El Pardo** ⭐⭐ | Carlos I's hunting lodge rebuilt into a palace — the finest **Bayeu and Goya tapestry collection** hanging anywhere, room after room of them. Franco lived here 1940–1975; it is now the official residence for visiting heads of state, and the guides handle both facts with remarkable dryness | €9 adult / €4 reduced · Apr–Sep **Tue–Sun ~10:00–19:00, closed Mon** — ⚠️ **verify at tickets.patrimonionacional.es the day before: it shuts at no notice for state visits** |
+| **Convento del Cristo de El Pardo** ⭐ | Capuchin monastery hiding **Gregorio Fernández's *Cristo yacente* (1605)** — the most unsettlingly lifelike sculpture in Spanish baroque, and a family-taste bullseye given the church list on this trip | Free / donation · ~10:00–13:00 + 16:00–19:00 — ⚠️ verify |
+| **Casita del Príncipe** | Villanueva's neoclassical garden pavilion for the future Carlos IV | Limited opening — ⚠️ verify, treat as a bonus |
+| **The village + the Manzanares bank** | Whitewashed streets, the parade ground, holm oaks down to the river. 30 easy minutes | Free |
+
+**13:30 — Lunch in El Pardo** — the village is genuinely known for two things:
+
+| Option | What | Price |
+| ------ | ---- | ----- |
+| **Casa Julián de El Pardo** ⭐ | The tortilla people drive out from Madrid for — thick, barely set, and the reason half the tables are full of *madrileños* on a Friday | €20–30/pp |
+| **La Marquesita** | Village *asador* — game, roast meats, a terrace under the trees | €30–40/pp |
+| **Adolfo / Terraza Jardín Felipe** | Shaded garden terraces, easy family menus | €25–35/pp |
+
+**15:20 — Taxi back to Cantoblanco** — ~20 min, ~€22–28. Be at her building by **15:55**.
+
+#### Fork B — she's out at 12:00
+
+Don't go anywhere in the gap. Wait on campus (the UAM **Plaza Mayor** cafeterías), collect her at 12:00, and take **all four** to El Pardo for **12:30–16:30** — same content, same taxi, just together and unhurried. This is the better day if it's offered; El Pardo with her beats El Pardo without her.
+
+---
+
+**16:00 — Collect Emily → back to Chamberí** — ~30 min
+
+Two ways: **taxi Cantoblanco → Alonso Cano ~€35–40** (simplest, and there are four of you), or **C-4 to Nuevos Ministerios + the 15-min walk** (~€8 for four, and it rehearses her commute in the other direction).
+
+**17:00–18:30 — Settle her in.** The unglamorous hour that matters more than any sight: unpack the two checked bags, and the practical run — **Mercadona / Carrefour Express** for the first shop, a *farmacia*, sheets and a towel if the flat came bare. Plaza de Olavide has everything within three minutes of her door.
+
+**18:45 — Chamberí on foot** — everything below is within 12 minutes of Alonso Cano 4:
+
+| Stop | Walk | What | Note |
+| ---- | ---- | ---- | ---- |
+| **Plaza de Olavide** ⭐ | 2 min | The neighbourhood's living room — circular plaza, four terraces, playground, zero tourists | Free · always |
+| **Mercado de Vallehermoso** | 8 min | Chamberí's working market turned food hall — where she'll actually shop | ⚠️ Fri evening hours vary, verify |
+| **Andén 0 — Estación de Chamberí** ⭐⭐ | 12 min | The **1919 Metro station sealed shut in 1966** and left underground for 40 years — reopened as a museum with its original tiled advertisements intact. Trains still rush past the platform without stopping. Free, strange, and 20 minutes | ⚠️ **Friday hours are roughly 11:00–19:00 — verify at metromadrid.es and go at 18:45, not later.** If it's shut, it's a gift for her own weekend |
+| ~~Museo Sorolla~~ | 10 min | ⚠️ **Closed for major renovation** — verify before walking over; do not build the evening on it | — |
+
+**20:45 — Farewell dinner in Chamberí** ⭐⭐ — the last dinner of the trip, on her street
+
+Target **€50–70/pp**. All of these are walkable from her door; **book this week** — Chamberí's good tables go 1–2 weeks out and this is a Friday.
+
+| Restaurant | Walk | What / why | €/pp | Book |
+| ---------- | ---- | ---------- | ---- | ---- |
+| **Lakasa** ⭐⭐ (Pl. del Descubridor Diego de Ordás 1) | 12 min, straight up Alonso Cano | **The pick.** César Martín's Chamberí flagship — sharing plates, the famous *pastela* of fried cheese, mushroom dishes people plan trips around, and a wine list with actual depth. Warm rather than formal, which is what a last night wants | €55–70 | [lakasa.es](https://lakasa.es) — book now |
+| **Bacira** ⭐ (C/ del Castillo 16) | 10 min | Mediterranean–Japanese–Peruvian in a bright corner house. Half portions encouraged, so the table eats twelve things instead of four — the most fun option, and the teens' pick | €45–60 | [bacira.es](https://bacira.es) |
+| **Arima Basque Gastronomy** (C/ Ponzano 51) | 12 min | Basque — pintxos logic scaled up to proper plates, *txuleta*, the burnt cheesecake. On Ponzano, so the street is alive around it | €50–65 | Book |
+| **Fismuler** (C/ Sagasta 29) | 15 min | Spare Nordic-ish room, precise Spanish cooking, and the cheesecake that started the national obsession | €50–65 | Book |
+| **Las Tortillas de Gabino** (C/ Rafael Calvo 20) | 10 min | Chamberí institution — the tortilla flight plus serious market cooking. Comes in **under** budget and never disappoints; the safe pick if everyone's wrecked | €40–50 | +34 91 319 75 05 |
+| **Plaza de Olavide terraces** | 2 min | The no-booking fallback — walk out her door and sit down outside | €20–30 | Walk-in |
+
+> 💡 **The stretch, if you want it:** **Sacha** (C/ Juan Hurtado de Mendoza 11, ~20 min) is the cult Madrid bistro chefs eat at — €70–90/pp and famously hard to get into. Worth one phone call; don't build the night on it.
+
+> 💡 **Order the table's last toast in Spanish and let Emily do it.** She lives here now.
+
+**22:45 — Taxi home to Arganzuela** — ~€14–16, 20 min. Say goodbye at her door, not at 06:30 tomorrow.
+
+> ⚠️ **Before bed tonight, non-negotiable:** **pre-book the 06:45 airport taxi** (Free Now / Cabify / Uber all schedule in advance; backup Radio-Taxi **+34 91 547 82 00**), and do **AA 95 online check-in** — the 24h window opens ~10:25 Friday, so it's already open by dinner. Street-hailing on an Arganzuela corner at 06:45 is the one gamble not to take.
+
+> 🍫 **Optional last flourish:** **San Ginés churros** (open 24h) on the way home — it's a €10 taxi detour from Chamberí and the classic Madrid last-night move. Only if legs allow; the dinner is the farewell, this is the encore.
 
 ### Day 5 — Saturday Sep 5 · Departure
 
@@ -2153,7 +2286,8 @@ Carlos III's 1755 garden next to the Prado: 5,000 species on shaded terraces, th
 | 12:25     | Arrive JFK (local time)                                                                               |
 
 > ⚠️ **MAD T4 is a separate building 4 km from T1/T2/T3** — say "Terminal cuatro" clearly. Flat rate covers any terminal, no supplements, no night surcharge.
-> 💡 Online check-in with AA the evening before (24h window opens ~10:25 Fri, mid-Segovia — do it on the train back).
+> 💡 Online check-in with AA the evening before (24h window opens ~10:25 Fri — it's already open by the time you sit down to dinner in Chamberí).
+> 🎒 ⚠️ **The two checked bags are NOT coming to the airport** — they were delivered to Emily's flat on Friday morning. Home is carry-on only. Sweep the Arganzuela apartment for anything that was supposed to go into them.
 
 ### 🎒 Pocket Options — if a slot opens up
 
@@ -2163,6 +2297,7 @@ Unscheduled but pre-vetted, for a rain hour, a dropped plan, or a burst of energ
 | ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- | --------------------------------------------------- |
 | **Basílica de San Francisco el Grande** [📍](https://maps.google.com/?q=Bas%C3%ADlica+San+Francisco+el+Grande+Madrid+Spain) | **Largest dome in Spain** (33 m — wider than St Paul's) + an early Goya in the chapels; La Latina, near the Day 3 crawl territory | €5 · Tue–Sat ~10:30–13:30 + 16:00–18:00 — verify |
 | **Lavapiés street-art walk**                                                               | The **C.A.L.L.E. festival** repaints the barrio's walls every September — likely fresh murals during our stay; loop Tabacalera → C/ Doctor Fourquet → Plaza de Lavapiés | Free · always — verify festival dates |
+| **Real Jardín Botánico** [📍](https://maps.google.com/?q=Real+Jard%C3%ADn+Bot%C3%A1nico+Madrid+Spain) | Carlos III's 1755 garden beside the Prado — 5,000 species on shaded terraces, greenhouses, and a century-old **bonsai collection donated by a former prime minister**. *Was* the Day 3 16:30 slot before the UAM run took it | €6, under 18 free · daily 10:00–20:30 |
 | **Atocha tropical garden**                                                                 | 4,000 m² of palms + turtle pond inside the station                                        | Free · daily ~06:00–22:00                           |
 | **Mirador Cibeles rooftop**                                                                | 8th-floor 360° terrace on the wedding-cake city hall                                      | €3 · Tue–Sun 10:30–14:00 + 16:00–19:30              |
 | **Museo Thyssen-Bornemisza**                                                               | The third Paseo del Arte pillar — Impressionists + Hopper, calmer than the Prado          | €13 · Tue–Sun 10:00–19:00                           |
@@ -2186,8 +2321,8 @@ No Sunday here (Tue Sep 1 → Sat Sep 5), so it's a weekday-Mass question — an
 | --------------------- | ----------------------------- | -------------------------------------- | ---------------------------------------------------------------------- |
 | Day 1 (Sep 1 arrive)  | —                             | (on AVE)                               | El Brillante (safe) or Bodegas Rosell (call first) near apt            |
 | Day 2 (Sep 2)         | San Ginés / La Mallorquina    | Mercado de San Miguel grazing          | **Sobrino de Botín 21:15** (book NOW)                                  |
-| Day 3 (Sep 3)         | San Ginés churros 08:00       | **Taberna La Bola cocido 14:00** (book, cash) | **Cava Baja crawl**: Ricla → Casa Lucio (book) → Casa Toni       |
-| Day 4 (Sep 4 Segovia) | Pastry at apt/Chamartín       | **Mesón de Cándido, Segovia** (book)   | Light near apt + optional San Ginés farewell churros                   |
+| Day 3 (Sep 3)         | San Ginés churros 08:00       | **Taberna La Bola cocido 13:00** ⚠️ (book, cash — earlier than before) | **Cava Baja crawl**: Ricla → Casa Lucio (book) → Casa Toni       |
+| Day 4 (Sep 4 move-in) | At the apartment              | **El Pardo** — Casa Julián tortilla or La Marquesita | ⭐ **Farewell dinner in Chamberí — Lakasa or Bacira, 20:45** (book) |
 | Day 5 (Sep 5)         | Airside at T4                 | —                                      | —                                                                      |
 
 Gelato rotation (2/day in the heat): **Palazzo** (Arenal 1, Sol) · **Mistura** (San Antón market + Barquillo, Chueca) · **Giuseppe Ricci** (Espejo 8, Ópera) · **Rocambolesc** (inside Atocha — Jordi Roca's soft-serve wand, good for train days).
@@ -2224,17 +2359,21 @@ Status as of **Aug 5** — departure in 14 days, Madrid in 27. Everything below 
 | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
 | **Museo del Prado** (Thu Sep 3, 10:00)          | Slots are on sale — buy this week; first-week-of-Sep mornings do sell out                              | [entradas.museodelprado.es](https://entradas.museodelprado.es/) — €15/€7.50/<18 free               |
 | **Palacio Real** (Wed Sep 2, 10:00)             | Buy this week — €18/€9; pick 10:00 entry                                                               | [tickets.patrimonionacional.es](https://tickets.patrimonionacional.es/en/tickets/palacio-real-de-madrid) |
-| **Avant Chamartín ↔ Segovia (Fri Sep 4)** ⚠️    | On sale now — book ~09:00 out / ~20:00 back; **station = CHAMARTÍN**                                    | [renfe.com](https://www.renfe.com/) — Avant, ~€13–14 each way                                      |
+| ⭐ **Chamberí farewell dinner** (Fri Sep 4, 20:45) | **Book this week** — Friday, 4 covers, €50–70/pp. Lakasa first, Bacira second, Las Tortillas de Gabino as the walk-up-safe backstop | [lakasa.es](https://lakasa.es) · [bacira.es](https://bacira.es) · Gabino +34 91 319 75 05 |
+| ⚠️ **Confirm Emily's key handover**             | Before Sep 4 — **in writing**. The Friday 08:45 bag drop at C/ Alonso Cano 4-2A depends entirely on it  | Landlord / letting agency                                                                          |
+| ⚠️ **Confirm Emily's Friday end time**          | Before Sep 3 — 16:00 or 12:00? Fork A and Fork B on Day 4 are different afternoons                     | Ask her                                                                                            |
+| ~~Avant Chamartín ↔ Segovia~~                   | ❌ **CANCELLED Aug 5 — do not book.** Segovia dropped for Emily's UAM day; ~€111 saved                  | —                                                                                                  |
 | **Sobrino de Botín** (Wed Sep 2, 21:15)         | Book NOW — summer tables go 1–2 weeks out, and we want a specific hour                                 | [botin.es](https://botin.es/en/) or +34 91 366 42 17                                               |
-| **Taberna La Bola** (Thu Sep 3, 14:00)          | Book from ~Aug 27 (they take short-range bookings); phone office Mon–Fri 9–14 + 17–20. **Cash on the day** | +34 91 547 69 30 · online widget at [labola.es/reservar](https://labola.es/reservar/)          |
+| **Taberna La Bola** (Thu Sep 3, ⚠️ **13:00**)   | ⚠️ **13:00, not 14:00** — Emily has to be at Cantoblanco by 15:00 and this is the first sitting. Book from ~Aug 27; phone office Mon–Fri 9–14 + 17–20. **Cash on the day** | +34 91 547 69 30 · online widget at [labola.es/reservar](https://labola.es/reservar/)          |
 | **Casa Lucio** (Thu Sep 3, ~21:45)              | Book NOW — closed all Aug, reopening-week tables vanish; if the online form shows nothing, phone       | [casalucio.es](https://www.casalucio.es/) · +34 91 365 32 52                                       |
-| **Mesón de Cándido** (Fri Sep 4, Segovia lunch) | Book NOW — see Segovia tab                                                                             | [mesondecandido.es](https://mesondecandido.es/en/reservations/) · +34 921 428 103                  |
+| ~~Mesón de Cándido~~ (Segovia lunch)            | ❌ **CANCELLED Aug 5 — do not book.** Plan kept in the Segovia tab for Emily's own visit                | —                                                                                                  |
 | **Cardamomo flamenco** (optional, Thu Sep 3 21:00) | Only if the family votes yes — then book this week for the 21:00 show                               | [cardamomo.com](https://cardamomo.com/) — from ~€39                                                |
 | Descalzas Reales (optional Wed 16:00)           | Book the tour slot a few days ahead if swapping it in                                                  | [tickets.patrimonionacional.es](https://tickets.patrimonionacional.es/) — €6                       |
 
 ### Madrid Critical Warnings
 
-- ⚠️ **Segovia trains depart Chamartín-Clara Campoamor, NOT Atocha** — older guides say Atocha; they're wrong since the line opened
+- ⚠️ **Cercanías is a different operator from the Metro** — the Multi card / 10-trip Metrobús **does not work** on the C-4 to Cantoblanco. Buy Renfe singles at the Cercanías machine (~€2/pp each way, verify the 2026 fare). At Sol and Nuevos Ministerios the Cercanías entrance is separate from the Metro one and easy to miss
+- ⚠️ **Do not book anything for Segovia** — dropped Aug 5. The tab below is reference material for Emily, not this trip's plan
 - ⚠️ **August-closure reopening week:** Casa Lucio, Posada de la Villa, Bodegas Rosell and San Antonio de los Alemanes all close ALL of August and reopen ~Sep 1 — book/call before relying on any of them. Botín, El Brillante, La Bola, Casa Toni, San Miguel run all summer
 - ⚠️ **Casa Dani** (the Salamanca tortilla legend) reopened after a two-month food-safety closure in early 2026 — it's back and queues are back, but call +34 91 575 59 25 if making the trek
 - ⚠️ **Ermita de San Antonio de la Florida** (Goya frescoes + tomb) closed for conservation since Mar 2025 — verify before going. **Teleférico de Madrid** closed since 2022 for structural repairs — don't plan on it
@@ -2245,7 +2384,7 @@ Status as of **Aug 5** — departure in 14 days, Madrid in 27. Everything below 
 
 ### Madrid Budget
 
-Per person · 3 full Madrid days (Segovia counted in its own tab) · excludes accommodation (paid):
+Per person · 3 full Madrid days · excludes accommodation (paid). Segovia's train + cochinillo lunch come off; El Pardo taxis, the Cercanías runs and a €50–70/pp Chamberí farewell go on — roughly a wash:
 
 | Category                       | Budget      | Mid         | Comfort     |
 | ------------------------------ | ----------- | ----------- | ----------- |
@@ -2268,7 +2407,11 @@ Per person · 3 full Madrid days (Segovia counted in its own tab) · excludes ac
 ---
 
 
-## 🇪🇸 Segovia — Sep 4 (day trip from Madrid)
+## 🇪🇸 Segovia — ❌ dropped from the 2026 trip (kept for Emily)
+
+> ⚠️ **NOT ON THIS ITINERARY.** Cut on **Aug 5** — it occupied Friday Sep 4, which is now Emily's UAM day (11:00–16:00 at Cantoblanco) and her move-in day. **Do not book the Avant or Mesón de Cándido.** ~€112 of train tickets saved.
+>
+> Everything below is left intact **on purpose**: Emily is in Madrid until December, Segovia is 27 minutes from Chamartín, and this is a finished, verified day plan she can execute on any free Saturday. Hours and prices below were checked for Sep 2026 — re-verify anything before an autumn visit. The rest of the family: next trip.
 
 > One of the most perfectly preserved medieval cities in Spain — a **1st-century Roman aqueduct** built without a drop of mortar, a **cliff-top Alcázar** that inspired Disney's Cinderella castle, the **last great Gothic cathedral** built anywhere in Spain, and the dish the whole city exists for: **_cochinillo asado_**. **~27 min from Madrid Chamartín by Avant.** Mix of essential sights and hidden corners — Templar Vera Cruz, the postcard mirador under the Alcázar, the medieval Judería.
 
@@ -2285,7 +2428,7 @@ Per person · 3 full Madrid days (Segovia counted in its own tab) · excludes ac
 
 > ⚠️ The Segovia-Guiomar AVE station is **5–6 km outside town** in a flat development area. **Always Bus 11 or taxi up.** Older guidebooks may say _Atocha → Segovia_ — that referred to the old Cercanías (~2 hr), now superseded by the high-speed Avant from Chamartín. Book the **Avant** specifically: it's the fixed-price workhorse of this line — other operators' Segovia stops have come and gone, and only the Avant is dependable enough to build the day on.
 
-### Day Trip — Friday Sep 4 · The Aqueduct, the Alcázar & a Whole Roast Pig ⭐⭐
+### Day Trip (dropped) · The Aqueduct, the Alcázar & a Whole Roast Pig ⭐⭐ — reference plan for Emily
 
 > One perfect medieval city in one long day: Roman engineering before lunch, a plate smashed on the floor at lunch, a fairy-tale castle after — home by 21:30.
 
@@ -2517,9 +2660,11 @@ Worth knowing where it's said: from the first weekend of July until the Virgen d
 | Hotels (all booked: Porto/Lisbon/BCN/Zaragoza/Madrid) | ~$1,600 (paid)    |
 | Food & restaurants                                    | ~$1,200–1,600     |
 | Activities & sights                                   | ~$450–700 (2026 fare rises: cable car, Aljafería, La Seo, Palacio Real) |
-| Local transport                                       | ~$200–300         |
+| Local transport                                       | ~$200–300 (−~$120 Segovia Avant, +~$90 Cercanías/El Pardo taxis) |
 | Buffer                                                | ~$500             |
 | **Total**                                             | **~$5,600–6,600** |
+
+> **Segovia's cut is roughly cost-neutral:** ~€111 of Avant tickets and a ~€150 cochinillo lunch come off; the El Pardo taxis (~€50), the Cercanías runs (~€35) and a €50–70/pp Chamberí farewell dinner (~€240) go on. Net ≈ +€60.
 
 ---
 
@@ -2531,9 +2676,12 @@ _Re-sorted by urgency on **Aug 5** (T-14 days). Work the 🔴 table top to botto
 
 | Item                                             | For                  | How                                                                                                                            |
 | ------------------------------------------------ | -------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| **Avant Madrid CHAMARTÍN ↔ Segovia** ⚠️          | Fri Sep 4            | [renfe.com](https://www.renfe.com/) — **Chamartín, not Atocha** · ~08:50 out / ~20:35 back · €13.90/pp fixed ≈ €111 round trip |
-| **Mesón de Cándido** cochinillo                  | Fri Sep 4, 13:30     | +34 921 428 103 · candido@mesondecandido.es · [mesondecandido.es](https://mesondecandido.es/en/reservations/)                  |
-| **Escolania choir reservation** (free)           | Fri Aug 28, 13:00    | via [montserratvisita.com](https://www.montserratvisita.com/) / escolania.cat — choir back from break Aug 27; seats capped     |
+| **Chamberí farewell dinner** ⭐ (new)             | Fri Sep 4, **20:45** | **Lakasa** [lakasa.es](https://lakasa.es) (1st choice) or **Bacira** [bacira.es](https://bacira.es) — 4 covers, Friday, Chamberí. Books 1–2 weeks out; €50–70/pp |
+| **Confirm Emily's key handover** ⚠️ (new)        | Before Sep 4         | Landlord / agency, **in writing** — the Friday-morning bag drop at C/ Alonso Cano 4-2A depends entirely on it                  |
+| **Confirm Emily's UAM end time** ⚠️ (new)        | Before Sep 3         | Ask her: Friday runs 11:00–**16:00 or 12:00**? Fork A vs Fork B on Day 4 are different afternoons                              |
+| ~~Avant Madrid Chamartín ↔ Segovia~~             | ~~Fri Sep 4~~        | ❌ **CANCELLED — do not book.** Segovia dropped Aug 5 (Emily's UAM day). ~€111 saved                                          |
+| ~~Mesón de Cándido~~ cochinillo                  | ~~Fri Sep 4~~        | ❌ **CANCELLED — do not book.** Kept in the Segovia tab for Emily's own visit                                                  |
+| **Escolania choir reservation** (free)           | Fri Aug 28, 13:00    | [reserves.abadiamontserrat.cat](https://reserves.abadiamontserrat.cat/en/560-reservations/2985-noon-pray-cant-de-lescolania) (abbey ticket shop — **not** escolania.cat) — choir back from break Aug 27; seats capped     |
 | **Picasso Museum** 14:00 slot                    | Sat Aug 29           | [museupicassobcn.cat](https://www.museupicassobcn.cat/) — under-18 free; summer Sat hours to 21:00                             |
 | **Sobrino de Botín** dinner                      | Wed Sep 2, **21:15** | [botin.es](https://botin.es/en/) or +34 91 366 42 17 — 21:15 (not earlier) so Debod sunset ~20:47 isn't rushed                 |
 | **Museo del Prado** morning slot                 | Thu Sep 3, 10:00     | [museodelprado.es](https://www.museodelprado.es/en) — €15 adult, under-18 free; on sale now                                    |
@@ -2559,7 +2707,7 @@ _Re-sorted by urgency on **Aug 5** (T-14 days). Work the 🔴 table top to botto
 | **7 Portes** Sunday dinner (Barcelona)        | ~Aug 20            | [7portes.com](https://www.7portes.com/) — daily 13:00–01:00; Sunday tables go early                  |
 | **Girona train** (Aug 30, if Option A)        | ~Aug 25            | renfe.com — Sants → Girona ~38 min; pick the ~09:15 fast service                                     |
 | **Tot Montserrat** combo tickets              | ~Aug 25            | [montserratcard.com](https://www.montserratcard.com/) / FGC desk Pl. d'Espanya — €71.50/pp, lunch incl. |
-| **Taberna La Bola** cocido lunch (Thu Sep 3)  | ~Aug 29            | [labola.es/reservar](https://labola.es/reservar) (new online widget) or +34 91 547 69 30 — cash only |
+| **Taberna La Bola** cocido lunch (Thu Sep 3)  | ~Aug 29            | ⚠️ **Book 13:00, not 14:00** — the 15:00 UAM run needs the first sitting. [labola.es/reservar](https://labola.es/reservar) or +34 91 547 69 30 — cash only |
 | **Casa Lucio** (alt Sep 3 dinner)             | ~Aug 29            | [casalucio.es](https://www.casalucio.es/) — closed all Aug, reopens ~Sep 1; book right at reopening  |
 | **Cardamomo flamenco** (optional)             | If wanted          | [cardamomo.es](https://www.cardamomo.es/en/) — 4 shows/night from €39; only if a Madrid evening frees up |
 | **Cálem port lodge** (optional Day 1 Porto)   | If wanted          | tour.calem.pt — timed slots; consumes the 16:30–17:30 Gaia window, São Francisco then moves to Day 2 |
@@ -2568,7 +2716,7 @@ _Re-sorted by urgency on **Aug 5** (T-14 days). Work the 🔴 table top to botto
 
 | Item                                | Ref                                                                                     |
 | ----------------------------------- | ---------------------------------------------------------------------------------------- |
-| Flights EWR→OPO · OPO→LIS · LIS→BCN | TP212 / TP1921 / TP1038 · TAP ref **Z5SCJS** · ticket 047 2524668983 · carry-on only    |
+| Flights EWR→OPO · OPO→LIS · LIS→BCN | TP212 / TP1921 / TP1038 · TAP ref **Z5SCJS** · ticket 047 2524668983 · 4 carry-ons + 2 checked bags |
 | Flight home MAD→JFK                 | AA 95 · Sep 5, 10:25 · T4                                                               |
 | AVE Barcelona → Zaragoza            | Aug 31 11:00 · **WJXSCF** · Coche 6 · 2A/2B/3A/3B                                       |
 | AVE Zaragoza → Madrid               | Sep 1 17:48 · **4U5NZV** · Coche 7 · 2C/2D/3C/3D                                        |
@@ -2585,7 +2733,7 @@ _Re-sorted by urgency on **Aug 5** (T-14 days). Work the 🔴 table top to botto
 
 ## 📝 General Notes
 
-- **Baggage:** 0PC checked bags on all TAP flights. Pack light — carry-on only.
+- **Baggage:** 4 carry-ons (8 kg each) + **2 checked bags** (23 kg each) on all TAP flights. The 2 checked bags stay in **Madrid with Emily** and come home in December — so every liquid souvenir goes in them, and **nothing perishable does**. Home on AA95 is carry-on only. ⚠️ **They are delivered to her flat (C/ Alonso Cano 4-2A) on Friday Sep 4 morning, not on departure day** — the 06:45 Saturday airport run has no room for them and no time to detour. This depends on her having keys by Friday; see Day 4. See the **🎒 Packing** tab.
 - **Passports go in the daypack, every day.** They're the ID for the Sagrada Família's nominative tickets AND for every youth rate (13–24 at Portuguese national monuments, 13–25 at the castle, youth bands at Palacio Real/La Seo). No ID = adult price or no entry.
 - **Apps:** Bolt (taxis, all cities) · Google Maps (+ the My Maps lists fed by this repo) · Renfe · transit cards per city: Andante (Porto), Viva Viagem + zapping (Lisbon), T-casual (Barcelona), bus fare cash/card (Zaragoza), Multi card (Madrid).
 - **Cash:** Carry €50–80; the cash-only holdouts on our route are Bodegas Ricla, La Bola (lunch), La Cova Fumada, and several El Tubo counters in Zaragoza.

@@ -1,5 +1,7 @@
 # Madrid Sights & Experiences
-## Sep 1–5 (4 nights · 3 full days + Segovia day trip) · Euro Trip 2026
+## Sep 1–5 (4 nights · 3 full days) · Euro Trip 2026
+
+> ⚠️ **Revised Aug 5.** Segovia is dropped (Emily's UAM commitments at Cantoblanco — Thu 15:00–18:00, Fri 11:00–16:00). **El Pardo** replaces it as Friday's outing, **Andén 0 + Chamberí** join the evening, and the **Real Jardín Botánico** comes off Day 3.
 
 > ⚠️ **Closure board — verified Aug 5, 2026:**
 > - **Ermita de San Antonio de la Florida** (Goya's frescoes + tomb) — closed for conservation since Mar 17, 2025, no confirmed reopening. Check [esmadrid.com](https://www.esmadrid.com/en/tourist-information/ermita-de-san-antonio-de-la-florida) before trying.
@@ -20,7 +22,7 @@
 | **Museo Reina Sofía** [📍](https://maps.google.com/?q=Museo+Reina+Sof%C3%ADa+Madrid+Spain) ⭐ | **Guernica** — the 20th century's defining painting — plus Dalí and Miró in an 18th-c hospital | €12 · under 18 + students to 25 free · **free daily 19:00–21:00** | Mon + Wed–Sat 10–21, Sun 10–14:30, **closed Tue** | Online skips the line | See the Guernica prep-sketch rooms either side of the canvas — you watch the horse evolve. Free-window doors open 19:00 sharp |
 | **Museo Thyssen-Bornemisza** [📍](https://maps.google.com/?q=Museo+Thyssen-Bornemisza+Madrid+Spain) | The third Paseo del Arte pillar — Flemish primitives to Hopper; calmer than the Prado | €13 · free Mon 12–16 | Tue–Sun 10–19, Mon 12–16 | Online if used | Unscheduled this trip — the Hopper rooms alone justify a spare 90 min |
 | **Palacio Real** [📍](https://maps.google.com/?q=Palacio+Real+Madrid+Spain) ⭐⭐ | Europe's largest palace (3,418 rooms) + the **Royal Armoury** — the best royal armour collection anywhere, child-sized suits included | **€18** · €9 (5–16, students to 25, 65+) · under 5 free | Apr–Sep: Mon–Sat 10–19, Sun 10–16, last entry −1h | ✅ NOW — [tickets.patrimonionacional.es](https://tickets.patrimonionacional.es/en/tickets/palacio-real-de-madrid) | Book 10:00 opening. Changing of the Guard Wed + Sat 11–14 every 30 min (the grand Solemn Relevo skips Sep). Take the Royal Kitchen add-on if offered |
-| **Parque del Retiro + rowboats** [📍](https://maps.google.com/?q=Parque+del+Retiro+Madrid+Spain) ⭐⭐ | Madrid's UNESCO-listed heart — and **€6 puts the whole family in a rowboat for 45 min** | Park free · boats **€6/boat weekdays, €8 weekends, 45 min, max 4** | Park 06–24; boats ~10–14 + 15:30–20:00 (kiosk shuts 20:00) | ❌ (Madrid Móvil app can reserve) | Golden-hour slot ~19:20 is the magic one; Palacio de Cristal + peacocks 10 min south of the lake |
+| **Parque del Retiro + rowboats** [📍](https://maps.google.com/?q=Parque+del+Retiro+Madrid+Spain) ⭐⭐ | Madrid's UNESCO-listed heart — and **€6 puts the whole family in a rowboat for 45 min** | Park free · boats **€6/boat weekdays, €8 weekends, 45 min, max 4** | Park 06–24; boats ~10–14 + 15:30–20:00 (kiosk shuts 20:00) | ❌ (Madrid Móvil app can reserve) | Golden-hour slot **~19:00** (moved earlier — Emily rides the C-4 back from Cantoblanco and joins at the kiosk ~18:50); Palacio de Cristal + peacocks 10 min south of the lake |
 | **Plaza Mayor** [📍](https://maps.google.com/?q=Plaza+Mayor+Madrid+Spain) ⭐ | The 1619 arcaded stage of bullfights, coronations and the Inquisition; Casa de la Panadería frescoes | Free | Always | ❌ | Quietest mid-afternoon and after 23:00 (floodlit, nearly empty — walk through after Botín). Coffee one street off the square is 30% cheaper |
 | **Puerta del Sol** [📍](https://maps.google.com/?q=Puerta+del+Sol+Madrid+Spain) | Kilómetro 0 + the Bear and Strawberry Tree — Madrid's symbolic centre | Free | Always | ❌ | 5-minute photo stop between metro and breakfast; worst pickpocket square in Spain — bags forward |
 | **Mercado de San Miguel** [📍](https://maps.google.com/?q=Mercado+de+San+Miguel+Madrid+Spain) ⭐ | 1916 iron-and-glass gourmet hall — prettier than the Boqueria, calmer | Free entry; graze ~€20/pp | Daily 10–24 (Fri–Sat to 02) | ❌ | Best before noon or ~13:45 (our slot); no tables — counters only |
@@ -70,7 +72,8 @@
 | **Madrid Río** [📍](https://maps.google.com/?q=Madrid+R%C3%ADo+Madrid+Spain) | 10 km riverside park over the buried motorway — 33 playgrounds, the giant *tobogán* slides, the 1815 Puente de Toledo | Free | Always | The apartment's front garden, effectively — sunset or post-dinner walks; BiciMAD rental stands if the family wants wheels |
 | **Estación de Atocha tropical garden** [📍](https://maps.google.com/?q=Estaci%C3%B3n+de+Atocha+jard%C3%ADn+tropical+Madrid+Spain) ⭐ | 4,000 m² of palms + turtle pond inside the 1851 station hall | Free | Daily ~06–22 | Fold into any Atocha transit — arrival night or the Day 3 walk to Retiro |
 | **El Capricho de la Alameda de Osuna** [📍](https://maps.google.com/?q=El+Capricho+de+la+Alameda+de+Osuna+Madrid+Spain) ⭐⭐ | Madrid's most beautiful secret park — 18th-c pleasure garden with Madrid's only labyrinth | Free | **Sat–Sun + holidays only 09–18:30** | Doesn't fit this trip (our only Saturday is fly-home day) — top of the next-visit list |
-| **Real Jardín Botánico** [📍](https://maps.google.com/?q=Real+Jard%C3%ADn+Bot%C3%A1nico+Madrid+Spain) ⭐ | Carlos III's 1755 garden — 5,000 species, bonsai pavilion, shade | €6; under 18 free; free Tue | Daily 10–21 (Apr–Sep) | Our Day 3 siesta-hour decompression between cocido and Guernica |
+| **Andén 0 — Estación de Chamberí** [📍](https://maps.google.com/?q=And%C3%A9n+0+Estaci%C3%B3n+de+Chamber%C3%AD+Madrid+Spain) ⭐⭐ | The **1919 Metro station sealed shut in 1966** and left underground for 40 years — reopened as a museum with its original tiled advertisements intact. Trains still rush past the platform without stopping, behind glass | Free | ⚠️ Roughly **Fri 11:00–19:00**, Thu 10:00–13:00, weekends late morning–evening — **verify at metromadrid.es** | **12 min from Emily's flat** — the Fri Sep 4 evening stop at ~18:45. Go before 19:00 or it's a gift for her own weekend. Enter at Plaza de Chamberí |
+| **Real Jardín Botánico** [📍](https://maps.google.com/?q=Real+Jard%C3%ADn+Bot%C3%A1nico+Madrid+Spain) ⭐ | Carlos III's 1755 garden — 5,000 species, bonsai pavilion, shade | €6; under 18 free; free Tue | Daily 10–21 (Apr–Sep) | ⚠️ **Dropped from Day 3** — the 16:30 slot went to the UAM run. Now a Pocket Option, or Emily's in October |
 | **CaixaForum + vertical garden** [📍](https://maps.google.com/?q=CaixaForum+Madrid+Spain) | Herzog & de Meuron's floating brick + Patrick Blanc's 24 m living wall | Wall + exterior free; expos €6, under 16 free | Daily 10–20 | **British Museum Assyria show runs to Oct 4, 2026**; the wall photographs best in morning light |
 | **Casa Museo Lope de Vega** [📍](https://maps.google.com/?q=Casa+Museo+Lope+de+Vega+Madrid+Spain) | The playwright's 1610–1635 house, frozen in time — quill pens, tiled kitchen, vegetable garden | Free, guided visit only | Tue–Sun 10–18, closed Mon | Book the free slot online ahead; ~45 min; pairs with the C/ Huertas pavement quotes |
 | **Lavapiés street-art walk** [📍](https://maps.google.com/?q=Lavapi%C3%A9s+street+art+Madrid+Spain) | The **C.A.L.L.E. festival** repaints the barrio every September — murals likely going up during our stay | Free | Always | Loop Tabacalera (C/ Embajadores 53) → C/ Doctor Fourquet → Plaza de Lavapiés after the Reina Sofía; verify festival dates on the fly |
@@ -99,16 +102,20 @@
 | **Lavapiés** [📍](https://maps.google.com/?q=Lavapi%C3%A9s+Madrid+Spain) | Multicultural, muralled, edgy-in-a-good-way | Post-Reina Sofía hour | Tabacalera → Doctor Fourquet galleries + murals → Plaza de Lavapiés → San Fernando market |
 | **Las Letras** [📍](https://maps.google.com/?q=Barrio+de+las+Letras+Madrid+Spain) | The 17th-c writers' quarter — Quixote quotes inlaid in the pavement | Gentle evening stroll | Plaza Santa Ana → C/ Huertas (read the gold letters underfoot) → Lope de Vega house → Casa González |
 | **Salamanca** [📍](https://maps.google.com/?q=Salamanca+Madrid+Spain) | Boulevards, boutiques, old money | Casa Dani + Mercado de la Paz detour | Serrano window-shopping → Mercado de la Paz tortilla → Palazzo Goya gelato |
-| **Chamberí** [📍](https://maps.google.com/?q=Chamber%C3%AD+Madrid+Spain) | The "real Madrid" of madrileños — markets + Ponzano | A return-trip dinner | Café Comercial → Plaza de Olavide → Vallehermoso market → C/ Ponzano |
+| **Chamberí** ⭐⭐ [📍](https://maps.google.com/?q=Chamber%C3%AD+Madrid+Spain) | The "real Madrid" of madrileños — markets + Ponzano. **Now a scheduled evening: Emily's flat is C/ Alonso Cano 4** and Fri Sep 4 ends here | **Fri Sep 4 evening + farewell dinner** | Plaza de Olavide (2 min from her door) → Vallehermoso market → **Andén 0 ghost station** → C/ Ponzano → dinner at Lakasa or Bacira |
 | **Arganzuela (home base)** [📍](https://maps.google.com/?q=Arganzuela+Madrid+Spain) | Residential, riverfront, unhurried | Day 1 evening; any morning run | Apartment → Madrid Río → Matadero → Puente de Toledo and back |
 
 ---
 
-## 🚄 Day Trips
+## 🚄 Day Trips & the UAM Days
 
 | Trip | What | How | Status |
 |------|------|-----|--------|
-| **Segovia** ⭐⭐ (Fri Sep 4) | Roman aqueduct, Cinderella Alcázar, cochinillo at Cándido | Avant from **Chamartín-Clara Campoamor** (⚠️ NOT Atocha), ~27 min, ~€13–14/pp each way | 🔲 Book trains + lunch NOW — **full plan in the Segovia tab** |
+| ~~**Segovia**~~ | Roman aqueduct, Cinderella Alcázar, cochinillo at Cándido | ~~Avant from Chamartín~~ | ❌ **Dropped Aug 5** — it sat on Emily's Friday UAM block. **Do not book trains or Cándido.** Full plan kept in the Segovia tab as a ready-made day trip for her semester |
+| **UAM Cantoblanco** ⭐ (Thu Sep 3 + Fri Sep 4) | Emily's campus meetups — **Thu 15:00–18:00**, **Fri 11:00–16:00** (⚠️ may end 12:00, confirm) | **Cercanías C-4 → "Cantoblanco Universidad"**, direct from Atocha / Sol / Nuevos Ministerios / Chamartín, ~15–25 min, ~€2/pp. ⚠️ **Metro card does not work — separate Renfe ticket.** Both C-4 branches call there. Taxi ~€35–45 | 🔲 Buy tickets at the machine on the day |
+| **El Pardo** ⭐⭐ (Fri Sep 4, replaces Segovia) | Royal village in a walled hunting forest 15 km from Sol, and almost no visitor goes. **Palacio Real de El Pardo** (€9/€4 — the finest Goya/Bayeu tapestry rooms anywhere; Franco's residence 1940–75, now the official state guest house), **Convento del Cristo** (Gregorio Fernández's *Cristo yacente*, 1605, free), the Casita del Príncipe, and the **Monte de El Pardo** — Europe's best-preserved holm-oak forest, protected as royal hunting ground since the 1400s | **Taxi from UAM Cantoblanco ~20 min, €22–28** (the useful bit: it's *west across the monte*, not back through town). From the centre instead: **bus 601 from Moncloa**, ~25 min. Palace hours Apr–Sep **Tue–Sun ~10:00–19:00, closed Mon** | 🔲 Free to visit village; ⚠️ **verify the palace at tickets.patrimonionacional.es the day before — it closes at no notice for state visits** |
+
+> ⚠️ **Cantoblanco has nothing around it.** The campus sits alone in open scrub off the M-607: no town, no old quarter, no square. Don't plan to "wander nearby." The three honest options while waiting are (1) ride the C-4 back into the city — it's 20–25 min to Atocha or Sol, which is what Day 3 does; (2) **Alcobendas**, 10 min by taxi (~€12) — **Centro de Arte Alcobendas** is free with a strong photography collection (Tue–Sat, verify), Parque de Andalucía has a lake, and Moraleja Green / Plaza Norte 2 are air-conditioned malls if it's 32 °C; (3) stay on campus — the UAM **Plaza Mayor**, its cafeterías, the library and the bookshop, which is genuinely worth seeing once since she'll live there.
 
 ---
 
@@ -131,12 +138,14 @@
 |------|--------------------|-------|
 | **Prado — Thu Sep 3, 10:00** | Buy this week; first-Sep mornings sell out | [entradas.museodelprado.es](https://entradas.museodelprado.es/) |
 | **Palacio Real — Wed Sep 2, 10:00** | Buy this week (€18/€9); add Royal Kitchen if offered | [tickets.patrimonionacional.es](https://tickets.patrimonionacional.es/en/tickets/palacio-real-de-madrid) |
-| **Avant Madrid Chamartín ↔ Segovia — Fri Sep 4** | Book now; **Chamartín, not Atocha** | [renfe.com](https://www.renfe.com/) |
+| ~~Avant Madrid Chamartín ↔ Segovia~~ | ❌ **Cancelled Aug 5 — do not book.** Segovia dropped for Emily's UAM day | — |
+| **Palacio Real de El Pardo — Fri Sep 4** | No booking needed, but ⚠️ **verify it's open the day before — it shuts at no notice for state visits** | [tickets.patrimonionacional.es](https://tickets.patrimonionacional.es/) |
+| **Cercanías C-4 to Cantoblanco — Thu + Fri** | Buy at the machine on the day. ⚠️ **Metro card does not work** | Renfe machines, ~€2/pp each way |
 | Reina Sofía — Thu 17:30 | Buy online day-of or before; or free 19:00 window (see master for the tradeoff) | [museoreinasofia.es](https://www.museoreinasofia.es/en) |
 | Descalzas Reales — optional Wed 16:00 | Book slot a few days out if swapping in | [tickets.patrimonionacional.es](https://tickets.patrimonionacional.es/) |
 | Templo de Debod interior — optional | Reserve a free timed slot if wanted (before 18:30) | madrid.es — search "Debod reservas" |
 | Casa Museo Lope de Vega — optional | Free, but the guided slot must be booked | [casamuseolopedevega.org](https://casamuseolopedevega.org/) |
-| Retiro rowboats — Thu ~19:20 | Walk up, or reserve same-day in the app | Madrid Móvil app |
+| Retiro rowboats — Thu **~19:00** | Walk up, or reserve same-day in the app. Buy the ticket while waiting for Emily's train, not after it arrives | Madrid Móvil app |
 | **Metro** | One Multi card (€2.50) + 10-trip Metrobús **€7.30** (2026 subsidized) — shareable | Any station machine |
 | **Taxis** | Airport flat **€33**; centre hops €5–12; pre-book Sep 5 06:45 pickup | Free Now / Cabify / Uber |
 

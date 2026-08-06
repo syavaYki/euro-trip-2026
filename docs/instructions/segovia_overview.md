@@ -1,7 +1,15 @@
 # Segovia — City Overview
-## Sep 4 (day trip from Madrid) · Euro Trip 2026
+## ❌ Dropped from the 2026 family trip · kept as Emily's day plan
 
-> One of the most perfectly preserved medieval cities in Spain — a **1st-century Roman aqueduct** built without mortar, the **cliff-top Alcázar** that inspired Cinderella's castle, Spain's **last great Gothic cathedral**, and the dish the whole city exists for: **_cochinillo asado_**. ~27 min from **Madrid Chamartín** by Avant; nothing booked yet — train, lunch, and Alcázar all need booking NOW.
+> ## ⚠️ NOT ON THIS ITINERARY
+>
+> **Cut on Aug 5, 2026.** Segovia occupied Friday Sep 4, which is now Emily's UAM day (11:00–16:00 at Cantoblanco) and her move-in day at C/ Alonso Cano 4. **Do not book the Avant, Mesón de Cándido, or the Alcázar** — ~€112 of train tickets saved.
+>
+> **This page is deliberately left complete.** Emily is in Madrid until December and Segovia is 27 minutes from Chamartín — this is a finished, verified plan she can run on any free Saturday. Hours and prices below were checked for early Sep 2026; **re-verify before an autumn visit** (Alcázar and cathedral hours shorten from November).
+>
+> Friday Sep 4's replacement — **El Pardo + Chamberí** — is in the Overview tab and `madrid_overview.md`.
+
+> One of the most perfectly preserved medieval cities in Spain — a **1st-century Roman aqueduct** built without mortar, the **cliff-top Alcázar** that inspired Cinderella's castle, Spain's **last great Gothic cathedral**, and the dish the whole city exists for: **_cochinillo asado_**. ~27 min from **Madrid Chamartín** by Avant.
 
 ---
 

@@ -1,6 +1,8 @@
 # Madrid Food & Drink
 ## Sep 1–5 (4 nights) · Euro Trip 2026
 
+> ⚠️ **Revised Aug 5.** Segovia is dropped (Emily's UAM commitments), so **Mesón de Cándido is cancelled**, **La Bola moves to 13:00**, and Friday Sep 4 ends with a **€50–70/pp farewell dinner in Chamberí** — see the new Chamberí section below.
+
 > 🗓️ **Early-September reality check:** Madrid is hot (26–32°C) and eats late — lunch 14:00, dinner 21:00+, kitchens dark 16:00–20:00. The week of Sep 1 is **August-holiday reopening week**: Casa Lucio, Posada de la Villa, Bodegas Rosell and others close ALL of August and reopen ~Sep 1 — phone before pinning an evening on any of them. Botín, El Brillante, La Bola, Casa Toni and San Ginés run all summer.
 >
 > **Family rules in play:** no bar crawls-for-drinking's-sake, no clubs — the Cava Baja "crawl" is a moving dinner. Two gelato stops a day is policy, not indulgence.
@@ -65,7 +67,7 @@
 
 ### 🍷 Calle Ponzano — where *madrileños* actually eat now
 
-> 600 m of Chamberí lined with 30+ bars. Not scheduled this trip — file under "if we come back," or a spare Ponzano dinner if a plan collapses.
+> 600 m of Chamberí lined with 30+ bars — and **now firmly on the map: it's a 12-minute walk from Emily's flat at C/ Alonso Cano 4.** This is her local strip for the next four months. Worth an hour on Friday Sep 4 even if dinner is booked elsewhere.
 
 | Stop | What / why | Price | Tip |
 |------|-----------|-------|-----|
@@ -75,25 +77,54 @@
 
 ---
 
+## ⭐ Chamberí — Emily's Neighbourhood + the Sep 4 Farewell Dinner
+
+> **New section, Aug 5.** Emily's flat is **C/ Alonso Cano 4, 2ºA, 28010** — Chamberí/Trafalgar, the Plaza de Olavide end of the street. Segovia is dropped and **Friday Sep 4 now ends here with the trip's farewell dinner**, target **€50–70/pp**. Everything below is walkable from her door, walk times measured from no. 4.
+>
+> ⚠️ **Book this week.** Chamberí's good tables go 1–2 weeks out and Sep 4 is a Friday in the *madrileño* back-from-holiday week.
+
+### The dinner shortlist
+
+| Name | Walk | What / why | Price | Book |
+|------|------|-----------|-------|------|
+| **Lakasa** [📍](https://maps.google.com/?q=Lakasa+Madrid+Spain) ⭐⭐ | 12 min — straight up Alonso Cano to Pl. del Descubridor Diego de Ordás 1 | **The pick.** César Martín's Chamberí flagship: sharing plates, the cult fried-cheese *pastela*, mushroom cooking people plan around, and a wine list with real depth. Warm rather than formal — the right register for a last night | €55–70/pp | [lakasa.es](https://lakasa.es) — closed Sun; verify Fri service |
+| **Bacira** [📍](https://maps.google.com/?q=Bacira+Madrid+Spain) ⭐ | 10 min — C/ del Castillo 16 | Mediterranean–Japanese–Peruvian in a bright corner house. Half portions encouraged, so the table eats twelve things instead of four. **The teens' pick, and the most fun** | €45–60/pp | [bacira.es](https://bacira.es) |
+| **Arima Basque Gastronomy** [📍](https://maps.google.com/?q=Arima+Basque+Gastronomy+Madrid+Spain) | 12 min — C/ Ponzano 51 | Basque: pintxos logic scaled to full plates, *txuleta*, burnt cheesecake. On Ponzano, so the street is alive around it | €50–65/pp | Book |
+| **Fismuler** [📍](https://maps.google.com/?q=Fismuler+Madrid+Spain) | 15 min — C/ Sagasta 29 | Spare Nordic-ish room, precise Spanish cooking, and the cheesecake that started the national obsession | €50–65/pp | Book |
+| **Las Tortillas de Gabino** [📍](https://maps.google.com/?q=Las+Tortillas+de+Gabino+Madrid+Spain) | 10 min — C/ Rafael Calvo 20 | Chamberí institution — the tortilla flight plus serious market cooking. **Comes in under budget and never disappoints**; the safe pick if everyone's wrecked from the move | €40–50/pp | +34 91 319 75 05 |
+| **Sacha** [📍](https://maps.google.com/?q=Sacha+Madrid+Spain) | 20 min — C/ Juan Hurtado de Mendoza 11 | The cult bistro Madrid chefs eat at. Above budget and famously hard to get into — worth one phone call, don't build the night on it | €70–90/pp | Phone; books far out |
+| **Plaza de Olavide terraces** [📍](https://maps.google.com/?q=Plaza+de+Olavide+Madrid+Spain) | **2 min** | The no-booking fallback: walk out her door and sit down outside. Also simply *her square* — worth 20 minutes regardless | €20–30/pp | Walk-in |
+
+### Her everyday Chamberí (useful to her, not to us)
+
+| Name | Walk | What |
+|------|------|------|
+| **Mercado de Vallehermoso** [📍](https://maps.google.com/?q=Mercado+de+Vallehermoso+Madrid+Spain) | 8 min | The working market she'll actually shop at — plus **Tripea** (Roberto Martínez's stall, ~18 seats, tasting menu, books out weeks ahead) |
+| **Sala de Despiece** [📍](https://maps.google.com/?q=Sala+de+Despiece+Madrid+Spain) | 12 min | Ponzano's theatrical butcher's-counter bar — go at opening or queue |
+| **Mercado de Chamberí** | 10 min | The other neighbourhood market, quieter |
+| **Café Comercial** (Glorieta de Bilbao) | 10 min | 1887 café, revived — her study-and-coffee default |
+
+---
+
 ## 🍽️ Restaurants — Traditional Madrid
 
 | Name | What / why | Area | Price | Hours (our week) | Tip |
 |------|-----------|------|-------|------------------|-----|
 | **Sobrino de Botín** [📍](https://maps.google.com/?q=Sobrino+de+Bot%C3%ADn+Madrid+Spain) ⭐⭐ | **World's oldest restaurant (1725, Guinness)** — 300-year oven, *cochinillo* carved tableside, Hemingway's last scene | C/ Cuchilleros 17 | €40–55/pp | Daily 13–16 + 20–23:30, **open 365** | Our Day 2 dinner, 21:15 after the Debod sunset — book NOW at botin.es; ask for the cellar (*bodega*) and let the girls see the oven on the way in |
-| **Taberna La Bola** [📍](https://maps.google.com/?q=Taberna+La+Bola+Madrid+Spain) ⭐⭐ | The *cocido madrileño* temple since 1870 — clay pots over oak charcoal, poured out tableside | C/ de la Bola 5 (Ópera) | €25–35/pp | Sun–Wed 13–16; Thu–Sat 12–20:30 | Our Day 3 lunch 14:00. **Cash only.** Phone +34 91 547 69 30 (Mon–Fri 9–14/17–20) — online widget now at labola.es/reservar. Broth first, guindilla in, pace yourself |
+| **Taberna La Bola** [📍](https://maps.google.com/?q=Taberna+La+Bola+Madrid+Spain) ⭐⭐ | The *cocido madrileño* temple since 1870 — clay pots over oak charcoal, poured out tableside | C/ de la Bola 5 (Ópera) | €25–35/pp | Sun–Wed 13–16; **Thu–Sat 12–20:30** | Our Day 3 lunch ⚠️ **13:00, not 14:00** — Emily has to be at UAM Cantoblanco at 15:00 and this is the first sitting. Thursday hours cover it. **Cash only.** Phone +34 91 547 69 30 (Mon–Fri 9–14/17–20) — online widget at labola.es/reservar. Skip starters, eat the three acts, out by 14:05 |
 | **Casa Lucio** [📍](https://maps.google.com/?q=Casa+Lucio+Madrid+Spain) ⭐ | *Huevos rotos con jamón* for kings, presidents and Clintons | Cava Baja 35 (La Latina) | €40–55/pp | **Closed ALL Aug — reopens ~Sep 1**; dinner from ~20:30 | Day 3 crawl centrepiece — book NOW for ~21:45 (casalucio.es; phone if the form is empty). One order of *huevos* per two people is plenty |
 | **Posada de la Villa** [📍](https://maps.google.com/?q=Posada+de+la+Villa+Madrid+Spain) | Wood-fired *cordero* in a 1642 coaching inn | Cava Baja 9 | €40–55/pp | 13:30–16 + 20–24; **closed Sun night + ALL Aug** | Botín's understudy for Day 2 — confirm reopening by phone before relying on it |
 | **Casa Ciriaco** [📍](https://maps.google.com/?q=Casa+Ciriaco+Madrid+Spain) | *Pepitoria de gallina* (almond-saffron hen) since 1929 — quiet, old-school | C/ Mayor 84 | €25–35/pp | — verify (cocido Wed only) | The uncelebrated fallback both days — the 1906 royal-wedding-bomb balcony is upstairs |
 | **Taberna El Sur** [📍](https://maps.google.com/?q=Taberna+El+Sur+Madrid+Spain) | Lavapiés neighbourhood cocido + churrasco, honest prices | C/ Torrecilla del Leal 12 | €20–30/pp | — verify | The budget cocido if La Bola's booking fails; reserve for cocido |
 | **Casa González** [📍](https://maps.google.com/?q=Casa+Gonz%C3%A1lez+Madrid+Spain) | 1931 *ultramarinos* turned wine bar — cheese boards among the shelves | C/ del León 12 (Las Letras) | €15–25/pp | — verify | The quiet-night escape hatch after the Retiro if the crawl feels like too much |
 
-> 💡 **Madrid's signature dishes, mapped to our week:** *cocido madrileño* → La Bola (Day 3 lunch) · *huevos rotos* → Casa Lucio (Day 3 night) · *bocadillo de calamares* → El Brillante (Day 1) · *cochinillo asado* → Botín (Day 2) with the Segovia original at Cándido (Day 4).
+> 💡 **Madrid's signature dishes, mapped to our week:** *cocido madrileño* → La Bola (Day 3 lunch) · *huevos rotos* → Casa Lucio (Day 3 night) · *bocadillo de calamares* → El Brillante (Day 1) · *cochinillo asado* → Botín (Day 2). ⚠️ **Botín is now the only cochinillo of the trip** — the Segovia original at Cándido came off with the Segovia day. That makes the Day 2 booking matter more, not less.
 
 ---
 
 ## 💃 Flamenco Dining
 
-> Madrid is flamenco's commercial capital. Earlier shows suit the family; dinner/tapas add-ons exist at all of them. **If it happens, it's the Day 3 21:00 slot** — never after Segovia.
+> Madrid is flamenco's commercial capital. Earlier shows suit the family; dinner/tapas add-ons exist at all of them. **If it happens, it's the Day 3 21:00 slot** — Day 4 is Emily's move-in day and ends with the Chamberí farewell dinner, which isn't something to cut short.
 
 | Name | What / why | Price | Shows | Tip |
 |------|-----------|-------|-------|-----|
@@ -137,8 +168,8 @@ Matches the master itinerary (Overview tab) — that file wins on any conflict:
 |-----|-----------|-------|------------------|
 | **Day 1** (Tue Sep 1 — 19:44 arrival) | — | On the AVE | **El Brillante** calamares (safe bet) or **Bodegas Rosell** (⚠️ call — Aug reopening); Carambola for a sit-down; optional Madrid Río stroll |
 | **Day 2** (Wed Sep 2 — Royal Madrid) | San Ginés churros or La Mallorquina | **Mercado de San Miguel** graze | Palazzo (15:25) + Mistura (17:45) gelatos → Debod picnic snacks → **Sobrino de Botín 21:15** (book NOW) |
-| **Day 3** (Thu Sep 3 — Art day) | **San Ginés 08:00** — the ritual | **Taberna La Bola cocido 14:00** (book; CASH) + Ricci gelato | **Cava Baja crawl**: Bodegas Ricla → **Casa Lucio** (book ~21:45) → Casa Toni — or Cardamomo 21:00 flamenco swap |
-| **Day 4** (Fri Sep 4 — Segovia) | Pastry/coffee at Chamartín | **Mesón de Cándido, Segovia** (booked — see Segovia tab) | Light dinner near apt + **San Ginés farewell churros** (24h) |
+| **Day 3** (Thu Sep 3 — Art day + UAM run) | **San Ginés 08:00** — the ritual | ⚠️ **Taberna La Bola cocido 13:00** (book; CASH; earlier than before) + Ricci gelato eaten walking | **Cava Baja crawl**: Bodegas Ricla → **Casa Lucio** (book ~21:45) → Casa Toni — or Cardamomo 21:00 flamenco swap |
+| **Day 4** (Fri Sep 4 — Emily's move-in) | At the apartment | **El Pardo** — **Casa Julián** tortilla (€20–30) or **La Marquesita** *asador* (€30–40) | ⭐ **Farewell dinner in Chamberí, 20:45 — Lakasa (1st) / Bacira (2nd)**, €50–70/pp. Optional San Ginés churros on the taxi home |
 | **Day 5** (Sat Sep 5 — departure) | Airside at T4 (leave 06:45) | — | — |
 
 ---
@@ -151,6 +182,7 @@ Matches the master itinerary (Overview tab) — that file wins on any conflict:
 | €15–25 (lunch/tapas) | San Miguel graze, Bodegas Rosell, Carambola, La Casa del Abuelo, San Antón counters, Casa González |
 | €25–40 (sit-down) | **La Bola cocido** (cash), Casa Ciriaco, Taberna El Sur, Cardamomo show+drink |
 | €40+ (occasion) | **Botín**, Casa Lucio, Posada de la Villa, Corral de la Morería |
+| €50–70 (the Sep 4 farewell) | ⭐ **Lakasa**, **Bacira**, Arima, Fismuler — all walkable from Emily's flat. Las Tortillas de Gabino lands just under |
 
 **August-closure status (verified for the week of Sep 1):** open all summer — Botín, El Brillante, La Bola, Casa Toni, San Miguel, San Ginés · closed Aug, reopening ~Sep 1 (call first) — **Casa Lucio, Posada de la Villa, Bodegas Rosell** · special case — **Casa Dani** (back after early-2026 closure; call) · closed Tuesdays — **Bodegas Ricla** (fine, our crawl is Thursday).
 
@@ -161,9 +193,10 @@ Matches the master itinerary (Overview tab) — that file wins on any conflict:
 | What | When | How | Status |
 |------|------|-----|--------|
 | **Sobrino de Botín** — Day 2, 21:15 | Book NOW (summer tables go 1–2 wks out) | [botin.es](https://botin.es/en/) · +34 91 366 42 17 | 🔲 |
-| **Taberna La Bola** — Day 3, 14:00 | Call from ~Aug 27 · cash on the day | +34 91 547 69 30 · [labola.es/reservar](https://labola.es/reservar/) | 🔲 |
+| **Taberna La Bola** — Day 3, ⚠️ **13:00** | Call from ~Aug 27 · cash on the day · **first sitting, the 15:00 UAM run needs it** | +34 91 547 69 30 · [labola.es/reservar](https://labola.es/reservar/) | 🔲 |
+| ⭐ **Chamberí farewell** — Day 4, **20:45** | **Book this week** — Friday, 4 covers, €50–70/pp | **Lakasa** [lakasa.es](https://lakasa.es) 1st · **Bacira** [bacira.es](https://bacira.es) 2nd · Gabino +34 91 319 75 05 as backstop | 🔲 |
 | **Casa Lucio** — Day 3, ~21:45 | Book NOW — reopening-week tables vanish | [casalucio.es](https://www.casalucio.es/) · +34 91 365 32 52 | 🔲 |
-| **Mesón de Cándido** (Segovia) — Day 4 | Book NOW — see Segovia tab | [mesondecandido.es](https://mesondecandido.es/en/reservations/) · +34 921 428 103 | 🔲 |
+| ~~Mesón de Cándido~~ (Segovia) | ❌ **Cancelled Aug 5 — do not book.** Segovia dropped for Emily's UAM day; the plan stays in the Segovia tab for her own visit | — | ❌ |
 | **Cardamomo** — optional Day 3 21:00 | This week, if the family votes yes | [cardamomo.com](https://cardamomo.com/) | 🔲 |
 | Bodegas Rosell — Day 1 walk-in | Call Sep 1 afternoon to confirm reopening | +34 91 467 84 58 | 🔲 |
 | Casa Dani — only if Salamanca detour | Call ahead | +34 91 575 59 25 | 🔲 |
@@ -172,7 +205,7 @@ Matches the master itinerary (Overview tab) — that file wins on any conflict:
 
 ## 💸 Madrid Food Budget Estimate
 
-Per person · 3 full Madrid days + arrival night · excludes Segovia:
+Per person · 3 full Madrid days + arrival night. **Segovia's cochinillo lunch is out; the €50–70/pp Chamberí farewell is in** — the "Dinner × 4" row now carries one expensive night by design:
 
 | Category | Budget | Mid | Comfort |
 |----------|--------|-----|---------|
