@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| **Hotel** | Aposentus – Poveiros Terrace View, Rua dos Poveiros |
+| **Hotel** | Aposentus – Poveiros Terrace View [📍](https://maps.google.com/?q=Rua+de+Santo+Ildefonso+200+4000-507+Porto+Portugal) — Rua de Santo Ildefonso 200, 1º Traseiras, 4000-507 Porto |
 | **Confirmation** | 5732321948 |
 | **Check-in** | Thu Aug 20 (arrival ~11:00) |
 | **Check-out** | Sun Aug 23 — early, flight at 09:00 |
@@ -34,7 +34,7 @@ Walkable city — Metro + Uber/Bolt for longer hops. No car.
 
 **Tram 1** — Ribeira → Foz along the river. €6 single (ages 4–12 €3.50), buy on board. Scenic, not fast.
 
-**Hotel walkability** (Rua dos Poveiros is extremely central):
+**Hotel walkability** (Rua de Santo Ildefonso 200 is extremely central; Praça dos Poveiros is at the corner):
 
 | Destination | Walk |
 |-------------|------|

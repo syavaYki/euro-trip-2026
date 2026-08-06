@@ -71,11 +71,11 @@
 
 | Property                                                                                               | City      | Check-in             | Check-out         | Nights | Confirmation                        | Status                                                                         |
 | ------------------------------------------------------------------------------------------------------ | --------- | -------------------- | ----------------- | ------ | ----------------------------------- | ------------------------------------------------------------------------------ |
-| Aposentus – Poveiros Terrace View, Rua dos Poveiros                                                    | Porto     | Aug 20               | Aug 23            | 3      | 5732321948                          | ✅ Booked                                                                      |
-| Apartment — 64 Rua da Bempostinha 5º dto, Arroios                                                      | Lisbon    | Aug 23 (4PM–10PM)    | Aug 27 (by 10AM)  | 4      | Booking.com                         | ✅ Booked · €579.50 paid · Depart Aug 26 evening (apt runs through Aug 27)     |
-| AB Sagrada Família Bofill, Eixample (08013)                                                            | Barcelona | Aug 26 (15:00)       | Aug 31 (by 11:00) | 5      | Booking.com                         | ✅ Booked                                                                      |
-| Apartamento Centro 5 PSN Wifi (host: Isabel) — Calle Dr. Alejandro Palomar 38, 2º Izda, 50002 Zaragoza | Zaragoza  | Aug 31 (after 16:00) | Sep 1 (by 12:00)  | 1      | Airbnb                              | ✅ Booked · $93.93 (PayPal, scheduled Aug 18) · Free cancel until 16:00 Aug 26 |
-| Plenora Alejandro Dumas — C. de Alejandro Dumas 30, Arganzuela, Madrid 28005                           | Madrid    | Sep 1 (from 15:00)   | Sep 5 (by 11:00)  | 4      | 5149971517 (Booking.com) · PIN 7526 | ✅ Booked · €671.73 paid · Free cancel until Aug 26                            |
+| Aposentus – Poveiros Terrace View [📍](https://maps.google.com/?q=Rua+de+Santo+Ildefonso+200+4000-507+Porto+Portugal) — Rua de Santo Ildefonso 200, 1º Traseiras, 4000-507 Porto | Porto     | Aug 20               | Aug 23            | 3      | 5732321948                          | ✅ Booked                                                                      |
+| Apartment [📍](https://maps.google.com/?q=Rua+da+Bempostinha+64+1150-099+Lisboa+Portugal) — 64 Rua da Bempostinha 5º dto, Arroios, 1150-099 Lisbon | Lisbon    | Aug 23 (4PM–10PM)    | Aug 27 (by 10AM)  | 4      | Booking.com                         | ✅ Booked · €579.50 paid · Depart Aug 26 evening (apt runs through Aug 27)     |
+| AB Sagrada Família Bofill [📍](https://maps.google.com/?q=Carrer+de+la+Marina+240+08013+Barcelona+Spain) — Carrer de la Marina 240, Eixample, 08013 Barcelona | Barcelona | Aug 26 (15:00)       | Aug 31 (by 11:00) | 5      | Booking.com                         | ✅ Booked                                                                      |
+| Apartamento Centro 5 PSN Wifi (host: Isabel) [📍](https://maps.google.com/?q=Calle+del+Dr.+Alejandro+Palomar+38+50002+Zaragoza+Spain) — C. del Dr. Alejandro Palomar 38, 2º Izda, 50002 Zaragoza | Zaragoza  | Aug 31 (after 16:00) | Sep 1 (by 12:00)  | 1      | Airbnb                              | ✅ Booked · $93.93 (PayPal, scheduled Aug 18) · Free cancel until 16:00 Aug 26 |
+| Plenora Alejandro Dumas [📍](https://maps.google.com/?q=Calle+de+Alejandro+Dumas+30+28005+Madrid+Spain) — C. de Alejandro Dumas 30, Arganzuela, Madrid 28005 | Madrid    | Sep 1 (from 15:00)   | Sep 5 (by 11:00)  | 4      | 5149971517 (Booking.com) · PIN 7526 | ✅ Booked · €671.73 paid · Free cancel until Aug 26                            |
 
 ---
 
@@ -85,7 +85,7 @@
 
 |                  |                                                              |
 | ---------------- | ------------------------------------------------------------ |
-| **Hotel**        | Aposentus – Poveiros Terrace View, Rua dos Poveiros          |
+| **Hotel**        | Aposentus – Poveiros Terrace View [📍](https://maps.google.com/?q=Rua+de+Santo+Ildefonso+200+4000-507+Porto+Portugal) — Rua de Santo Ildefonso 200, 1º Traseiras, 4000-507 Porto |
 | **Confirmation** | 5732321948                                                   |
 | **Check-in**     | Thu Aug 20 (arrival ~11:00)                                  |
 | **Check-out**    | Sun Aug 23 — early, flight at 09:00                          |
@@ -109,7 +109,7 @@ Buy an Andante card at OPO airport (€0.60 card, reusable, one per person). 202
 
 **Uber / Bolt** — Both work well; Bolt is usually cheaper. Airport → centre: €12–20 (25–35 min). Cross-city: €6–12.
 
-**On foot from the hotel** — Rua dos Poveiros is extremely central:
+**On foot from the hotel** — Rua de Santo Ildefonso 200 is extremely central (Praça dos Poveiros is at the corner):
 
 | Destination        | Walk              |
 | ------------------ | ----------------- |
@@ -261,7 +261,7 @@ Late snack: **[Casa da Bifana](https://maps.google.com/?q=Casa+da+Bifana+Porto+P
 
 **09:15 — [São Bento Station](https://maps.google.com/?q=S%C3%A3o+Bento+Station+Porto+Portugal)**
 
-Walk from hotel: 12 min (Rua dos Poveiros → Praça da Batalha → São Bento). Free — don't skip it even if you're not catching a train. The main hall is covered in 20,000+ azulejo panels depicting Portuguese history. One of the most beautiful train stations in the world. Allow 15–20 min; go early before it fills with tour groups.
+Walk from hotel: 12 min (Rua de Santo Ildefonso → Praça da Batalha → São Bento). Free — don't skip it even if you're not catching a train. The main hall is covered in 20,000+ azulejo panels depicting Portuguese history. One of the most beautiful train stations in the world. Allow 15–20 min; go early before it fills with tour groups.
 
 > _"Honestly more impressive than I expected. I've seen it in photos but standing there is completely different."_ — r/porto
 
@@ -681,7 +681,7 @@ Per person · 3 full days · excl. accommodation:
 
 |                |                                                                                                   |
 | -------------- | ------------------------------------------------------------------------------------------------- |
-| **Apartment**  | 64 Rua da Bempostinha 5º direito, Arroios, 1150-067 Lisbon                                        |
+| **Apartment**  | 64 Rua da Bempostinha 5º direito, Arroios, 1150-099 Lisbon [📍](https://maps.google.com/?q=Rua+da+Bempostinha+64+1150-099+Lisboa+Portugal) |
 | **Check-in**   | Sun Aug 23 · 16:00–22:00 ⚠️ Flight lands 09:55 — ~6 hrs before check-in (see Day 1)               |
 | **Check-out**  | Thu Aug 27 · by 10:00 — but you physically **leave Wed Aug 26 evening** (apt paid through Aug 27, so bags stay there all of Day 4 — no left-luggage needed on departure day) |
 | **Phone**      | +351 925 360 038                                                                                  |
@@ -1113,7 +1113,7 @@ Demand is exceptional this year. The two big Gaudí tickets are **done** — the
 
 |               |                                                                                                              |
 | ------------- | ------------------------------------------------------------------------------------------------------------ |
-| **Hotel**     | **AB [Sagrada Família](https://maps.google.com/?q=Sagrada+Fam%C3%ADlia+Barcelona+Spain) [🌐](https://www.sagradafamilia.org/en/worship-at-the-basilica) Bofill**, Eixample, 08013 Barcelona                                                     |
+| **Hotel**     | **AB Sagrada Família Bofill** [📍](https://maps.google.com/?q=Carrer+de+la+Marina+240+08013+Barcelona+Spain) — Carrer de la Marina 240, Eixample, 08013 Barcelona. Two blocks from the [Sagrada Família](https://maps.google.com/?q=Sagrada+Fam%C3%ADlia+Barcelona+Spain) [🌐](https://www.sagradafamilia.org/en/worship-at-the-basilica) |
 | **Check-in**  | Wed Aug 26 · 15:00–00:00 (you'll arrive ~22:45 after TP1038)                                                 |
 | **Check-out** | Mon Aug 31 · by 11:00 — but you'll **leave ~09:40** for the **AVE 11:00** (be at Sants by 10:30)              |
 | **Flight in** | TP1038 LIS → BCN: 18:55 → **21:50**, Terminal 1                                                              |
@@ -1569,7 +1569,7 @@ The reason to do it even with the Aug 27 ticket in hand: **you see the opposite 
 |                       |                                                                                                                                                                                                                                                                                                                                               |
 | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Apartment**         | Apartamento Centro 5 PSN Wifi — entire home/apt, host Isabel (co-host Jose Luis)                                                                                                                                                                                                                                                              |
-| **Address**           | Calle Dr. Alejandro Palomar 38, 2º Izda, 50002 Zaragoza ([Google Maps](https://goo.gl/maps/HALZD1PEQYQ2)) — Magdalena edge of the old town, ~10 min walk to Plaza del Pilar. ⚠️ Streets with the same name exist in other towns — verify map shows downtown Zaragoza.                                                                          |
+| **Address**           | C. del Dr. Alejandro Palomar 38, 2º Izda, 50002 Zaragoza [📍](https://maps.google.com/?q=Calle+del+Dr.+Alejandro+Palomar+38+50002+Zaragoza+Spain) — Magdalena edge of the old town, ~10 min walk to Plaza del Pilar. ⚠️ Streets with the same name exist in other towns — verify map shows downtown Zaragoza.                                                                          |
 | **Booking**           | Airbnb #**HM28SJ8P8C** · $93.93 (PayPal, scheduled Aug 18, 2026)                                                                                                                                                                                                                                                                              |
 | **Cancellation**      | Free until 16:00 on Aug 26; non-refundable after                                                                                                                                                                                                                                                                                              |
 | **Host contact**      | Isabel · +34 659 60 06 43 (Jose Luis is co-host — main contact for arrival info)                                                                                                                                                                                                                                                              |
@@ -1648,7 +1648,7 @@ Paid sights are shut or napping 14:30–16:00, and it's the hottest hour — so 
 
 Plan A: bags are already there — go check in properly at 16:00. Plan B: bus 34/taxi back to Delicias, collect from consigna, taxi to the apartment (~€10) for 16:00.
 
-**16:00 — Check in · Calle Dr. Alejandro Palomar 38, 2º Izda**
+**16:00 — Check in · C. del Dr. Alejandro Palomar 38, 2º Izda** [📍](https://maps.google.com/?q=Calle+del+Dr.+Alejandro+Palomar+38+50002+Zaragoza+Spain)
 
 Lockbox code came via the registration form (done days ago — see Must-Book). Drop everything, water, 45 min flop. Teens recover; parents scout the fridge situation (Eroski City is 4 min away on Coso 126).
 
@@ -1874,7 +1874,7 @@ Zaragoza is **the only city in the world with two cathedrals**, and both are a f
 
 |                           |                                                                                                                                                                                                                                                                         |
 | ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Apartment**             | Plenora Alejandro Dumas — C. de Alejandro Dumas 30, Arganzuela, Madrid 28005                                                                                                                                                                                            |
+| **Apartment**             | Plenora Alejandro Dumas [📍](https://maps.google.com/?q=Calle+de+Alejandro+Dumas+30+28005+Madrid+Spain) — C. de Alejandro Dumas 30, Arganzuela, Madrid 28005                                                                                                                                                                                            |
 | **Booking**               | ✅ Booking.com #5149971517 · €671.73 paid in full                                                                                                                                                                                                                       |
 | **PIN**                   | **7526**                                                                                                                                                                                                                                                                |
 | **Phone**                 | +34 661 781 481                                                                                                                                                                                                                                                         |

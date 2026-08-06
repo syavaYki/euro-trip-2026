@@ -244,7 +244,7 @@ Start it near-empty. It fills with everything bought between Porto and Madrid.
 - [ ] **Sep 1 — be at Delicias by 17:15** (Coche 7)
 - [ ] Madrid Atocha **19:44**, then taxi to the hotel — do not attempt the Metro with 6 bags at dinner hour
 
-> ⚠️ **Check the Lisbon apartment before Aug 23.** It's **64 Rua da Bempostinha, 5º direito — fifth floor.** Ask the host directly whether there is a lift. If not, that's two full suitcases up five flights of Lisbon stairs, and it changes what you put in them.
+> ⚠️ **Check the Lisbon apartment before Aug 23.** It's **64 Rua da Bempostinha, 5º direito — fifth floor** [📍](https://maps.google.com/?q=Rua+da+Bempostinha+64+1150-099+Lisboa+Portugal). Ask the host directly whether there is a lift. If not, that's two full suitcases up five flights of Lisbon stairs, and it changes what you put in them.
 
 ---
 

@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| **Hotel** | **AB Sagrada Família Bofill**, Eixample, 08013 Barcelona |
+| **Hotel** | **AB Sagrada Família Bofill** [📍](https://maps.google.com/?q=Carrer+de+la+Marina+240+08013+Barcelona+Spain) — Carrer de la Marina 240, Eixample, 08013 Barcelona |
 | **Check-in** | Wed Aug 26 · 15:00–00:00 (arrive ~22:45 after TP1038) |
 | **Check-out** | Mon Aug 31 by 11:00 — but leave **~09:40** for the AVE (Sants by 10:30) |
 | **Flight in** | TP1038 LIS → BCN: 18:55 → 21:50, Terminal 1 |

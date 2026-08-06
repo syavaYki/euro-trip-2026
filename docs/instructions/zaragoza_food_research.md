@@ -44,7 +44,7 @@ The tapas alleys — Calles Estébanes, Libertad, 4 de Agosto, Mártires — bet
 
 ## 🏘️ Host's Local Picks (walkable from apartment)
 
-Recommended by Isabel/Jose Luis — all within 5–10 min of Calle Dr. Alejandro Palomar 38. ⚠️ Small neighborhood bars: Monday and late-August hours unverified — treat as bonus stops, with El Tubo as the reliable fallback 10 min away.
+Recommended by Isabel/Jose Luis — all within 5–10 min of C. del Dr. Alejandro Palomar 38. ⚠️ Small neighborhood bars: Monday and late-August hours unverified — treat as bonus stops, with El Tubo as the reliable fallback 10 min away.
 
 | Name | Specialty | Address | Tip |
 |------|-----------|---------|-----|

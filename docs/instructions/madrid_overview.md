@@ -13,7 +13,7 @@
 
 | | |
 |---|---|
-| **Apartment** | Plenora Alejandro Dumas — C. de Alejandro Dumas 30, Arganzuela, Madrid 28005 |
+| **Apartment** | Plenora Alejandro Dumas [📍](https://maps.google.com/?q=Calle+de+Alejandro+Dumas+30+28005+Madrid+Spain) — C. de Alejandro Dumas 30, Arganzuela, Madrid 28005 |
 | **Booking** | ✅ Booking.com #5149971517 · €671.73 paid in full |
 | **PIN / door code** | **7526** |
 | **Phone** | +34 661 781 481 |

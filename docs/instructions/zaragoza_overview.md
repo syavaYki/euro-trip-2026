@@ -10,7 +10,7 @@
 | | |
 |---|---|
 | **Apartment** | Apartamento Centro 5 PSN Wifi — entire home/apt, host Isabel (co-host Jose Luis) |
-| **Address** | Calle Dr. Alejandro Palomar 38, 2º Izda, 50002 Zaragoza ([Google Maps](https://goo.gl/maps/HALZD1PEQYQ2)) — Magdalena edge of the old town, ~10 min walk to Plaza del Pilar. ⚠️ Verify map shows downtown Zaragoza (other towns have streets with the same name). |
+| **Address** | C. del Dr. Alejandro Palomar 38, 2º Izda, 50002 Zaragoza [📍](https://maps.google.com/?q=Calle+del+Dr.+Alejandro+Palomar+38+50002+Zaragoza+Spain) — Magdalena edge of the old town, ~10 min walk to Plaza del Pilar. ⚠️ Verify map shows downtown Zaragoza (other towns have streets with the same name). |
 | **Booking** | Airbnb #**HM28SJ8P8C** · $93.93 (PayPal, scheduled Aug 18, 2026) |
 | **Cancellation** | Free until 16:00 on Aug 26; non-refundable after |
 | **Host contact** | Isabel · +34 659 60 06 43 (Jose Luis is co-host) |
