@@ -40,7 +40,7 @@
     }
 
     html, body {
-      height: 100%;
+      min-height: 100%;
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
       background: var(--bg);
       color: var(--text);
@@ -623,9 +623,6 @@
   <div class="city-tab active" data-city="overview">
     <span class="flag">📋</span>Overview
   </div>
-  <div class="city-tab" data-city="packing">
-    <span class="flag">🎒</span>Packing
-  </div>
   <div class="city-tab" data-city="porto">
     <span class="flag">🇵🇹</span>Porto
   </div>
@@ -677,19 +674,9 @@ const TABS = {
   overview: {
     label: "Overview",
     subs: [
-      { key: "master",  label: "📋 Full Itinerary", file: "docs/instructions/euro_trip_2026.md" }
-    ]
-  },
-  booking: {
-    label: "Booking",
-    subs: [
-      { key: "tracker", label: "🎟️ Booking Tracker", file: "docs/instructions/booking.md" }
-    ]
-  },
-  packing: {
-    label: "Packing",
-    subs: [
-      { key: "list", label: "🎒 Packing List", file: "docs/instructions/packing.md" }
+      { key: "master",  label: "📋 Full Itinerary", file: "docs/instructions/euro_trip_2026.md" },
+      { key: "tracker", label: "🎟️ Booking Tracker", file: "docs/instructions/booking.md" },
+      { key: "list",    label: "🎒 Packing List", file: "docs/instructions/packing.md" }
     ]
   },
   porto: {
@@ -787,6 +774,7 @@ async function loadContent(city, sub) {
   // Cache hit?
   if (cache[subCfg.file]) {
     contentEl.innerHTML = cache[subCfg.file];
+    externalLinksNewTab();
     transformTables();
     enableChecklist(subCfg.file);
     if (isOverview) injectTOC();
@@ -801,6 +789,7 @@ async function loadContent(city, sub) {
     const html = `<div class="md">${marked.parse(md)}</div>`;
     cache[subCfg.file] = html;
     contentEl.innerHTML = html;
+    externalLinksNewTab();
     transformTables();
     enableChecklist(subCfg.file);
     if (isOverview) injectTOC();
@@ -813,6 +802,14 @@ async function loadContent(city, sub) {
         URL is configured correctly at the top of this file.
       </div>`;
   }
+}
+
+// ─── External links open in a new tab ────────────────────────────────────────
+function externalLinksNewTab() {
+  contentEl.querySelectorAll('.md a[href^="http"]').forEach(a => {
+    a.target = "_blank";
+    a.rel = "noopener noreferrer";
+  });
 }
 
 // ─── Make markdown task lists tickable + persist ticks ───────────────────────
