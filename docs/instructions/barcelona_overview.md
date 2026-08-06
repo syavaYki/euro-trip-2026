@@ -62,6 +62,7 @@
 | Pedralbes / Montjuïc Castle | Gothic cloister; harbour panorama | **FREE Sun from 15:00** | ❌ | Day 5 B afternoon |
 | Bunkers del Carmel | 360° view — now fenced, 09:00–19:30 | Free | ❌ | ❌ **not a sunset spot anymore**; optional daytime only |
 | ~~Casa Batlló / La Pedrera~~ | Skipped — centenary pricing; facades free at night | — | ❌ decision | Day 2 evening walk-by |
+| 💃 **Flamenco** | Carmen Amaya was born on Barceloneta beach — the city's tablaos are the real thing | €20 (Los Tarantos, 30 min) → €90 (dinner shows) | ❌ same-week online | **No night picked** — full options on the Sights tab |
 
 ---
 

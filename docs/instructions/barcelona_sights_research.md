@@ -170,7 +170,29 @@
 
 ---
 
-## 🚇 Section 8 — Bookings & Practical
+## 💃 Section 8 — Flamenco (no night picked yet)
+
+> Flamenco is Andalusian, not Catalan — but Barcelona has a real claim on it: **Carmen Amaya**, the greatest *bailaora* of the 20th century, was born in 1913 in the Somorrostro shanty-town **on Barceloneta beach**. The city's tablaos grew out of that Andalusian-gitano migration, and the two oldest predate everything in Madrid except Corral de la Morería.
+>
+> **Nothing is booked and no evening is claimed.** All of these sell online same-week in late August, so decide on the ground — the last column says which night each one costs us least.
+
+| Venue | What / why | Price | Shows (verify) | Which evening it fits |
+|-------|-----------|-------|----------------|------------------------|
+| **Los Tarantos** [📍](https://maps.google.com/?q=Los+Tarantos+Pla%C3%A7a+Reial+Barcelona+Spain) ⭐ | Barcelona's oldest tablao (1963), Plaça Reial — a **30-minute** set of cante, baile and guitar, no dinner, no filler | ~€20 incl. drink | Nightly, roughly hourly 19:30 / 20:30 / 21:30 | **The low-commitment yes** — half an hour and ~€80 for four. Any evening; Plaça Reial is 5 min off La Rambla |
+| **Palau Dalmases** [📍](https://maps.google.com/?q=Palau+Dalmases+Barcelona+Spain) ⭐ | Flamenco in the candlelit baroque salon of a 17th-c palace, El Born — ~70 seats, no stage, dancers within arm's reach | ~€30 incl. drink | Nightly, ~18:00 / 19:30 / 21:30 | **Day 4** — 3 min from both the Picasso Museum and Santa Maria del Mar, already on that day's route |
+| **Tablao Cordobés** [📍](https://maps.google.com/?q=Tablao+Cordob%C3%A9s+Barcelona+Spain) ⭐ | On La Rambla since 1970 in a Moorish-tiled room; Camarón, Paco de Lucía and Antonio Gades all played it | €45–50 show + drink; €65–90 with the tapas buffet | Several nightly | The full tablao experience at below-Madrid prices — **book direct on their site**, the Rambla touts resell the same seats dearer |
+| **Tablao de Carmen** [📍](https://maps.google.com/?q=Tablao+de+Carmen+Barcelona+Spain) | Named for Carmen Amaya, inside **Poble Espanyol** on Montjuïc — ticket includes entry to the village itself | ~€45–50 show + drink; dinner tiers higher | Two nightly | **Day 5 Option B** — we're already on Montjuïc for the castle at 17:15; stay up the hill instead of coming down twice |
+| **Gran Gala Flamenco** @ **Palau de la Música** [📍](https://maps.google.com/?q=Palau+de+la+M%C3%BAsica+Catalana+Barcelona+Spain) | Flamenco under Domènech i Montaner's inverted stained-glass dome — the only way we get **inside the Palau** without buying the €22 tour | €35–60 | Selected evenings ~21:00 — **not nightly, check the calendar first** | Two sights on one ticket. If a date lands in Aug 26–30, this is the best-value evening on the list |
+| **Palacio del Flamenco** [📍](https://maps.google.com/?q=Palacio+del+Flamenco+Barcelona+Spain) | The big theatre-format one (C/ Balmes, Eixample) — three shows a night, full dinner menus | €45 show + drink; €60–90 with dinner | Nightly, ~17:30 / 19:45 / 21:30 | Least intimate, easiest to book late. The **Thursday** fit: out of the Sagrada ~19:45, dinner 20:15, Metro to the 21:30 |
+| **23 Robadors** [📍](https://maps.google.com/?q=23+Robadors+Barcelona+Spain) | The anti-tablao — a scruffy Raval bar where local artists play for a few euros and nobody claps in the wrong place | ~€5–10 | One late flamenco night a week (traditionally Wed), from ~22:30 — verify | ⚠️ **Not a family plan.** Late, and in the one barrio we've flagged against after dark. Listed because it's the real thing |
+
+> 💡 **Free, 2 minutes, on a day we're already there:** the **Font de Carmen Amaya** [📍](https://maps.google.com/?q=Font+de+Carmen+Amaya+Barcelona+Spain) on Plaça de Brugada in Barceloneta — a tiled fountain to the girl from the Somorrostro, a block back from the sand. Worth the detour on the **Day 4** beach walk whether or not we ever buy a ticket.
+
+> ⚠️ Every price and showtime above needs a same-week check — tablao schedules shift in August and half of them run a reduced summer programme.
+
+---
+
+## 🚇 Section 9 — Bookings & Practical
 
 > **T-casual €12.55** (10 rides, zone 1, single-person) — buy 4; covers Metro, bus, FGC, Rodalies zone 1, **Montjuïc funicular and Vallvidrera funicular** (both integrated — an earlier note claiming Vallvidrera needs a separate ticket was wrong). The **Montjuïc cable car (€13)** and the Tibidabo Cuca de Llum funicular are separate products. T-familiar €11.50/8 rides is the shareable spare; Hola BCN 96h (€35.60 pp) never breaks even on our ~9–12 rides.
 
