@@ -1435,6 +1435,23 @@ Flat city, superb Metro. No car.
 
 ---
 
+### 💃 Flamenco in Barcelona — if an evening frees up
+
+> Nothing booked, no night claimed. Flamenco is Andalusian, not Catalan — but **Carmen Amaya**, the greatest *bailaora* of the 20th century, was born in 1913 in the Somorrostro shanty-town on Barceloneta beach, and the city's tablaos grew out of that migration. Two of them are older than anything in Madrid bar Corral de la Morería. Everything below sells online same-week in late August, so this is a decide-on-the-ground call.
+
+| Option | Where it slots | Cost / length |
+| ------ | -------------- | ------------- |
+| **[Los Tarantos](https://maps.google.com/?q=Los+Tarantos+Pla%C3%A7a+Reial+Barcelona+Spain)** (Plaça Reial) ⭐ | **The low-commitment yes** — Barcelona's oldest tablao (1963) does a straight **30-minute** set, roughly hourly 19:30 / 20:30 / 21:30. Fits any night, including after a Gothic-Quarter dinner | ~€20 pp incl. drink · 30 min |
+| **[Palau Dalmases](https://maps.google.com/?q=Palau+Dalmases+Barcelona+Spain)** (El Born) ⭐ | **Day 4** — candlelit baroque salon, ~70 seats, 3 min from both the Picasso Museum and Santa Maria del Mar, which are already on Saturday's route | ~€30 pp incl. drink · ~1 hr |
+| **[Tablao Cordobés](https://maps.google.com/?q=Tablao+Cordob%C3%A9s+Barcelona+Spain)** (La Rambla) ⭐ | The full tablao night — same room Camarón and Paco de Lucía played, since 1970. **Book direct**; the Rambla touts resell the same seats dearer | €45–50 + drink; €65–90 w/ tapas buffet |
+| **Gran Gala Flamenco** @ **[Palau de la Música](https://maps.google.com/?q=Palau+de+la+M%C3%BAsica+Catalana+Barcelona+Spain)** | Two sights on one ticket — the only way inside the stained-glass hall without the €22 tour. ⚠️ **Selected evenings only, not nightly** — check the calendar for Aug 26–30 first | €35–60 pp |
+| **[Tablao de Carmen](https://maps.google.com/?q=Tablao+de+Carmen+Barcelona+Spain)** (Poble Espanyol) | **Day 5 Option B** — we're already on Montjuïc for the castle at 17:15; ticket includes Poble Espanyol entry | ~€45–50 + drink |
+| **[Palacio del Flamenco](https://maps.google.com/?q=Palacio+del+Flamenco+Barcelona+Spain)** (Eixample) | **The Thursday fit** — out of the Sagrada ~19:45, dinner 20:15, Metro to the 21:30. Big theatre format, easiest to book late | €45 + drink; €60–90 w/ dinner |
+
+> 💡 **Free either way:** the **[Font de Carmen Amaya](https://maps.google.com/?q=Font+de+Carmen+Amaya+Barcelona+Spain)** on Plaça de Brugada, a block back from the Barceloneta sand — a 2-minute detour on the Day 4 beach walk. Full venue notes on the **Barcelona → Sights** tab.
+
+---
+
 ### ⛪ Mass in Barcelona — optional
 
 > This is the trip's **one full Sunday in Spain** (Aug 23 was Lisbon's). If attending Mass matters, decide **before** picking Day 5's option — the best celebration starts at 09:00, exactly when the Girona train leaves.
@@ -1753,6 +1770,20 @@ Locator **4U5NZV** · Coche 7 · seats 2C / 2D / 3C / 3D · 1h56m. Trenza time.
 Metro or taxi to the hotel. Late casual dinner near the hotel — see Madrid Sep 1 plan.
 
 > **Skipped this trip (no time / closed):** the full Roman-route combo interiors (Teatro, Termas, Puerto Fluvial), Museo Pablo Gargallo and Alma Mater Museum (both Monday-closed and siesta-gapped Tuesday), Museo Goya (closed for expansion until ~Oct 2026 — its Goyas hang at Patio de la Infanta, "Goya. Interludio," if you find a spare 40 min), and the Origami Museum (EMOZ) the teens would've liked. All reachable on a future stop — Zaragoza is 1h20 from Madrid.
+
+---
+
+### 💃 Flamenco in Zaragoza — the honest answer
+
+> **There is no tourist tablao in Zaragoza.** Aragón's own music is the ***jota*** — sung and danced, faster and more upright than flamenco, with its own costume and fierce local pride. Flamenco exists here (the *gitano* community in **El Gancho / San Pablo**, the barrio behind the Mercado Central, goes back generations) but it lives in *peñas* and one-off theatre bookings, not nightly shows for visitors.
+>
+> Our window seals it: **Monday evening is already tower 19:00 → sunset bridge 20:20 → El Tubo 21:00**, and **Tuesday we're on the 17:48 AVE**. **Verdict: do flamenco in Barcelona or Madrid.**
+
+| If you still want to try | How |
+| ------------------------ | --- |
+| **Jota with dinner** | **[El Cachirulo](https://maps.google.com/?q=Restaurante+El+Cachirulo+Zaragoza+Spain)** on the Logroño road — live jota in full regional costume. ⚠️ 15-min taxi out of the centre, shows lean to weekends, **call first**; a Monday performance is unlikely |
+| **Whatever's programmed** | **Teatro Principal · Teatro de las Esquinas · Sala Las Armas** — check the agenda at [zaragoza.es](https://www.zaragoza.es) / [turismodezaragoza.es](https://www.turismodezaragoza.es) about a week out; the September season starts right on our dates |
+| **The free long shot** | Ask at the **tourist office on Plaza del Pilar** Monday afternoon (between La Seo and the tower) — summer jota performances get put on in plazas and civic centres and don't always reach the online listings |
 
 ---
 
@@ -2301,6 +2332,35 @@ Unscheduled but pre-vetted, for a rain hour, a dropped plan, or a burst of energ
 | **[Atocha](https://maps.google.com/?q=Madrid+Atocha+station+Spain) tropical garden**                                                                 | 4,000 m² of palms + turtle pond inside the station                                        | Free · daily ~06:00–22:00                           |
 | **[Mirador Cibeles](https://maps.google.com/?q=Mirador+Madrid+Palacio+de+Cibeles+Spain) rooftop**                                                                | 8th-floor 360° terrace on the wedding-cake city hall                                      | €3 · Tue–Sun 10:30–14:00 + 16:00–19:30              |
 | **[Museo Thyssen-Bornemisza](https://maps.google.com/?q=Museo+Thyssen-Bornemisza+Madrid+Spain) [🌐](https://www.museothyssen.org/en)**                                                               | The third Paseo del Arte pillar — Impressionists + Hopper, calmer than the Prado          | €13 · Tue–Sun 10:00–19:00                           |
+
+### 💃 Flamenco in Madrid — pick a night, nothing's booked
+
+> Madrid is flamenco's commercial capital and the one city on this trip where any night of the week gets you the real thing. That also means there's no rush to lock it — decide once we see how Day 2 and Day 3 actually land.
+
+**Which night:**
+
+| Night | Verdict |
+| ----- | ------- |
+| **Tue Sep 1** — arrival | ❌ AVE lands Atocha 19:44; tonight is eat-and-sleep by design |
+| **Wed Sep 2** — Royal Madrid + Debod | 🟡 Only as a **22:30 late show**. Debod sunset ~20:45, dinner after — and **Las Tablas is a 10-min walk from Debod** |
+| **Thu Sep 3** — art day + UAM run | ⭐ **The natural slot: 21:00.** Tapas at Casa Toni first, trade out the Cava Baja crawl |
+| **Fri Sep 4** — Emily's move-in | ❌ Ends with the Chamberí farewell dinner. Don't cut that short |
+| **Sat Sep 5** | ❌ Departure |
+
+**Which venue:**
+
+| Venue | What you're buying | Cost |
+| ----- | ------------------ | ---- |
+| **[Cardamomo](https://maps.google.com/?q=Cardamomo+Madrid+Spain) [🌐](https://cardamomo.com)** ⭐ | The critics' pick for real-deal flamenco — working artists, 100 seats. Shows 18:00 / 19:30 / **21:00** / 22:30 | from ~€39 w/ drink |
+| **[Teatro Flamenco Madrid](https://maps.google.com/?q=Teatro+Flamenco+Madrid+Spain)** ⭐ | Theatre, not tablao: a **70-minute** staged show in Malasaña, no drinks minimum, no dinner upsell. **The cheapest, shortest way in** if the family wants flamenco but not a three-hour night | ~€25–32 pp |
+| **[Las Tablas](https://maps.google.com/?q=Las+Tablas+Madrid+Spain)** | Small, serious, Plaza de España — **the Day 2 late-show option**, walkable from Debod | €30–55 pp |
+| **[Torres Bermejas](https://maps.google.com/?q=Torres+Bermejas+Madrid+Spain)** | Alhambra-tiled room off Gran Vía since 1960 — **Camarón de la Isla held a residency here**. Historic room without Corral prices | €45–55 w/ drink |
+| **[Tablao Flamenco 1911](https://maps.google.com/?q=Tablao+Flamenco+1911+Madrid+Spain)** | The world's oldest tablao site (ex-Villa Rosa), Plaza Santa Ana — book it for the room as much as the show | €45–55 pp |
+| **[Corral de la Morería](https://maps.google.com/?q=Corral+de+la+Morer%C3%ADa+Madrid+Spain)** ⭐⭐ | The most celebrated tablao on earth (1956), Michelin-starred dining room attached — audience sits 3 m from the dancers | €52+; menu €130+ |
+
+> ⚠️ **Casa Patas closed for good in 2021** after 30 years — it still tops old blog lists and AI answers. Don't go looking for it.
+
+---
 
 ### ⛪ Mass in Madrid — optional
 

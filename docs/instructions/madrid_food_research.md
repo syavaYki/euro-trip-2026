@@ -124,14 +124,28 @@
 
 ## 💃 Flamenco Dining
 
-> Madrid is flamenco's commercial capital. Earlier shows suit the family; dinner/tapas add-ons exist at all of them. **If it happens, it's the Day 3 21:00 slot** — Day 4 is Emily's move-in day and ends with the Chamberí farewell dinner, which isn't something to cut short.
+> Madrid is flamenco's commercial capital — the one city on this trip where you can walk up on any night of the week and get the real thing. Earlier shows suit the family; dinner/tapas add-ons exist at all of them.
+
+**Which night — nothing is booked yet:**
+
+| Night | Verdict |
+|-------|---------|
+| **Tue Sep 1** (arrival) | ❌ AVE lands Atocha 19:44 and tonight is eat-and-sleep by design |
+| **Wed Sep 2** (Royal Madrid + Debod sunset) | 🟡 Possible on the **22:30 late show** — Debod sunset ~20:45, dinner after. Las Tablas is a 10-min walk from Debod |
+| **Thu Sep 3** (art day + UAM run) | ⭐ **The natural slot — 21:00.** Tapas at Casa Toni first, swap out the Cava Baja crawl |
+| **Fri Sep 4** (Emily's move-in) | ❌ Ends with the Chamberí farewell dinner — not something to cut short |
+| **Sat Sep 5** | ❌ Departure day |
 
 | Name | What / why | Price | Shows | Tip |
 |------|-----------|-------|-------|-----|
 | **Cardamomo** [📍](https://maps.google.com/?q=Cardamomo+Madrid+Spain) ⭐ | The critics' pick for real-deal flamenco — working artists, 100 seats, footwork you can feel | From ~€39 w/ drink | Daily 18:00 / 19:30 / 21:00 / 22:30 | The family pick: 21:00 show, tapas before at Casa Toni. Book cardamomo.com 1–2 weeks out |
 | **Corral de la Morería** [📍](https://maps.google.com/?q=Corral+de+la+Morer%C3%ADa+Madrid+Spain) ⭐⭐ | The most celebrated tablao on earth (1956) — Michelin-starred dining room attached | €52+; menu €130+ | Two nightly — verify | The someday-splurge; audience sits 3 m from the dancers |
+| **Teatro Flamenco Madrid** [📍](https://maps.google.com/?q=Teatro+Flamenco+Madrid+Spain) ⭐ | Theatre, not tablao: a **70-minute** staged show ("Emociones") in Malasaña — no drinks minimum, no dinner upsell | ~€25–32/pp | Multiple daily incl. early evening — verify | **The cheapest and shortest way in.** The right answer if the family wants flamenco but not a three-hour night |
 | **Tablao Flamenco 1911** [📍](https://maps.google.com/?q=Tablao+Flamenco+1911+Madrid+Spain) | World's oldest tablao site (1911, ex-Villa Rosa), gorgeous tiles | €45–55/pp | Nightly — verify | Book for the room as much as the show; Plaza Santa Ana |
-| **Las Tablas** [📍](https://maps.google.com/?q=Las+Tablas+Madrid+Spain) | The budget right answer — small, serious, Plaza de España | €30–55/pp | Two nightly — verify | Handy to the Debod side of town if Day 2 wants a show instead |
+| **Torres Bermejas** [📍](https://maps.google.com/?q=Torres+Bermejas+Madrid+Spain) | Since 1960 in an Alhambra-pastiche tiled room off Gran Vía — **Camarón de la Isla held a residency here** | €45–55 w/ drink; dinner tiers higher | Two nightly — verify | The historic-room pick that isn't Corral prices; 5 min from Callao |
+| **Las Tablas** [📍](https://maps.google.com/?q=Las+Tablas+Madrid+Spain) | The budget right answer — small, serious, Plaza de España | €30–55/pp | Two nightly — verify | Handy to the Debod side of town — this is the **Day 2 late-show** option |
+
+> ⚠️ **Casa Patas closed for good in 2021** after 30 years — it still shows up on old blog lists and in AI answers. Don't go looking for it.
 
 ---
 

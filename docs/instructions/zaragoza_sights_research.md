@@ -67,6 +67,21 @@
 
 ---
 
+## 💃 Flamenco & Jota — the honest answer
+
+> **Zaragoza has no tourist tablao.** Aragón's own music is the ***jota*** — sung and danced, faster and more upright than flamenco, with its own costume and a fierce local pride behind it. Flamenco does exist here (the *gitano* community in the **El Gancho / San Pablo** barrio goes back generations) but it lives in *peñas* and one-off theatre bookings, not in nightly shows for visitors.
+>
+> Our window makes it worse: **Mon Aug 31 evening is already tower → sunset bridge → El Tubo**, and **Tue Sep 1 we're on the 17:48 AVE**. Verdict: **do flamenco in Barcelona or Madrid.** If you want the Aragonese version instead, chase jota — below.
+
+| Option | What it is | Reality check for our 1 night |
+|--------|-----------|-------------------------------|
+| **El Cachirulo** [📍](https://maps.google.com/?q=Restaurante+El+Cachirulo+Zaragoza+Spain) | The big Aragonese folklore restaurant on the Logroño road — live **jota** singing and dancing with dinner, in full regional costume | ⚠️ 15-min taxi out of the centre and shows lean to weekends. **Call before going** — a Monday performance is unlikely |
+| **Teatro Principal · Teatro de las Esquinas · Sala Las Armas** | The venues that actually programme flamenco and jota nights when they programme them | Check the agenda at [zaragoza.es](https://www.zaragoza.es) / [turismodezaragoza.es](https://www.turismodezaragoza.es) about a week out — the September season is just starting on our dates |
+| **Tourist office, Plaza del Pilar** | Free summer jota performances get put on in plazas and civic centres and don't always reach the online listings | The cheapest 5 minutes you can spend — ask at the desk Monday afternoon between La Seo and the tower |
+| **El Gancho (San Pablo)** [📍](https://maps.google.com/?q=Barrio+San+Pablo+Zaragoza+Spain) | The barrio behind the Mercado Central — historically gitano and North African, the root of what flamenco the city has | Walk it **in daylight** for the atmosphere (it's 5 min off the Aljafería walk on Tuesday). Not a night plan for us |
+
+---
+
 ## ⚡ Quick-Pick by Category
 
 | Goal | Answer |

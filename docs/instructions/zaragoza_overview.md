@@ -65,6 +65,8 @@
 
 > ⚠️ **Closed for us:** Roman museums, Pablo Gargallo, Alma Mater — all closed Mondays; **Museo Goya closed until ~Oct 2026** (expansion; collection at Patio de la Infanta).
 
+> 💃 **No flamenco here** — Zaragoza has no tourist tablao, and Aragón's own music is the ***jota***. With Monday's evening spoken for and a 17:48 departure Tuesday, save flamenco for Madrid. Jota + listings options on the **Sights** tab.
+
 ---
 
 ### Food Quick-Reference
