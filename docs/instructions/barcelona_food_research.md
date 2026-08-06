@@ -1,8 +1,10 @@
-# Barcelona Food & Drink Research
-## Euro Trip 2026 — Aug 26–31 (5 nights, arriving by flight from Lisbon)
-### Family of 4: Seva, wife, 2 daughters (ages 16 & 18)
+# Barcelona Food & Drink
+## Aug 26–31 (5 nights) · Euro Trip 2026
+### Family of 4: Seva, wife, 2 daughters (17 & 19)
 
-> ✅ *Full research — sourced from "100 Authentic Local Tascas & Restaurants," local expat YouTube transcript, Reddit r/barcelona, Spotted by Locals, Time Out Barcelona, and Devour Tours guides.*
+> ✅ *Full research — sourced from "100 Authentic Local Tascas & Restaurants," local expat YouTube transcript, Reddit r/barcelona, Spotted by Locals, Time Out Barcelona, and Devour Tours guides. Hours re-verified Aug 2026 for the Aug 26–31 window.*
+
+> ⚠️ **AUGUST REALITY CHECK — verified for our week.** Barcelona's classic bars take staff holidays in August: **Quimet & Quimet is closed the entire month** (off this trip); **El Xampanyet** is closed for its August break and reportedly reopens **~Aug 24–25** — confirm at the window before queueing; **Tickets is permanently closed** (its successor Teatro closed Dec 2025 too — Albert Adrià's current flagship is Enigma); **La Cova Fumada** runs but closes **13:00 on Saturdays** and takes holiday days — call ahead. Assume any small bodega might be shut and have a backup.
 
 ---
 
@@ -10,103 +12,112 @@
 
 > These are the dishes that define Barcelona's food culture. If you don't eat them here, you've missed the point.
 
-| Dish | What It Is | Where to Find It | Notes |
-|------|-----------|-----------------|-------|
-| **Pa amb tomàquet** [📍](https://maps.google.com/?q=Pa+amb+tom%C3%A0quet+Barcelona+Spain) | Bread rubbed with ripe tomato half, drizzled with olive oil, salted. Catalan staple, appears at every meal. | Every bar, café, restaurant | Order it instead of regular bread. Basic but transformative when done right. |
-| **La Bomba** [📍](https://maps.google.com/?q=La+Bomba+Barcelona+Spain) ⭐ | Spiced meat-and-potato ball, deep-fried, served with two sauces: bravas (spicy tomato) and alioli. Invented in Barceloneta. | La Cova Fumada (invented it), Barceloneta bars | The name comes from its shape — like a cannonball. This is THE Barcelona snack. |
-| **Fideuà** [📍](https://maps.google.com/?q=Fideu%C3%A0+Barcelona+Spain) | Paella's cousin: made with thin noodles (*fideus*) instead of rice, with seafood, toasted dry in the pan for crispy edges. | 7 Portes, La Mar Salada, any paella house | Often better than paella because the noodles soak up more flavour. |
-| **Arròs negre** [📍](https://maps.google.com/?q=Arr%C3%B2s+negre+Barcelona+Spain) | Squid-ink rice — black, intensely savoury, almost always topped with alioli. | 7 Portes, La Barceloneta seafood spots | The squid ink is not strong-tasting; it's savoury and nutty. Kids usually love it. |
-| **Croquetes** [📍](https://maps.google.com/?q=Croquetes+Barcelona+Spain) | Creamy béchamel croquettes — ham (*pernil*), bacallà (cod), or mushroom. Spain's greatest bar snack. | Everywhere — order at any tapas bar | Quality varies wildly; look for golden-brown, non-greasy exterior. |
-| **Patatas bravas** [📍](https://maps.google.com/?q=Patatas+bravas+Barcelona+Spain) | Fried potato chunks with bravas sauce (spicy tomato) and alioli. | Every tapas bar in Barcelona | Barcelona version often uses both sauces mixed or side by side. |
-| **Crema catalana** [📍](https://maps.google.com/?q=Crema+catalana+Barcelona+Spain) ⭐ | Catalan crème brûlée — custard with a burnt caramel crust. Do not confuse with French crème brûlée; Catalan version is older (14th century). | Any traditional restaurant for dessert | Ask for it specifically over "*flan*" — it's the real local version. |
-| **Vermut** [📍](https://maps.google.com/?q=Vermut+Barcelona+Spain) (vermouth) | Mid-morning or pre-lunch ritual: house vermouth on ice, olive, small tapa. Not a drink — a lifestyle. | See Vermouth Culture section below | Sat/Sun 12:00–14:30. The locals call it making "el vermut." |
-| **Escalivada** [📍](https://maps.google.com/?q=Escalivada+Barcelona+Spain) | Roasted red peppers and aubergine, charred and dressed with olive oil. Catalan through and through. | Traditional Catalan restaurants | Often served on pa amb tomàquet or with anchovies. |
-| **Anchoas** [📍](https://maps.google.com/?q=Anchoas+Barcelona+Spain) (anchovies) | Spanish anchovies (anchoa del Cantábrico) are a premium product — nothing like tinned anchovies elsewhere. Rich, buttery, intense. | El Xampanyet (famous for theirs), any good bodega | Order them as a tapa and let everyone taste — a food education. |
+| Dish | What It Is | Where to Find It | Tip |
+|------|-----------|-----------------|-----|
+| **Pa amb tomàquet** [📍](https://maps.google.com/?q=Pa+amb+tom%C3%A0quet+Barcelona+Spain) | Bread rubbed with ripe tomato, olive oil, salt — the Catalan staple at every meal | Every bar, café, restaurant | Order it instead of plain bread; judge every kitchen by it |
+| **La Bomba** [📍](https://maps.google.com/?q=La+Bomba+Barcelona+Spain) ⭐ | Spiced meat-and-potato ball, deep-fried, with bravas sauce + alioli. Invented in Barceloneta | La Cova Fumada (invented it), Bar Jai-Ca, Barceloneta bars | Named for its cannonball shape — one each with the two sauces mixed is the move (Day 4 lunch) |
+| **Fideuà** [📍](https://maps.google.com/?q=Fideu%C3%A0+Barcelona+Spain) | Paella's cousin made with thin noodles, toasted crisp at the edges | 7 Portes, La Mar Salada, any paella house | Often better than paella — the noodles soak up more flavour; squeeze the lemon, stir the alioli in |
+| **Arròs negre** [📍](https://maps.google.com/?q=Arr%C3%B2s+negre+Barcelona+Spain) | Squid-ink rice — black, savoury, topped with alioli | 7 Portes, Kaiku, Barceloneta seafood spots | The ink isn't fishy — it's nutty and deep; teens usually love it once they taste it |
+| **Croquetes** [📍](https://maps.google.com/?q=Croquetes+Barcelona+Spain) | Creamy béchamel croquettes — ham, cod or mushroom | Every tapas bar | Look for golden, non-greasy shells; Bar del Pla's pernil version is a benchmark |
+| **Patatas bravas** [📍](https://maps.google.com/?q=Patatas+bravas+Barcelona+Spain) | Fried potato chunks, spicy tomato sauce + alioli | Every tapas bar | Barcelona serves both sauces — drag each bite through the two |
+| **Crema catalana** [📍](https://maps.google.com/?q=Crema+catalana+Barcelona+Spain) ⭐ | Catalan crème brûlée — 14th-century original, burnt-sugar crust | Any traditional restaurant | Ask for it by name over "flan"; crack the crust with the back of the spoon |
+| **Vermut** [📍](https://maps.google.com/?q=Vermut+Barcelona+Spain) | Pre-lunch ritual: house vermouth on ice, olive, small tapa | See Vermouth Culture below | Weekends 12:00–14:30; order "un vermut amb sifó" and you're a local |
+| **Escalivada** [📍](https://maps.google.com/?q=Escalivada+Barcelona+Spain) | Charred, peeled peppers + aubergine dressed in oil | Traditional Catalan restaurants | Best on pa amb tomàquet with an anchovy across the top |
+| **Anchoas** [📍](https://maps.google.com/?q=Anchoas+Barcelona+Spain) | Premium Cantabrian anchovies — buttery, intense, nothing like the pizza kind | Good bodegas everywhere | Order one ració for the table and make everyone try — a food education for €8 |
 
 ---
 
 ## 🥐 Breakfast & Pastry Spots
 
-| Name | Description | Must-Try / Featured Item | Address | Notes |
-|------|-------------|--------------------------|---------|-------|
-| **Mauri Pastissería** [📍](https://maps.google.com/?q=Mauri+Pastisser%C3%ADa+Barcelona+Spain) ⭐ | Classic Catalan pastry institution since 1929 on Rambla de Catalunya. Ornate belle-époque interior. A proper sit-down café experience — a step above the typical café. | Croissant de mantequilla; *ensaïmada* (Mallorcan spiral pastry); breakfast with *cortado* | Rambla de Catalunya 83, Eixample | Worth the splurge once; the interior alone is worth seeing |
-| **Xurrería Laietana** [📍](https://maps.google.com/?q=Xurrer%C3%ADa+Laietana+Barcelona+Spain) ⭐ | No-frills, generations-old churros bar. Counter seating, hot chocolate so thick you can stand a spoon in it. Guaranteed hit with teenagers. The genuine Catalan version, not a tourist trap. | Churros con chocolate | C/ de la Xucla 4, El Raval | Go early morning; closes when sold out |
-| **Forn de Sant Jaume** [📍](https://maps.google.com/?q=Forn+de+Sant+Jaume+Barcelona+Spain) | Outstanding traditional Catalan pastry shop in Eixample. Known for *croissants de mantequilla*, *ensaïmada*, and *coca de llardons* (pork fat pastry, Catalan specialty). | *Ensaïmada*; *coca de llardons*; almond croissant | Rambla de Catalunya 50, Eixample | Go at opening (8am) for fresh pastries |
-| **Bar Calders** [📍](https://maps.google.com/?q=Bar+Calders+Barcelona+Spain) | Beloved neighbourhood bar in Sant Antoni. One of the best morning cafés in Barcelona — proper coffee, *pa amb tomàquet*, and a slice of Catalan daily life. Beloved by locals, utterly unpretentious. | *Pa amb tomàquet*; café amb llet (Catalan latte); *tortilla* | C/ del Parlament 25, Sant Antoni | Best weekday morning spot in this neighbourhood |
-| **Federal Café** [📍](https://maps.google.com/?q=Federal+Caf%C3%A9+Barcelona+Spain) | Australian-owned specialty coffee and brunch spot in Sant Antoni — pioneer of Barcelona brunch culture. Eggs dishes, sourdough, excellent coffee. Very popular on weekends. | Eggs Benedict; avocado toast; batch filter coffee | Pg. de Sant Antoni Abat 24, Sant Antoni | Arrive before 10am on weekends to avoid queues |
-| **Bar del Convent** [📍](https://maps.google.com/?q=Bar+del+Convent+Barcelona+Spain) | Hidden gem café inside the courtyard of a 17th-century convent in El Born. Quiet, shaded, atmospheric — completely tourist-free. Coffee, light lunch, occasional exhibitions. | Coffee + pastry in courtyard silence | C/ del Comerç 36, El Born | Free to enter; open Tue–Sun |
+> Barcelona breakfasts are short and sweet: coffee + pastry standing up, or the granja ritual — thick hot chocolate you eat with a spoon.
+
+| Name | What/Why | Area | Price | Hours/Closed (our week) | Tip |
+|------|----------|------|-------|------------------------|-----|
+| **Granja La Pallaresa** [📍](https://maps.google.com/?q=Granja+La+Pallaresa+Barcelona+Spain) ⭐ | The Petritxol granja institution (1947): xocolata amb xurros, marble tables, waistcoated waiters | C/ de Petritxol 11, El Gòtic | €5–8 | Morning + late-afternoon service — granja split hours, verify on site | Day 4 breakfast; order the suís (chocolate + cream mountain) and share |
+| **Mauri Pastissería** [📍](https://maps.google.com/?q=Mauri+Pastisser%C3%ADa+Barcelona+Spain) ⭐ | Belle-époque pastry salon since 1929 — a proper sit-down café | Rambla de Catalunya 83, Eixample | €8–15 | Daily from morning — verify Aug hours | Worth one splurge; ensaïmada + cortado under the painted ceiling |
+| **Xurrería Laietana** [📍](https://maps.google.com/?q=Xurrer%C3%ADa+Laietana+Barcelona+Spain) ⭐ | No-frills generations-old churros counter; spoon-standing hot chocolate | C/ de la Xucla 4, El Raval | €5–8 | Early mornings; closes when sold out | Guaranteed teen hit; go before 10:00 |
+| **Forn de Sant Jaume** [📍](https://maps.google.com/?q=Forn+de+Sant+Jaume+Barcelona+Spain) | Traditional Catalan pastry shop — ensaïmada, coca de llardons | Rambla de Catalunya 50, Eixample | €5–10 | From ~08:00 | Go at opening for warm trays; the almond croissant travels well to a train |
+| **Bar Calders** [📍](https://maps.google.com/?q=Bar+Calders+Barcelona+Spain) | Beloved Sant Antoni neighbourhood bar — pa amb tomàquet mornings, vermut middays | C/ del Parlament 25, Sant Antoni | €8–15 | Daily — verify Aug | The un-touristy breakfast; sit on the terrace with the stroller crowd |
+| **Federal Café** [📍](https://maps.google.com/?q=Federal+Caf%C3%A9+Barcelona+Spain) | Australian specialty-coffee brunch pioneer | Pg. de Sant Antoni Abat 24, Sant Antoni | €12–20 | Daily; weekend queues | Before 10:00 on weekends or you'll wait; best flat white in the quarter |
+| **Bar del Convent** [📍](https://maps.google.com/?q=Bar+del+Convent+Barcelona+Spain) | Café in a 17th-century convent courtyard — silent, shaded, tourist-free | C/ del Comerç 36, El Born | €5–10 | Tue–Sun | Coffee + pastry in cloister quiet; pairs with the El Born Centre next door |
 
 ---
 
 ## 🥘 Tapas, Bodegas & Local Classics
 
-| # | Name | Description | Must-Try | Price Range | Address | Notes |
-|---|------|-------------|----------|-------------|---------|-------|
-| 1 | **Carrer de Blai (pintxos street)** [📍](https://maps.google.com/?q=Carrer+de+Blai+%28pintxos+street%29+Barcelona+Spain) ⭐ | Poble-sec street lined with pintxos bars — Basque-style open-faced snacks on bread. The most fun cheap eating in Barcelona. Kids pick from the displays. | Mix of pintxos from 3–4 bars; try the jamón + queso and the shrimp ones | €2–3/pintxo | Carrer de Blai, Poble-sec | Go 18:00–20:00 before the rush. Bar Blai 9 and Tasca el Corral are the best of the strip. |
-| 2 | **Quimet & Quimet** [📍](https://maps.google.com/?q=Quimet+%26+Quimet+Barcelona+Spain) ⭐⭐ | A Barcelona institution — tiny bodega, standing-room only, extraordinary *montaditos* (creative tapas on bread) loaded with tinned fish, conservas, truffle honey, and unexpected combos. Run by the same family for decades. | Sardines + yogurt + honey montadito; tuna + caviar; any of the conservas montaditos | €15–20/person | C/ del Poeta Cabanyes 25, Poble-sec | **CRITICAL**: lunchtime only (Mon–Sat 12:00–16:00, closed Sun + evenings). Arrive at 12:00 — tiny space fills instantly. Standing only. One of Barcelona's unmissable food experiences. |
-| 3 | **Cal Pep** [📍](https://maps.google.com/?q=Cal+Pep+Barcelona+Spain) ⭐⭐ | Barcelona legend — a fish-forward tapas counter near Santa Maria del Mar. No menu; Pep (or his team) decides what you eat based on the market. Always packed, always outstanding. Only sit at the bar — the dining room is a different, lesser experience. | Chef's daily selection — usually *clams*, *baby squid*, *jamón*, *tortillitas de camarones* | €30–40/person | Pl. de les Olles 8, El Born | Open for lunch from 13:30 but the real crowds come at 20:30 for dinner. Join the bar queue — it moves. No reservations for bar. |
-| 4 | **Bar del Pla** [📍](https://maps.google.com/?q=Bar+del+Pla+Barcelona+Spain) ⭐ | One of the best traditional Catalan tapas bars in El Born. Vaulted brick interior, slightly hidden, beloved by locals. Much quieter than the tourist trail outside. Outstanding *croquetes*, excellent wine list, impeccable patatas bravas. | *Croquetes de pernil*; *patatas bravas* with alioli; house wine by the glass | €20–28/person | C/ de la Montcada 2, El Born | Just off the main tourist drag but a world away in atmosphere. Go at lunch. |
-| 5 | **Ciudad Condal** [📍](https://maps.google.com/?q=Ciudad+Condal+Barcelona+Spain) | Lively tapas restaurant on Rambla de Catalunya, always buzzing. One of Barcelona's most reliable for high-volume, high-quality Catalan tapas. No reservations — join the queue. | Patatas bravas; *croquetas*; *gambas al ajillo* | €20–28/person | Rambla de Catalunya 18, Eixample | Best for dinner — arrive at 20:00 for opening. Queue moves fast. |
-| 6 | **Bodega Quimet** [📍](https://maps.google.com/?q=Bodega+Quimet+Barcelona+Spain) ⭐ | Old-school neighbourhood wine bar in Gràcia — one of the most atmospheric in the city. Ancient barrels, dusty bottles, cured meats hanging, the smell of oak and vinegar. Open since the 1920s. Vermouth + tinned conservas. | Vermouth on tap; *jamón* + local cheese; tinned mussels; *embotit* platter | €12–18/person | C/ de Vic 23, Gràcia | Looks like nothing from outside. Go on a Sunday morning for the authentic *vermut* ritual. |
-| 7 | **La Pepita** [📍](https://maps.google.com/?q=La+Pepita+Barcelona+Spain) | Wildly popular gourmet *bocadillo* (sandwich) bar. Creative, high-quality fillings. Always a queue but moves fast. Good for a quick premium lunch between sights. | Sobrasada + honey + brie *bocadillo*; market specials | €8–15/person | C/ del Comte Borrell 98, Sant Antoni | Walk-in only; best at lunch 13:00–15:00 |
-| 8 | **Cervecería Catalana** [📍](https://maps.google.com/?q=Cervecer%C3%ADa+Catalana+Barcelona+Spain) | Large, lively Eixample cervejaria. Great range of tapas, *montaditos*, and raciones. Good for groups — reliable rather than exceptional. Long queues without reservations. | *Patatas bravas*; *croquetes de bacallà* (cod croquettes); *pa amb tomàquet* | €20–30/person | C/ de Mallorca 236, Eixample | Arrive at opening (13:00 or 20:00). Walk-in only. |
-| 9 | **La Pineda** [📍](https://maps.google.com/?q=La+Pineda+Barcelona+Spain) ⭐ | A Barcelona time capsule: charcuterie shop and wine bar in El Gòtic, operating since 1930, unchanged. Shelves of cured meats, cheeses, tinned conservas. One of the oldest surviving food businesses in the old city. | *Embotit* platter; aged cheese; house wine poured from old barrels | €15–20/person | C/ del Pi 16, El Gòtic | Almost no tourists know this place. Tiny — 10 people max. |
-| 10 | **Bodega Sepúlveda** [📍](https://maps.google.com/?q=Bodega+Sep%C3%BAlveda+Barcelona+Spain) | Neighbourhood bodega near Sant Antoni market, beloved by locals, completely off the tourist map. Wine from barrels, simple food, old regulars at the bar every day. | House wine by the glass; *pa amb tomàquet*; whatever tapa they're making | €10–15/person | C/ de Sepúlveda 173, Sant Antoni | The kind of place you stumble on and come back to every day. |
+> The heart of it. Standing room, house vermouth, conserves on bread — order in waves, never all at once.
+
+| # | Name | What/Why | Area | Price | Hours/Closed (our week) | Tip |
+|---|------|----------|------|-------|------------------------|-----|
+| 1 | **Carrer de Blai (pintxos street)** [📍](https://maps.google.com/?q=Carrer+de+Blai+Barcelona+Spain) ⭐ | Street of Basque-style pintxo bars — the most fun cheap dinner in town | Poble-sec | €2–3/pintxo | Bars open ~18:00 daily | Go 18:00–20:00 before the rush; Blai 9 and Tasca el Corral are the best of the strip; kids pick their own, pay by the toothpick |
+| 2 | **Quimet & Quimet** [📍](https://maps.google.com/?q=Quimet+%26+Quimet+Barcelona+Spain) ⭐⭐ | Legendary tiny bodega — montaditos of conserves, truffle honey, smoked fish | C/ del Poeta Cabanyes 25, Poble-sec | €15–20 | ❌ **CLOSED ALL AUGUST** (normally Mon–Fri 12–16 & 18–22:30, closed Sun) | Off this trip — file for the next visit; the sardine + yogurt + honey montadito is the legend |
+| 3 | **Cal Pep** [📍](https://maps.google.com/?q=Cal+Pep+Barcelona+Spain) ⭐⭐ | Fish-forward tapas counter — no menu, Pep's team feeds you what the market gave | Pl. de les Olles 8, El Born | €30–40 | Mon 19:30–23:30 · Tue–Fri 13:00–15:45 & 19:30–23:30 · Sat 13:15–15:45 & 19:30–23:30 · **closed Sun** | Bar only (the back room is a lesser experience); join the queue 15 min before opening and surrender to the counter |
+| 4 | **Bar del Pla** [📍](https://maps.google.com/?q=Bar+del+Pla+Barcelona+Spain) ⭐ | Vaulted-brick Catalan tapas bar, local crowd two streets from the Picasso queue | C/ de la Montcada 2, El Born | €20–28 | Mon–Thu 12:00–23:00, Fri–Sat till 24:00 (Sun — verify) | Croquetes de pernil + bravas + a glass of the house red; the Day 4 backup if El Xampanyet is still shut |
+| 5 | **Ciudad Condal** [📍](https://maps.google.com/?q=Ciudad+Condal+Barcelona+Spain) | High-volume, high-reliability tapas hall on Rambla de Catalunya | Eixample | €20–28 | Daily, long hours | No reservations — arrive at 13:00 or 20:00 openings; gambas al ajillo + croquetas carry the meal |
+| 6 | **Bodega Quimet** [📍](https://maps.google.com/?q=Bodega+Quimet+Barcelona+Spain) ⭐ | 1920s Gràcia bodega — barrels, hanging hams, vermouth on tap | C/ de Vic 23, Gràcia | €12–18 | Daily-ish — verify Aug | Looks like nothing outside — that's the point; Day 2 Gràcia option; conserves + crisps + vermut |
+| 7 | **La Pepita** [📍](https://maps.google.com/?q=La+Pepita+Barcelona+Spain) | Gourmet bocadillo bar — creative fillings, fast queue | C/ del Comte Borrell 98, Sant Antoni | €8–15 | Lunch + dinner | Sobrasada + honey + brie bocadillo; premium quick lunch between sights |
+| 8 | **Cervecería Catalana** [📍](https://maps.google.com/?q=Cervecer%C3%ADa+Catalana+Barcelona+Spain) | Big, buzzing Eixample tapas bar — reliable for groups | C/ de Mallorca 236, Eixample | €20–30 | Daily, long hours | Walk-in only: be there at opening (13:00/20:00) or queue; montaditos board + bacallà croquettes |
+| 9 | **La Pineda** [📍](https://maps.google.com/?q=La+Pineda+Barcelona+Spain) ⭐ | 1930 charcuterie shop-bar, unchanged — ten seats among the hams | C/ del Pi 16, El Gòtic | €15–20 | Typical shop hours — verify | Embotit platter + barrel wine 30 m from Santa Maria del Pi; almost no tourists know it |
+| 10 | **Bodega Sepúlveda** [📍](https://maps.google.com/?q=Bodega+Sep%C3%BAlveda+Barcelona+Spain) | Local bodega near Sant Antoni market — regulars, barrels, zero tourists | C/ de Sepúlveda 173, Sant Antoni | €10–15 | Evenings esp. — verify Aug | The stumble-in-and-stay kind; ask what's open in the kitchen and take it |
+| 11 | **Bar Jai-Ca** [📍](https://maps.google.com/?q=Bar+Jai-Ca+Barcelona+Spain) ⭐ | Barceloneta seafood-tapas classic since 1955 — bombas, la raspa fried anchovy spines, calamari | C/ de Ginebra 13, Barceloneta | €15–25 | Daily ~09:00–23:00 | The Day 4 **backup for La Cova Fumada** (2 min away) — packs out after 17:00, easy at noon |
 
 ---
 
 ## 🦞 Seafood & Rice Dishes
 
-| # | Name | Description | Must-Try | Price Range | Address | Notes |
-|---|------|-------------|----------|-------------|---------|-------|
-| 1 | **La Cova Fumada** [📍](https://maps.google.com/?q=La+Cova+Fumada+Barcelona+Spain) ⭐⭐ | The most legendary hidden restaurant in Barcelona — and it has no sign. A Barceloneta institution run by the same family since 1944. **Invented the Bomba.** Cash only, no reservations, closes when the food runs out (often by 13:00). The interior is unchanged: old tiles, communal tables, handwritten menu on a chalkboard. | *La Bomba* (the original); grilled fish of the day; *suquet de peix* (Catalan fish stew); fried baby artichokes | €15–25/person | C/ del Baluard 56, Barceloneta (no sign) | **Go at 12:00 opening**. Cash only. Closes by 13:00–13:30 most days. Closed weekends + evenings. Worth planning your entire Barceloneta day around. |
-| 2 | **7 Portes** [📍](https://maps.google.com/?q=7+Portes+Barcelona+Spain) ⭐ | Barcelona institution since 1836 on the waterfront near Barceloneta. Serious paella, outstanding seafood rice, old-Catalan classics. White-jacketed waiters, marble tables. Enormous hall. | Paella *a la barcelonesa*; *arròs negre* (squid-ink rice); *fideuà* (noodle paella) | €35–50/person | Pg. d'Isabel II 14, El Born waterfront | Book 2–3 weeks ahead for August. One of Barcelona's most reliable special-occasion restaurants. |
-| 3 | **La Mar Salada** [📍](https://maps.google.com/?q=La+Mar+Salada+Barcelona+Spain) | Waterfront restaurant near Barceloneta with excellent paella and fresh seafood. More intimate than 7 Portes, well-regarded on local food blogs. | Paella; grilled sole; *gambas a la plancha* | €30–45/person | Pg. de Joan de Borbó 58, Barceloneta | Easier to book than 7 Portes. Good terrace. |
-| 4 | **La Barceloneta Restaurant** [📍](https://maps.google.com/?q=La+Barceloneta+Restaurant+Barcelona+Spain) | Traditional chiringuito (beach restaurant) run by the same family for decades, right on the Barceloneta waterfront. Not the fanciest but utterly authentic — grilled fish, cold beer, plastic chairs, sea air. | Grilled *dorada* (sea bream); *gambas al ajillo*; mixed grilled seafood platter | €20–30/person | Pg. Marítim de la Barceloneta, Barceloneta | Go for a weekday lunch. Avoid first-row beach strip restaurants — go one block back. |
-| 5 | **Kaiku** [📍](https://maps.google.com/?q=Kaiku+Barcelona+Spain) | Small, local-favourite seafood restaurant one block from Barceloneta beach. Known for outstanding *arròs negre* — called the best squid-ink rice in Barcelona by multiple local food writers. | *Arròs negre* (squid-ink rice); daily catch | €30–40/person | Pl. del Mar 1, Barceloneta | Book ahead — tiny room. Lunch only. |
+> Rice is a lunch dish here — order it seaside, give it its 20 minutes, and never trust a place with paella photos on the pavement.
+
+| # | Name | What/Why | Area | Price | Hours/Closed (our week) | Tip |
+|---|------|----------|------|-------|------------------------|-----|
+| 1 | **La Cova Fumada** [📍](https://maps.google.com/?q=La+Cova+Fumada+Barcelona+Spain) ⭐⭐ | The no-sign 1944 Barceloneta legend that **invented the bomba** — chalkboard, communal tables, cash tin | C/ del Baluard 56, Barceloneta | €15–25 | Mon–Wed 09:00–15:00 · Thu–Fri 09:00–15:00 & 18:00–20:00 · **Sat 09:00–13:00** · closed Sun | **Day 4 plan: door by 11:45** — Saturday closes 13:00 sharp and food runs out; cash only; ⚠️ call +34 932 21 40 61 re: August holiday days; order bomba + grilled fish + chickpeas |
+| 2 | **7 Portes** [📍](https://maps.google.com/?q=7+Portes+Barcelona+Spain) ⭐ | Waterfront paella institution **since 1836** — white jackets, marble, portraits of every famous diner | Pg. d'Isabel II 14, El Born waterfront | €40–60 | **Daily 13:00–01:00, kitchen non-stop** | 🟠 **Book NOW for the Sun Aug 30 farewell (~21:00)**; paella Parellada (all shelled) or arròs negre |
+| 3 | **La Mar Salada** [📍](https://maps.google.com/?q=La+Mar+Salada+Barcelona+Spain) | Waterfront paella + market fish, more intimate than 7 Portes | Pg. de Joan de Borbó 58, Barceloneta | €30–45 | Lunch + dinner; verify closing day | Easier booking than 7 Portes; terrace at lunch; sole a la plancha if rice fatigue sets in |
+| 4 | **La Barceloneta Restaurant** [📍](https://maps.google.com/?q=La+Barceloneta+Restaurant+Barcelona+Spain) | Family-run chiringuito on the waterfront — grilled fish, plastic chairs, sea air | Pg. Marítim, Barceloneta | €20–30 | Daily | Weekday lunch is its best self; go one block back from the front-row tourist strip |
+| 5 | **Kaiku** [📍](https://maps.google.com/?q=Kaiku+Barcelona+Spain) | Small local favourite — repeatedly called the best arròs negre in the city | Pl. del Mar 1, Barceloneta | €30–40 | **Lunch only**; book ahead | Tiny room, beach-end location; the smoked-rice (arròs xef) is the signature |
 
 ---
 
 ## 🍽️ Dinner Restaurants & Family-Friendly
 
-| # | Name | Description | Must-Try | Price Range | Address | Notes |
-|---|------|-------------|----------|-------------|---------|-------|
-| 1 | **El Nacional** [📍](https://maps.google.com/?q=El+Nacional+Barcelona+Spain) ⭐ | Four restaurants and four bars under one spectacular 19th-century industrial hall in Eixample. Choose between Basque, Mediterranean, grilled meat, or seafood counters. Perfect for a family where everyone wants something different. | Browse each section — seafood at La Llotja; oysters; Basque pintxos bar | €25–40/person | Pg. de Gràcia 24 bis, Eixample | Walk-in friendly even in August. Spectacular space. The pintxos bar in particular is excellent. |
-| 2 | **Tickets** [📍](https://maps.google.com/?q=Tickets+Barcelona+Spain) | Albert Adrià's (brother of Ferran Adrià) famous tapas bar — playful, avant-garde takes on Spanish classics. One of the hardest reservations in Barcelona. | Chef's tasting — everything changes seasonally | €65–90/person | Av. del Paral·lel 164, Poble-sec | Book 2 months ahead online. Tickets.bar. Worth the effort if you can get it. |
-| 3 | **Parking Pizza** [📍](https://maps.google.com/?q=Parking+Pizza+Barcelona+Spain) | Gràcia neighbourhood pizza restaurant — thin-crust Neapolitan style, outstanding quality, completely non-tourist. Beloved local spot. Good for a relaxed family dinner. | Wood-fired pizza; burrata starter | €15–22/person | C/ de Londres 98, Eixample/Gràcia | Can book; often has walk-in availability on weeknights. |
-| 4 | **Bar del Pla** [📍](https://maps.google.com/?q=Bar+del+Pla+Barcelona+Spain) | (see Tapas section) — also works for dinner. The brick-vaulted interior gets quieter after 22:00 and the food quality stays high all evening. | *Croquetes*; *patatas bravas*; grilled meat raciones | €20–28/person | C/ de la Montcada 2, El Born | — |
-| 5 | **Koy Shunka** [📍](https://maps.google.com/?q=Koy+Shunka+Barcelona+Spain) | Barcelona's best Japanese restaurant, tucked behind the cathedral in El Gòtic. Japanese chef, top-quality ingredients. An unexpected splurge option. | Omakase or kaiseki menu; wagyu; sashimi | €70–110/person | C/ d'en Copons 7, El Gòtic | Book weeks ahead. Worth it for a blowout meal. |
-| 6 | **Honest Greens** [📍](https://maps.google.com/?q=Honest+Greens+Barcelona+Spain) | Healthy, fresh Mediterranean fast-casual with Spanish ingredients. Great for a quick, nourishing lunch that everyone can agree on. Several locations. | Grain bowls; grilled chicken; fresh salads | €12–18/person | Multiple locations | Good option for the day after a heavy meal. |
+> Dinner starts at 20:30 at the earliest — anything before that is a tourist room. With teens, the food halls and pintxo streets are the cheat code.
+
+| # | Name | What/Why | Area | Price | Hours/Closed (our week) | Tip |
+|---|------|----------|------|-------|------------------------|-----|
+| 1 | **El Nacional** [📍](https://maps.google.com/?q=El+Nacional+Barcelona+Spain) ⭐ | Four restaurants + four bars under one 19th-century industrial hall — everyone picks their counter | Pg. de Gràcia 24 bis, Eixample | €25–40 | Daily, long hours | Walk-in friendly even in August; the pintxos bar and oyster counter are the best corners |
+| 2 | ~~**Tickets**~~ ❌ **PERMANENTLY CLOSED** | Albert Adrià's famous tapas theatre closed; successor **Teatro Kitchen & Bar** also closed (Dec 2025) | Av. del Paral·lel 164, Poble-sec | — | ❌ Closed | History now — Adrià's cooking lives on at **Enigma** (book far ahead) if a gastro-splurge ever returns to the plan |
+| 3 | **Parking Pizza** [📍](https://maps.google.com/?q=Parking+Pizza+Barcelona+Spain) | Wood-fired Neapolitan in a stripped ex-garage — local families everywhere | C/ de Londres 98, Eixample/Gràcia edge | €15–22 | Dinner + weekend lunch | The teen-approved night off from tapas; burrata starter, one pizza each |
+| 4 | **Bar del Pla** [📍](https://maps.google.com/?q=Bar+del+Pla+Barcelona+Spain) | (see Tapas) — quality holds all evening, quieter after 22:00 | C/ de la Montcada 2, El Born | €20–28 | Mon–Thu 12–23, Fri–Sat 12–24 | Under-the-vaults tables go first — arrive by 20:15 |
+| 5 | **Koy Shunka** [📍](https://maps.google.com/?q=Koy+Shunka+Barcelona+Spain) | Barcelona's best Japanese, hidden behind the cathedral — omakase counter | C/ d'en Copons 7, El Gòtic | €70–110 | Book weeks ahead | The blowout wildcard, not this trip's plan; kaiseki at the bar if it ever is |
+| 6 | **Honest Greens** [📍](https://maps.google.com/?q=Honest+Greens+Barcelona+Spain) | Fresh Mediterranean fast-casual — the recovery meal | Multiple locations | €12–18 | Daily | The day-after-the-feast lunch everyone can agree on; order at the counter, no booking |
 
 ---
 
 ## 🍷 Vermouth Culture (*L'hora del vermut*)
 
-> Barcelona's *vermut* culture is a midday ritual, especially Saturday and Sunday 12:00–15:00. Bars serve house vermouth on ice with an orange slice and an olive, usually with a small free tapa. It's not a drink — it's an entire social ritual. If you only do one cultural food experience in Barcelona, make it this.
+> Barcelona's midday ritual, biggest on weekends 12:00–14:30: house vermouth on ice, orange slice, olive, a tin of something salty. It's not a drink — it's a social institution. One round for the adults while the girls demolish the crisps.
 
-| # | Name | Description | What to Order | Address | Notes |
-|---|------|-------------|--------------|---------|-------|
-| 1 | **El Xampanyet** [📍](https://maps.google.com/?q=El+Xampanyet+Barcelona+Spain) ⭐⭐ | One of the most famous bodegas in El Born — a Barcelona institution. Dark wood, ancient barrels, crowds spilling out. House *xampanyet* (house cava) is the drink of choice; the anchovies are legendary. | House xampanyet (cava); *anchoas del Cantábrico* (anchovies); assorted conservas | C/ de la Montcada 22, El Born | Packed at weekends from 12:00. Go at opening (Tue–Sat 12:00) or accept a wait. Worth it. |
-| 2 | **Bodega Quimet** [📍](https://maps.google.com/?q=Bodega+Quimet+Barcelona+Spain) ⭐ | One of the most atmospheric traditional bodegas in Gràcia — ancient barrels line the walls, locals at the bar since 9am. Open since the 1920s. The *vermut* Sunday ritual here is the real thing. | Vermouth on tap with soda; jamón; tinned mussels; *patatas chips* | C/ de Vic 23, Gràcia | Go Sunday 12:00–14:00 for the full local experience. |
-| 3 | **Bar Calders** [📍](https://maps.google.com/?q=Bar+Calders+Barcelona+Spain) | Best neighbourhood vermut bar in Sant Antoni — terrace tables, local crowd, excellent house vermouth. Doubles as a morning café. | Vermut amb sifó; *boquerones* (anchovies) | C/ del Parlament 25, Sant Antoni | Perfect pre-lunch aperitivo before the Sant Antoni market area. |
-| 4 | **Bar Marsella** [📍](https://maps.google.com/?q=Bar+Marsella+Barcelona+Spain) ⭐ | Operating since 1820 — the oldest bar in Barcelona. Absinthe bar in El Raval, utterly unchanged: dusty antique bottles covering every surface, peeling mirrors, flickering lights. Hemingway drank here. No music, no Wi-Fi, no attitude. | House absinthe (served traditional: sugar cube, water, slow drip) | C/ de Sant Pau 65, El Raval | Completely tourist-free even though it should be famous. Extraordinary time-capsule atmosphere. |
-| 5 | **Bar Calders** [📍](https://maps.google.com/?q=Bar+Calders+Barcelona+Spain) | (listed above under Breakfast — doubles as premier morning café and vermut spot) | See above | Sant Antoni | — |
-| 6 | **Morro Fi** [📍](https://maps.google.com/?q=Morro+Fi+Barcelona+Spain) | Cheerful Gràcia bar known for outstanding vermouth selection and excellent light tapas. More modern than Bodega Quimet but equally good. | Craft vermouth; *montaditos*; *boquerones* | C/ del Consell de Cent 171, Eixample | Favourite of young locals who've upgraded from the tourist trail. |
+| # | Name | What/Why | Area | What to Order | Hours/Closed (our week) | Tip |
+|---|------|----------|------|--------------|------------------------|-----|
+| 1 | **El Xampanyet** [📍](https://maps.google.com/?q=El+Xampanyet+Barcelona+Spain) ⭐⭐ | The 1929 cava-and-anchovies bodega — barrels, azulejos, joyful crush | C/ de la Montcada 22, El Born | House xampanyet (cava); Cantabrian anchovies; conserves | ⚠️ **August break — reportedly back ~Aug 24–25, confirm**; then Tue–Sat 12–16 & 19–23:30, closed Sun–Mon | If open, slot it after the Day 4 Picasso visit (it's opposite); stand, don't wait for stools |
+| 2 | **Bodega Quimet** [📍](https://maps.google.com/?q=Bodega+Quimet+Barcelona+Spain) ⭐ | Gràcia's time-capsule bodega since the 1920s | C/ de Vic 23, Gràcia | Vermouth on tap + soda; jamón; tinned mussels | Verify Aug days | The real Sunday-vermut feel any day; Day 2 lunch-adjacent stop |
+| 3 | **Bar Calders** [📍](https://maps.google.com/?q=Bar+Calders+Barcelona+Spain) | Sant Antoni's terrace living room | C/ del Parlament 25 | Vermut amb sifó; boquerones | Daily — verify | Pre-lunch aperitivo if you're near Mercat de Sant Antoni |
+| 4 | **Bar Marsella** [📍](https://maps.google.com/?q=Bar+Marsella+Barcelona+Spain) ⭐ | Barcelona's oldest bar (1820) — absinthe, dusty bottles, Hemingway's haunt | C/ de Sant Pau 65, El Raval | House absinthe, done traditionally (sugar, water, patience) | Evenings; verify Aug | Adults-only detour by vibe (teens can gawk from the door); go for the room, sip slowly |
+| 5 | **Morro Fi** [📍](https://maps.google.com/?q=Morro+Fi+Barcelona+Spain) | Modern-classic vermuteria — the young locals' upgrade | C/ del Consell de Cent 171, Eixample | Craft vermouth; montaditos | Midday-evening; verify Aug | Their own bottled vermouth is the souvenir that beats a fridge magnet |
 
 ---
 
-## 🗓️ Day-by-Day Food Plan (Aug 26–Sep 1)
+## 🗓️ Day-by-Day Food Plan (Aug 26–31)
 
-> ⭐⭐ = unmissable, plan your day around it | ⭐ = strongly recommended | No star = reliable and worth doing
+> ⭐⭐ = unmissable, plan the day around it | ⭐ = strongly recommended. **Matches the master itinerary (Overview tab).**
 
 | Day | Breakfast | Lunch | Dinner / Evening | Notes |
 |-----|-----------|-------|-----------------|-------|
-| **Day 1** (Aug 26 – arrival from Lisbon) | Settle in — hotel or neighbourhood café | Explore El Born / Gothic Quarter: La Pineda ⭐ for charcuterie | Ciudad Condal tapas (Eixample) or Bar del Pla (El Born) | Light arrival day; get oriented |
-| **Day 2** (Aug 27 – Gaudí day) | Mauri Pastissería ⭐ (Eixample) | Near Sagrada Família (any café, avoid the tourist traps on Avinguda Gaudí) | Gràcia neighbourhood: Bodega Quimet ⭐ for vermouth → dinner at Parking Pizza | Gaudí day = early start. Eat near Sagrada Família quickly, not at a tourist restaurant. |
-| **Day 3** (Aug 28 – Barceloneta / beach) | Xurrería Laietana ⭐ (churros before beach) | **La Cova Fumada** ⭐⭐ — arrive at 12:00 opening (cash only, closes early!) | El Born evening: El Xampanyet ⭐⭐ for cava + anchovies → Cal Pep bar ⭐⭐ | The most food-intensive day. La Cova Fumada + El Xampanyet alone worth the trip. |
-| **Day 4** (Aug 29 – Montjuïc / Bunkers) | Bar Calders ⭐ (Sant Antoni) | **Quimet & Quimet** ⭐⭐ — arrive at 12:00 sharp (lunchtime only!) | Carrer de Blai pintxos ⭐ (Poble-sec, 18:30–20:00) | Both Quimet spots are in Poble-sec — natural lunch-to-aperitivo zone |
-| **Day 5** (Aug 30 – Las Ramblas / Gòtic / Museum) | Federal Café (Sant Antoni) or Forn de Sant Jaume | La Pepita (gourmet bocadillos) | **7 Portes** ⭐ (pre-booked) — the farewell dinner | Book 7 Portes 2–3 weeks ahead. |
-| **Day 6** (Aug 31 – last day before Zaragoza) | Bar del Convent ⭐ courtyard (El Born) | El Nacional ⭐ (Eixample) — use the pintxos bar + oyster counter | Light dinner; early night (train to Zaragoza Sep 1) | El Nacional is the perfect "everyone picks what they want" family lunch. |
+| **Day 1** (Wed Aug 26 — land 21:50) | — (fly from Lisbon) | — | Late bite near the hotel: Av. Gaudí tapas counters till midnight | Eat properly at Lisbon airport before boarding |
+| **Day 2** (Thu Aug 27 — Gaudí day) | Av. Gaudí café near hotel | **Gràcia menú del día** on Pl. de la Vila / Pl. del Sol (or Bodega Quimet ⭐ grazing) | **Cervecería Catalana** (20:00 sharp) or **El Nacional** ⭐ | Siesta 14:15–15:30; Sagrada 17:45 — don't linger over lunch wine |
+| **Day 3** (Fri Aug 28 — Montserrat) | Quick, near hotel / Pl. d'Espanya | **Monastery buffet** (included in Tot ticket) 13:30 after the choir | Easy Eixample dinner near hotel | Mountain day — mató + honey from the farmers' stalls is the snack |
+| **Day 4** (Sat Aug 29 — Old City + beach) | **Granja La Pallaresa** ⭐ churros, Petritxol | **La Cova Fumada** ⭐⭐ — **door by 11:45** (Sat 09:00–13:00, cash!) · backup **Bar Jai-Ca** ⭐ | **Carrer de Blai pintxos** ⭐ ~21:00 · optional El Xampanyet ⭐⭐ stop 15:45 if reopened | The food-pilgrimage day; gelato at Gelaaati di Marco if the Gothic loop runs hot |
+| **Day 5** (Sun Aug 30 — Girona or city) | Near hotel (or pre-Mass pastry) | Girona: **Pl. de la Independència** terraces + **xuixo** + **Rocambolesc** ⭐ · City: Sarrià lunch | **7 Portes** ⭐ farewell ~21:00 — **book now** | ⚠️ Sunday closures: Cova Fumada, Quimet & Quimet, Cal Pep, Boqueria all shut |
+| **Day 6** (Mon Aug 31 — 11:00 AVE) | Quick near hotel or pastries for the train (out by 09:40) | On to Zaragoza | — | No slack in the morning — nothing ambitious |
 
 ---
 
@@ -114,42 +125,34 @@
 
 | Budget | Best Bets |
 |--------|-----------|
-| €2–5 (snacks) | Carrer de Blai pintxos, *pa amb tomàquet* at any bar, La Boqueria fruit, *bomba* at La Cova Fumada |
-| €15–25 (lunch) | Quimet & Quimet, Cal Pep bar, Ciudad Condal, La Cova Fumada, La Pepita |
-| €25–45 (dinner) | 7 Portes, La Mar Salada, El Nacional, Bar del Pla + El Xampanyet combined |
-| €65+ (special occasion) | Tickets (book months ahead), Koy Shunka |
-| Breakfast | Mauri Pastissería, Bar Calders (*pa amb tomàquet*), Federal Café, Xurrería Laietana (churros) |
-| Vermouth ritual | El Xampanyet (El Born), Bodega Quimet (Gràcia), Bar Calders (Sant Antoni) |
-| Hidden gems | La Cova Fumada (no sign!), La Pineda (1930), Bar Marsella (1820), Bar del Convent (convent courtyard) |
+| €2–6 (snacks) | Carrer de Blai pintxos, pa amb tomàquet anywhere, bomba at La Cova Fumada, xurros at La Pallaresa, gelato (DelaCrem ⭐ / Gelaaati di Marco) |
+| €15–25 (lunch) | La Cova Fumada, Bar Jai-Ca, Ciudad Condal, La Pepita, Gràcia menú del día |
+| €25–45 (dinner) | 7 Portes, La Mar Salada, El Nacional, Bar del Pla, Cervecería Catalana |
+| €65+ (special occasion) | Koy Shunka (Enigma if ever — Tickets is gone) |
+| Breakfast | La Pallaresa (granja), Mauri, Xurrería Laietana, Bar Calders, Federal |
+| Vermouth ritual | El Xampanyet (if reopened), Bodega Quimet, Bar Calders, Morro Fi |
+| Hidden gems | La Cova Fumada (no sign), La Pineda (1930), Bar Marsella (1820), Bar del Convent (convent courtyard), Bar Jai-Ca |
 
 | Category | Top Picks |
 |----------|-----------|
-| ⭐⭐ Can't miss | La Cova Fumada (the Bomba's birthplace), Quimet & Quimet (montaditos), El Xampanyet (cava + anchovies), Cal Pep (fresh seafood bar) |
-| Best for families | El Nacional, Carrer de Blai, Cervecería Catalana, La Pepita |
-| Best traditional atmosphere | Bar Marsella (1820), La Pineda (1930), Bodega Quimet (1920s), El Xampanyet |
-| Best value | Carrer de Blai, La Cova Fumada, Quimet & Quimet, Bar Calders |
-| Best special occasion | 7 Portes (book ahead), Tickets (book way ahead), Koy Shunka |
+| ⭐⭐ Can't miss this trip | La Cova Fumada (the Bomba's birthplace), 7 Portes farewell, Carrer de Blai with the kids |
+| Casualties of August | Quimet & Quimet (all month), El Xampanyet (till ~Aug 24–25 — maybe rescued), Tickets (forever) |
+| Best for families | El Nacional, Carrer de Blai, Cervecería Catalana, Parking Pizza, La Pepita |
+| Best traditional atmosphere | Bar Marsella (1820), La Pineda (1930), Bodega Quimet (1920s), La Pallaresa (1947) |
+| Best value | Carrer de Blai, La Cova Fumada, Bar Jai-Ca, menú del día anywhere local |
 
 ---
 
-## 📋 Must-Book Ahead — Barcelona
+## ✅ Must-Book — status as of Aug 5
 
-| What | Why | When to Book | How |
-|------|-----|-------------|-----|
-| **7 Portes** [📍](https://maps.google.com/?q=7+Portes+Barcelona+Spain) | Institution, always fully booked in August | 2–3 weeks before | [7portes.com](https://www.7portes.com/en/) |
-| **Tickets (Albert Adrià)** [📍](https://maps.google.com/?q=Tickets+%28Albert+Adri%C3%A0%29+Barcelona+Spain) | One of hardest reservations in Spain | 60 days in advance | [tickets.bar](https://tickets.bar/) — opens at midnight on booking day |
-| **Cal Pep (dinner)** [📍](https://maps.google.com/?q=Cal+Pep+%28dinner%29+Barcelona+Spain) | Small room, packed every night | 1–2 weeks before for dinner table | Walk-in for bar; call/email for table |
-| **Sagrada Família** [📍](https://maps.google.com/?q=Sagrada+Fam%C3%ADlia+Barcelona+Spain) (not food but) | Skip-the-line essential — August is worst month | Book online, same week usually works | [sagradafamilia.org](https://www.sagradafamilia.org/en/) |
-
-## ⚠️ Walk-In Only (Arrive at Opening)
-
-| What | Opening Time | Notes |
-|------|-------------|-------|
-| **La Cova Fumada** [📍](https://maps.google.com/?q=La+Cova+Fumada+Barcelona+Spain) | 12:00 Mon–Fri | Closes when food runs out — often by 13:15. Cash only. |
-| **Quimet & Quimet** [📍](https://maps.google.com/?q=Quimet+%26+Quimet+Barcelona+Spain) | 12:00 Mon–Sat | Lunchtime only. Closes at 16:00. Standing room. |
-| **El Xampanyet** [📍](https://maps.google.com/?q=El+Xampanyet+Barcelona+Spain) | 12:00 Tue–Sat | Weekends even more packed; arrive at opening |
-| **Carrer de Blai** [📍](https://maps.google.com/?q=Carrer+de+Blai+Barcelona+Spain) | Best: 18:00–20:00 | Gets uncomfortably crowded after 21:00 |
+| What | Why | Status / deadline | How |
+|------|-----|-------------------|-----|
+| **7 Portes** [📍](https://maps.google.com/?q=7+Portes+Barcelona+Spain) — Sun Aug 30 ~21:00 | The farewell dinner; August weekends book out weeks ahead | 🟠 **Book NOW** | [7portes.com](https://www.7portes.com/en/) / OpenTable |
+| **Cal Pep dinner table** (only if wanted) | Small back room, packed nightly | Optional — 1–2 weeks ahead; bar = walk-in queue | calpep@calpep.com / +34 933 10 79 61 |
+| **La Cova Fumada** (no bookings) | Walk-in only — the "booking" is being at the door 11:45 Sat | 📞 Call the day before re: August days | +34 932 21 40 61 |
+| ~~Tickets~~ ❌ | Permanently closed (and Teatro after it) | — | — |
+| Everything else | Walk-in with the arrival-time tricks in each table above | — | — |
 
 ---
 
-*Research date: May 2026. Full research — sourced from "100 Authentic Local Tascas & Restaurants," local expat YouTube transcript, Reddit r/barcelona, Spotted by Locals, Time Out Barcelona, Devour Tours Bar
+*Research updated Aug 5, 2026 (hours re-verified for Aug 26–31; August closures confirmed). Original sourcing: "100 Authentic Local Tascas & Restaurants," local expat YouTube transcript, Reddit r/barcelona, Spotted by Locals, Time Out Barcelona, Devour Tours.*
