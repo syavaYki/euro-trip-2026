@@ -1,7 +1,3 @@
-# CLAUDE.md
-
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
-
 ## Project
 
 Personal trip-planning site for an Aug 19 – Sep 5, 2026 Portugal/Spain family trip (Porto → Lisbon → Barcelona → Zaragoza → Madrid, + Segovia day trip). Live at https://syavayki.github.io/euro-trip-2026/.
