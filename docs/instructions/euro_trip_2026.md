@@ -472,12 +472,12 @@ _Alternative afternoons (if you'd rather skip the loop):_
 
 | Option        | Vibe                                                                         | Price         | Book                           |
 | ------------- | ---------------------------------------------------------------------------- | ------------- | ------------------------------ |
-| **[Loca](https://maps.google.com/?q=Loca+Porto+Portugal)** 🥇   | Outstanding creative seafood, Porto's most talked-about dinner table 2025–26 | €35–45/person | **Book TODAY** — the 2–3-week window for Sat Aug 22 is already tight |
+| **[Gruta](https://maps.google.com/?q=Gruta+Porto+Portugal) [🌐](https://www.grutaporto.com/)** 🥇   | Bib Gourmand, chef-driven Atlantic seafood — Porto's buzziest dinner table 2025–26 | €45–55/person | **Book TODAY** — small, limited seating; grutaporto.com or TheFork |
 | **[Escama](https://maps.google.com/?q=Escama+Porto+Portugal) [🌐](https://escamaporto.com/en/)** 🥈 | Modern Atlantic seafood, turbot with hazelnut vinaigrette is legendary       | €24–35/person | By Fri Aug 14 — escamaporto.com |
 | **[Cobre](https://maps.google.com/?q=Cobre+Porto+Portugal)**     | Contemporary Portuguese on the Gaia side, bridge views from the terrace      | €35–45/person | By Fri Aug 14                  |
 
 > _"The turbot with hazelnut vinaigrette is on a completely different level."_ — r/porto on Escama
-> _"Impossible to get into without booking. Worth the effort. Creative, seasonal, not trying too hard."_ — r/porto on Loca
+> Gruta holds a Michelin Bib Gourmand — one of Porto's most-booked tables right now.
 
 **22:00 — Last Night**
 
@@ -503,7 +503,7 @@ Walk back through Cais da Ribeira one final time — the illuminated night versi
 | The decision itself | **Mon Aug 17** — after that, Sat boat space is luck | — |
 | Boat leg (B2 package, or B1 mini-cruise) | **Fri Aug 14** — August Saturdays sell out; GetYourGuide-style bookings cancel free to 24 h, so **reserving now costs nothing** | GetYourGuide · cruzeiros-douro.pt · rotadodouro.com |
 | Train tickets (B1) | Once decided, buy at cp.pt — InterRegional has **no seat reservations**; be at São Bento by 08:50 for window seats. €11.10 single / €20 return per adult to Régua | cp.pt |
-| Farewell dinner | Shift the reservation **20:00 → 20:30–21:00** when booking | Loca / Escama |
+| Farewell dinner | Shift the reservation **20:00 → 20:30–21:00** when booking | Gruta / Escama |
 
 > 💡 **Default recommendation: stay with Option A.** This is the third straight day on your feet, Day 4 starts at 05:45, the inland Douro regularly hits 35–40 °C in late August while Matosinhos sits in Atlantic breeze, and B costs €160–350 for four against ~€70. The valley honestly deserves its own overnight (Pinhão) on a future trip. But if the train is calling anyway — do **B1**, below.
 
@@ -546,7 +546,7 @@ Golden-hour light on the vineyards — **left side** now. Doze, replay photos, a
 
 **~20:30 — Farewell Dinner**
 
-If choosing Option B, **shift the reservation from 20:00 to 20:30–21:00** — Portuguese restaurants comfortably take late seatings. **Loca / [Escama](https://maps.google.com/?q=Escama+Porto+Portugal) [🌐](https://escamaporto.com/en/) / Cobre** as in Option A.
+If choosing Option B, **shift the reservation from 20:00 to 20:30–21:00** — Portuguese restaurants comfortably take late seatings. **Gruta / [Escama](https://maps.google.com/?q=Escama+Porto+Portugal) [🌐](https://escamaporto.com/en/) / Cobre** as in Option A.
 
 **22:30 — Last Night**
 
@@ -594,14 +594,15 @@ TAP closes check-in 90 min before departure = **07:30**. Bolt backup: ~€18, 25
 | €1–5 (snacks)    | Pastel de nata (Bolhão / Manteigaria), bifana (Casa da Bifana / Conga), Bolhão market stalls |
 | €7–12 (lunch)    | Cantarinha (francesinha), Matosinhos beach shacks                                    |
 | €15–25 (mid)     | Café Santiago, Terra Nova, Terreiro, Taberna de São Miguel, MUU                      |
-| €30–45 (splurge) | Escama, Loca, Taberna dos Mercadores, Cobre                                          |
+| €30–45 (splurge) | Escama, Taberna dos Mercadores, Cobre                                                |
+| €45–55 (splurge) | Gruta                                                                                 |
 | €50+ (occasion)  | O Gaveto, Culto ao Bacalhau                                                          |
 
 | Day   | Breakfast             | Lunch                              | Dinner                 |
 | ----- | --------------------- | ---------------------------------- | ---------------------- |
 | Day 1 | Confeitaria do Bolhão | Mercado do Bolhão                  | Taberna dos Mercadores / Tabuleta |
 | Day 2 | Época or Hakko        | Café Santiago (francesinha)        | MUU or Eleit           |
-| Day 3 | SO Coffee Roasters    | Matosinhos beach shacks / O Gaveto | Loca or Escama         |
+| Day 3 | SO Coffee Roasters    | Matosinhos beach shacks / O Gaveto | Gruta or Escama        |
 | Day 4 | OPO airside — Aloma nata + Costa (Bolhão & the confeitaria closed Sun) | (in Lisbon) | — |
 
 ### Porto Sights Quick-Reference
@@ -640,12 +641,13 @@ TAP closes check-in 90 min before departure = **07:30**. Bolt backup: ~€18, 25
 | Item                                       | When (as of Aug 5)            | Where                      |
 | ------------------------------------------ | ----------------------------- | -------------------------- |
 | ~~Livraria Lello tickets~~                 | **CANCELLED**                 | —                           |
+| ~~Message hotel re: early bag drop~~       | ✅ Sent                        | Booking.com chat            |
 | Taberna dos Mercadores (Day 1 dinner)      | Email **today**               | tabernadosmercadores.com   |
 | ~~7 Bridges Sunset Cruise (Day 2, 18:45)~~ ✅ Booked | — | ref **GYG7VKRQ9BVG** · Leçaodouro · meet 430 Rua da Praia, Gaia (door C) |
 | Cálem port lodge (optional Day 1 swap)     | By ~Fri Aug 14 — timed slots  | tour.calem.pt              |
 | ~~Palácio da Bolsa~~ — swapped for MMIPO   | —                              | Day-of if you reinstate it: palaciodabolsa.com |
 | MUU (Day 2 dinner, 21:00)                  | By Fri Aug 14                 | Restaurant website / phone |
-| Loca (Day 3 dinner)                        | **Book TODAY** — Sat Aug 22 window already tight | Restaurant website / phone |
+| Gruta (Day 3 dinner)                       | **Book TODAY** — small room, book early     | grutaporto.com / phone |
 | O Gaveto (Day 3 lunch)                     | By Fri Aug 14                 | ogaveto.com                |
 | Escama (Day 3 dinner alt)                  | By Fri Aug 14                 | escamaporto.com            |
 | Douro boat leg (only if Option B)          | By **Fri Aug 14** — Sat departures sell out; free-cancel platforms make early booking risk-free | GetYourGuide / cruzeiros-douro.pt |
@@ -2751,7 +2753,7 @@ _Re-sorted by urgency on **Aug 5** (T-14 days). Work the 🔴 table top to botto
 | **Quinta da Regaleira** timed entry              | Mon Aug 24           | [regaleira.pt](https://regaleira.pt/) — €20 adult now; afternoon slot after Pena                                               |
 | **Fado house** — Parreirinha de Alfama           | Tue Aug 25, ~20:00   | +351 21 886 82 09 (Clube de Fado as backup)                                                                                    |
 | **Taberna dos Mercadores** dinner                | Thu Aug 20           | Email via tabernadosmercadores.com — 16 seats, email is the only reliable channel                                              |
-| **Loca** farewell dinner                         | Sat Aug 22           | escamaporto.com's sister-site / restaurant website — Saturday window is already tight                                          |
+| **Gruta** farewell dinner                        | Sat Aug 22           | grutaporto.com — small room, book early                                                                                         |
 | **Zaragoza guest registration form** ⚠️          | Before Aug 31        | [u.partee.es form](https://u.partee.es/4396/Oga33Ze0llPQgN7MIWtK3jHpu) — **releases the lockbox code**; do it with passports out |
 | **Message Lisbon host: early bag drop**          | By Thu Aug 20        | Booking.com chat — land 09:55, apartment opens 16:00; fallback lockers at Anjos (~€5/bag)                                      |
 | **Message Zaragoza host (Isabel): early drop**   | By ~Aug 26           | Airbnb chat — arrive 12:28, check-in 16:00; fallback Delicias consigna 08:00–21:00, €4–6/bag                                   |

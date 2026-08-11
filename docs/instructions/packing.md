@@ -90,7 +90,7 @@ These two suitcases end their trip in Madrid on Sep 5 and are not seen again unt
 - [ ] 1 × lightweight trousers or long skirt — **doubles as church-legal and mosquito cover**
 - [ ] 1 × second bottom (shorts or skirt, your call)
 - [ ] 1 × light layer — cardigan, overshirt or thin fleece. **Non-negotiable.**
-- [ ] 1 × smart-casual outfit for the good dinners (Loca/Escama in Porto, Botín in Madrid, fado house in Lisbon)
+- [ ] 1 × smart-casual outfit for the good dinners (Gruta/Escama in Porto, Botín in Madrid, fado house in Lisbon)
 - [ ] 1 × sleepwear, light
 - [ ] 1 × swimsuit
 - [ ] **Walking shoes — worn on the plane, never packed.** Broken in. Grippy soles for Lisbon/Porto cobbles

@@ -57,7 +57,7 @@ Capacity-limited, popular, or slow to reply. **Nothing here costs anything to ho
 | **Taberna dos Mercadores** | **16 seats total** and email is the only channel that reliably answers — allow days for a reply | Thu Aug 20 dinner | 14 days | **€0** | Email via tabernadosmercadores.com |
 | **Sobrino de Botín** | World's oldest restaurant; prime tables go 3–4 weeks out and we want the late seating | Wed Sep 2, **21:15** | 27 days | **€0** | [botin.es](https://botin.es/en/) or +34 91 366 42 17 |
 | **Parreirinha de Alfama** (fado) | Fado houses fill 1–2 weeks out in August | Tue Aug 25, ~20:00 | 19 days | **€0** | +351 21 886 82 09 · Clube de Fado as backup |
-| **Loca** | Saturday-night window is already tight | Sat Aug 22 dinner | 16 days | **€0** | escamaporto.com sister-site / restaurant website |
+| **Gruta** | Tiny room, Bib Gourmand — books up fast | Sat Aug 22 dinner | 16 days | **€0** | grutaporto.com |
 | **Lakasa** (or **Bacira**) | Farewell dinner, a Friday, in Chamberí — the three hardest conditions at once; books 1–2 weeks out | Fri Sep 4, **20:45** | 29 days | **€0** | [lakasa.es](https://lakasa.es) 1st choice · [bacira.es](https://bacira.es) backup · 4 covers, €50–70/pp |
 | **Quinta da Regaleira** | The one paid ticket that genuinely can't wait — August slots sell through | Mon Aug 24, afternoon | 18 days | **€75** | [regaleira.pt](https://regaleira.pt/) — €20 adult, €75 for four; slot goes after Pena |
 

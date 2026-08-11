@@ -108,7 +108,7 @@ Reservations essential for the good rooms in August.
 | **Eleit** [📍](https://maps.google.com/?q=Eleit+Porto+Portugal) | Relaxed modern local cooking, strong value | ~€22/pp | Recommended | The backup if MUU is full — same night, easier table |
 | **Taberna de São Miguel** [📍](https://maps.google.com/?q=Taberna+de+S%C3%A3o+Miguel+Porto+Portugal) | Petiscos bar — Portuguese small plates for grazing | €15–22/pp | Walk-in / call | This is where to finally try tripas à moda do Porto, the dish behind the "tripeiros" nickname |
 | **Restaurante O Rafael** [📍](https://maps.google.com/?q=Restaurante+O+Rafael+Porto+Portugal) | Beloved Matosinhos local, morning-boat fish | €12–18/pp | Walk-in before noon | Ask what the fishermen brought — the chalkboard beats the printed menu |
-| **Loca** [📍](https://maps.google.com/?q=Loca+Porto+Portugal) 🥇 | Porto's most talked-about creative seafood table 2025–26 — farewell dinner pick | €35–45/pp | ✅ **Book TODAY** | The 2–3-week window for Sat Aug 22 is already tight as of Aug 5 — call, don't email |
+| **Gruta** [📍](https://maps.google.com/?q=Gruta+Porto+Portugal) [🌐](https://www.grutaporto.com/) 🥇 | Bib Gourmand, Atlantic seafood tasting menu — farewell dinner pick | €45–55/pp | ✅ **Book TODAY** | Rua de Santa Catarina 447 — tiny room, limited seating; book at grutaporto.com or TheFork |
 | **Cobre** [📍](https://maps.google.com/?q=Cobre+Porto+Portugal) | Contemporary Portuguese on the Gaia bank, bridge views | €35–45/pp | ✅ Book ahead | Request the terrace at booking — the bridge view at night is the reason to cross the river |
 
 ---
@@ -161,7 +161,7 @@ Porto has an excellent gelato scene — the family treat after churches and long
 |-----|-----------|-------|--------|------|
 | **Day 1** (Thu) | Confeitaria do Bolhão (+ Manteigaria nata if keen) | Mercado do Bolhão stalls | Taberna dos Mercadores (email) / Tabuleta / Terra Nova | Casa da Bifana after the Clérigos night climb |
 | **Day 2** (Fri) | Época or Hakko | Café Santiago francesinha (by 11:30) | MUU 21:00 (post-cruise) / Eleit / Taberna de São Miguel | Picha Café |
-| **Day 3** (Sat) | SO Coffee Roasters or Confeitaria (opens 07:00 Sat) | Matosinhos beach shacks / O Gaveto splurge | Loca 🥇 / Escama / Cobre — 20:00 (20:30–21:00 if Option B) | Ribeira night walk |
+| **Day 3** (Sat) | SO Coffee Roasters or Confeitaria (opens 07:00 Sat) | Matosinhos beach shacks / O Gaveto splurge | Gruta 🥇 / Escama / Cobre — 20:00 (20:30–21:00 if Option B) | Ribeira night walk |
 | **Day 4** (Sun) | **OPO airside: Aloma nata + Costa** — Bolhão market & confeitaria closed Sun | (in Lisbon) | — | — |
 
 ---
@@ -173,7 +173,8 @@ Porto has an excellent gelato scene — the family treat after churches and long
 | €1–5 (snacks) | Nata (Bolhão / Manteigaria / Aloma), bifana (Conga / Casa da Bifana), cachorrinhos (Gazela), Bolhão stalls |
 | €7–12 (lunch) | Cantarinha, O Golfinho, Matosinhos beach shacks, Mercado Food & Drinks |
 | €15–25 (mid) | Café Santiago, Terra Nova, Terreiro, Taberna de São Miguel, Eleit, O Rafael |
-| €30–45 (splurge) | Escama, Loca, Taberna dos Mercadores, Cobre, MUU, Culto ao Bacalhau |
+| €30–45 (splurge) | Escama, Taberna dos Mercadores, Cobre, MUU, Culto ao Bacalhau |
+| €45–55 (splurge) | Gruta |
 | €50+ (occasion) | O Gaveto, Restaurante Lusíadas |
 
 ---
@@ -184,7 +185,7 @@ Porto has an excellent gelato scene — the family treat after churches and long
 |---------|--------|----------|
 | Taberna dos Mercadores (Day 1) | ❌ Not booked | Email **today** — tabernadosmercadores.com; fallback: arrive 18:30 |
 | MUU 21:00 (Day 2) | ❌ Not booked | By Fri Aug 14 |
-| Loca (Day 3 farewell) | ❌ Not booked | **TODAY** — Sat Aug 22 window already tight |
+| Gruta (Day 3 farewell) | ❌ Not booked | **TODAY** — small room, book early for Sat Aug 22 |
 | Escama (Day 3 alt) | ❌ Not booked | By Fri Aug 14 |
 | O Gaveto (Day 3 lunch splurge) | ❌ Not booked | By Fri Aug 14 — ogaveto.com |
 | Cálem lodge (optional Day 1 swap) | ❌ Optional | By ~Fri Aug 14 — tour.calem.pt, timed slots |

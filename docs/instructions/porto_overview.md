@@ -94,14 +94,15 @@ Walkable city — Metro + Uber/Bolt for longer hops. No car.
 | €1–5 (snacks) | Pastel de nata (Bolhão / Manteigaria), bifana (Casa da Bifana / Conga) |
 | €7–12 (lunch) | Cantarinha (francesinha), Matosinhos beach shacks |
 | €15–25 (mid) | Café Santiago, Terra Nova, Taberna de São Miguel, MUU |
-| €30–45 (splurge) | Escama, Loca, Taberna dos Mercadores |
+| €30–45 (splurge) | Escama, Taberna dos Mercadores |
+| €45–55 (splurge) | Gruta |
 | €50+ (occasion) | O Gaveto, Culto ao Bacalhau |
 
 | Day | Breakfast | Lunch | Dinner |
 |-----|-----------|-------|--------|
 | Day 1 | Confeitaria do Bolhão | Mercado do Bolhão | Taberna dos Mercadores |
 | Day 2 | Época or Hakko | Café Santiago (francesinha) | MUU or Eleit |
-| Day 3 | SO Coffee Roasters | Matosinhos shacks / O Gaveto | Loca or Escama |
+| Day 3 | SO Coffee Roasters | Matosinhos shacks / O Gaveto | Gruta or Escama |
 | Day 4 | OPO airside — Aloma nata + Costa (Bolhão & confeitaria closed Sun) | — | — |
 
 ---
@@ -116,7 +117,7 @@ Walkable city — Metro + Uber/Bolt for longer hops. No car.
 | Cálem port lodge (optional, Day 1 Gaia) | By ~Fri Aug 14 — timed slots · was €20/€10 youth, platforms now €26–28 | tour.calem.pt |
 | ~~Palácio da Bolsa~~ — swapped for MMIPO | — | Day-of if you reinstate it: palaciodabolsa.com |
 | MUU (Day 2 dinner) | By Fri Aug 14 | Restaurant website |
-| Loca (Day 3 dinner) | **Book TODAY** — Sat window already tight | Restaurant website |
+| Gruta (Day 3 dinner) | **Book TODAY** — small room, book early | grutaporto.com |
 | O Gaveto (Day 3 lunch splurge) | By Fri Aug 14 | ogaveto.com |
 | Escama (Day 3 dinner alt) | By Fri Aug 14 | escamaporto.com |
 | Douro boat leg (only if Option B) | By **Fri Aug 14** — Sat departures sell out; free-cancel platforms = zero-risk to reserve now | GetYourGuide / cruzeiros-douro.pt |
