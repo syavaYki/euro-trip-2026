@@ -8,6 +8,30 @@
 
 ---
 
+## ✅ Already booked — the receipt pile
+
+| Item | Reference |
+| ---- | --------- |
+| Flights EWR→OPO · OPO→LIS · LIS→BCN | TP212 / TP1921 / TP1038 · TAP ref **Z5SCJS** · ticket 047 2524668983 · 4 carry-ons + 2 checked |
+| Flight home MAD→JFK | AA 95 · Sep 5, 10:25 · T4 |
+| AVE Barcelona → Zaragoza | Aug 31, 11:00 · **WJXSCF** · Coche 6 · 2A/2B/3A/3B |
+| AVE Zaragoza → Madrid | Sep 1, 17:48 · **4U5NZV** · Coche 7 · 2C/2D/3C/3D |
+| Porto — Aposentus, Rua de Santo Ildefonso 200, 1º Traseiras, 4000-507 [📍](https://maps.google.com/?q=Rua+de+Santo+Ildefonso+200+4000-507+Porto+Portugal) | 5732321948 · Aug 20–23 |
+| Lisbon — 64 Rua da Bempostinha 5º dto, Arroios, 1150-099 [📍](https://maps.google.com/?q=Rua+da+Bempostinha+64+1150-099+Lisboa+Portugal) | Booking.com · €579.50 paid · non-refundable |
+| Barcelona — AB Sagrada Família Bofill, Carrer de la Marina 240, Eixample, 08013 [📍](https://maps.google.com/?q=Carrer+de+la+Marina+240+08013+Barcelona+Spain) | Booking.com · Aug 26–31 |
+| Zaragoza — Apartamento Centro 5 (Isabel), C. del Dr. Alejandro Palomar 38, 2º Izda, 50002 [📍](https://maps.google.com/?q=Calle+del+Dr.+Alejandro+Palomar+38+50002+Zaragoza+Spain) | Airbnb · $93.93 · **PayPal charge scheduled Aug 18** |
+| Madrid — Plenora Alejandro Dumas, C. de Alejandro Dumas 30, 28005 [📍](https://maps.google.com/?q=Calle+de+Alejandro+Dumas+30+28005+Madrid+Spain) | 5149971517 · PIN **7526** · €671.73 paid |
+| Sagrada Família ⚠️ nominative | Aug 27 · entry 17:45 · EN tour 18:30 · code **103719876** · **bring passports** |
+| Park Güell | Aug 27 · 09:30 · 4 × €18 · locator **700328431455** |
+| Pena Palace (Sintra) | Aug 24 · 09:00 palace slot · Essential Visit · paid |
+| Jerónimos cloister | Aug 23 · order **38185413** · paid |
+| Torre de Belém | Aug 23 · 16:00 slot · order **38185394** · paid |
+| São Vicente de Fora | Aug 25 · ref **980497008** (2 adult, 2 youth) |
+| Castelo de São Jorge | Open ticket to 1 Nov 2026 · entry from 09:00 · paid |
+| 7 Bridges sunset cruise (Porto) | Aug 21 · 18:45 · ref **GYG7VKRQ9BVG** · meet 430 Rua da Praia, Gaia (door C) |
+
+---
+
 ## 🎯 How to think about this
 
 The worry — *"don't want to pay for everything in case the trip dies, don't want to lose the spots"* — mostly dissolves once you separate the two kinds of open items:
@@ -119,30 +143,6 @@ Rules of thumb, for anything added later:
 | **Timed museum entries, August** | **1–3 weeks** | Sagrada Família and Park Güell were the exceptions — those needed months |
 | **Free capacity-capped reservations** (Escolania) | **As soon as the calendar opens** | Costs nothing, so there's no reason to wait |
 | **Walk-up sights, transit, unreserved trains** | **Day-of** | Pre-buying just converts flexibility into risk |
-
----
-
-## ✅ Already booked — the receipt pile
-
-| Item | Reference |
-| ---- | --------- |
-| Flights EWR→OPO · OPO→LIS · LIS→BCN | TP212 / TP1921 / TP1038 · TAP ref **Z5SCJS** · ticket 047 2524668983 · 4 carry-ons + 2 checked |
-| Flight home MAD→JFK | AA 95 · Sep 5, 10:25 · T4 |
-| AVE Barcelona → Zaragoza | Aug 31, 11:00 · **WJXSCF** · Coche 6 · 2A/2B/3A/3B |
-| AVE Zaragoza → Madrid | Sep 1, 17:48 · **4U5NZV** · Coche 7 · 2C/2D/3C/3D |
-| Porto — Aposentus, Rua de Santo Ildefonso 200, 1º Traseiras, 4000-507 [📍](https://maps.google.com/?q=Rua+de+Santo+Ildefonso+200+4000-507+Porto+Portugal) | 5732321948 · Aug 20–23 |
-| Lisbon — 64 Rua da Bempostinha 5º dto, Arroios, 1150-099 [📍](https://maps.google.com/?q=Rua+da+Bempostinha+64+1150-099+Lisboa+Portugal) | Booking.com · €579.50 paid · non-refundable |
-| Barcelona — AB Sagrada Família Bofill, Carrer de la Marina 240, Eixample, 08013 [📍](https://maps.google.com/?q=Carrer+de+la+Marina+240+08013+Barcelona+Spain) | Booking.com · Aug 26–31 |
-| Zaragoza — Apartamento Centro 5 (Isabel), C. del Dr. Alejandro Palomar 38, 2º Izda, 50002 [📍](https://maps.google.com/?q=Calle+del+Dr.+Alejandro+Palomar+38+50002+Zaragoza+Spain) | Airbnb · $93.93 · **PayPal charge scheduled Aug 18** |
-| Madrid — Plenora Alejandro Dumas, C. de Alejandro Dumas 30, 28005 [📍](https://maps.google.com/?q=Calle+de+Alejandro+Dumas+30+28005+Madrid+Spain) | 5149971517 · PIN **7526** · €671.73 paid |
-| Sagrada Família ⚠️ nominative | Aug 27 · entry 17:45 · EN tour 18:30 · code **103719876** · **bring passports** |
-| Park Güell | Aug 27 · 09:30 · 4 × €18 · locator **700328431455** |
-| Pena Palace (Sintra) | Aug 24 · 09:00 palace slot · Essential Visit · paid |
-| Jerónimos cloister | Aug 23 · order **38185413** · paid |
-| Torre de Belém | Aug 23 · 16:00 slot · order **38185394** · paid |
-| São Vicente de Fora | Aug 25 · ref **980497008** (2 adult, 2 youth) |
-| Castelo de São Jorge | Open ticket to 1 Nov 2026 · entry from 09:00 · paid |
-| 7 Bridges sunset cruise (Porto) | Aug 21 · 18:45 · ref **GYG7VKRQ9BVG** · meet 430 Rua da Praia, Gaia (door C) |
 
 ---
 
