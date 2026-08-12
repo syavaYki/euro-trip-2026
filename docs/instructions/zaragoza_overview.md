@@ -23,7 +23,7 @@
 | **House rules** | Max 5 guests · quiet hours 22:00–08:00 · no smoke alarm (CO alarm present) · stairs to apt |
 | **Status** | ✅ Apartment booked · ✅ Both AVE trains booked |
 
-**Neighbourhood essentials (from host):** supermarkets Eroski City (C/ Coso 126), Alcampo (C/ Reboleria 14), Mercadona (C/ San Vicente Paul 42) · taxis 976 75 75 75 / 976 42 42 42 (Uber/Cabify work) · emergencies 112 / 061 medical / 091 police / 080 fire · [official city map](http://idezar.zaragoza.es/callejero/) · [Avanza transport](http://zaragoza.avanzagrupo.com/) · host tapas picks: Bar Gallizo, El Ángel del Pincho, Bar La Viña, The Lynx, El Fuelle (see Food tab).
+**Neighbourhood essentials (from host):** supermarkets Eroski City (C/ Coso 126), Alcampo (C/ Reboleria 14), Mercadona (C/ San Vicente Paul 42) · taxis 976 75 75 75 / 976 42 42 42 (Uber/Cabify work) · emergencies 112 / 061 medical / 091 police / 080 fire · [official city map](http://idezar.zaragoza.es/callejero/) · [Avanza transport](http://zaragoza.avanzagrupo.com/) · host tapas picks: Bar Gallizo, El Ángel del Pincho, Bar La Viña, The Lynx, El Fuelle (see Food tab) · delivery fallback: Telepizza 976 98 15 19, Domino's 976 99 02 77, Kebab 976 47 23 05, Bo Wok 876 16 80 41, Burger King 976 22 71 14 (Glovo/Uber Eats also cover the centre).
 
 ---
 

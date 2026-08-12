@@ -1626,6 +1626,8 @@ The reason to do it even with the Aug 27 ticket in hand: **you see the opposite 
 
 **Emergencies:** 112 (general) · 061 (medical) · 091 (police) · 080 (fire)
 
+**Delivery** (host's list — the 22:00-quiet-hours safety net if the AVE day runs long or the teens are hungry after kitchens shut): Telepizza 976 98 15 19 / 976 59 35 69 · Domino's 976 99 02 77 · Kebab 976 47 23 05 · Bo Wok 876 16 80 41 · Burger King 976 22 71 14. Glovo and Uber Eats also cover central Zaragoza.
+
 **City map / transport:** [idezar.zaragoza.es/callejero](http://idezar.zaragoza.es/callejero/) (official city map) · [zaragoza.callejero.net](http://zaragoza.callejero.net) (street finder) · [Avanza public transport](http://zaragoza.avanzagrupo.com/)
 
 **Host's tapas picks** (walkable from apartment — see Food tab for full list): **[Bar Gallizo](https://maps.google.com/?q=Bar+Gallizo+Zaragoza+Spain)** — C/ San Lorenzo 44 (excellent tapas) · **[El Ángel del Pincho](https://maps.google.com/?q=El+%C3%81ngel+del+Pincho+Zaragoza+Spain)** — C/ Jordán de Urríes 5 (*pajaritos* + tempura) · **[Bar La Viña](https://maps.google.com/?q=Bar+La+Vi%C3%B1a+Zaragoza+Spain)** — C/ Jordán de Urríes 3 (eggplant with honey) · **[The Lynx](https://maps.google.com/?q=The+Lynx+Zaragoza+Spain)** — Plaza de Santa Marta (the bar Guardia Civil frequents) · **[Restaurante El Fuelle](https://maps.google.com/?q=Restaurante+El+Fuelle+Zaragoza+Spain)** — Calle Mayor 59 (Aragonese, tel 976 39 80 33 — ⚠️ closed Mondays, so it's a Tue-lunch option for us)
