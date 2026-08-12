@@ -1,7 +1,7 @@
 # Porto — City Overview
 ## Aug 20–23 (3 nights) · Euro Trip 2026
 
-> Three nights in the granite, gold-leaf, port-wine city on the Douro. Hotel sits 2 min from Bolhão market; the sunset sailboat cruise (Fri 18:45) is booked; everything else is walk-up or a quick reservation. Day 3 is beach-by-default, Douro Valley if booked in time.
+> Three nights in the granite, gold-leaf, port-wine city on the Douro. Hotel sits 2 min from Bolhão market; the sunset sailboat cruise (Fri 18:45) is booked; everything else is walk-up or a quick reservation. Day 3 is the beach + tram loop, locked.
 
 ---
 
@@ -55,7 +55,7 @@ Walkable city — Metro + Uber/Bolt for longer hops. No car.
 |-----|-------|---------------|
 | **Day 1** (Thu Aug 20) | Arrival + Ribeira | ~~Livraria Lello~~ **Museu Soares dos Reis** → Igreja do Carmo → Ribeira → **Gaia loop** (lower deck → cable car → upper deck) → São Francisco → Taberna dos Mercadores → **Clérigos night climb ~21:00** |
 | **Day 2** (Fri Aug 21) | Historic Core + Sunset Cruise | São Bento → Sé → **Santa Clara** → francesinha at Café Santiago → Capela das Almas → Bolhão → **MMIPO** → Photography Centre → Virtudes → **7 Bridges Sunset Cruise 18:45** ✅ Booked |
-| **Day 3** (Sat Aug 22) | A (default): Beach + Tram Loop · B: Douro Valley | A: Matosinhos → Foz → Tram 1 → Tram Museum → Crystal Palace peacocks → farewell dinner · B: train 09:25 to Régua + mini-cruise (book boat by Aug 14) |
+| **Day 3** (Sat Aug 22) | Beach + Tram Loop ✅ locked | Matosinhos → Foz → Tram 1 → Tram Museum → Crystal Palace peacocks → farewell dinner. (Douro Valley alternative dropped — 10-hr day, 35–40 °C inland, before a 05:45 wake-up) |
 | **Day 4** (Sun Aug 23) | Departure | Wake 05:45 → leave 06:15 → Metro 06:25 → OPO ~07:05 → breakfast airside → TP1921 09:00 |
 
 ---
@@ -84,7 +84,7 @@ Walkable city — Metro + Uber/Bolt for longer hops. No car.
 | Tram 1 (Foz → Massarelos) | €6 (ages 4–12 €3.50) | ❌ | Day 3, 15:30 |
 | Museu do Carro Eléctrico | €8 · €4 ages 6–25 & 65+ | ❌ | Day 3, 16:00 · Sat 10–18 |
 | Jardim do Palácio de Cristal (peacocks) | Free | ❌ | Day 3, 17:00 |
-| Douro Valley (Option B) | Trains €20 rtn/adult + boat €20–88/pp | ✅ Boat by Aug 14 | Day 3 |
+| ~~Douro Valley~~ | — | — | ❌ **Dropped** — nothing to book |
 
 ---
 
@@ -92,19 +92,20 @@ Walkable city — Metro + Uber/Bolt for longer hops. No car.
 
 | Budget | Best Bets |
 |--------|-----------|
-| €1–5 (snacks) | Pastel de nata (Bolhão / Manteigaria), bifana (Casa da Bifana / Conga) |
-| €7–12 (lunch) | Cantarinha (francesinha), Matosinhos beach shacks |
-| €15–25 (mid) | Café Santiago, Terra Nova, Taberna de São Miguel, MUU |
-| €30–45 (splurge) | Escama, Taberna dos Mercadores |
-| €45–55 (splurge) | Gruta |
-| €50+ (occasion) | O Gaveto, Culto ao Bacalhau |
+| €1–5 (snacks) | Pastel de nata (Bolhão / Manteigaria), bifana (Casa da Bifana / Conga), *sande de pernil* at **Casa Guedes** (Pç. dos Poveiros 130 — your corner) |
+| €8–15 (locals' band) ⭐ | **O Buraco** (R. do Bolhão 95, worker-lunch tasca, 3 min) · **Casa Expresso** (Pç. Carlos Alberto 73, €5–6 dishes) · **Tasquinha Zé Povinho** (Clemente Meneres 36) · **Cantarinha** francesinha (Lg. Maternidade de Júlio Dinis 75) |
+| €15–25 (mid) | **Adega São Nicolau** (R. de São Nicolau 1 — where Porto cooks eat) · **Antunes** (Bonjardim 614) · **O Rápido** (Madeira 194) · **Salta o Muro / Tito / Casa Serrão** (Matosinhos grill street) · Café Santiago · Terreiro / Terra Nova (view pricing) |
+| €25–35 (occasion) | Taberna dos Mercadores (16 seats, email), Escama |
+| €35+ (tourist-priced) | MUU Steakhouse, Gruta, O Gaveto, Culto ao Bacalhau — real, but the opposite of "small and local" |
 
 | Day | Breakfast | Lunch | Dinner |
 |-----|-----------|-------|--------|
-| Day 1 | Confeitaria do Bolhão | Mercado do Bolhão | Taberna dos Mercadores |
-| Day 2 | Época or Hakko | Café Santiago (francesinha) | MUU or Eleit |
-| Day 3 | SO Coffee Roasters | Matosinhos shacks / O Gaveto | Gruta or Escama |
+| Day 1 | Confeitaria do Bolhão | **O Buraco** / Casa Guedes / Bolhão stalls | **Adega São Nicolau** ⭐ or Taberna dos Mercadores |
+| Day 2 | Época or Hakko | Café Santiago or **Cantarinha** (francesinha) | **Antunes** ⭐ / Zé Povinho / Solar Moinho de Vento |
+| Day 3 | SO Coffee Roasters | **Salta o Muro / Tito**, R. Heróis de França ⭐ | **Casa Expresso** ⭐ / O Rápido (Escama = the one modern option) |
 | Day 4 | OPO airside — Aloma nata + Costa (Bolhão & confeitaria closed Sun) | — | — |
+
+> ⚠️ **Struck from the plan as unverifiable:** Eleit, Taberna de São Miguel, Tabuleta, Cobre, O Rafael — no address, no listing, no reviews anywhere. Replacements above are all documented, family-run, cheaper.
 
 ---
 
@@ -113,7 +114,7 @@ Walkable city — Metro + Uber/Bolt for longer hops. No car.
 | Item | Status/Deadline as of Aug 5 | Where |
 |------|----------|-------|
 | ~~Livraria Lello tickets~~ | **CANCELLED** | — |
-| Taberna dos Mercadores (Day 1 dinner) | Email **today** | tabernadosmercadores.com |
+| Taberna dos Mercadores (Day 1 dinner) | Email **today** — or skip it: **Adega São Nicolau** (same street, cheaper, phone booking) is now the Day 1 pick | tabernadosmercadores.com |
 | ~~7 Bridges Sunset Cruise (Day 2, 18:45)~~ ✅ Booked | — | ref **GYG7VKRQ9BVG** · Leçaodouro · meet 430 Rua da Praia, Vila Nova de Gaia (door C) |
 | Cálem port lodge (optional, Day 1 Gaia) | By ~Fri Aug 14 — timed slots · was €20/€10 youth, platforms now €26–28 | tour.calem.pt |
 | ~~Palácio da Bolsa~~ — swapped for MMIPO | — | Day-of if you reinstate it: palaciodabolsa.com |
@@ -121,7 +122,6 @@ Walkable city — Metro + Uber/Bolt for longer hops. No car.
 | Gruta (Day 3 dinner) | **Book TODAY** — small room, book early | grutaporto.com |
 | O Gaveto (Day 3 lunch splurge) | By Fri Aug 14 | ogaveto.com |
 | Escama (Day 3 dinner alt) | By Fri Aug 14 | escamaporto.com |
-| Douro boat leg (only if Option B) | By **Fri Aug 14** — Sat departures sell out; free-cancel platforms = zero-risk to reserve now | GetYourGuide / cruzeiros-douro.pt |
 
 ---
 

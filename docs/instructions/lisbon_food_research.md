@@ -99,10 +99,38 @@
 
 ---
 
+## 🥇 Tascas — the locals' tier (verified Aug 2026)
+
+Family-run, paper tablecloths, handwritten *prato do dia*, Portuguese-only menus, mostly cash. This is the tier the plan now leads with — everything here is €8–15/pp, and it is the food people actually eat in this city.
+
+| Name | What / why | Area / address | Price | Book? | Tip |
+|------|------------|----------------|-------|-------|-----|
+| **Zé dos Cornos** ⭐⭐ [📍](https://maps.google.com/?q=Z%C3%A9+dos+Cornos+Beco+dos+Surradores+5+Lisboa+Portugal) | The Mouraria benchmark alongside Zé da Mouraria — oven ribs (*entrecosto*), rack ~€13, feeds two | Mouraria · Beco dos Surradores 5 | €10–15/pp | Queue (they hand beers out to it) | Cash. Lunch only on some weekdays — check before a dinner plan |
+| **Sardinha** ⭐ [📍](https://maps.google.com/?q=Sardinha+Rua+Jardim+do+Tabaco+18+Lisboa+Portugal) | Older husband-and-wife room, zero concept. *Bitoque*; or two grilled quails with chips and change from €10 | Alfama · R. Jardim do Tabaco 18–20 | €8–12/pp | Walk-in | Nearest tasca to the Feira da Ladra / Santa Apolónia end of Day 3 |
+| **Príncipe do Calhariz** ⭐⭐ [📍](https://maps.google.com/?q=Pr%C3%ADncipe+do+Calhariz+Cal%C3%A7ada+do+Combro+28+Lisboa+Portugal) | Grilled steak, house wine, big plain room. **The Day 1 pick because it opens Sundays, including the evening** — when most tascas are shut | Chiado · Calçada do Combro 28 | €12–20/pp | Walk-in (large space) | Sunday-safe, four-people-safe, 12 min from the apartment |
+| **O Prado** ⭐ [📍](https://maps.google.com/?q=O+Prado+Rua+da+Junqueira+472+Lisboa+Portugal) | Belém's tasca, one street back from the monument row — *prato do dia*, grilled fish, seafood rice | Belém · R. da Junqueira 472 | €10–15/pp | Walk-in | **Day 1 lunch.** The tour buses never turn this corner |
+| **Afonso dos Leitões** [📍](https://maps.google.com/?q=Afonso+dos+Leit%C3%B5es+Rua+da+Junqueira+486+Lisboa+Portugal) | Roast suckling-pig sandwiches with peppery gravy, two doors from O Prado | Belém · R. da Junqueira 486 | €6–10/pp | ❌ | The 15-minute version of Belém lunch |
+| **Maçã Verde** [📍](https://maps.google.com/?q=Ma%C3%A7%C3%A3+Verde+Rua+dos+Caminhos+de+Ferro+Lisboa+Portugal) | Daily specials, workers' room by Santa Apolónia | Alfama/Sta. Apolónia · R. dos Caminhos de Ferro | €10–15/pp | Walk-in | Handy on the Feira da Ladra morning |
+| **O Cartaxinho** [📍](https://maps.google.com/?q=O+Cartaxinho+Rua+de+Santa+Marta+20+Lisboa+Portugal) | *Cozido*, *cabidela*, *bacalhau à Brás* — everything the apartment neighbourhood eats | Near Arroios · R. de Santa Marta 20B | €10–15/pp | Walk-in | **~12 min from Rua da Bempostinha** |
+| **Esquina da Fé** [📍](https://maps.google.com/?q=Esquina+da+F%C3%A9+Rua+da+F%C3%A9+60+Lisboa+Portugal) | Minho/Trás-os-Montes cooking, everything house-made, dish of the day | Near Arroios · R. da Fé 60 | €10–15/pp | Walk-in | The other walk-home option |
+| **Forninho Saloio** [📍](https://maps.google.com/?q=Forninho+Saloio+Travessa+das+Parreiras+39+Lisboa+Portugal) | Open since 1995 — *pernil do porco*, daily specials, better value than the à la carte | Near Arroios · Tv. das Parreiras 39 | €10–15/pp | Walk-in | Ask for the specials, not the menu |
+| **Tendinha do Rossio** [📍](https://maps.google.com/?q=Tendinha+do+Rossio+Lisboa+Portugal) | Trading since 1840; the *pastel de bacalhau* people call the city's best | Baixa · Pç. Dom Pedro IV 6 | €3–8/pp | ❌ | Standing snack on the way down to the river |
+
+> 💡 **Tasca economics:** the *couvert* (bread, olives, paté) is charged per item — decline it if you don't want it. A *dose* feeds two; order *meia dose*. Carry cash. Lunch *prato do dia* is cheaper and fresher than the same kitchen's dinner card. And many of these close Sundays and all of August — **call before you walk across town**.
+
+---
+
 ## 🍽️ Dinner & Lunch Classics
 
 | Name | What / why | Area | Price | Book? | Tip |
 |------|------------|------|-------|-------|-----|
+| **Apeadeiro** ⭐⭐ [📍](https://maps.google.com/?q=Restaurante+Apeadeiro+Sintra+Portugal) | **The Sintra locals' lunch, 46 years old** — big azulejo dining room by the town hall, long tables, grilled fish, stews, *bacalhau à Brás*, fair prices, off the palace circuit | Sintra (Av. Miguel Bombarda) | €12–20/pp | Walk-in, go by 13:30 | **Day 2 lunch pick.** Kitchen closes ~16:00 |
+| **A Tasca do Manel** [📍](https://maps.google.com/?q=Tasca+do+Manel+Sintra+Portugal) | Bread + soup + steak + drink + coffee for ~**€8** — the budget champion in Sintra | Sintra centre | €8–12/pp | ❌ | Popular with castle visitors now, but still the cheapest real lunch |
+| **Cantinho de São Pedro** [📍](https://maps.google.com/?q=Cantinho+de+S%C3%A3o+Pedro+Sintra+Portugal) | Family-run in the São Pedro quarter — codfish gratin, pork cheeks, rustic room, no pretence | Sintra (São Pedro) | €15–25/pp | Advisable | Worth the 15-min walk out of the centre |
+| **Marisco na Praça** ⭐⭐ [📍](https://maps.google.com/?q=Marisco+na+Pra%C3%A7a+Mercado+da+Vila+Cascais+Portugal) | **Cascais dinner pick** — inside the Mercado da Vila: shellfish and grilled fish at market prices, informal, no view surcharge. Daily 12:00–24:00 | Cascais (Mercado da Vila) | €15–25/pp | Walk-in | 3 min inland from the seafront terraces, half the price of them |
+| **Flecha Azul** [📍](https://maps.google.com/?q=Flecha+Azul+Cascais+Portugal) | Plain, cheap, 100% Portuguese — the budget Cascais fish room | Cascais | €12–20/pp | Walk-in | Backup #1 |
+| **As Redes do Mar** [📍](https://maps.google.com/?q=As+Redes+do+Mar+Cascais+Portugal) | Elderly couple cooking; ask for the dishes of the day | Cascais | €15–25/pp | Walk-in | Backup #2 |
+| **Bolina** [📍](https://maps.google.com/?q=Bolina+Cascais+Portugal) | Freshly grilled fish on the *paredão* between Tamariz and Poço — English menu but a local crowd | Cascais (paredão) | €18–28/pp | Advisable | If you want the sea in view without the tourist-trap tax |
 | **Cantinho do Aziz** ⭐ [📍](https://maps.google.com/?q=Cantinho+do+Aziz+Lisbon+Portugal) | Mozambican-Portuguese fusion, Aziz family since 1992 — unlike anything else in town | Mouraria (Rua de São Lourenço 3) | €15–25/pp | Book ahead | The **matapa** (cassava + prawn + peanut) is the "life-changing" order; ask for mild piri-piri for the table |
 | **Pigmeu** [📍](https://maps.google.com/?q=Pigmeu+Lisbon+Portugal) | All-pork nose-to-tail neighbourhood spot | Campo de Ourique (Rua 4 de Infantaria 68) | €20–35/pp | Advisable | Croquetes + suckling-pig confit; genuinely local room |
 | **Taberna Albricoque** [📍](https://maps.google.com/?q=Taberna+Albricoque+Lisbon+Portugal) | Algarve/Moorish southern cooking, rare in Lisbon | Alfama edge (Rua Caminhos de Ferro 98) | €20–35/pp | Advisable | Chicken with figs and almonds — tastes like the south |
@@ -161,6 +189,8 @@
 
 > Fado is Lisbon's soul music — raw, live, about _saudade_ (untranslatable longing). It's genuinely moving even with zero Portuguese. **Our fado night is Tuesday Aug 25 → the pick is Parreirinha de Alfama (🔴 unbooked as of Aug 5 — book this week).** Note the day-of-week trap: the famous amateur (_fado vadio_) rooms don't run Tuesdays.
 
+> 💰 **Price reality, re-checked Aug 2026:** the *fado vadio* rooms are far cheaper than this file's older figures suggest — **A Tasca do Chico** runs on a **~€10 minimum spend** (some sources report no cover at all), and **A Baiuca** comes to **~€25/pp with dinner**, against €45–65 at Parreirinha and €50–80 at Clube de Fado. Same music, different tablecloth. Both vadio rooms take **phone bookings only** (Baiuca: +351 218 867 284) and fill weeks ahead in August; Chico takes none — be inside before 19:00. Bring **cash for the singers' tips** everywhere. Winter aside, Alfama's most locally-attended rooms are Baiuca and Clube Lisboa Amigos do Fado (Chelas, far out).
+
 | Name | What / why | Area | Price | Book? | Tip |
 |------|------------|------|-------|-------|-----|
 | **Parreirinha de Alfama** ⭐ **← our pick** [📍](https://maps.google.com/?q=Parreirinha+de+Alfama+Lisbon+Portugal) | The Amália-era house founded by fadista **Argentina Santos** — top singers, intimate room, nightly | Alfama (Beco do Espírito Santo 1) | Fado menu ~€45–65/pp | 🔴 **Book now** — parreirinhadealfama.com / +351 218 868 209 | Ask for the ~20:00 seating; singing starts once dinner lands. You'll have seen Amália's tomb at the Panteão that morning — full-circle day |
@@ -189,9 +219,9 @@
 
 | Day | Breakfast | Gelato stop | Lunch | Dinner / evening |
 |-----|-----------|-------------|-------|------------------|
-| **Day 1 · Sun Aug 23 (Belém + Baixa)** | On the plane / airport coffee | Artisani (Doca) if time after Belém Tower | Belém riverside kiosks + **Pastéis de Belém** natas | **Time Out Market** (walk-in), then **Santini** + ginjinha on the evening stroll |
-| **Day 2 · Mon Aug 24 (Sintra–coast)** | Rossio station takeaway ~07:10 | Sintra village scoop (tourist-tier but earned) | **Casa Piriquita** — travesseiros + queijadas | **Cascais seafront fish**; Option B version: Ramiro at 19:00 or Tascantiga/Incomum in Sintra |
-| **Day 3 · Tue Aug 25 (Alfama)** | **Copenhagen Coffee Lab** (Campo de Santa Clara) | **Gelato Davvero** (São Cristóvão) after the Sé | **Zé da Mouraria** at 13:50 (or Páteo 13 sardines / O Velho Eurico if booked) | **Parreirinha de Alfama fado dinner** 🔴 book — Clube de Fado backup |
+| **Day 1 · Sun Aug 23 (Belém + Baixa)** | On the plane / airport coffee | Artisani (Doca) if time after Belém Tower | **O Prado** (R. da Junqueira 472) ⭐ or the riverside kiosks + **Pastéis de Belém** natas | **Príncipe do Calhariz** ⭐ (Sunday-open) — Time Out Market as the fallback; then **Santini** + ginjinha on the stroll |
+| **Day 2 · Mon Aug 24 (Sintra)** | Rossio station takeaway ~07:10 | Sintra village scoop (tourist-tier but earned) | **Apeadeiro** ⭐ (or Tasca do Manel, ~€8) — **Casa Piriquita** for travesseiros afterwards | **Cervejaria Ramiro** back in Lisbon, queue at 19:00 ⭐; or stay up and eat at **Tascantiga** / **Incomum** in Sintra, ~20:00 train home |
+| **Day 3 · Tue Aug 25 (Alfama)** | **Copenhagen Coffee Lab** (Campo de Santa Clara) | **Gelato Davvero** (São Cristóvão) after the Sé | **Zé da Mouraria** at 13:50 — or **Zé dos Cornos** / Páteo 13 sardines / O Velho Eurico | Call **A Baiuca** (~€25 fado vadio) first; otherwise **Parreirinha de Alfama** 🔴 book |
 | **Day 4 · Wed Aug 26 (Oceanário + fly)** | **Manteigaria** + **Fabrica Coffee Roasters** (Chiado) | Skip — plane day | **Centro Vasco da Gama food court** after the Oceanário (Time Out if Oceanário dropped) | On the plane; **Aloma airside nata** as the goodbye |
 
 ---
@@ -202,8 +232,10 @@
 
 | Budget | Best Bets |
 |--------|-----------|
-| €1–3 (snacks) | Nata (Manteigaria / Pastéis de Belém) · ginjinha shot · bifana (As Bifanas do Afonso) · counter pastéis de bacalhau |
-| €10–15 (lunch) | Zé da Mouraria · Time Out stalls · Campo de Ourique market · Páteo 13 sardines · Vasco da Gama food court |
+| €1–3 (snacks) | Nata (Manteigaria / Pastéis de Belém) · ginjinha shot · bifana (As Bifanas do Afonso) · counter pastéis de bacalhau · pastel de bacalhau at Tendinha do Rossio |
+| €8–15 (locals' band) ⭐ | **Zé dos Cornos** · **Sardinha** · **O Prado** (Belém) · **O Cartaxinho / Esquina da Fé / Forninho Saloio** (Arroios, walk home) · Zé da Mouraria · Páteo 13 sardines |
+| €12–20 (mid, still local) | **Príncipe do Calhariz** (Sunday-open) · **Apeadeiro** (Sintra) · **Marisco na Praça** (Cascais) · Casa do Alentejo |
+| €10–15 (convenience) | Time Out stalls · Campo de Ourique market · Vasco da Gama food court |
 | €20–35 (mid dinner) | Stō · Cantinho do Aziz · Taberna da Rua das Flores · Taberna Sal Grosso · Doca de Santo |
 | €35–60 (splurge) | Cervejaria Ramiro · A Cevicheria · Solar dos Presuntos · Laurentina · Os Gazeteiros (~€35 set) |
 | €45–80 (fado night) | **Parreirinha de Alfama** (pick) · Clube de Fado · Sr. Fado |
@@ -231,7 +263,7 @@
 | **Parreirinha de Alfama — Tue Aug 25, ~20:00** | Our fado night; houses fill 1–2 weeks out in August | 🔴 **Book this week** — parreirinhadealfama.com / +351 218 868 209 (Clube de Fado backup, nightly) |
 | **O Velho Eurico** | Cult tasca, near-impossible walk-in | 🟡 Optional — only if swapping it in for a Day 3 lunch; Instagram DM/phone, else 12:00 walk-in attempt |
 | **Os Gazeteiros** | Small set-menu room, Tue–Sat dinner | 🟡 Optional backup if fado falls through |
-| **Cervejaria Ramiro** | No reservations at all | 🕐 Nothing to book — arrive 19:00 sharp (fits Day 2 Option B) |
+| **Cervejaria Ramiro** | No reservations at all | 🕐 Nothing to book — arrive 19:00 sharp (this is the Day 2 dinner) |
 | **Taberna da Rua das Flores** | No reservations | 🕐 Nothing to book — noon-opening walk-in |
 | **Time Out Market / Piriquita / food court** | Walk-in by design | ✅ No action |
 

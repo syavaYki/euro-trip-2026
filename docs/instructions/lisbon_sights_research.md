@@ -138,7 +138,7 @@
 | Destination | Transport | Time | Why | Family notes | Cost for 4 |
 |-------------|-----------|------|-----|--------------|------------|
 | **Sintra** ⭐⭐ [📍](https://maps.google.com/?q=Sintra+Portugal) | Train from Rossio, ~40 min, €2.30/pp each way | Full day — **our Day 2** | Fairy-tale palaces on forested peaks; UNESCO; the deep-dive below | Book everything timed; beat the 434-bus queues with taxis | ~€200–230 incl. transport + Pena/Mouros/Regaleira |
-| **Cascais + Cabo da Roca** ⭐ [📍](https://maps.google.com/?q=Cascais+Portugal) | Train Cais do Sodré ~40 min €2.30; bus **1624** links Sintra–Cabo–Cascais (€2.60 on board) | Half–full day — **folded into our Day 2 evening** | Europe's westernmost cliffs + an elegant beach town; the 1624 makes Sintra→Roca→Cascais one linear arc, no backtracking | Cabo da Roca is windy and cold even in August — bring layers | ~€25–35 transport |
+| **Cascais + Cabo da Roca** ⭐ [📍](https://maps.google.com/?q=Cascais+Portugal) | Train Cais do Sodré ~40 min €2.30; bus **1624** links Sintra–Cabo–Cascais (€2.60 on board) | Half–full day — ❌ **considered for Day 2's evening and cut** (it made a 13-hour transit day) | Europe's westernmost cliffs + an elegant beach town; the 1624 makes Sintra→Roca→Cascais one linear arc, no backtracking — keep it in mind for a future Lisbon trip | Cabo da Roca is windy and cold even in August — bring layers | ~€25–35 transport |
 | **Arrábida Natural Park** [📍](https://maps.google.com/?q=Arr%C3%A1bida+Natural+Park+Portugal) | Guided tour or car + shuttle | Full day | Turquoise coves, Algarve-clear water 45 km south | Summer car ban on beach roads (Jun 15–Sep 15) — tours handle it; Galapinhos is the cove | ~€200–250 |
 | **Óbidos** [📍](https://maps.google.com/?q=%C3%93bidos+Portugal) | Bus from Campo Grande, 60–75 min, ~€7/pp | Half day | Perfect walled medieval town; ginjinha in chocolate cups | ⚠️ Wall parapets have **no guardrails** | ~€35–40 |
 | **Sesimbra** [📍](https://maps.google.com/?q=Sesimbra+Portugal) | Bus ~1 h, ~€4/pp | Half day | Calm-bay fishing town, best swimming near Lisbon by transit | Sheltered and shallow — easiest beach day | ~€30–40 |
@@ -176,13 +176,11 @@
 | **11:15–12:15** | **Castelo dos Mouros** (ticket bought at Pena's office) | 10 min walk; battlements + Atlantic |
 | **12:45** | Forest path down to the village (~25 min, shaded) → **Casa Piriquita** lunch | Travesseiros + queijadas, since 1862 |
 | **14:00–16:00** | **Quinta da Regaleira** 🔴 book the 14:00 slot | Initiation Well + tunnels; afternoon slots calmer than mornings |
-| **16:30** | Bus **1624** (ex-403; some runs 1253) Sintra → **Cabo da Roca** (~40 min, €2.60 on board) | Check the exact departure in the Carris Metropolitana app at lunch — roughly hourly |
-| **17:15–18:00** | **Cabo da Roca** — the westernmost point of continental Europe | Cliffs, lighthouse, Camões inscription; bring a layer, it's cold |
-| **18:15** | Bus 1624 onward → **Cascais** (~30 min) | One linear arc, zero backtracking |
-| **18:45–20:15** | **Cascais**: marina, Boca do Inferno if legs allow, seafront fish dinner | The reward |
-| **20:30** | Train Cascais → Cais do Sodré (€2.30/pp, ~40 min) → Bolt home | Done by ~21:45 |
+| **16:15** | **Sintra old town** — lanes, shops, the **Palácio Nacional** exterior (twin conical chimneys) | Free; as much or little as energy allows |
+| **17:00** | Train Sintra → Rossio (€2.30/pp, ~40 min) | Leaving now beats the evening crowds home |
+| **19:30** | Easy Lisbon evening — **Cervejaria Ramiro** (queue at 19:00) or a Chiado tasca | 10 min walk from the apartment |
 
-> ⚠️ **Fallbacks:** 1624 full or family flagging → skip Cabo da Roca, train home from Sintra after Regaleira (the lighter "Option B" in the master). Rain → the palaces still work (Pena interiors + Regaleira tunnels are half under cover anyway).
+> ⚠️ **Fallback:** rain doesn’t kill this day — Pena’s interiors and Regaleira’s tunnels are half under cover anyway. If everyone still has legs at 16:15, dinner in Sintra (**Tascantiga** / **Incomum**) and the ~20:00 train home works just as well.
 
 ### Village eats
 
@@ -196,7 +194,7 @@
 
 **Day 1 · Sun Aug 23 — Belém + Baixa (bags-light arrival):** Land 09:55 → bags to Anjos/host → Pastéis de Belém → **Jerónimos cloister ✅ (order 38185413)** → free church at 14:00 (Sunday hours) → Padrão dos Descobrimentos → **Torre de Belém 16:00 ✅ (order 38185394)** → MAAT rooftop → check-in 17:45 → Rua Augusta + Arco at golden hour → Praça do Comércio sunset (~20:20) → Time Out Market → Santini → São Pedro de Alcântara night view.
 
-**Day 2 · Mon Aug 24 — Sintra → Cabo da Roca → Cascais ⭐⭐:** the playbook above. **Monday is deliberate** — Jerónimos, Belém Tower, Panteão, São Roque and most Lisbon museums close Mondays; Sintra's palaces run daily.
+**Day 2 · Mon Aug 24 — Sintra ⭐⭐:** the playbook above. **Monday is deliberate** — Jerónimos, Belém Tower, Panteão, São Roque and most Lisbon museums close Mondays; Sintra's palaces run daily.
 
 **Day 3 · Tue Aug 25 — Alfama, Castle & Churches ⭐⭐:** **Castelo 09:00 ✅ (open ticket)** → Portas do Sol + Santa Luzia → **São Vicente de Fora ✅ (ref 980497008)** → Feira da Ladra (Tue!) → **Panteão Nacional (€10/€5)** → Alfama descent → Sé (€5, cloister shut — optional) → tasca lunch → **A:** São Roque + Prazeres cemetery / **B:** Museu do Fado a/c loop → **fado dinner at Parreirinha de Alfama 🔴 book** (sunset alt: Senhora do Monte ~20:19).
 
@@ -248,7 +246,7 @@
 | **Fado house (Day 3 night)** | 🔴 **UNBOOKED — book this week** | **Parreirinha de Alfama** ~20:00 (Clube de Fado backup) — see the food file |
 | **Oceanário 12:00 band (Day 4)** | 🔴 **UNBOOKED — decide & book by ~Aug 10** | oceanario.pt — €27 × 4 = €108, or consciously drop it |
 | Youth rates | — | **Photo ID (passports) at every gate**: 13–24 at national monuments, 13–25 at the castle, <25 at São Vicente; no youth rate at Oceanário/Regaleira for the 19-y-o |
-| Transport | — | Viva Viagem + zapping for everything city-side; Sintra hill = taxi; Cabo da Roca = bus 1624 (€2.60 on board) |
+| Transport | — | Viva Viagem + zapping for everything city-side; Sintra hill = taxi |
 
 ---
 

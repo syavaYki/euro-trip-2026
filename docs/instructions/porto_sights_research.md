@@ -147,7 +147,7 @@ The family's thread through Porto. The three paid interiors are genuinely differ
 
 ## 🚆 Day Trips from Porto
 
-All by public transport — no car needed. (Our Day 3 Option B — the Douro by train + boat — is fully planned in the master itinerary, with 2026 timetables.)
+All by public transport — no car needed. (The Douro by train + boat was weighed for Day 3 and **cut** — a ~10-hour day at 35–40 °C inland before a 05:45 wake-up. Kept below as reference for a future trip.)
 
 | Destination | How | Journey | Cost (return) | Highlights | Tip |
 |-------------|-----|---------|--------------|-----------|-----|
@@ -155,7 +155,7 @@ All by public transport — no car needed. (Our Day 3 Option B — the Douro by 
 | **Aveiro** [📍](https://maps.google.com/?q=Aveiro+Portugal) ⭐ | Train from Campanhã | ~1 hr | ~€7.50 | "Portuguese Venice" — moliceiro canal boats, ovos moles | Add the 15-min bus to Costa Nova's striped houses; boat ride first, pastries second |
 | **Guimarães** [📍](https://maps.google.com/?q=Guimar%C3%A3es+Portugal) | Train from São Bento/Campanhã | ~75 min | ~€7.20 | Birthplace of Portugal: castle (free) + Ducal Palace (€4) | Castle ramparts have real drops — hold the rail, mind the kids |
 | **Viana do Castelo** [📍](https://maps.google.com/?q=Viana+do+Castelo+Portugal) | Train from Campanhã | ~1.5 hrs | ~€15.70 | Santa Luzia basilica funicular + the Gil Eannes hospital ship | The walk-through hospital ship is the family standout — teens included |
-| **Peso da Régua (Douro)** [📍](https://maps.google.com/?q=Peso+da+R%C3%A9gua+Portugal) | Douro-line train from São Bento | ~1 h 55 | €20 (adult) | THE train ride + Douro Museum + tastings | 2026: direct trains 09:25/13:25 out, 17:13 back; sit right going, left returning — full plan in the master |
+| **Peso da Régua (Douro)** [📍](https://maps.google.com/?q=Peso+da+R%C3%A9gua+Portugal) | Douro-line train from São Bento | ~1 h 55 | €20 (adult) | THE train ride + Douro Museum + tastings | 2026: direct trains 09:25/13:25 out, 17:13 back; sit right going, left returning. ❌ Not on this trip — the valley deserves its own overnight in Pinhão |
 | **Amarante** [📍](https://maps.google.com/?q=Amarante+Portugal) | Bus from Rodonorte terminal | ~1 hr | ~€8 | São Gonçalo monastery, romantic bridges, river park | Sparse bus schedule — lock the return time before wandering |
 | **Coimbra** [📍](https://maps.google.com/?q=Coimbra+Portugal) | Alfa Pendular from Campanhã | ~1 h 15 | ~€30 (fast) | Medieval university + Portugal dos Pequeninos miniature park | Long day; the miniature park is the under-12 magnet, the library the over-12 one |
 | **Sintra** [📍](https://maps.google.com/?q=Sintra+Portugal) | Via Lisbon (3 hrs) + Sintra line | ~3.5 hrs each way | High | Palaces and gardens | **Not from Porto** — 7+ hrs of travel for 4 hrs there. It's in the Lisbon leg where it belongs |
@@ -170,7 +170,7 @@ All by public transport — no car needed. (Our Day 3 Option B — the Douro by 
 
 **Most overlooked:** Museu do Vinho do Porto · Piscina das Marés · Afurada · Jardim das Virtudes · Parque de Nova Sintra · Museu Romântico · Casa Museu Guerra Junqueiro · Museu Soares dos Reis · Funicular dos Guindais · Cemitério de Agramonte · Café da Porta do Olival
 
-**Must pre-book:** ~~Livraria Lello~~ (cancelled) · Cálem (if doing the Day-1 swap) · Palácio da Bolsa English tour (if reinstated) · Graham's premium rooms · Douro boat leg (if Option B — by Fri Aug 14)
+**Must pre-book:** ~~Livraria Lello~~ (cancelled) · Cálem (if doing the Day-1 swap) · Palácio da Bolsa English tour (if reinstated) · Graham's premium rooms
 
 **Best day trips for families:** Braga · Aveiro · Viana do Castelo (Gil Eannes ship)
 
@@ -183,8 +183,6 @@ All by public transport — no car needed. (Our Day 3 Option B — the Douro by 
 | 7 Bridges Sunset Cruise (Day 2, 18:45) | ✅ **Booked** — GYG7VKRQ9BVG | Meet 430 Rua da Praia, Gaia, door C, 18:45 |
 | Torre dos Clérigos night climb | Buy at door, €5 flat | Night sessions 19:00–23:00, last entry 22:30 |
 | Cálem (optional Day-1 swap) | Book by ~Aug 14 | tour.calem.pt — timed slots |
-| Douro boat leg (only if Option B) | **Book by Fri Aug 14** | Sat departures sell out; free-cancel platforms = zero risk to reserve now |
-| CP Régua train (only if Option B) | Buy at cp.pt when decided | No seat reservations — São Bento by 08:50 |
 | Everything else in this file | Walk-up | Carry some cash: several small sights and cafés are cash-only |
 
 ---

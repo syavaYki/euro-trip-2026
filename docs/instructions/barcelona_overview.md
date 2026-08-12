@@ -83,7 +83,7 @@
 | Day 2 | Near hotel | Gràcia menú del día | Cervecería Catalana / El Nacional |
 | Day 3 | Near hotel | Montserrat buffet (Tot) | Easy near hotel |
 | Day 4 | Petritxol granja | **La Cova Fumada** (11:45, cash) | Carrer de Blai pintxos |
-| Day 5 | Near hotel | Girona Pl. Independència / Sarrià | **7 Portes** farewell (booked) |
+| Day 5 | Near hotel | Girona: **Draps** (Cort Reial 2) / **El Carrito** (La Barca 10) ⭐ — not the Pl. Independència terraces | **7 Portes** farewell 🟠 **NOT booked** (€40–60/pp) — cheaper Sunday-open alternatives: Carrer de Blai, Bodega La Palma |
 
 > ⚠️ **August closures (verified):** **Quimet & Quimet closed ALL month** · **El Xampanyet** closed till ~Aug 24–25 (confirm) · **Tickets permanently closed** · La Cova Fumada **Sat 09:00–13:00 only**, closed Sun · Cal Pep closed Sun · **La Boqueria closed Sun**.
 

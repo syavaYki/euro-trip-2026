@@ -50,7 +50,7 @@ No car. Metro + CP trains + Bolt do everything; Lisbon is big and hilly.
 | Day | Theme | Key Activities |
 |-----|-------|---------------|
 | **Day 1** (Sun Aug 23) | Arrival + Belém (bags-light) | Land 09:55 → bags to Anjos/host → Pastéis de Belém → Jerónimos cloister ✅ → free church 14:00 → Padrão → **Torre de Belém 16:00 ✅** → check-in → Baixa golden hour → Time Out dinner |
-| **Day 2** (Mon Aug 24) | **Sintra → Cabo da Roca → Cascais** ⭐⭐ | 07:21 train → taxi up → **Pena 09:00 ✅** → Moorish Castle → Piriquita lunch → **Regaleira 14:00 🔴 book** → bus 1624 to Cabo da Roca → Cascais fish dinner → train home. (Monday = most Lisbon museums shut, so Sintra today is deliberate) |
+| **Day 2** (Mon Aug 24) | **Sintra** ⭐⭐ | 07:21 train → taxi up → **Pena 09:00 ✅** → Moorish Castle → Apeadeiro lunch + Piriquita → **Regaleira 14:00 🔴 book** → Sintra old town → 17:00 train home → easy Lisbon evening (Ramiro). (Monday = most Lisbon museums shut, so Sintra today is deliberate. Coastal leg to Cabo da Roca/Cascais was cut) |
 | **Day 3** (Tue Aug 25) | Alfama, Castle & Churches ⭐⭐ | Castelo 09:00 ✅ → miradouros → **São Vicente ✅** → Feira da Ladra (Tue!) → Panteão → Alfama descent → Sé → tasca lunch → São Roque + Prazeres *or* Museu do Fado → **fado dinner at Parreirinha 🔴 book** |
 | **Day 4** (Wed Aug 26) | Slow morning + Oceanário + depart | Manteigaria → Convento do Carmo → Metro to Oriente → **Oceanário 12:00 🔴 book/decide** → food-court lunch → bags from apartment → LIS T1 by ~16:45 → TP1038 18:55 |
 
@@ -66,7 +66,7 @@ No car. Metro + CP trains + Bolt do everything; Lisbon is big and hilly.
 | **Palácio da Pena (Sintra)** | €20 | reduced band — check | ✅ **Booked & paid — 09:00** | Day 2 |
 | **Castelo dos Mouros (Sintra)** | €12 | reduced band — check | ❌ buy at Pena office | Day 2 |
 | **Quinta da Regaleira (Sintra)** | **€20** (2026) | €15 (6–17); 19-y-o pays adult | 🔴 **book NOW** | Day 2, 14:00 |
-| Cabo da Roca | Free (cert €11) | — | ❌ | Day 2, ~17:15 |
+| Cabo da Roca | Free (cert €11) | — | ❌ | ❌ Cut — coastal leg dropped |
 | Castelo de São Jorge | €17 (under 12 free) | **€8.50** (13–25, ID) | ✅ **Booked & paid** — open ticket valid until 1 Nov 2026, entry from 09:00 | Day 3, 09:00 |
 | **São Vicente de Fora** (monastery + royal pantheon) | €8 | **€4** (<25) | ✅ **Booked — ref 980497008** | Day 3 — open daily |
 | **Panteão Nacional** | **€10** (2026) | **€5** (13–24) | ❌ | Day 3 — closed Mon |
@@ -84,18 +84,21 @@ No car. Metro + CP trains + Bolt do everything; Lisbon is big and hilly.
 | Budget | Best Bets |
 |--------|-----------|
 | €1–4 (snacks) | Pastéis de nata (Pastéis de Belém, Manteigaria, Aloma), bifana, ginjinha |
-| €8–15 (lunch) | Time Out Market, Zé da Mouraria, grilled sardines (Páteo 13), Vasco da Gama food court |
-| €15–30 (mid) | Petiscos bars, seafood tascas, Cascais fish |
+| €8–15 (the locals' band) ⭐ | **Zé dos Cornos** (Beco dos Surradores 5 — ribs €13) · **Sardinha** (R. Jardim do Tabaco 18–20 — bitoque under €10) · **O Prado** (R. da Junqueira 472, Belém) · Zé da Mouraria · Páteo 13 sardines · Vasco da Gama food court |
+| €12–20 (mid, still local) | **Príncipe do Calhariz** (Calçada do Combro 28 — **opens Sundays**) · **Apeadeiro** (Sintra) · **Marisco na Praça** (Cascais market) · Casa do Alentejo petiscos · Taberna Sal Grosso |
+| €15–30 | Petiscos bars (Taberna da Rua das Flores), Time Out Market stalls (visitor-priced — fine as fallback) |
 | €30–50 (splurge) | Cervejaria Ramiro, marisqueiras |
-| €45–80 (fado night) | **Parreirinha de Alfama** (the pick) · Clube de Fado (backup) |
+| Fado | **A Baiuca ~€25/pp** (fado vadio, phone-only, Thu–Sat) · **Tasca do Chico ~€10 min spend** · **Parreirinha de Alfama €45–65** (the polished pick, nightly) |
 | Treats | Gelato: Santini (Chiado), Nannarella (São Bento), Gelato Davvero (Alfama); travesseiros at Piriquita (Sintra) |
 
 | Day | Breakfast | Lunch | Dinner |
 |-----|-----------|-------|--------|
-| Day 1 (Sun) | (travel) | Belém kiosks + pastéis | Time Out Market |
-| Day 2 (Mon) | Rossio takeaway | Piriquita (Sintra) | Cascais seafront fish |
-| Day 3 (Tue) | Copenhagen Coffee Lab | Zé da Mouraria / Páteo 13 | **Parreirinha de Alfama (fado) 🔴 book** |
+| Day 1 (Sun) | (travel) | **O Prado** ⭐ (Belém, 1 street back) or kiosks + pastéis | **Príncipe do Calhariz** ⭐ (Sunday-open) — Time Out as fallback |
+| Day 2 (Mon) | Rossio takeaway | **Apeadeiro** ⭐ / Tasca do Manel (~€8); Piriquita = pastry stop | **Cervejaria Ramiro** ⭐ back in Lisbon (queue 19:00) — or Tascantiga/Incomum in Sintra + the ~20:00 train |
+| Day 3 (Tue) | Copenhagen Coffee Lab | Zé da Mouraria / **Zé dos Cornos** / Páteo 13 | Fado — call **A Baiuca** first (€25), else **Parreirinha** 🔴 book |
 | Day 4 (Wed) | Manteigaria + Fabrica | Vasco da Gama food court | (plane / BCN) |
+
+> 🏠 **Arroios, near the apartment** (for any night that collapses): **O Cartaxinho** (R. de Santa Marta 20B) · **Esquina da Fé** (R. da Fé 60) · **Forninho Saloio** (Tv. das Parreiras 39) — plain *prato do dia* rooms, 10–14 min on foot, €10–15/pp.
 
 ---
 
