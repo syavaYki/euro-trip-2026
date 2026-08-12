@@ -14,7 +14,7 @@
 | **Booking** | Airbnb #**HM28SJ8P8C** · $93.93 (PayPal, scheduled Aug 18, 2026) |
 | **Cancellation** | Free until 16:00 on Aug 26; non-refundable after |
 | **Host contact** | Isabel · +34 659 60 06 43 (Jose Luis is co-host) |
-| **🔑 Key access** | Lockbox at apt. **Code released only after the online registration form** (all guests, Spain legal requirement): [u.partee.es/4396/Oga33Ze0llPQgN7MIWtK3jHpu](https://u.partee.es/4396/Oga33Ze0llPQgN7MIWtK3jHpu) — **complete days before arrival**. |
+| **🔑 Key access** | Lockbox at apt. ✅ **Registration form completed — code released.** ⚠️ **Code: `________` — record it here**, and save it offline on two phones. No reception desk here; the lockbox is the only way in |
 | **Arrive** | Mon Aug 31, **AVE arrives Delicias 12:28** · check-in after 16:00 (bags: host early-drop ask, else station consigna) |
 | **Check-out** | Tue Sep 1, by 12:00 noon |
 | **Depart** | Tue Sep 1, **AVE Delicias 17:48 → Madrid Atocha 19:44** — at Delicias by 17:15 |
@@ -91,7 +91,7 @@
 
 | Item | Status / Deadline (as of Aug 5) | Where |
 |------|--------------------------------|-------|
-| **🔑 Guest registration form → releases lockbox code** | 🔲 **Do this week — no form, no keys** | [u.partee.es form](https://u.partee.es/4396/Oga33Ze0llPQgN7MIWtK3jHpu) — all 4 guests |
+| ~~**🔑 Guest registration form → releases lockbox code**~~ | ✅ **Done — code released** | Remaining: save the code offline on two phones |
 | **Aljafería timed entry Tue ~10:00** | 🔲 Book by ~Aug 25 | [tickets.aljaferia.es](https://tickets.aljaferia.es) |
 | **Casa Lac lunch Tue 13:30** | 🔲 Book by ~Aug 25 | 976 39 61 96 · restaurantecasalac@gmail.com |
 | Host early bag-drop ask (Mon ~13:00) | 🔲 Message this week | Airbnb / +34 659 60 06 43 |

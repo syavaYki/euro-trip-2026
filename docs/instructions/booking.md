@@ -19,7 +19,7 @@
 | Porto — Aposentus, Rua de Santo Ildefonso 200, 1º Traseiras, 4000-507 [📍](https://maps.google.com/?q=Rua+de+Santo+Ildefonso+200+4000-507+Porto+Portugal) | 5732321948 · Aug 20–23 · 🔲 check-in link due **~Aug 18** · bags from **12:00** |
 | Lisbon — **Castle View Hideaway** (host Isabelly), 64 Rua da Bempostinha 5º dto, Arroios, 1150-099 [📍](https://maps.google.com/?q=Rua+da+Bempostinha+64+1150-099+Lisboa+Portugal) | Booking.com · €579.50 paid · non-refundable · ✅ **checked in online + registration form done** · ✅ **Isabelly receives 12:00** |
 | Barcelona — AB Sagrada Família Bofill, Carrer de la Marina 240, Eixample, 08013 [📍](https://maps.google.com/?q=Carrer+de+la+Marina+240+08013+Barcelona+Spain) | Booking.com · Aug 26–31 · ✅ registration done · ⚠️ **credit card required at check-in for the security deposit hold** · ⚠️ **tourist tax due at the property** (~€120–140, not prepaid) |
-| Zaragoza — Apartamento Centro 5 (Isabel), C. del Dr. Alejandro Palomar 38, 2º Izda, 50002 [📍](https://maps.google.com/?q=Calle+del+Dr.+Alejandro+Palomar+38+50002+Zaragoza+Spain) | Airbnb · $93.93 · **PayPal charge scheduled Aug 18** |
+| Zaragoza — Apartamento Centro 5 (Isabel), C. del Dr. Alejandro Palomar 38, 2º Izda, 50002 [📍](https://maps.google.com/?q=Calle+del+Dr.+Alejandro+Palomar+38+50002+Zaragoza+Spain) | Airbnb · $93.93 · **PayPal charge scheduled Aug 18** · ✅ **registration form done — lockbox code released** |
 | Madrid — Plenora Alejandro Dumas, C. de Alejandro Dumas 30, 28005 [📍](https://maps.google.com/?q=Calle+de+Alejandro+Dumas+30+28005+Madrid+Spain) | 5149971517 · PIN **7526** · €671.73 paid · ✅ **checked in online** |
 | Sagrada Família ⚠️ nominative | Aug 27 · entry 17:45 · EN tour 18:30 · code **103719876** · **bring passports** |
 | Park Güell | Aug 27 · 09:30 · 4 × €18 · locator **700328431455** |
@@ -65,7 +65,7 @@ Capacity-limited, popular, or slow to reply. **Nothing here costs anything to ho
 
 | Item | Why it's blocking | Deadline | How |
 | ---- | ----------------- | -------- | --- |
-| **Zaragoza guest registration form** | **Releases the lockbox code.** No form, no keys, no way into the flat | Well before Aug 31 — do it now | [u.partee.es form](https://u.partee.es/4396/Oga33Ze0llPQgN7MIWtK3jHpu) — all 4 guests, passports out |
+| ~~**Zaragoza guest registration form**~~ | ✅ **Done — lockbox code released.** Was the hardest gate on the trip: no form, no keys, no way into the flat | — | Remaining: **save the code offline on two phones** |
 | **Confirm Emily's key handover** | The entire Friday-morning bag drop at C/ Alonso Cano 4-2A depends on her having keys — and the 2 checked bags have nowhere else to go | Before Sep 4, ask now | Landlord / agency, **in writing** |
 | **Confirm Emily's UAM end time** | Friday runs 11:00–16:00 or 11:00–12:00? Fork A and Fork B are completely different afternoons | Before Sep 3, ask now | Ask her directly |
 | ~~**Message Lisbon host — early bag drop**~~ | ✅ **Resolved** — Isabelly receives at 12:00, online check-in done. Day 1 rewritten around it; lockers/LUGGit are now fallback-only | — | — |

@@ -175,7 +175,8 @@ Start it near-empty. It fills with everything bought between Porto and Madrid.
 - [ ] Printed confirmations: TAP `Z5SCJS` · AVE `WJXSCF` + `4U5NZV` · hotels · Sagrada `103719876` · Park Güell `700328431455`
 - [ ] **Checked-bag receipts for all 3 TAP segments** — bag-drop disputes go faster with the paid receipt
 - [ ] Madrid hotel PIN **7526**
-- [ ] Zaragoza guest registration form completed — **the lockbox code is only released after this**
+- [x] Zaragoza guest registration form completed — lockbox code released
+- [ ] ⚠️ **Zaragoza lockbox code saved offline on two phones** — screenshot or notes app, not buried in an email. There's no reception desk in Zaragoza; the lockbox is the only way in, and you arrive 16:00 Monday
 - [ ] 2 credit cards + 1 debit card, travel notifications set
 - [ ] ⚠️ **Barcelona deposit card** — AB Sagrada Família Bofill takes a **pre-auth hold at check-in (Aug 26, ~22:45)**. Must be a **physical credit card in the lead guest's name**; debit and phone wallets are usually refused. **Keep it on your person, not in a checked bag**, and make it the card you're *not* relying on for Zaragoza/Madrid — the hold ties up part of the limit until after check-out
 - [ ] **€80–100 cash** on arrival (La Cova Fumada, El Xampanyet, Casa Dani, Cantarinha are cash-only)
