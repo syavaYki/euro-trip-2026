@@ -83,18 +83,20 @@
 
 | Budget | Best bets |
 |--------|-----------|
-| €3–8 (snacks) | Bocadillo de calamares (El Brillante), churros (San Ginés 24h), tajada (Casa Labra), gelato (Palazzo / Mistura / Ricci) |
-| €15–25 | San Miguel graze, Cava Baja crawl stops, Bodegas Rosell, Casa González, Carambola |
+| €3–8 (snacks) | Bocadillo de calamares (**El Brillante** by Atocha, **Bar La Campana** at Botoneras 6 ~€4.50), churros (San Ginés 24h), *tajada de bacalao* (Casa Labra), the *zapatilla* at **Bar Melo's** (Lavapiés), gelato (Palazzo / Mistura / Ricci) |
+| €8–20 (the locals' band) ⭐ | **Casa Revuelta** (Latoneros 3 — battered cod ~€2.50/piece, cash, since 1966) · **Taberna de Antonio Sánchez** (Mesón de Paredes 13, **1830**) · **La Mina** (C/ de la Cabeza 24) · **Taberna La Concha** (Cava Baja 7 — vermut + growing free tapas) · **Lamiak** (Cava Baja) · **Cervecería del Río** (Chamberí, menús ~€12/€16) · any weekday **menú del día** €13–16 |
+| €15–25 | San Miguel graze (visitor-priced ~€20/pp), Cava Baja crawl stops, Bodegas Rosell, Casa González, Carambola |
 | €25–40 | **Taberna La Bola cocido** (cash), Casa Ciriaco, Taberna El Sur |
 | €40+ | **Sobrino de Botín**, Casa Lucio, Posada de la Villa, flamenco at Cardamomo |
-| €50–70 (Chamberí farewell) | ⭐ **Lakasa**, **Bacira**, Arima, Fismuler — all walkable from Emily's flat; Las Tortillas de Gabino comes in under |
+| €50–70 (Chamberí farewell, option A) | ⭐ **Lakasa**, **Bacira**, Arima, Fismuler — all walkable from Emily's flat; Las Tortillas de Gabino comes in under |
+| €15–25 (Chamberí farewell, option B) ⭐ | **Cervecería del Río** and the **Trafalgar / Cardenal Cisneros / Hartzenbusch / Santa Feliciana** side streets — where the barrio's €12–16 menús live. The plaza ring itself is the priciest, most visitor-facing strip in Chamberí |
 
 | Day | Breakfast | Lunch | Dinner |
 |-----|-----------|-------|--------|
 | Day 1 | — | (on AVE) | El Brillante / Bodegas Rosell (call) |
-| Day 2 | San Ginés or La Mallorquina | Mercado de San Miguel | **Botín 21:15** (book NOW) |
-| Day 3 | San Ginés churros 08:00 | **La Bola cocido 13:00** ⚠️ (book, cash — moved earlier) | Cava Baja: Ricla → **Casa Lucio** (book) → Casa Toni |
-| Day 4 | At the apartment | **El Pardo** — Casa Julián tortilla or La Marquesita | ⭐ **Chamberí farewell 20:45 — Lakasa / Bacira** (book) |
+| Day 2 | San Ginés or La Mallorquina | **Casa Revuelta** ⭐ (San Miguel = 15-min walk-through, not lunch) | **Botín 21:15** (book NOW) — or Taberna de Antonio Sánchez at half |
+| Day 3 | San Ginés churros 08:00 | **La Bola cocido 13:00** ⚠️ (book, cash — moved earlier) | Cava Baja: Ricla → **Casa Lucio** (book) → **La Concha** → Casa Toni · cheaper: Lavapiés crawl (Antonio Sánchez → Melo's → La Mina, ~€15–20) |
+| Day 4 | At the apartment | **El Pardo** — **Casa Julián** tortilla ⭐ or La Marquesita | ⭐ **Chamberí farewell 20:45** — A: Lakasa / Bacira (€50–70) · B: Cervecería del Río + side streets (€15–25) |
 | Day 5 | Airside T4 | — | — |
 
 ---

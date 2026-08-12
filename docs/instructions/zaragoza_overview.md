@@ -73,8 +73,8 @@
 
 | Budget band | Options |
 |-------------|---------|
-| €ish (≤€18/pp) | El Tubo crawl (Bodegas Almau, Doña Casta croquetas, El Champi) · menú del día bars · Mercado Central stalls |
-| €€ (€25–45/pp) | **Casa Lac** (1825, Tue lunch) · El Fuelle (closed Mon) · La Rinconada de Lorenzo (⚠️ closed Aug + Mon) |
+| €ish (≤€18/pp) ⭐ | El Tubo crawl — **Bodegas Almau** (1870) · **Vinos Nicolás** (1912, fritos + huevos rotos) · **Doña Casta** (croquetas) · **El Champi** (mushroom pintxo, €2.50) · **El Corral de la Delfina** (casquería, C/ Cuatro de Agosto) · **La Miguería** (migas, Pl. de Sas) · **La Republicana** (**menú del día ~€11.50**) · Mercado Central stalls till ~14:00 |
+| €€ (€25–45/pp) | **Casa Lac** (1825, Tue lunch — the one splurge) · El Fuelle (closed Mon) · La Rinconada de Lorenzo (⚠️ closed Aug + Mon) |
 | Sweet | **Fantoba** (1856) — trenza de Almudévar, daily 10:00–22:00 |
 
 | Meal | Plan |

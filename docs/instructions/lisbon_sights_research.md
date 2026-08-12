@@ -175,7 +175,7 @@
 | **09:00–11:00** | **Pena Palace** ✅ | First-crowd magic; staterooms → walls → gardens |
 | **11:15–12:15** | **Castelo dos Mouros** (ticket bought at Pena's office) | 10 min walk; battlements + Atlantic |
 | **12:45** | Forest path down to the village (~25 min, shaded) → **Casa Piriquita** lunch | Travesseiros + queijadas, since 1862 |
-| **14:00–16:00** | **Quinta da Regaleira** 🔴 book the 14:00 slot | Initiation Well + tunnels; afternoon slots calmer than mornings |
+| **14:00–16:00** | **Quinta da Regaleira** ✅ booked (38339594) | Initiation Well + tunnels; afternoon slots calmer than mornings |
 | **16:15** | **Sintra old town** — lanes, shops, the **Palácio Nacional** exterior (twin conical chimneys) | Free; as much or little as energy allows |
 | **17:00** | Train Sintra → Rossio (€2.30/pp, ~40 min) | Leaving now beats the evening crowds home |
 | **19:30** | Easy Lisbon evening — **Cervejaria Ramiro** (queue at 19:00) or a Chiado tasca | 10 min walk from the apartment |
@@ -240,7 +240,7 @@
 | Jerónimos cloister (Day 1) | ✅ Booked & paid — **order 38185413** | Be at the door ~10 min before the slot on the confirmation |
 | Torre de Belém 16:00 (Day 1) | ✅ Booked & paid — **order 38185394** | At the gate 15:55; 60-per-half-hour cap is strict |
 | Palácio da Pena 09:00 (Day 2) | ✅ Booked & paid — **Essential Visit, €20 adult** | Palace door within ~30 min of 09:00; taxi up, not the 434 |
-| **Quinta da Regaleira 14:00 (Day 2)** | 🔴 **UNBOOKED — book today** | regaleira.pt — €20/€15, €75 for four; August sells out |
+| **Quinta da Regaleira 14:00 (Day 2)** | ✅ **Booked & paid** — 38339594 | VISITAS LIVRES (self-guided); €75 + €5.54 fee = €80.54 |
 | Castelo de São Jorge (Day 3) | ✅ Booked & paid — **open ticket, valid until 1 Nov 2026, entry from 09:00** | Just show the QR at the gate at 09:00 |
 | São Vicente de Fora (Day 3) | ✅ Booked — **ref 980497008** (2 adult, 2 youth) | Open daily; last entry 18:00 |
 | **Fado house (Day 3 night)** | 🔴 **UNBOOKED — book this week** | **Parreirinha de Alfama** ~20:00 (Clube de Fado backup) — see the food file |

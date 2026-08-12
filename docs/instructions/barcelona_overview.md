@@ -73,19 +73,22 @@
 
 | Budget | Best Bets |
 |--------|-----------|
-| €1–6 (snacks) | Petritxol churros (La Pallaresa), gelato (DelaCrem / Gelaaati di Marco), pintxos by the toothpick |
-| €10–20 (lunch) | **La Cova Fumada** (bomba), Bar Jai-Ca, Carrer de Blai, Gràcia menú del día |
-| €20–35 (mid) | Cal Pep bar, Bar del Pla, Cervecería Catalana, El Nacional |
-| €40+ (splurge) | **7 Portes** (1836 paella institution — the farewell) |
+| €1–6 (snacks) | Petritxol churros (La Pallaresa), gelato (DelaCrem / Gelaaati di Marco), pintxos by the toothpick (from €1 on Carrer de Blai) |
+| €10–18 (the locals' band) ⭐ | **La Cova Fumada** (bomba, cash, no sign) · **Bar Jai-Ca** (C/ de Ginebra 13, since 1955) · **Bar La Plata** (C/ de la Mercè 28, four tapas since 1945, ~€3.50–7 each, closed Sun) · **Koska Taberna / La Tasqueta de Blai** (Poble-sec) · *menú del día* **one street off** the Gràcia squares (€12–16) |
+| €14–25 (mid, still local) | **el Xuletò** (menú ~€12.90) and **Casa Amalia** (Ptge. del Mercat 14) near the hotel · **Santa Magdalena** + **Bodega Cal Pep** (Verdi 141) in Gràcia · **Bodega La Palma** (Gothic) · **Bodega La Peninsular** (Barceloneta) |
+| €20–35 (visitor-priced) | Cal Pep bar, Bar del Pla, Cervecería Catalana, El Nacional |
+| €40+ (splurge) | **7 Portes** (1836 paella institution — 🟠 still unbooked) |
 
 | Day | Breakfast | Lunch | Dinner |
 |-----|-----------|-------|--------|
-| Day 2 | Near hotel | Gràcia menú del día | Cervecería Catalana / El Nacional |
-| Day 3 | Near hotel | Montserrat buffet (Tot) | Easy near hotel |
-| Day 4 | Petritxol granja | **La Cova Fumada** (11:45, cash) | Carrer de Blai pintxos |
+| Day 2 | Near hotel | Gràcia menú del día — **Verdi / Torrijos / Santa Magdalena**, not Pl. del Sol | **el Xuletò** ⭐ / Casa Amalia (Catalana & El Nacional = fallbacks) |
+| Day 3 | Near hotel | Montserrat buffet (Tot) | Same near-hotel shortlist, 2 streets off the basilica |
+| Day 4 | Petritxol granja | **La Cova Fumada** (11:45, cash) — Bar Jai-Ca if full | Blai pintxos: **Koska** (nº 8) → **La Tasqueta** (15–17) → **Blai 9** |
 | Day 5 | Near hotel | Girona: **Draps** (Cort Reial 2) / **El Carrito** (La Barca 10) ⭐ — not the Pl. Independència terraces | **7 Portes** farewell 🟠 **NOT booked** (€40–60/pp) — cheaper Sunday-open alternatives: Carrer de Blai, Bodega La Palma |
 
-> ⚠️ **August closures (verified):** **Quimet & Quimet closed ALL month** · **El Xampanyet** closed till ~Aug 24–25 (confirm) · **Tickets permanently closed** · La Cova Fumada **Sat 09:00–13:00 only**, closed Sun · Cal Pep closed Sun · **La Boqueria closed Sun**.
+> ⚠️ **August closures (verified):** **Quimet & Quimet closed ALL month** · **El Xampanyet** closed till ~Aug 24–25 (confirm) · **Tickets permanently closed** · La Cova Fumada **Sat 09:00–13:00 only**, closed Sun · Cal Pep closed Sun · **Bar La Plata closed Sun** · **La Boqueria closed Sun**.
+>
+> ⚠️ **The family-run places take *vacances* in late August without warning** — a shutter with a handwritten note is normal. Never walk 20 minutes to one specific bodega; keep two alternatives from the same band in your pocket, and check Google/Instagram the morning of.
 
 ---
 

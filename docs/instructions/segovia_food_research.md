@@ -50,6 +50,19 @@
 | **Mesón Mayor** [📍](https://maps.google.com/?q=Mes%C3%B3n+Mayor+Segovia+Spain) | Same wood-fired roasts as the famous trio at lower prices | €25–35/pp | Plaza Mayor 3 | Walk-in usually fine — the backup if every classic is full |
 | **La Cocina de Segovia** [📍](https://maps.google.com/?q=La+Cocina+de+Segovia+Segovia+Spain) | Hotel Infanta Isabel's quietly excellent Castilian dining room | €30–45/pp | Plaza Mayor 12 | +34 921 461 300. Less famous = less booked; some tables overlook the square |
 
+
+### 🥇 Where Segovians eat (menú del día tier — for Emily's own visits)
+
+> The cochinillo trio (Cándido, José María, Duque) run **€30–55/pp**, and Cándido in particular trades on its position under the aqueduct — Spanish forum regulars call it the most tourist-facing of the three, with José María rated the better kitchen. That doesn't make them fake; it makes them an occasion. For an ordinary day in Segovia this is the tier locals use — **weekday menús, €12–15, three courses with bread, drink and dessert**. ⚠️ Weekend menus in the historic centre jump to €25–35, and Sunday is the busiest tourist day: book or eat early.
+
+| Name | What | Price | Tip |
+|------|------|-------|-----|
+| **El Rincón de Vero** [📍](https://maps.google.com/?q=El+Rinc%C3%B3n+de+Vero+Segovia+Spain) ⭐ | Menú del día with 4 starters / 4 mains, dessert and drink — *sopa castellana*, *judiones*, a chocolate-cheese cake people come back for | ~**€11.90** menú | Also runs a weekend menu; small room, good atmosphere |
+| **Restaurante California** [📍](https://maps.google.com/?q=Restaurante+California+Segovia+Spain) ⭐ | Home cooking on a ~€13 menu — judiones, cod salad, asparagus, piquillos, homemade desserts, and yes, cochinillo | ~**€13** menú | Small; reserve |
+| **La Panera** [📍](https://maps.google.com/?q=La+Panera+Segovia+Spain) | Very cheap daily menu plus a pricier "traditional" one with roast cochinillo and judiones | €12–25 | The pick when half the table wants the roast and half wants a €12 lunch |
+| **De Bote en Bote** [📍](https://maps.google.com/?q=De+Bote+en+Bote+Segovia+Spain) | Central tapas and raciones, modern list with vegetarian options | €3.50–14.50 à la carte | The no-ceremony option — raciones instead of a two-hour roast |
+| **El Redebal** [📍](https://maps.google.com/?q=El+Redebal+Segovia+Spain) | Near the main historic-centre street; typical dishes, generous cochinillo plate reported at ~€26 | ~€25 weekend menú | The cheapest way to eat cochinillo at a table rather than as a spectacle |
+
 ---
 
 ## 🍰 Snacks, Sweets & Pastry Stops

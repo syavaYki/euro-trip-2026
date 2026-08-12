@@ -47,6 +47,28 @@
 
 ---
 
+## 🥇 Castizo & cheap — where Madrid actually eats (verified Aug 2026)
+
+> The rule that governs this whole city: **the weekday *menú del día* (€13–16 for three courses, bread and a drink) is the best value in Spain**, and it's lunch-only. Eat the big meal at 14:00, tapas at 21:00, and a family of four eats extremely well under budget. Individual tapas €3–8, raciones €8–18, drinks €2–4; a 4–5 bar crawl runs €20–30/pp. Seafood blows the budget; legumbres, potatoes, eggs and *casquería* are where the value is. ⚠️ Note the local press warning that "casa de comidas" has become a *trend* label — some new ones charge €24 for lentils. Read the board before sitting.
+
+| Name | What / why | Area / address | Price | Tip |
+|------|-----------|----------------|-------|-----|
+| **Casa Revuelta** ⭐⭐ [📍](https://maps.google.com/?q=Casa+Revuelta+Calle+de+Latoneros+3+Madrid+Spain) | Open **1966**, always packed, no printed menu — a glass case, a silver bar, Moorish-style tiles and regulars. **Battered boneless cod ~€2.50 a piece**, *torreznos*, callos, croquetas, wine from the *frasca* | Austrias · C/ de Latoneros 3 (4 min south of Plaza Mayor) | €8–12/pp | **The Day 2 lunch swap for Mercado de San Miguel.** Cash. There's usually a line; it moves. Sit-down sibling at C/ Cuchilleros 10 since 2021 |
+| **Bar La Campana** ⭐ [📍](https://maps.google.com/?q=Bar+La+Campana+Calle+de+Botoneras+6+Madrid+Spain) | The *bocadillo de calamares* Madrid actually eats on this square — standing room only, no frills | Plaza Mayor edge · C/ de Botoneras 6 | ~€4.50/sandwich | Use the takeaway queue on the right (*"Aquí solo pedidos para llevar"*) — minutes, and it comes out hot. Eat it in the plaza; mind the pigeons |
+| **Taberna de Antonio Sánchez** ⭐⭐ [📍](https://maps.google.com/?q=Taberna+de+Antonio+S%C3%A1nchez+Calle+Mes%C3%B3n+de+Paredes+13+Madrid+Spain) | Bar dating to **1830**, bulls' heads on the walls, traditional Madrid cooking — the *rabo de toro* is the order | Lavapiés · C/ Mesón de Paredes 13 | €18–28/pp | The half-price alternative to Botín for "century-old Madrid". Book for four at 21:00 |
+| **Bar Melo's** [📍](https://maps.google.com/?q=Bar+Melo%27s+Calle+Ave+Mar%C3%ADa+44+Madrid+Spain) | Cheap, loud, full of locals — famous for the ***zapatilla***, a giant lacón-and-cheese sandwich, plus very cheap *montaditos* | Lavapiés · C/ Ave María 44 | €6–12/pp | One zapatilla feeds two teens. Closed Sun/Mon in most listings — verify |
+| **La Mina** [📍](https://maps.google.com/?q=La+Mina+Calle+de+la+Cabeza+24+Madrid+Spain) | Tiny bar the neighbourhood defends; order whatever the day's special is | Lavapiés · C/ de la Cabeza 24 | €10–15/pp | Third stop on the cheap-crawl version of Day 3 |
+| **Taberna La Concha** ⭐ [📍](https://maps.google.com/?q=Taberna+La+Concha+Calle+Cava+Baja+7+Madrid+Spain) | House vermut with the secret ingredient regulars call "Manuela" — the Cava Baja room that's still locals rather than tour groups. **Free tapa with each drink, bigger every round** | La Latina · Cava Baja 7 | €10–20/pp | Mon–Thu 13:00–01:00, Fri–Sun to 02:00. Tiny — expect to stand |
+| **Lamiak** [📍](https://maps.google.com/?q=Lamiak+Calle+Cava+Baja+Madrid+Spain) | The value tapas stop locals point to on Cava Baja | La Latina · Cava Baja | €10–15/pp | Good filler between Ricla and Casa Toni |
+| **Casa Labra** [📍](https://maps.google.com/?q=Casa+Labra+Madrid+Spain) | 1860 bar where the PSOE was founded — *tajada de bacalao* and cod croquettes at a standing counter | Sol · C/ de Tetuán 12 | €6–10/pp | Two tajadas + a caña each = lunch for €8. Cash is easiest |
+| **Cervecería del Río** ⭐ [📍](https://maps.google.com/?q=Cervecer%C3%ADa+del+R%C3%ADo+Chamber%C3%AD+Madrid+Spain) | Almost family-run Chamberí room — raciones, skillet dishes, red meats, **two set lunch menus ~€12 and ~€16**. No terrace, which is exactly why it's cheaper | Chamberí, a block off Pl. de Olavide | €12–20/pp | **The option-B farewell.** Local guides explicitly recommend it *instead of* the Olavide terraces |
+| **Cantero** [📍](https://maps.google.com/?q=Cantero+Plaza+de+Olavide+12+Madrid+Spain) | A 1956 *alpargatería* (espadrille shop) reborn as a casual bar with the original shopfront — pintxos, *ensaladilla* | Chamberí · Pl. de Olavide 12 | €12–20/pp | If you want to stay on Emily's square without paying terrace prices for a full meal |
+| **Malacatín** [📍](https://maps.google.com/?q=Malacat%C3%ADn+Calle+de+la+Ruda+5+Madrid+Spain) | The small, cash, castizo *cocido* house — the cheaper cousin of La Bola | La Latina · C/ de la Ruda 5 | €25/pp for cocido | Book; lunch only, tiny. The alternative if La Bola's 13:00 sitting is gone |
+
+> 💡 **Where the value is by barrio:** Lavapiés (cheapest, most multicultural), La Latina/Cava Baja (famous, mid), Austrias/Sol (the historic counters above), Chamberí side streets (menús del día), Ponzano (modern, not cheap). Skip: terraces on Plaza Mayor and the ring of Plaza de Olavide.
+
+---
+
 ## 🥩 Tapas & Madrid Classics
 
 > Order a *caña* or *vermut* and a tapa often lands free. **Cava Baja** (La Latina) is the famous strip — our Day 3 dinner; **Calle Ponzano** (Chamberí) is where locals go now.
@@ -181,9 +203,9 @@ Matches the master itinerary (Overview tab) — that file wins on any conflict:
 | Day | Breakfast | Lunch | Dinner / evening |
 |-----|-----------|-------|------------------|
 | **Day 1** (Tue Sep 1 — 19:44 arrival) | — | On the AVE | **El Brillante** calamares (safe bet) or **Bodegas Rosell** (⚠️ call — Aug reopening); Carambola for a sit-down; optional Madrid Río stroll |
-| **Day 2** (Wed Sep 2 — Royal Madrid) | San Ginés churros or La Mallorquina | **Mercado de San Miguel** graze | Palazzo (15:25) + Mistura (17:45) gelatos → Debod picnic snacks → **Sobrino de Botín 21:15** (book NOW) |
-| **Day 3** (Thu Sep 3 — Art day + UAM run) | **San Ginés 08:00** — the ritual | ⚠️ **Taberna La Bola cocido 13:00** (book; CASH; earlier than before) + Ricci gelato eaten walking | **Cava Baja crawl**: Bodegas Ricla → **Casa Lucio** (book ~21:45) → Casa Toni — or Cardamomo 21:00 flamenco swap |
-| **Day 4** (Fri Sep 4 — Emily's move-in) | At the apartment | **El Pardo** — **Casa Julián** tortilla (€20–30) or **La Marquesita** *asador* (€30–40) | ⭐ **Farewell dinner in Chamberí, 20:45 — Lakasa (1st) / Bacira (2nd)**, €50–70/pp. Optional San Ginés churros on the taxi home |
+| **Day 2** (Wed Sep 2 — Royal Madrid) | San Ginés churros or La Mallorquina | ⭐ **Casa Revuelta** (Latoneros 3 — bacalao ~€2.50/piece, cash) or **Bar La Campana** calamares (~€4.50); **San Miguel = a 15-min walk-through for the ironwork**, not the meal | Palazzo (15:25) + Mistura (17:45) gelatos → Debod picnic snacks → **Sobrino de Botín 21:15** (book NOW, €40–55/pp) — half-price castizo alternative: **Taberna de Antonio Sánchez** (1830) |
+| **Day 3** (Thu Sep 3 — Art day + UAM run) | **San Ginés 08:00** — the ritual | ⚠️ **Taberna La Bola cocido 13:00** (book; CASH; €25–35/pp — Malacatín on C/ Ruda 5 is the cheaper castizo cocido if La Bola's first sitting is gone) + Ricci gelato eaten walking | **Cava Baja crawl**: Bodegas Ricla → **Casa Lucio** (book ~21:45) → **Taberna La Concha** → Casa Toni · **cheap local version:** Antonio Sánchez → Bar Melo's → La Mina in Lavapiés (~€15–20/pp) — or Cardamomo 21:00 flamenco swap |
+| **Day 4** (Fri Sep 4 — Emily's move-in) | At the apartment | **El Pardo** — **Casa Julián** tortilla (€20–30) or **La Marquesita** *asador* (€30–40) | ⭐ **Farewell dinner in Chamberí, 20:45.** **A:** Lakasa (1st) / Bacira (2nd), €50–70/pp ≈ €220–280 for four. **B:** **Cervecería del Río** (menús ~€12/€16) or the Trafalgar / Cardenal Cisneros / Hartzenbusch / Santa Feliciana side streets, €15–25/pp ≈ €60–100 — the room Emily can repeat in November. Optional San Ginés churros on the taxi home |
 | **Day 5** (Sat Sep 5 — departure) | Airside at T4 (leave 06:45) | — | — |
 
 ---
