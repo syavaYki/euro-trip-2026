@@ -11,6 +11,8 @@
 |---|---|
 | **Hotel** | **AB Sagrada Família Bofill** [📍](https://maps.google.com/?q=Carrer+de+la+Marina+240+08013+Barcelona+Spain) — Carrer de la Marina 240, Eixample, 08013 Barcelona |
 | **Check-in** | Wed Aug 26 · 15:00–00:00 (arrive ~22:45 after TP1038) |
+| **Registration** | ✅ Done — online form submitted |
+| **Deposit** ⚠️ | **Physical credit card required at check-in** for the security deposit — taken as a pre-auth hold, released after check-out. ⚠️ Amount not stated in the booking, **ask them before Aug 26** (typically €150–300 in Barcelona, unverified). **Credit card in the lead guest's name — debit and phone wallets are usually refused.** Keep it in a pocket on the flight, not in a checked bag; you arrive 22:45 with no way to fix a problem. Use a different card than the one you're leaning on for Zaragoza/Madrid — the hold eats into the limit |
 | **Tourist tax** | ⚠️ **Paid at the property on check-in, on top of the Booking.com total** — Catalonia IEET + Barcelona surcharge, ~**€6–7 pp/night** for a tourist apartment (⚠️ estimate, confirm with the property), capped at 7 nights → **~€120–140 for 5 nights × 4**. Under-16s exempt. Ask if they take card |
 | **Check-out** | Mon Aug 31 by 11:00 — but leave **~09:40** for the AVE (Sants by 10:30) |
 | **Flight in** | TP1038 LIS → BCN: 18:55 → 21:50, Terminal 1 |

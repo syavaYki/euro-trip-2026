@@ -177,6 +177,7 @@ Start it near-empty. It fills with everything bought between Porto and Madrid.
 - [ ] Madrid hotel PIN **7526**
 - [ ] Zaragoza guest registration form completed — **the lockbox code is only released after this**
 - [ ] 2 credit cards + 1 debit card, travel notifications set
+- [ ] ⚠️ **Barcelona deposit card** — AB Sagrada Família Bofill takes a **pre-auth hold at check-in (Aug 26, ~22:45)**. Must be a **physical credit card in the lead guest's name**; debit and phone wallets are usually refused. **Keep it on your person, not in a checked bag**, and make it the card you're *not* relying on for Zaragoza/Madrid — the hold ties up part of the limit until after check-out
 - [ ] **€80–100 cash** on arrival (La Cova Fumada, El Xampanyet, Casa Dani, Cantarinha are cash-only)
 - [ ] Travel insurance details, saved offline
 - [ ] Driver's licences (backup photo ID)
