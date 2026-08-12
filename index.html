@@ -1136,8 +1136,10 @@ function transformTables() {
       if (ncols >= 2 && cells[1]) {
         const descEl = document.createElement("span");
         descEl.className = "tcard-desc";
-        // strip tags for the truncated summary line so it reads cleanly
-        descEl.textContent = cells[1].textContent.trim();
+        // strip tags for the truncated summary line so it reads cleanly;
+        // flat cards have no body, so keep markup (links) there
+        if (collapsible) descEl.textContent = cells[1].textContent.trim();
+        else             descEl.innerHTML   = cells[1].innerHTML;
         head.appendChild(descEl);
       }
 
