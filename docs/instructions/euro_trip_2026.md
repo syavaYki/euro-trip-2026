@@ -71,11 +71,11 @@
 
 | Property                                                                                               | City      | Check-in             | Check-out         | Nights | Confirmation                        | Status                                                                         |
 | ------------------------------------------------------------------------------------------------------ | --------- | -------------------- | ----------------- | ------ | ----------------------------------- | ------------------------------------------------------------------------------ |
-| Aposentus – Poveiros Terrace View [📍](https://maps.google.com/?q=Rua+de+Santo+Ildefonso+200+4000-507+Porto+Portugal) — Rua de Santo Ildefonso 200, 1º Traseiras, 4000-507 Porto | Porto     | Aug 20               | Aug 23            | 3      | 5732321948                          | ✅ Booked                                                                      |
-| Apartment [📍](https://maps.google.com/?q=Rua+da+Bempostinha+64+1150-099+Lisboa+Portugal) — 64 Rua da Bempostinha 5º dto, Arroios, 1150-099 Lisbon | Lisbon    | Aug 23 (4PM–10PM)    | Aug 27 (by 10AM)  | 4      | Booking.com                         | ✅ Booked · €579.50 paid · Depart Aug 26 evening (apt runs through Aug 27)     |
-| AB Sagrada Família Bofill [📍](https://maps.google.com/?q=Carrer+de+la+Marina+240+08013+Barcelona+Spain) — Carrer de la Marina 240, Eixample, 08013 Barcelona | Barcelona | Aug 26 (15:00)       | Aug 31 (by 11:00) | 5      | Booking.com                         | ✅ Booked                                                                      |
+| Aposentus – Poveiros Terrace View [📍](https://maps.google.com/?q=Rua+de+Santo+Ildefonso+200+4000-507+Porto+Portugal) — Rua de Santo Ildefonso 200, 1º Traseiras, 4000-507 Porto | Porto     | Aug 20               | Aug 23            | 3      | 5732321948                          | ✅ Booked · 🔲 Online check-in link arrives **~Aug 18** (2 days before arrival) · **Luggage accepted from 12:00** |
+| Castle View Hideaway (host **Isabelly**) [📍](https://maps.google.com/?q=Rua+da+Bempostinha+64+1150-099+Lisboa+Portugal) — 64 Rua da Bempostinha 5º dto, Arroios, 1150-099 Lisbon | Lisbon    | **Aug 23 — host receives 12:00** | Aug 27 (by 10AM)  | 4      | Booking.com                         | ✅ Booked · €579.50 paid · ✅ **Checked in online Aug 12** · ✅ **Isabelly confirmed 12:00 arrival** (no locker needed) · Depart Aug 26 evening (apt runs through Aug 27) |
+| AB Sagrada Família Bofill [📍](https://maps.google.com/?q=Carrer+de+la+Marina+240+08013+Barcelona+Spain) — Carrer de la Marina 240, Eixample, 08013 Barcelona | Barcelona | Aug 26 (15:00)       | Aug 31 (by 11:00) | 5      | Booking.com                         | ✅ Booked · ⚠️ **Catalan tourist tax payable at the property on check-in** (not in the €paid) |
 | Apartamento Centro 5 PSN Wifi (host: Isabel) [📍](https://maps.google.com/?q=Calle+del+Dr.+Alejandro+Palomar+38+50002+Zaragoza+Spain) — C. del Dr. Alejandro Palomar 38, 2º Izda, 50002 Zaragoza | Zaragoza  | Aug 31 (after 16:00) | Sep 1 (by 12:00)  | 1      | Airbnb                              | ✅ Booked · $93.93 (PayPal, scheduled Aug 18) · Free cancel until 16:00 Aug 26 |
-| Plenora Alejandro Dumas [📍](https://maps.google.com/?q=Calle+de+Alejandro+Dumas+30+28005+Madrid+Spain) — C. de Alejandro Dumas 30, Arganzuela, Madrid 28005 | Madrid    | Sep 1 (from 15:00)   | Sep 5 (by 11:00)  | 4      | 5149971517 (Booking.com) · PIN 7526 | ✅ Booked · €671.73 paid · Free cancel until Aug 26                            |
+| Plenora Alejandro Dumas [📍](https://maps.google.com/?q=Calle+de+Alejandro+Dumas+30+28005+Madrid+Spain) — C. de Alejandro Dumas 30, Arganzuela, Madrid 28005 | Madrid    | Sep 1 (from 15:00)   | Sep 5 (by 11:00)  | 4      | 5149971517 (Booking.com) · PIN 7526 | ✅ Booked · €671.73 paid · ✅ **Online check-in completed** · Free cancel until Aug 26 |
 
 ---
 
@@ -87,7 +87,8 @@
 | ---------------- | ------------------------------------------------------------ |
 | **Hotel**        | Aposentus – Poveiros Terrace View [📍](https://maps.google.com/?q=Rua+de+Santo+Ildefonso+200+4000-507+Porto+Portugal) — Rua de Santo Ildefonso 200, 1º Traseiras, 4000-507 Porto |
 | **Confirmation** | 5732321948                                                   |
-| **Check-in**     | Thu Aug 20 (arrival ~11:00)                                  |
+| **Check-in**     | Thu Aug 20 (arrival ~11:00). ⚠️ **The host sends the check-in link 2 days before arrival — expect it ~Aug 18. Complete it the moment it lands; it carries the door/key instructions.** |
+| **Luggage**      | ✅ **Bags accepted at the apartment from 12:00 (noon)** even if the room isn't ready — no lockers needed on arrival day |
 | **Check-out**    | Sun Aug 23 — early, flight at 09:00                          |
 | **Flight in**    | TP212: EWR → OPO, departs Aug 19 23:10, arrives Aug 20 10:55 |
 | **Flight out**   | TP1921: OPO → LIS, Aug 23 09:00. **Be at OPO by 07:15.**     |
@@ -139,6 +140,8 @@ Porto is hilly — uphill return walks feel longer. Uber for €4–6 is fine wh
 | **Uber / Bolt**                | Faster (25 min), easier with bags, no navigation on arrival                                | €15–22 for the group |
 
 **12:00 — Check-in + First Coffee**
+
+⚠️ **12:00 is the earliest the apartment takes bags** — the host confirmed luggage from noon onwards, so don't turn up at 11:30 expecting the door to open. If the Metro puts you there early, kill the gap at Confeitaria do Bolhão (2 min away) and come back at 12:00.
 
 Drop bags; grab your first pastel de nata:
 
@@ -641,7 +644,8 @@ TAP closes check-in 90 min before departure = **07:30**. Bolt backup: ~€18, 25
 | Item                                       | When (as of Aug 5)            | Where                      |
 | ------------------------------------------ | ----------------------------- | -------------------------- |
 | ~~Livraria Lello tickets~~                 | **CANCELLED**                 | —                           |
-| ~~Message hotel re: early bag drop~~       | ✅ Sent                        | Booking.com chat            |
+| ~~Message hotel re: early bag drop~~       | ✅ **Answered — bags accepted from 12:00** | Booking.com chat            |
+| **Complete the Aposentus check-in link**   | 🔲 Link arrives **~Aug 18** (2 days pre-arrival) — do it same day | Host email / Booking.com chat |
 | Taberna dos Mercadores (Day 1 dinner)      | Email **today**               | tabernadosmercadores.com   |
 | ~~7 Bridges Sunset Cruise (Day 2, 18:45)~~ ✅ Booked | — | ref **GYG7VKRQ9BVG** · Leçaodouro · meet 430 Rua da Praia, Gaia (door C) |
 | Cálem port lodge (optional Day 1 swap)     | By ~Fri Aug 14 — timed slots  | tour.calem.pt              |
@@ -677,14 +681,15 @@ Per person · 3 full days · excl. accommodation:
 
 ## 🇵🇹 Lisbon — Aug 23–26 (3 nights · apartment paid through Aug 27)
 
-> Three days plus a Sintra day trip. Arrive **Sun Aug 23, 09:55** (⚠️ carousel wait for the 2 checked bags) — and the apartment isn't ready until 16:00, so Day 1 is built around bags-light Belém. Depart **Wed Aug 26 evening** on TP1038 to Barcelona. Shape: **[Belém](https://maps.google.com/?q=Belem+Lisbon+Portugal) + Baixa → Sintra → Alfama & the churches → Oceanário + relaxed departure.** Lisbon is hilly like Porto but much bigger — lean on the Metro, trains, and Bolt for the climbs. Sunset slides from **~20:20 (Aug 23) to ~20:15 (Aug 26)** — the golden-hour blocks below are timed to it.
+> Three days plus a Sintra day trip. Arrive **Sun Aug 23, 09:55** (⚠️ carousel wait for the 2 checked bags) — **Isabelly receives you at the apartment at 12:00**, so bags go straight home and Day 1 runs bags-light through Belém from lunchtime. Depart **Wed Aug 26 evening** on TP1038 to Barcelona. Shape: **[Belém](https://maps.google.com/?q=Belem+Lisbon+Portugal) + Baixa → Sintra → Alfama & the churches → Oceanário + relaxed departure.** Lisbon is hilly like Porto but much bigger — lean on the Metro, trains, and Bolt for the climbs. Sunset slides from **~20:20 (Aug 23) to ~20:15 (Aug 26)** — the golden-hour blocks below are timed to it.
 
 ### Logistics
 
 |                |                                                                                                   |
 | -------------- | ------------------------------------------------------------------------------------------------- |
-| **Apartment**  | 64 Rua da Bempostinha 5º direito, Arroios, 1150-099 Lisbon [📍](https://maps.google.com/?q=Rua+da+Bempostinha+64+1150-099+Lisboa+Portugal) |
-| **Check-in**   | Sun Aug 23 · 16:00–22:00 ⚠️ Flight lands 09:55 — ~6 hrs before check-in (see Day 1)               |
+| **Apartment**  | **Castle View Hideaway** — 64 Rua da Bempostinha 5º direito, Arroios, 1150-099 Lisbon [📍](https://maps.google.com/?q=Rua+da+Bempostinha+64+1150-099+Lisboa+Portugal) |
+| **Host**       | **Isabelly** — she receives you personally at 12:00                                              |
+| **Check-in**   | Sun Aug 23 · ✅ **Isabelly confirmed 12:00** (standard window is 16:00–22:00 — this is an agreed early arrival). ✅ **Online check-in completed Aug 12.** |
 | **Check-out**  | Thu Aug 27 · by 10:00 — but you physically **leave Wed Aug 26 evening** (apt paid through Aug 27, so bags stay there all of Day 4 — no left-luggage needed on departure day) |
 | **Phone**      | +351 925 360 038                                                                                  |
 | **Booking**    | ✅ Booking.com · Non-refundable · €579.50 paid in full                                            |
@@ -692,7 +697,7 @@ Per person · 3 full days · excl. accommodation:
 | **Flight out** | TP1038: LIS → BCN, Aug 26 18:55 → 21:50 (**Terminal 1** both ends). Be at LIS by ~16:45.          |
 | **Status**     | ✅ All Lisbon logistics booked                                                                    |
 
-> ⚠️ **The check-in gap:** You land 09:55, apartment opens 16:00. **Message the host by ~Thu Aug 20** to ask for an early bag drop in Arroios; if that fails, use a locker at **Anjos** (Radical Storage / LuggageHero, ~€5/bag) or book **LUGGit** door-to-door — then spend the window in **[Belém](https://maps.google.com/?q=Belem+Lisbon+Portugal)**, luggage-free, where Jerónimos is booked anyway.
+> ✅ **The check-in gap is solved.** It used to be the worst hole in the trip — land 09:55, apartment shut until 16:00, six bags. **Isabelly now receives you at 12:00**, so you go straight from the airport to the apartment, drop everything (including the two 23 kg cases), and leave for Belém unencumbered. **No Anjos locker, no LUGGit, ~€30 saved.** The old fallbacks stay listed in Day 1 purely in case she has to reschedule on the day.
 
 ### Getting Around
 
@@ -724,41 +729,39 @@ Lisbon is bigger and hillier than Porto. No car. Metro + trains + Bolt do everyt
 
 ### Day 1 — Sunday Aug 23 · Arrival + Belém + Baixa (bags-light)
 
-> Land, stash the bags, and spend the check-in gap in Belém — Lisbon's monumental riverfront — then check in and ease into the Baixa for golden hour. Low-stress first day, no hills until you choose them.
+> Land, go straight to the apartment for Isabelly's 12:00 handover, dump every bag, then head out to Belém — Lisbon's monumental riverfront — and ease into the Baixa for golden hour. Low-stress first day, no hills until you choose them.
 
 **09:55 — Land at LIS (Terminal 1).** ⚠️ **2 checked bags** — allow ~25–30 min at the carousel. Aim to be at the Metro by ~10:45.
 
-**10:45 — Metro into town + drop the bags.** Down to the **Aeroporto** station (Red Line), ride to **Alameda**, change to the **Green Line** — ~25–30 min. The one job before Belém is getting the bags off your backs. **Anjos** sits on this exact Green-Line route, 3–5 min from the apartment, so it's the natural drop point — you pass through it on the way in and again coming home to check in.
+**10:45 — Metro straight to the apartment.** Down to the **Aeroporto** station (Red Line), ride to **Alameda**, change to the **Green Line**, off at **Anjos** — ~25–30 min, then a 3–5 min walk to Rua da Bempostinha. You'll be at the door ~11:20. **A Bolt is €10–14 and worth it with six bags** — same arrival time, none of the escalators.
 
 > 🎟️ **First job on landing: four green Viva Viagem cards** (€0.50 each, one-off) from any Metro vending machine — load each with ~€10 of **zapping** credit and top up as you go. No pass, no activation clock, no expiry to plan around.
 
+**12:00 — Meet Isabelly · Castle View Hideaway, 64 Rua da Bempostinha 5º dto** [📍](https://maps.google.com/?q=Rua+da+Bempostinha+64+1150-099+Lisboa+Portugal) ✅ **Confirmed early arrival.** Online check-in is already done, so this is keys, the walk-through, and dropping all six bags. ⚠️ **You'll likely arrive ~11:20 — 40 min early.** Don't loiter on the landing: there are cafés on Rua da Bempostinha and around Largo do Intendente for a first galão, and 40 minutes is exactly one coffee after a red-eye.
+
+> 📞 **Apartment phone +351 925 360 038.** If the flight slips or the carousel drags, message Isabelly from the plane's wifi or the moment you land — a 12:00 personal handover is a favour, not a front desk, and she's arranging her Sunday around it.
+
+**If Isabelly has to reschedule on the day** — the old fallbacks, kept only for that case:
+
 | Option | Details | Cost |
 | --- | --- | --- |
-| **Early bag-drop at the apartment** ⭐ | Free if it works — message the host by ~Aug 20; Arroios is on the Green Line | Free |
-| **Locker at Anjos** (Radical Storage / LuggageHero) | On the Green-Line route + 3–5 min from the apartment — drop on the way in, collect on the way to check-in | ~€5/bag/day |
-| **LUGGit door-to-door** | A "Keeper" collects your bags and delivers them to the apartment for 16:00 — never touch them after landing | ~€5/bag |
+| **Locker at Anjos** (Radical Storage / LuggageHero) | On the Green-Line route + 3–5 min from the apartment — drop on the way in, collect on the way home. ⚠️ Confirm they take full-size cases | ~€5/bag/day |
+| **LUGGit door-to-door** | A "Keeper" collects your bags and delivers them to the apartment — never touch them after landing | ~€5/bag (~€30 for six) |
 
-> Skip the airport lockers — they'd strand your bags on the wrong side of town from Belém.
+> Skip the airport lockers either way — they'd strand your bags on the wrong side of town from Belém.
 
-> ⚠️ **That's 6 bags now, two of them full-size suitcases.** Early bag-drop with the host is worth chasing hard (message by ~Aug 20); failing that, **LUGGit** is the one option that doesn't involve wheeling two 23 kg cases through the Green Line — and at ~€5/bag it's ~€30 for the lot. If you use lockers, confirm they take large cases before you commit.
-
-**11:45 — To [Belém](https://maps.google.com/?q=Belem+Lisbon+Portugal).** From Cais do Sodré the **[Cascais](https://maps.google.com/?q=Cascais+Lisbon+Portugal)-line train** hugs the Tagus westward and sets you down in Belém in about 7 minutes. Belém is Lisbon's grand Age-of-Discovery quarter, 6 km downriver — wide ceremonial boulevards, sea air off the estuary, and the great white Manueline monuments strung along the waterfront where the caravels once set sail for India and Brazil. It's flat, spacious, and everything today is within a 10-minute walk of everything else. Get off at **[Belém station](https://maps.google.com/?q=Esta%C3%A7%C3%A3o+de+Bel%C3%A9m+Lisbon+Portugal)** and cross under the tracks to the river side.
+**12:20 — To [Belém](https://maps.google.com/?q=Belem+Lisbon+Portugal).** From Cais do Sodré the **[Cascais](https://maps.google.com/?q=Cascais+Lisbon+Portugal)-line train** hugs the Tagus westward and sets you down in Belém in about 7 minutes. Belém is Lisbon's grand Age-of-Discovery quarter, 6 km downriver — wide ceremonial boulevards, sea air off the estuary, and the great white Manueline monuments strung along the waterfront where the caravels once set sail for India and Brazil. It's flat, spacious, and everything today is within a 10-minute walk of everything else. Get off at **[Belém station](https://maps.google.com/?q=Esta%C3%A7%C3%A3o+de+Bel%C3%A9m+Lisbon+Portugal)** and cross under the tracks to the river side.
 
 | Option | Why | Cost |
 | --- | --- | --- |
 | **[Cascais](https://maps.google.com/?q=Cascais+Lisbon+Portugal)-line train** (Cais do Sodré → Belém) ⭐ | Fastest — ~7 min, air-conditioned | ~€1.6/pp zapping |
 | **Tram 15E** | Scenic riverside roll, but slow and jammed midday | €1.90 on card / more on board |
 
-**12:15 — [Pastéis de Belém](https://maps.google.com/?q=Past%C3%A9is+de+Bel%C3%A9m+Lisbon+Portugal) [🌐](https://pasteisdebelem.pt)** ⭐ [📍](https://maps.google.com/?q=Pasteis+de+Belem+Lisbon+Portugal) — a 3-minute walk from the station, the yellow-fronted pastelaria on Rua de Belém is where the pastel de nata was invented (1837), still made to the monastery recipe only three people know.
+**13:00 — [Mosteiro dos Jerónimos](https://maps.google.com/?q=Mosteiro+dos+Jer%C3%B3nimos+Lisbon+Portugal) [🌐](https://patrimoniocultural.gov.pt/en/museus-e-monumentos/mosteiro-dos-jeronimos/), the cloister** ⭐⭐ ✅ **Booked — order 38185413, paid.**
 
-| | |
-| --- | --- |
-| **The move** | Skip the sit-down queue — join the **takeaway line** (fast-moving, separate door). Get them piping hot, dust with cinnamon + icing sugar, eat standing on the wall outside |
-| **Cost** | ~€1.40 each — buy a half-dozen; they sell thousands a day, the oven never stops |
+> ⚠️ **Check the actual slot time on order 38185413 now, before Aug 23.** The 12:00 apartment handover pushes Belém back ~45 min versus the original plan, and this is the only fixed point in the morning. **If your slot is 12:30 or earlier, ask Isabelly for 11:30 instead** — she's already flexible, and the cloister slot is the thing that can't move. Pastéis de Belém has been shifted to the lunch block below to buy back the time either way.
 
-> _"The takeaway queue looks insane but clears in five minutes. Eat them hot on the wall outside — a totally different pastry to a cold one."_ — r/lisbon
-
-**12:45 — [Mosteiro dos Jerónimos](https://maps.google.com/?q=Mosteiro+dos+Jer%C3%B3nimos+Lisbon+Portugal) [🌐](https://patrimoniocultural.gov.pt/en/museus-e-monumentos/mosteiro-dos-jeronimos/), the cloister** ⭐⭐ ✅ **Booked — order 38185413, paid.** 2 minutes across the gardens from the pastelaria (**closed Mondays** — the reason Belém is Day 1; open Tue–Sun 09:30–18:30 in summer). Portugal's greatest Manueline building, begun in 1501 on the wealth of the spice route and carved for a century in soft golden limestone. Inside are the tombs of Vasco da Gama and the poet Camões; the two-storey cloister is the thing people cross the country to see — stone carved into ropes, coral, armillary spheres, and sea monsters. Be at the door ~10 min before the slot time on the order confirmation.
+2 minutes across the gardens from the pastelaria (**closed Mondays** — the reason Belém is Day 1; open Tue–Sun 09:30–18:30 in summer). Portugal's greatest Manueline building, begun in 1501 on the wealth of the spice route and carved for a century in soft golden limestone. Inside are the tombs of Vasco da Gama and the poet Camões; the two-storey cloister is the thing people cross the country to see — stone carved into ropes, coral, armillary spheres, and sea monsters. Be at the door ~10 min before the slot time on the order confirmation.
 
 ⚠️ **The free church (Santa Maria) is closed at this hour on a Sunday** — Sunday mornings belong to Mass, and tourist visits only run **14:00–17:00** on Sundays (vs. ~10:30–18:00 Tue–Sat). At 12:45 only the **cloister** is open. Do the cloister now, then swing back into the free church right at 14:00 on your way to lunch — it's the same 2-minute walk.
 
@@ -767,7 +770,16 @@ Lisbon is bigger and hillier than Porto. No car. Metro + trains + Bolt do everyt
 | **The cloister** — €18 adult / ~€9 youth (13–24, **bring ID**) → **~€54 for four** | The masterpiece — two storeys of carved stone lace. Mandatory pre-booked timed slot — ✅ done (order 38185413) |
 | **14:00 — The free church** (Santa Maria)        | No ticket, always free — enter from the west door once it opens. Soaring palm-like columns, Vasco da Gama's tomb just inside the entrance. ~15–20 min                                                                  |
 
-**14:20 — Lunch in Belém** — casual, near the monuments:
+**14:20 — Lunch in Belém + [Pastéis de Belém](https://maps.google.com/?q=Past%C3%A9is+de+Bel%C3%A9m+Lisbon+Portugal) [🌐](https://pasteisdebelem.pt)** ⭐ [📍](https://maps.google.com/?q=Pasteis+de+Belem+Lisbon+Portugal) — the yellow-fronted pastelaria on Rua de Belém is 3 minutes from Jerónimos and is where the pastel de nata was invented (1837), still made to the monastery recipe only three people know.
+
+| | |
+| --- | --- |
+| **The move** | Skip the sit-down queue — join the **takeaway line** (fast-moving, separate door). Get them piping hot, dust with cinnamon + icing sugar, eat standing on the wall outside |
+| **Cost** | ~€1.40 each — buy a half-dozen; they sell thousands a day, the oven never stops |
+
+> _"The takeaway queue looks insane but clears in five minutes. Eat them hot on the wall outside — a totally different pastry to a cold one."_ — r/lisbon
+
+Something savoury alongside, all within the same few blocks:
 
 | Option | Vibe | Price |
 | --- | --- | --- |
@@ -781,7 +793,7 @@ Lisbon is bigger and hillier than Porto. No car. Metro + trains + Bolt do everyt
 
 **16:50 — [MAAT](https://maps.google.com/?q=MAAT+Lisbon+Portugal) [🌐](https://maat.pt/en/) rooftop on the walk back** — the museum's white wave-roof is a **free-to-everyone** climb over the river (the paid galleries are €11 and skippable today). 10 min of ramp, one great photo of the 25 de Abril bridge.
 
-**17:15 — Back to Arroios + check in.** Train back to Cais do Sodré, then Metro or a quick Bolt up to the apartment (~40 min door to door). Collect the bags from Anjos on the way — or meet the LUGGit delivery — check in (window runs to 22:00), drop everything, shower off the travel day. This is the one built-in rest of the day; don't skip it before a late Lisbon evening.
+**17:15 — Back to Arroios.** Train back to Cais do Sodré, then Metro or a quick Bolt up to the apartment (~40 min door to door). **Nothing to collect — the bags have been there since noon**, so this is purely shower off the travel day and change. It's the one built-in rest of the day; don't skip it before a late Lisbon evening.
 
 **19:00 — Evening in Baixa & Chiado.** From Arroios it's ~12 min downhill on foot (or one Metro stop) into the **Baixa** — the flat, dead-straight Pombaline grid the Marquês de Pombal threw up after the 1755 earthquake flattened the medieval city. Walk the black-and-white mosaic pavements down toward the river, timed to the light (sunset **~20:20**):
 
@@ -1030,7 +1042,8 @@ As everywhere on this trip, tourist access to a church closes while the liturgy 
 | **[Quinta da Regaleira](https://maps.google.com/?q=Quinta+da+Regaleira+Lisbon+Portugal) — 14:00, Aug 24**     | 🔴 **book TODAY** — August slots sell out; €20/€15, €75 for four | regaleira.pt |
 | **Fado dinner — [Parreirinha de Alfama](https://maps.google.com/?q=Parreirinha+de+Alfama+Lisbon+Portugal) [🌐](https://parreirinhadealfama.com), ~20:00 Tue Aug 25** | 🔴 **book THIS WEEK** — houses fill 1–2 weeks out | parreirinhadealfama.com / +351 218 868 209 (Clube de Fado as backup) |
 | **Oceanário — 12:00 band, Aug 26**          | 🔴 **decide & book by ~Aug 10** — €27 × 4 = €108, or consciously drop it | oceanario.pt |
-| **Message apartment host re: early bag drop** | 🕐 by ~Aug 20                    | Booking.com chat |
+| ~~**Message apartment host re: early bag drop**~~ | ✅ **Done — Isabelly receives at 12:00** (online check-in also completed Aug 12) | Booking.com chat |
+| ⚠️ **Verify the Jerónimos slot time on order 38185413** | 🔲 Before Aug 23 — if it's ≤12:30, ask Isabelly for 11:30 instead | Order confirmation email |
 | ~~**[Torre de Belém](https://maps.google.com/?q=Torre+de+Bel%C3%A9m+Lisbon+Portugal) (Day 1, 16:00)**~~       | ✅ Booked — order **38185394**, paid | — |
 | ~~**Jerónimos cloister (Day 1)**~~          | ✅ Booked — order **38185413**, paid | — |
 | ~~**[Palácio da Pena](https://maps.google.com/?q=Pal%C3%A1cio+da+Pena+Lisbon+Portugal) [🌐](https://www.parquesdesintra.pt) (Day 2, 09:00)**~~      | ✅ Booked & paid — Essential Visit, €20 adult | — |
@@ -1117,6 +1130,7 @@ Demand is exceptional this year. The two big Gaudí tickets are **done** — the
 | ------------- | ------------------------------------------------------------------------------------------------------------ |
 | **Hotel**     | **AB Sagrada Família Bofill** [📍](https://maps.google.com/?q=Carrer+de+la+Marina+240+08013+Barcelona+Spain) — Carrer de la Marina 240, Eixample, 08013 Barcelona. Two blocks from the [Sagrada Família](https://maps.google.com/?q=Sagrada+Fam%C3%ADlia+Barcelona+Spain) [🌐](https://www.sagradafamilia.org/en/worship-at-the-basilica) |
 | **Check-in**  | Wed Aug 26 · 15:00–00:00 (you'll arrive ~22:45 after TP1038)                                                 |
+| **Tourist tax** | ⚠️ **Payable at the property on check-in — not included in the Booking.com total.** Catalonia's IEET plus the Barcelona city surcharge, capped at 7 nights; for a tourist apartment budget **~€6–7 per person per night** (⚠️ estimate — get the exact figure from the property, it depends on their licence class). **5 nights × 4 people ≈ €120–140.** Ask whether they take card; some AB units want cash. Note **under-16s are exempt**, so check which of the girls that covers |
 | **Check-out** | Mon Aug 31 · by 11:00 — but you'll **leave ~09:40** for the **AVE 11:00** (be at Sants by 10:30)              |
 | **Flight in** | TP1038 LIS → BCN: 18:55 → **21:50**, Terminal 1                                                              |
 | **Train out** | AVE 03112 BCN-Sants → Zaragoza Delicias, **Aug 31 11:00 → 12:28**, locator **WJXSCF**, Coche 6 · 2A/2B/3A/3B |
@@ -1880,7 +1894,7 @@ Zaragoza is **the only city in the world with two cathedrals**, and both are a f
 | **Booking**               | ✅ Booking.com #5149971517 · €671.73 paid in full                                                                                                                                                                                                                       |
 | **PIN**                   | **7526**                                                                                                                                                                                                                                                                |
 | **Phone**                 | +34 661 781 481                                                                                                                                                                                                                                                         |
-| **Check-in**              | Tue Sep 1 from 15:00 — AVE 4U5NZV arrives Atocha **19:44** → apartment ~20:20                                                                                                                                                                                           |
+| **Check-in**              | Tue Sep 1 from 15:00 — AVE 4U5NZV arrives Atocha **19:44** → apartment ~20:20. ✅ **Online check-in completed** — nothing to fill in on arrival, it's PIN 7526 and walk in                                                                                               |
 | **Check-out**             | Sat Sep 5 by 11:00 ⚠️ Flight 10:25 — **leave apartment by 06:45**                                                                                                                                                                                                       |
 | **Free cancellation**     | Until Aug 26, 2026 23:59 CEST (50% charge from Aug 27)                                                                                                                                                                                                                  |
 | **Key access**            | Property emails instructions; PIN 7526                                                                                                                                                                                                                                  |
@@ -1950,7 +1964,7 @@ Follow *Salida* signs off the AVE platforms — the taxi rank is signposted from
 | **Taxi** (recommended)    | Rank outside; 15 min, 3 km to C. de Alejandro Dumas 30                                               | ~€10–12      |
 | **Metro**                 | L1 (**[Estación del Arte](https://maps.google.com/?q=Estaci%C3%B3n+del+Arte+Madrid+Spain)**) 2 stops → Pacífico → L6 3 stops → Legazpi → walk. Buy the Multi card now  | €7.30/10 trips + €2.50 card |
 
-**20:20 — Check in.** Door PIN **7526**. Drop bags, quick refresh. (Check-in opened 15:00, so the apartment is ready; if anything's off, the property phone is +34 661 781 481.)
+**20:20 — Check in.** Door PIN **7526**. Drop bags, quick refresh. ✅ **Online check-in is already done, so there's no paperwork at the door** — the code is the whole procedure. (Check-in opened 15:00, so the apartment is ready; if anything's off, the property phone is +34 661 781 481.)
 
 **21:00 — Late dinner near apt** — 21:00 is when Madrid *starts* eating; walking in without a booking is normal tonight:
 

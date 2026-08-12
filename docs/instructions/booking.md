@@ -16,11 +16,11 @@
 | Flight home MAD→JFK | AA 95 · Sep 5, 10:25 · T4 |
 | AVE Barcelona → Zaragoza | Aug 31, 11:00 · **WJXSCF** · Coche 6 · 2A/2B/3A/3B |
 | AVE Zaragoza → Madrid | Sep 1, 17:48 · **4U5NZV** · Coche 7 · 2C/2D/3C/3D |
-| Porto — Aposentus, Rua de Santo Ildefonso 200, 1º Traseiras, 4000-507 [📍](https://maps.google.com/?q=Rua+de+Santo+Ildefonso+200+4000-507+Porto+Portugal) | 5732321948 · Aug 20–23 |
-| Lisbon — 64 Rua da Bempostinha 5º dto, Arroios, 1150-099 [📍](https://maps.google.com/?q=Rua+da+Bempostinha+64+1150-099+Lisboa+Portugal) | Booking.com · €579.50 paid · non-refundable |
-| Barcelona — AB Sagrada Família Bofill, Carrer de la Marina 240, Eixample, 08013 [📍](https://maps.google.com/?q=Carrer+de+la+Marina+240+08013+Barcelona+Spain) | Booking.com · Aug 26–31 |
+| Porto — Aposentus, Rua de Santo Ildefonso 200, 1º Traseiras, 4000-507 [📍](https://maps.google.com/?q=Rua+de+Santo+Ildefonso+200+4000-507+Porto+Portugal) | 5732321948 · Aug 20–23 · 🔲 check-in link due **~Aug 18** · bags from **12:00** |
+| Lisbon — **Castle View Hideaway** (host Isabelly), 64 Rua da Bempostinha 5º dto, Arroios, 1150-099 [📍](https://maps.google.com/?q=Rua+da+Bempostinha+64+1150-099+Lisboa+Portugal) | Booking.com · €579.50 paid · non-refundable · ✅ **checked in online** · ✅ **Isabelly receives 12:00** |
+| Barcelona — AB Sagrada Família Bofill, Carrer de la Marina 240, Eixample, 08013 [📍](https://maps.google.com/?q=Carrer+de+la+Marina+240+08013+Barcelona+Spain) | Booking.com · Aug 26–31 · ⚠️ **tourist tax due at the property on check-in** (~€120–140, not prepaid) |
 | Zaragoza — Apartamento Centro 5 (Isabel), C. del Dr. Alejandro Palomar 38, 2º Izda, 50002 [📍](https://maps.google.com/?q=Calle+del+Dr.+Alejandro+Palomar+38+50002+Zaragoza+Spain) | Airbnb · $93.93 · **PayPal charge scheduled Aug 18** |
-| Madrid — Plenora Alejandro Dumas, C. de Alejandro Dumas 30, 28005 [📍](https://maps.google.com/?q=Calle+de+Alejandro+Dumas+30+28005+Madrid+Spain) | 5149971517 · PIN **7526** · €671.73 paid |
+| Madrid — Plenora Alejandro Dumas, C. de Alejandro Dumas 30, 28005 [📍](https://maps.google.com/?q=Calle+de+Alejandro+Dumas+30+28005+Madrid+Spain) | 5149971517 · PIN **7526** · €671.73 paid · ✅ **checked in online** |
 | Sagrada Família ⚠️ nominative | Aug 27 · entry 17:45 · EN tour 18:30 · code **103719876** · **bring passports** |
 | Park Güell | Aug 27 · 09:30 · 4 × €18 · locator **700328431455** |
 | Pena Palace (Sintra) | Aug 24 · 09:00 palace slot · Essential Visit · paid |
@@ -68,7 +68,9 @@ Capacity-limited, popular, or slow to reply. **Nothing here costs anything to ho
 | **Zaragoza guest registration form** | **Releases the lockbox code.** No form, no keys, no way into the flat | Well before Aug 31 — do it now | [u.partee.es form](https://u.partee.es/4396/Oga33Ze0llPQgN7MIWtK3jHpu) — all 4 guests, passports out |
 | **Confirm Emily's key handover** | The entire Friday-morning bag drop at C/ Alonso Cano 4-2A depends on her having keys — and the 2 checked bags have nowhere else to go | Before Sep 4, ask now | Landlord / agency, **in writing** |
 | **Confirm Emily's UAM end time** | Friday runs 11:00–16:00 or 11:00–12:00? Fork A and Fork B are completely different afternoons | Before Sep 3, ask now | Ask her directly |
-| **Message Lisbon host — early bag drop** | Land 09:55, apartment opens 16:00 | By Thu Aug 20 | Booking.com chat · fallback: Anjos lockers ~€5/bag |
+| ~~**Message Lisbon host — early bag drop**~~ | ✅ **Resolved** — Isabelly receives at 12:00, online check-in done. Day 1 rewritten around it; lockers/LUGGit are now fallback-only | — | — |
+| **Complete the Porto (Aposentus) check-in link** | The host only sends it **2 days before arrival** — it won't exist until ~Aug 18, and it carries the entry instructions | Same day it arrives (~Aug 18) | Watch email + Booking.com chat |
+| **Verify the Jerónimos slot time (order 38185413)** | The 12:00 Lisbon handover shifts Belém ~45 min later. If the slot is ≤12:30 it now clashes — ask Isabelly for 11:30 instead | Before Aug 23 | Order confirmation email |
 | **Message Zaragoza host (Isabel) — early drop** | Arrive 12:28, check-in 16:00 | By ~Aug 26 | Airbnb chat · fallback: Delicias consigna 08:00–21:00, €4–6/bag |
 
 ---

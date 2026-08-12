@@ -11,6 +11,7 @@
 |---|---|
 | **Hotel** | **AB Sagrada Família Bofill** [📍](https://maps.google.com/?q=Carrer+de+la+Marina+240+08013+Barcelona+Spain) — Carrer de la Marina 240, Eixample, 08013 Barcelona |
 | **Check-in** | Wed Aug 26 · 15:00–00:00 (arrive ~22:45 after TP1038) |
+| **Tourist tax** | ⚠️ **Paid at the property on check-in, on top of the Booking.com total** — Catalonia IEET + Barcelona surcharge, ~**€6–7 pp/night** for a tourist apartment (⚠️ estimate, confirm with the property), capped at 7 nights → **~€120–140 for 5 nights × 4**. Under-16s exempt. Ask if they take card |
 | **Check-out** | Mon Aug 31 by 11:00 — but leave **~09:40** for the AVE (Sants by 10:30) |
 | **Flight in** | TP1038 LIS → BCN: 18:55 → 21:50, Terminal 1 |
 | **Train out** | AVE 03112 Sants → Zaragoza, Aug 31 11:00 → 12:28 · locator **WJXSCF** · Coche 6 · 2A/2B/3A/3B |

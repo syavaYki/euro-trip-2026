@@ -11,7 +11,8 @@
 |---|---|
 | **Hotel** | Aposentus – Poveiros Terrace View [📍](https://maps.google.com/?q=Rua+de+Santo+Ildefonso+200+4000-507+Porto+Portugal) — Rua de Santo Ildefonso 200, 1º Traseiras, 4000-507 Porto |
 | **Confirmation** | 5732321948 |
-| **Check-in** | Thu Aug 20 (arrival ~11:00) |
+| **Check-in** | Thu Aug 20 (arrival ~11:00). ⚠️ **Check-in link arrives ~Aug 18** — the host sends it 2 days before arrival; complete it that day |
+| **Luggage** | ✅ **Bags accepted from 12:00 (noon)** even before the room is ready — no lockers needed |
 | **Check-out** | Sun Aug 23 — early, flight at 09:00 |
 | **Flight in** | TP212: EWR → OPO, departs Aug 19 23:10, arrives Aug 20 10:55 |
 | **Flight out** | TP1921: OPO → LIS, Aug 23 09:00. **Be at OPO by 07:15.** |

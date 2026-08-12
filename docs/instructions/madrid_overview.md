@@ -17,7 +17,7 @@
 | **Booking** | ✅ Booking.com #5149971517 · €671.73 paid in full |
 | **PIN / door code** | **7526** |
 | **Phone** | +34 661 781 481 |
-| **Check-in** | Tue Sep 1 from 15:00 — AVE 4U5NZV arrives Atocha **19:44** → apartment ~20:20 |
+| **Check-in** | Tue Sep 1 from 15:00 — AVE 4U5NZV arrives Atocha **19:44** → apartment ~20:20. ✅ **Online check-in completed** — no paperwork on arrival, the PIN is the whole procedure |
 | **Check-out** | Sat Sep 5 by 11:00 ⚠️ Flight 10:25 — **leave apartment by 06:45** |
 | **Free cancellation** | Until Aug 26, 2026 23:59 CEST (50% charge from Aug 27) |
 | **Travel in** | AVE 03162: Zaragoza Delicias → Madrid Atocha, Sep 1 17:48 → 19:44 (locator **4U5NZV** · Coche 7 · 2C/2D/3C/3D) |
