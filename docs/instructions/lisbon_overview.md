@@ -11,7 +11,7 @@
 |---|---|
 | **Apartment** | **Castle View Hideaway** — 64 Rua da Bempostinha 5º direito, Arroios, 1150-099 Lisbon [📍](https://maps.google.com/?q=Rua+da+Bempostinha+64+1150-099+Lisboa+Portugal) |
 | **Host** | **Isabelly** — receives you in person at 12:00 |
-| **Check-in** | Sun Aug 23 · ✅ **12:00 confirmed with Isabelly** (standard window 16:00–22:00 — this is an agreed early arrival). ✅ Online check-in completed Aug 12. Flight lands 09:55, so bags go straight to the apartment — **no locker, no LUGGit** |
+| **Check-in** | Sun Aug 23 · ✅ **12:00 confirmed with Isabelly** (standard window 16:00–22:00 — this is an agreed early arrival). ✅ Online check-in **and guest registration form** both submitted Aug 12 — no paperwork on arrival. Flight lands 09:55, so bags go straight to the apartment — **no locker, no LUGGit** |
 | **Check-out** | Thu Aug 27 by 10:00 — but **physically depart Wed Aug 26 evening** (apt paid through Aug 27, so bags stay there on departure day) |
 | **Phone** | +351 925 360 038 |
 | **Booking** | ✅ Booking.com · Non-refundable · €579.50 paid |

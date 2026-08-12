@@ -17,7 +17,7 @@
 | AVE Barcelona → Zaragoza | Aug 31, 11:00 · **WJXSCF** · Coche 6 · 2A/2B/3A/3B |
 | AVE Zaragoza → Madrid | Sep 1, 17:48 · **4U5NZV** · Coche 7 · 2C/2D/3C/3D |
 | Porto — Aposentus, Rua de Santo Ildefonso 200, 1º Traseiras, 4000-507 [📍](https://maps.google.com/?q=Rua+de+Santo+Ildefonso+200+4000-507+Porto+Portugal) | 5732321948 · Aug 20–23 · 🔲 check-in link due **~Aug 18** · bags from **12:00** |
-| Lisbon — **Castle View Hideaway** (host Isabelly), 64 Rua da Bempostinha 5º dto, Arroios, 1150-099 [📍](https://maps.google.com/?q=Rua+da+Bempostinha+64+1150-099+Lisboa+Portugal) | Booking.com · €579.50 paid · non-refundable · ✅ **checked in online** · ✅ **Isabelly receives 12:00** |
+| Lisbon — **Castle View Hideaway** (host Isabelly), 64 Rua da Bempostinha 5º dto, Arroios, 1150-099 [📍](https://maps.google.com/?q=Rua+da+Bempostinha+64+1150-099+Lisboa+Portugal) | Booking.com · €579.50 paid · non-refundable · ✅ **checked in online + registration form done** · ✅ **Isabelly receives 12:00** |
 | Barcelona — AB Sagrada Família Bofill, Carrer de la Marina 240, Eixample, 08013 [📍](https://maps.google.com/?q=Carrer+de+la+Marina+240+08013+Barcelona+Spain) | Booking.com · Aug 26–31 · ⚠️ **tourist tax due at the property on check-in** (~€120–140, not prepaid) |
 | Zaragoza — Apartamento Centro 5 (Isabel), C. del Dr. Alejandro Palomar 38, 2º Izda, 50002 [📍](https://maps.google.com/?q=Calle+del+Dr.+Alejandro+Palomar+38+50002+Zaragoza+Spain) | Airbnb · $93.93 · **PayPal charge scheduled Aug 18** |
 | Madrid — Plenora Alejandro Dumas, C. de Alejandro Dumas 30, 28005 [📍](https://maps.google.com/?q=Calle+de+Alejandro+Dumas+30+28005+Madrid+Spain) | 5149971517 · PIN **7526** · €671.73 paid · ✅ **checked in online** |
