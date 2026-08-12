@@ -147,7 +147,7 @@
 | Casa Museo Lope de Vega — optional | Free, but the guided slot must be booked | [casamuseolopedevega.org](https://casamuseolopedevega.org/) |
 | Retiro rowboats — Thu **~19:00** | Walk up, or reserve same-day in the app. Buy the ticket while waiting for Emily's train, not after it arrives | Madrid Móvil app |
 | **Metro** | One Multi card (€2.50) + 10-trip Metrobús **€7.30** (2026 subsidized) — shareable | Any station machine |
-| **Taxis** | Airport flat **€33**; centre hops €5–12; pre-book Sep 5 06:45 pickup | Free Now / Cabify / Uber |
+| **Taxis / rides** | Airport flat **€33**; centre hops €5–12; Sep 5 06:45 airport run goes by **Bolt** (order on the day), flat-rate taxi as fallback | Bolt · Free Now / Cabify / Uber |
 
 ---
 

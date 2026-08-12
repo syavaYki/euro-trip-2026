@@ -36,7 +36,7 @@ No car. Metro + CP trains + Bolt do everything; Lisbon is big and hilly.
 | Airport → city/Arroios | Metro Red → Alameda → Green → Anjos/Arroios (~25–30 min); or Bolt ~€10–14 with bags |
 | To Belém | Green Line to Cais do Sodré + Cascais-line train (~7 min) — beats Tram 15E |
 | Alfama / Castle | Walk down, Bolt/tuk-tuk up (it's steep) |
-| Sintra (Day 2) | Train from **Rossio** (~40 min, €2.30); then **taxi/Bolt up to Pena (~€10–15 total)** — the 434 bus is €13.50/person and starts too late for the 09:00 slot |
+| Sintra (Day 2) | Train from **Rossio** (~40 min, €2.30); then **taxi/Bolt up to Pena (~€10–15 total)** — the 434 bus is €13.50/person (€54 for four). Park shuttle gate→palace already paid |
 | Oriente / Oceanário (Day 4) | Green → Alameda → Red Line (~20 min); Oriente is 3 stops from the airport |
 
 > ⚠️ **Funiculars (Aug 2026):** Glória closed (rebuild after the Sep 2025 crash), Bica & Lavra suspended, **Santa Justa closed for maintenance** — only the Graça funicular runs. Walk or Bolt the hills.
@@ -50,7 +50,7 @@ No car. Metro + CP trains + Bolt do everything; Lisbon is big and hilly.
 | Day | Theme | Key Activities |
 |-----|-------|---------------|
 | **Day 1** (Sun Aug 23) | Arrival + Belém (bags-light) | Land 09:55 → bags to Anjos/host → Pastéis de Belém → Jerónimos cloister ✅ → free church 14:00 → Padrão → **Torre de Belém 16:00 ✅** → check-in → Baixa golden hour → Time Out dinner |
-| **Day 2** (Mon Aug 24) | **Sintra** ⭐⭐ | 07:21 train → taxi up → **Pena 09:00 ✅** → Moorish Castle → Apeadeiro lunch + Piriquita → **Regaleira 14:00 ✅** → Sintra old town → 17:00 train home → easy Lisbon evening (Ramiro). (Monday = most Lisbon museums shut, so Sintra today is deliberate. Coastal leg to Cabo da Roca/Cascais was cut) |
+| **Day 2** (Mon Aug 24) | **Sintra** ⭐⭐ | 08:11 train → taxi up → **Pena 10:00 ✅** → Moorish Castle (untimed) → **Tascantiga lunch 13:25 ✅** + Piriquita → **Regaleira 14:30 ✅** → Sintra old town → 17:00 train home → easy Lisbon evening (Ramiro). (Monday = most Lisbon museums shut, so Sintra today is deliberate. Coastal leg to Cabo da Roca/Cascais was cut) |
 | **Day 3** (Tue Aug 25) | Alfama, Castle & Churches ⭐⭐ | Castelo 09:00 ✅ → miradouros → **São Vicente ✅** → Feira da Ladra (Tue!) → Panteão → Alfama descent → Sé → tasca lunch → São Roque + Prazeres *or* Museu do Fado → **fado dinner at Parreirinha 🔴 book** |
 | **Day 4** (Wed Aug 26) | Slow morning + Oceanário + depart | Manteigaria → Convento do Carmo → Metro to Oriente → **Oceanário 12:00 🔴 book/decide** → food-court lunch → bags from apartment → LIS T1 by ~16:45 → TP1038 18:55 |
 
@@ -63,9 +63,9 @@ No car. Metro + CP trains + Bolt do everything; Lisbon is big and hilly.
 | Mosteiro dos Jerónimos (cloister) | €18 (church free) | ~€9 (13–24, ID) | ✅ **Booked — order 38185413** | Day 1 — **closed Mon**; Sun church 14:00–17:00 |
 | Padrão dos Descobrimentos | €10 | ~€5 _(unverified)_ | ❌ | Day 1 — daily |
 | Torre de Belém (reopened 26 May 2026, timed entry) | €15 | **€7.50** (13–24, ID) | ✅ **Booked — order 38185394, 16:00** | Day 1 — closed Mon |
-| **Palácio da Pena (Sintra)** | €20 | reduced band — check | ✅ **Booked & paid — 09:00** | Day 2 |
+| **Palácio da Pena (Sintra)** | €20 | reduced band — check | ✅ **Booked & paid — 10:00** | Day 2 |
 | **Castelo dos Mouros (Sintra)** | €12 | reduced band — check | ❌ buy at Pena office | Day 2 |
-| **Quinta da Regaleira (Sintra)** | **€20** (2026) | €15 (6–17); 19-y-o pays adult | ✅ **Booked — 38339594** | Day 2, 14:00 |
+| **Quinta da Regaleira (Sintra)** | **€20** (2026) | €15 (6–17); 19-y-o pays adult | ✅ **Booked — 38339594** | Day 2, 14:30 |
 | Cabo da Roca | Free (cert €11) | — | ❌ | ❌ Cut — coastal leg dropped |
 | Castelo de São Jorge | €17 (under 12 free) | **€8.50** (13–25, ID) | ✅ **Booked & paid** — open ticket valid until 1 Nov 2026, entry from 09:00 | Day 3, 09:00 |
 | **São Vicente de Fora** (monastery + royal pantheon) | €8 | **€4** (<25) | ✅ **Booked — ref 980497008** | Day 3 — open daily |
@@ -85,7 +85,7 @@ No car. Metro + CP trains + Bolt do everything; Lisbon is big and hilly.
 |--------|-----------|
 | €1–4 (snacks) | Pastéis de nata (Pastéis de Belém, Manteigaria, Aloma), bifana, ginjinha |
 | €8–15 (the locals' band) ⭐ | **Zé dos Cornos** (Beco dos Surradores 5 — ribs €13) · **Sardinha** (R. Jardim do Tabaco 18–20 — bitoque under €10) · **O Prado** (R. da Junqueira 472, Belém) · Zé da Mouraria · Páteo 13 sardines · Vasco da Gama food court |
-| €12–20 (mid, still local) | **Príncipe do Calhariz** (Calçada do Combro 28 — **opens Sundays**) · **Apeadeiro** (Sintra) · **Marisco na Praça** (Cascais market) · Casa do Alentejo petiscos · Taberna Sal Grosso |
+| €12–20 (mid, still local) | **Príncipe do Calhariz** (Calçada do Combro 28 — **opens Sundays**) · **Tascantiga** / **Apeadeiro** (Sintra) · **Marisco na Praça** (Cascais market) · Casa do Alentejo petiscos · Taberna Sal Grosso |
 | €15–30 | Petiscos bars (Taberna da Rua das Flores), Time Out Market stalls (visitor-priced — fine as fallback) |
 | €30–50 (splurge) | Cervejaria Ramiro, marisqueiras |
 | Fado | **A Baiuca ~€25/pp** (fado vadio, phone-only, Thu–Sat) · **Tasca do Chico ~€10 min spend** · **Parreirinha de Alfama €45–65** (the polished pick, nightly) |
@@ -94,8 +94,8 @@ No car. Metro + CP trains + Bolt do everything; Lisbon is big and hilly.
 | Day | Breakfast | Lunch | Dinner |
 |-----|-----------|-------|--------|
 | Day 1 (Sun) | (travel) | **O Prado** ⭐ (Belém, 1 street back) or kiosks + pastéis | **Príncipe do Calhariz** ⭐ (Sunday-open) — Time Out as fallback |
-| Day 2 (Mon) | Rossio takeaway | **Apeadeiro** ⭐ / Tasca do Manel (~€8); Piriquita = pastry stop | **Cervejaria Ramiro** (€30–50, queue 19:00) — or **O Cartaxinho / Esquina da Fé / Forninho Saloio** ⭐ (€10–15, 10–14 min from the flat) |
-| Day 3 (Tue) | Copenhagen Coffee Lab | Zé da Mouraria / **Zé dos Cornos** / Páteo 13 | Fado — call **A Baiuca** first (€25), else **Parreirinha** 🔴 book |
+| Day 2 (Mon) | Rossio takeaway | **Tascantiga** ✅ 🔴 book (Apeadeiro ⭐ / Tasca do Manel ~€8 as backups); Piriquita = pastry stop | **Cervejaria Ramiro** (€30–50, queue 19:00) — or **O Cartaxinho / Esquina da Fé / Forninho Saloio** ⭐ (€10–15, 10–14 min from the flat) |
+| Day 3 (Tue) | Copenhagen Coffee Lab | **Zé dos Cornos** ✅ (cash only, no bookings, lunch service only) — Zé da Mouraria / Páteo 13 as backups | Fado — call **A Baiuca** first (€25), else **Parreirinha** 🔴 book |
 | Day 4 (Wed) | Manteigaria + Fabrica | Vasco da Gama food court | (plane / BCN) |
 
 > 🏠 **Arroios, near the apartment** (for any night that collapses): **O Cartaxinho** (R. de Santa Marta 20B) · **Esquina da Fé** (R. da Fé 60) · **Forninho Saloio** (Tv. das Parreiras 39) — plain *prato do dia* rooms, 10–14 min on foot, €10–15/pp.
@@ -106,16 +106,16 @@ No car. Metro + CP trains + Bolt do everything; Lisbon is big and hilly.
 
 | Item | Status / deadline as of Aug 5 | Where |
 |------|----------|-------|
-| **Quinta da Regaleira (Day 2, 14:00)** | ✅ **Booked & paid** — 38339594, €80.54 incl. 6% fee. ⚠️ download the ticket PDFs, the email is not entry | MEO Blueticket |
 | **Fado dinner — Parreirinha de Alfama (Day 3, ~20:00)** | 🔴 **book this week** — fills 1–2 weeks out | parreirinhadealfama.com / +351 218 868 209 |
 | **Oceanário (Day 4, 12:00 band)** | 🔴 **decide & book by ~Aug 10** — €27 × 4, or consciously drop | oceanario.pt |
 | **Host: early bag drop Aug 23** | 🕐 message by ~Aug 20 | Booking.com chat |
 | **Viva Viagem cards** | On arrival, Aug 23 — €0.50 each + zapping credit | any Metro machine |
-| ~~**Palácio da Pena (Day 2)**~~ | ✅ Booked & paid — Essential Visit, €20 adult, 09:00 slot | — |
+| ~~**Palácio da Pena (Day 2)**~~ | ✅ Booked & paid — Essential Visit, €20 adult, 10:00 slot | — |
+| ~~**Quinta da Regaleira (Day 2)**~~ | ✅ Booked & paid — 38339594, €80.54 incl. 6% fee · entry window **14:30–15:00**. ⚠️ download the ticket PDFs, the email is not entry | MEO Blueticket |
 | ~~**Torre de Belém (Day 1, 16:00)**~~ | ✅ Booked — order **38185394**, paid | — |
 | ~~**Jerónimos (Day 1)**~~ | ✅ Booked — order **38185413**, paid | — |
 | ~~**Castelo de São Jorge (Day 3)**~~ | ✅ Booked & paid — open ticket valid until 1 Nov 2026 | — |
-| ~~**São Vicente de Fora (Day 3)**~~ | ✅ Booked — ref **980497008** | — |
+| ~~**São Vicente de Fora (Day 3)**~~ | ✅ Booked — ref **980497008** (2 adult + 2 youth) · ⚠️ download the PDF tickets · free cancel to 23:59 Aug 24 | — |
 | ~~Lisbon apartment~~ | ✅ Booked — €579.50 paid | — |
 | ~~LIS → BCN flight (TP1038)~~ | ✅ Booked — Aug 26 18:55 | — |
 

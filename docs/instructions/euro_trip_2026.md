@@ -226,14 +226,23 @@ Allow ~70 min for the full loop + gelato.
 - ⚠️ **Tickets in person only** — but summer hours run to **20:00** (Apr–Sep), so arriving 18:00 after the bridge loop leaves a comfortable ~2 hrs. **If the loop overruns, it still fits — or move it to Day 2**, 3 min from the Rua das Flores route
 - Allow 45–60 min
 
-**19:15 — Dinner**
+**19:15 — Dinner: [Taberna dos Mercadores](https://maps.google.com/?q=Taberna+dos+Mercadores+Rua+dos+Mercadores+36+Porto+Portugal) [🌐](https://tabernadosmercadores.com/)** ⭐ ✅ **Chosen**
 
-All three options are on the **Porto** side, a few minutes' walk from São Francisco — you're already back across the river from the afternoon loop.
+**R. dos Mercadores 36–38**, 4050-373 — on the **Porto** side, 3 min from São Francisco, so you're already back across the river from the afternoon loop. The octopus rice is the order. Open **Tue–Sun 12:30–22:30, last entry 21:45** (closed Mondays — Thursday is fine). €25–35/person.
+
+> 🔴 **Book it now — this is the tightest table of the trip.** The room has **8 tables** and the restaurant states plainly that it reserves **months in advance**. Dinner is Thu Aug 20, which is 8 days out, so use the first channel that answers:
+>
+> 1. **Phone +351 222 010 510 — but only 10:30–11:30 (GMT+1)**, their entire daily reservation window. Porto is on the same clock, so call at 10:30 sharp.
+> 2. **Booking form at tabernadosmercadores.com** → replies within 24h.
+> 3. **Walk-in** — accepted "subject to availability" only. Arrive 18:30 for the first seating if it comes to this.
+>
+> ⚠️ **Corrected from our earlier note:** it is **8 tables, not 16 seats**, and email is *not* the only channel — there is a phone line, just a one-hour window.
+
+**If they can't seat you** — all a few minutes away, same side of the river:
 
 | Option                        | Vibe                                                                         | Price         | Book        |
 | ----------------------------- | ---------------------------------------------------------------------------- | ------------- | ----------- |
 | **[Adega São Nicolau](https://maps.google.com/?q=Adega+S%C3%A3o+Nicolau+Rua+de+S%C3%A3o+Nicolau+1+Porto+Portugal)** ⭐⭐ (R. de São Nicolau 1) | **The locals' pick down here.** Small, plain, family-run, 3 min from São Francisco — the Ribeira address Porto chefs eat at. Bacalhau croquettes, *polvo à lagareiro*, house wine in a jug | €15–25/person | Phone/arrive 19:00 |
-| **[Taberna dos Mercadores](https://maps.google.com/?q=Taberna+dos+Mercadores+Porto+Portugal) [🌐](https://tabernadosmercadores.com/)** ⭐ | Tiny 16-seat gem, best octopus rice in Porto. Arrive at 18:30 or email ahead | €25–35/person | Email ahead |
 | **[O Rápido](https://maps.google.com/?q=O+R%C3%A1pido+Rua+da+Madeira+194+Porto+Portugal)** (R. da Madeira 194) | Classic tasca beside São Bento — rotating weekly specials, *tripas à moda do Porto* on Thu & Sat, *tripa enfarinhada* the rest. Zero atmosphere-tax | €12–18/person | Walk-in |
 | **[Terra Nova](https://maps.google.com/?q=Terra+Nova+Porto+Portugal) [🌐](https://terranovarestaurante.pt/)**                | Ribeira waterfront, large Douro-view windows — view pricing, walk-in            | €15–30/person | Walk-in     |
 
@@ -379,16 +388,20 @@ Small-group sailboat departing Gaia. **2-hour cruise** under Porto's bridges →
 
 Walk ~15 min uphill to dinner in the centre.
 
-**21:00 — Dinner**
+**21:00 — Dinner: [Restaurante Antunes](https://maps.google.com/?q=Restaurante+Antunes+Rua+do+Bonjardim+614+Porto+Portugal)** ⭐⭐ ✅ **Chosen** — with a walk-in backstop below
 
-| Option                    | Vibe                                                      | Price         | Notes                  |
+**R. do Bonjardim 614** (some listings still show the old 525 — they moved up the street), 6 min from the hotel. **The locals' pick.** Old family room, no design, no English menu on the wall: *pernil assado no forno* (oven-roast pork leg) carved for the table, *rabanada* after. €15–22/person.
+
+> ⏰ **The one catch — Antunes closes at 22:00.** The cruise lands 20:45 and it's a ~15 min uphill walk, so you arrive right on 21:00 with an hour on the clock. **Phone +351 222 052 406 ahead** and tell them explicitly you're a table of four arriving at 21:00 off the river — that's the whole reservation. Friday service is 12:00–15:30 and 19:00–22:00.
+>
+> 🍺 **If the boat runs late, or nobody wants a sit-down at 21:00: [Cervejaria Gazela](https://maps.google.com/?q=Cervejaria+Gazela+Travessa+Cimo+de+Vila+4+Porto+Portugal) [🌐](https://www.cervejariagazela.pt/)** — the *cachorrinho* house by Batalha, **open Mon–Sat until 22:30**, no bookings, three doors on the same corner (**Tv. Cimo de Vila 4** and **R. de Entreparedes 8–10 & 34**). Porto's famous thin spicy hot dog with a cold beer, ~€10–15/person, and it's on the walk home. Anthony Bourdain ate here; the kids will prefer it to the pork leg.
+
+| Also on the table | Vibe | Price | Notes |
 | ------------------------- | --------------------------------------------------------- | ------------- | ---------------------- |
-| **[Restaurante Antunes](https://maps.google.com/?q=Restaurante+Antunes+Rua+do+Bonjardim+614+Porto+Portugal)** ⭐⭐ (R. do Bonjardim 614) | **The locals' pick.** Old family room, no design, no English menu on the wall: *pernil assado no forno* (oven-roast pork leg) carved for the table, *rabanada* after. 6 min from the hotel | €15–22/person | Phone ahead (small) |
-| **[Tasquinha Zé Povinho](https://maps.google.com/?q=Tasquinha+Z%C3%A9+Povinho+Rua+de+Clemente+Meneres+36+Porto+Portugal)** (R. de Clemente Meneres 36) | Working-class tasca that never renovated — mains ~€6, soup + bread ~€2.50, wine by the jug. The cheapest honest dinner in the centre | €8–14/person | Walk-in, cash friendly |
-| **[Solar Moinho de Vento](https://maps.google.com/?q=Solar+Moinho+de+Vento+Rua+de+S%C3%A1+de+Noronha+81+Porto+Portugal)** (R. de Sá de Noronha 81) | Tavern on the same site since 1905 — *arroz de costelinha*, tripe, stone walls, locals at every table | €18–25/person | Walk-in |
-| **[MUU Steakhouse](https://maps.google.com/?q=MUU+Steakhouse+Rua+do+Almada+149+Porto+Portugal) [🌐](https://www.muusteakhouse.com/)** (R. do Almada 149A) | ⚠️ Real, and good, but it's a **steakhouse at €35–95 for the cuts** — not the small-authentic brief. Dinner only, 19:00–24:00, reservations essential. Keep as the splurge if someone wants a slab of beef | €35–60/person | Book ahead |
+| **[Tasquinha Zé Povinho](https://maps.google.com/?q=Tasquinha+Z%C3%A9+Povinho+Rua+de+Clemente+Meneres+36+Porto+Portugal)** (R. de Clemente Meneres 36) | Working-class tasca that never renovated — mains ~€6, soup + bread ~€2.50, wine by the jug. The cheapest honest dinner in the centre. ⚠️ Kitchen winds down early — call before banking on 21:00 | €8–14/person | Walk-in, cash friendly |
+| **[MUU Steakhouse](https://maps.google.com/?q=MUU+Steakhouse+Rua+do+Almada+149+Porto+Portugal) [🌐](https://www.muusteakhouse.com/)** (R. do Almada 149A) | ⚠️ Real, and good, but it's a **steakhouse at €35–95 for the cuts** — not the small-authentic brief. Dinner only, **19:00–24:00**, so it *is* the one that comfortably takes a 21:00 table. Keep as the splurge if someone wants a slab of beef | €35–60/person | Book ahead |
 
-> ⚠️ **Removed from this slot:** *Eleit* and *Taberna de São Miguel* — neither could be verified as an existing Porto restaurant (no listing, no address, no reviews). Don't go looking for them. Antunes / Zé Povinho / Solar Moinho de Vento replace them and are all documented, family-run and cheaper.
+> ⚠️ **Dropped from this slot:** *Solar Moinho de Vento* — the Portuguese listings flag an **annual closure in August**, which is exactly when you're there. Don't route the evening through it. (*Eleit* and *Taberna de São Miguel* were removed earlier — neither could be verified as an existing Porto restaurant. Don't go looking for them.)
 
 **22:30 — Late stroll / drink**
 
@@ -478,14 +491,23 @@ _Alternative afternoons (if you'd rather skip the loop):_
 | **[Bar Clássico](https://maps.google.com/?q=Bar+Classico+Porto+Portugal)**  | Old-school Portuguese bar, cheap and authentic, near hotel                                                              |
 | **Hotel terrace** | Aposentus "Poveiros Terrace View" — open a bottle from a local wine shop                                                |
 
-**20:00 — Farewell Dinner** ⭐
+**20:00 — Farewell Dinner: [Escama](https://maps.google.com/?q=Escama+Cais+da+Ribeira+29+Porto+Portugal) [🌐](https://escamaporto.com/en/)** ⭐ ✅ **Chosen** — the one designed dinner of Porto
+
+> 📍 **Address changed — Escama has moved to [Cais da Ribeira 29](https://maps.google.com/?q=Escama+Cais+da+Ribeira+29+Porto+Portugal), 4050-509**, right on the riverfront. Our older notes (and most third-party listings) still say *R. de Mouzinho da Silveira 203* — **that is the old room.** Go to the Ribeira quay.
+
+Modern Atlantic seafood: the **turbot with hazelnut vinaigrette** is the dish the room is famous for. Open **daily 12:30–15:00 and 19:00–22:30**, so a 20:00 Saturday table sits comfortably. It's a short walk down from Cedofeita/the hotel, and it lands you on the quay for the last Ribeira night walk afterwards.
+
+> 🔴 **Book it now.** Three ways: **TheFork widget** on escamaporto.com, **email reservas@escamaporto.com**, or **phone +351 913 595 551**. Saturday night in August on the Ribeira waterfront — do not leave this to the day.
+>
+> 💶 **Budget honestly: €30–50/person**, not the €24–35 our earlier note carried. For four that's roughly **€120–200** — this is the splurge night, and Day 1 (Taberna) and Day 2 (Antunes) are both cheap by comparison.
+
+**If Escama can't take you** — the cheap-and-authentic farewell was the previous plan and still stands:
 
 | Option        | Vibe                                                                         | Price         | Book                           |
 | ------------- | ---------------------------------------------------------------------------- | ------------- | ------------------------------ |
 | **[Casa Expresso](https://maps.google.com/?q=Casa+Expresso+Pra%C3%A7a+de+Carlos+Alberto+73+Porto+Portugal)** 🥇⭐⭐ (Pç. de Carlos Alberto 73) | **The authentic-and-cheap farewell.** Chalkboard in the window, menu rewritten daily, dishes €5–6, regulars three deep. *Sandes de rojão*, alheira, the day's dish. No reservations, no frills, no tourist mark-up — the meal you'll actually retell | €10–15/person | None taken — go early |
-| **[O Rápido](https://maps.google.com/?q=O+R%C3%A1pido+Rua+da+Madeira+194+Porto+Portugal)** (R. da Madeira 194) / **[Antunes](https://maps.google.com/?q=Restaurante+Antunes+Rua+do+Bonjardim+614+Porto+Portugal)** (R. do Bonjardim 614) | The proper sit-down versions of the same idea — Saturday *tripas à moda do Porto* at Rápido, roast *pernil* at Antunes. Both family-run, both a tenth of a tasting menu | €12–22/person | Walk-in / phone |
-| **[Escama](https://maps.google.com/?q=Escama+Porto+Portugal) [🌐](https://escamaporto.com/en/)** 🥈 | If you want one modern Atlantic-seafood dinner: turbot with hazelnut vinaigrette. Real, well reviewed, mid-priced by chef-restaurant standards | €24–35/person | By Fri Aug 14 — escamaporto.com |
-| **[Gruta](https://maps.google.com/?q=Gruta+Rua+de+Santa+Catarina+447+Porto+Portugal) [🌐](https://www.grutaporto.com/)**   | ⚠️ Real (R. de Santa Catarina 447, 4.7–4.8 across platforms) but it's a **€45–55/pp chef restaurant** — the opposite of the brief. Only if you want one designed dinner | €45–55/person | Book well ahead |
+| **[O Rápido](https://maps.google.com/?q=O+R%C3%A1pido+Rua+da+Madeira+194+Porto+Portugal)** (R. da Madeira 194) / **[Antunes](https://maps.google.com/?q=Restaurante+Antunes+Rua+do+Bonjardim+614+Porto+Portugal)** (R. do Bonjardim 614) | The proper sit-down versions of the same idea — Saturday *tripas à moda do Porto* at Rápido, roast *pernil* at Antunes. ⚠️ You're already at Antunes on Day 2 now, so make it Rápido | €12–22/person | Walk-in / phone |
+| **[Gruta](https://maps.google.com/?q=Gruta+Rua+de+Santa+Catarina+447+Porto+Portugal) [🌐](https://www.grutaporto.com/)**   | ⚠️ Real (R. de Santa Catarina 447, 4.7–4.8 across platforms) but it's a **€45–55/pp chef restaurant** — pricier than Escama for the same "designed dinner" slot | €45–55/person | Book well ahead |
 
 > ⚠️ **Removed:** *Cobre* — could not be verified as an existing Porto/Gaia restaurant. If you want a Gaia-side terrace dinner instead, cross the bridge to **Casa do Pescador** (Cais de Gaia) and check it on the day.
 
@@ -529,14 +551,14 @@ TAP closes check-in 90 min before departure = **07:30**. Bolt backup: ~€18, 25
 | €1–5 (snacks)    | Pastel de nata (Bolhão / Manteigaria), bifana (Casa da Bifana / Conga), *sande de pernil* at Casa Guedes, Bolhão market stalls |
 | €8–15 (the locals' band) ⭐ | **O Buraco** (R. do Bolhão 95) · **Casa Expresso** (Carlos Alberto 73) · **Tasquinha Zé Povinho** (Clemente Meneres 36) · **Cantarinha** francesinha · Matosinhos grill street |
 | €15–25 (mid)     | **Adega São Nicolau** · **Antunes** · **O Rápido** · **Salta o Muro / Tito / Casa Serrão** (Matosinhos) · Café Santiago · Solar Moinho de Vento · Terreiro / Terra Nova (view pricing) |
-| €25–35 (occasion) | Taberna dos Mercadores (16 seats, email ahead), Escama                              |
+| €25–50 (occasion) | **Taberna dos Mercadores** (8 tables — phone 10:30–11:30), **Escama** (Cais da Ribeira 29, €30–50) |
 | €35+ (tourist-priced / chef rooms — optional) | MUU Steakhouse, Gruta, O Gaveto, Culto ao Bacalhau                  |
 
 | Day   | Breakfast             | Lunch                              | Dinner                 |
 | ----- | --------------------- | ---------------------------------- | ---------------------- |
-| Day 1 | Confeitaria do Bolhão | **O Buraco** (or Casa Guedes counter / Bolhão stalls) | **Adega São Nicolau** ⭐ or Taberna dos Mercadores (email) |
+| Day 1 | Confeitaria do Bolhão | **O Buraco** (or Casa Guedes counter / Bolhão stalls) | **Taberna dos Mercadores** ✅ 🔴 book — Adega São Nicolau ⭐ if they're full |
 | Day 2 | Época or Hakko        | Café Santiago francesinha (or **Cantarinha**, cheaper + local) | **Antunes** ⭐ or Tasquinha Zé Povinho / Solar Moinho de Vento |
-| Day 3 | SO Coffee Roasters    | **Salta o Muro / Tito** on R. Heróis de França, Matosinhos ⭐ | **Casa Expresso** ⭐ or O Rápido (Escama if you want one modern dinner) |
+| Day 3 | SO Coffee Roasters    | **Salta o Muro / Tito** on R. Heróis de França, Matosinhos ⭐ | **Escama** ✅ 🔴 book (Cais da Ribeira 29) — Casa Expresso ⭐ / O Rápido if they're full |
 | Day 4 | OPO airside — Aloma nata + Costa (Bolhão & the confeitaria closed Sun) | (in Lisbon) | — |
 
 > ⚠️ **Deleted as unverifiable (do not look for them):** *Eleit*, *Taberna de São Miguel*, *Tabuleta*, *Cobre*, *O Rafael* (Matosinhos). Every replacement above has a street address and a documented trading history.
@@ -579,14 +601,14 @@ TAP closes check-in 90 min before departure = **07:30**. Bolt backup: ~€18, 25
 | ~~Livraria Lello tickets~~                 | **CANCELLED**                 | —                           |
 | ~~Message hotel re: early bag drop~~       | ✅ **Answered — bags accepted from 12:00** | Booking.com chat            |
 | **Complete the Aposentus check-in link**   | 🔲 Link arrives **~Aug 18** (2 days pre-arrival) — do it same day | Host email / Booking.com chat |
-| Taberna dos Mercadores (Day 1 dinner)      | Email **today**               | tabernadosmercadores.com   |
+| **Taberna dos Mercadores (Day 1 dinner)** ✅ chosen | 🔴 **Phone tomorrow 10:30–11:30** | **+351 222 010 510** (1-hr daily window) · form on tabernadosmercadores.com · 8 tables only |
 | ~~7 Bridges Sunset Cruise (Day 2, 18:45)~~ ✅ Booked | — | ref **GYG7VKRQ9BVG** · Leçaodouro · meet 430 Rua da Praia, Gaia (door C) |
 | Cálem port lodge (optional Day 1 swap)     | By ~Fri Aug 14 — timed slots  | tour.calem.pt              |
 | ~~Palácio da Bolsa~~ — swapped for MMIPO   | —                              | Day-of if you reinstate it: palaciodabolsa.com |
 | MUU (Day 2 dinner, 21:00)                  | By Fri Aug 14                 | Restaurant website / phone |
 | Gruta (Day 3 dinner)                       | **Book TODAY** — small room, book early     | grutaporto.com / phone |
 | O Gaveto (Day 3 lunch)                     | By Fri Aug 14                 | ogaveto.com                |
-| Escama (Day 3 dinner alt)                  | By Fri Aug 14                 | escamaporto.com            |
+| **Escama (Day 3 farewell dinner)** ✅ chosen | 🔴 **Now** — Sat night, waterfront | TheFork via escamaporto.com · reservas@escamaporto.com · +351 913 595 551 · **Cais da Ribeira 29** |
 
 ### Porto Budget
 
@@ -690,7 +712,7 @@ Lisbon is bigger and hillier than Porto. No car. Metro + trains + Bolt do everyt
 
 **13:00 — [Mosteiro dos Jerónimos](https://maps.google.com/?q=Mosteiro+dos+Jer%C3%B3nimos+Lisbon+Portugal) [🌐](https://patrimoniocultural.gov.pt/en/museus-e-monumentos/mosteiro-dos-jeronimos/), the cloister** ⭐⭐ ✅ **Booked — order 38185413, paid.**
 
-> ⚠️ **Check the actual slot time on order 38185413 now, before Aug 23.** The 12:00 apartment handover pushes Belém back ~45 min versus the original plan, and this is the only fixed point in the morning. **If your slot is 12:30 or earlier, ask Isabelly for 11:30 instead** — she's already flexible, and the cloister slot is the thing that can't move. Pastéis de Belém has been shifted to the lunch block below to buy back the time either way.
+> ⚠️ **Check the actual slot time on order 38185413 now, before Aug 23** — the purchase email only lists the items and the €57.32 total, **no date or time**, so **download the ticket PDFs from the Blueticket client area** and read the slot off them. The 12:00 apartment handover pushes Belém back ~45 min versus the original plan, and this is the only fixed point in the morning. **If your slot is 12:30 or earlier, ask Isabelly for 11:30 instead** — she's already flexible, and the cloister slot is the thing that can't move. Pastéis de Belém has been shifted to the lunch block below to buy back the time either way.
 
 2 minutes across the gardens from the pastelaria (**closed Mondays** — the reason Belém is Day 1; open Tue–Sun 09:30–18:30 in summer). Portugal's greatest Manueline building, begun in 1501 on the wealth of the spice route and carved for a century in soft golden limestone. Inside are the tombs of Vasco da Gama and the poet Camões; the two-storey cloister is the thing people cross the country to see — stone carved into ropes, coral, armillary spheres, and sea monsters. Be at the door ~10 min before the slot time on the order confirmation.
 
@@ -698,7 +720,7 @@ Lisbon is bigger and hillier than Porto. No car. Metro + trains + Bolt do everyt
 
 |                                                  |                                                                                                                                                                                                             |
 | ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **The cloister** — €18 adult / ~€9 youth (13–24, **bring ID**) → **~€54 for four** | The masterpiece — two storeys of carved stone lace. Mandatory pre-booked timed slot — ✅ done (order 38185413) |
+| **The cloister** — €18 adult / **€9** youth (13–24, **bring ID**) → **€54 for four, €57.32 with the 5% fee** | The masterpiece — two storeys of carved stone lace. Mandatory pre-booked timed slot — ✅ done (order 38185413) |
 | **14:00 — The free church** (Santa Maria)        | No ticket, always free — enter from the west door once it opens. Soaring palm-like columns, Vasco da Gama's tomb just inside the entrance. ~15–20 min                                                                  |
 
 **14:20 — Lunch in Belém + [Pastéis de Belém](https://maps.google.com/?q=Past%C3%A9is+de+Bel%C3%A9m+Lisbon+Portugal) [🌐](https://pasteisdebelem.pt)** ⭐ [📍](https://maps.google.com/?q=Pasteis+de+Belem+Lisbon+Portugal) — the yellow-fronted pastelaria on Rua de Belém is 3 minutes from Jerónimos and is where the pastel de nata was invented (1837), still made to the monastery recipe only three people know.
@@ -761,29 +783,30 @@ Then walk up to **[Miradouro de São Pedro de Alcântara](https://maps.google.co
 
 ### Day 2 — Monday Aug 24 · Sintra ⭐⭐
 
-> ✅ **Locked: Sintra only.** A fairy-tale palace, Moorish battlements, and a mystic garden — then back to Lisbon at a civilised hour. **Monday is deliberately Sintra day:** most Lisbon museums and monuments (Jerónimos, Belém Tower, Panteão, São Roque, MNAA…) close on Mondays, while everything in Sintra runs daily — this is the closure-proof day. **Pena is ✅ booked (09:00); Regaleira is NOT — book it.** Start early to beat the August crush.
+> ✅ **Locked: Sintra only.** A fairy-tale palace, Moorish battlements, and a mystic garden — then back to Lisbon at a civilised hour. **Monday is deliberately Sintra day:** most Lisbon museums and monuments (Jerónimos, Belém Tower, Panteão, São Roque, MNAA…) close on Mondays, while everything in Sintra runs daily — this is the closure-proof day. **Both timed tickets are ✅ booked and paid: Pena 10:00, Regaleira 14:30.** Start early to beat the August crush.
 >
 > The Cabo da Roca + Cascais coastal extension was considered and dropped — it turned this into a 13-hour transit day on no car, and Sintra alone already fills it. Nothing to book for the cut, and it frees a real evening back in Lisbon.
 
 | Time            | Where                             | What                                                                                                                                                                           |
 | --------------- | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **07:00**       | Apartment → **[Rossio Station](https://maps.google.com/?q=Rossio+Station+Lisbon+Portugal)**    | Bolt (~€5) or Metro to Rossio; grab takeaway coffee + pastry in the station                                                                                                     |
-| **07:21**       | **Train Rossio → Sintra**         | **€2.30/person** (Viva Viagem zapping), ~40 min, every ~20 min. Target the ~07:21, treat the **07:41 as the hard latest** — confirm exact minutes in the CP app the night before. Sit left for the aqueduct |
-| 08:05           | Arrive Sintra → **taxi/Bolt up** ⭐ | **Skip Bus 434 for this leg** — its first run (~08:50) is too late for a 09:00 palace slot, and at €13.50/day-pass per person it costs a family of four €54. A **taxi/Bolt straight up to the Pena gate is ~€10–15 total** for all four, 15 min. Tuk-tuks quote €30+ — skip |
-| 08:30           | **Pena Park gate**                | ⚠️ The 09:00 time is the **Palace door, not the Park gate** — from the gate it's a steep 15–25 min uphill walk (or the paid park shuttle, ~€4.50/pp round trip). Walk up now, be at the palace door for opening |
-| **09:00–11:00** | **[Palácio da Pena](https://maps.google.com/?q=Pal%C3%A1cio+da+Pena+Lisbon+Portugal) [🌐](https://www.parquesdesintra.pt)** ⭐⭐          | ✅ **Booked & paid — Essential Visit, €20 adult, 09:00 slot.** Entry window is strict (get in within ~30 min of slot time or forfeit, no refund). The candy-coloured Romantic palace on its peak — first crowd of the day is magical. Do the staterooms first, then the walls and Queen's Terrace; leave time for the gardens |
-| 11:15–12:15     | **[Castelo dos Mouros](https://maps.google.com/?q=Castelo+dos+Mouros+Lisbon+Portugal)**            | 10 min walk from Pena's gate. 8th-c Moorish walls along the ridge — walk the battlements, huge Atlantic views. **€12 adult** (reduced youth band — check at purchase). ⚠️ **The on-site booth is closed** — buy this ticket at the **Pena ticket office** while you're up there |
-| 12:45           | **Sintra village lunch**          | Walk down the shaded forest path from the castle (~25 min, lovely) or grab a passing 434/tuk-tuk. **Eat at [Apeadeiro](https://maps.google.com/?q=Restaurante+Apeadeiro+Sintra+Portugal)** ⭐⭐ (Av. Miguel Bombarda, by the town hall) — 46 years feeding *sintrenses*, cavernous azulejo room, long tables, grilled fish and stews at fair prices, away from the palace circuit. Cheaper still: **[A Tasca do Manel](https://maps.google.com/?q=Tasca+do+Manel+Sintra+Portugal)** — soup + steak + drink + coffee for ~€8. **[Casa Piriquita](https://maps.google.com/?q=Casa+Piriquita+Lisbon+Portugal) [🌐](https://piriquita.pt)** is then the *pastry* stop, not lunch: _travesseiros_ + _queijadas_, since 1862. ⚠️ Sintra kitchens close ~16:00. **Optional a/c add-on nearby:** [Sintra Mitos e Lendas](https://maps.google.com/?q=Sintra+Mitos+e+Lendas) (~€12, 17 multimedia rooms of local legends, daily 10:00–18:30) if anyone needs a cool-down |
-| **14:00–16:00** | **[Quinta da Regaleira](https://maps.google.com/?q=Quinta+da+Regaleira+Lisbon+Portugal)** ⭐⭐      | ✅ **Booked & paid — MEO Blueticket purchase 38339594, 12-08-2026 22:42:14, Visa/Mastercard.** Ticket type **VISITAS LIVRES** (self-guided): 3 × ADULTO €20 + 1 × JOVEM 6–17 €15 = €75, plus 6% Blueticket service fee €5.54 → **€80.54 total**. Timed 30-min entry slot. ⚠️ **The confirmation email is NOT a ticket** — Blueticket states it outright. Download the ticket PDFs from the email link or the client area and save them offline / in the MEO Blueticket app before you leave. The **[Initiation Well](https://maps.google.com/?q=Initiation+Well+Quinta+da+Regaleira+Sintra+Portugal)** — a 27 m inverted spiral tower you descend into tunnels — is the kids' favourite of the whole trip. Bring a phone torch |
+| **07:50**       | Apartment → **[Rossio Station](https://maps.google.com/?q=Rossio+Station+Lisbon+Portugal)**    | Bolt (~€5) or Metro to Rossio; grab takeaway coffee + pastry in the station                                                                                                     |
+| **08:11**       | **Train Rossio → Sintra**         | **€2.30/person** (Viva Viagem zapping), ~40 min, every ~20 min. Target the ~08:11, treat the **08:31 as the hard latest** — confirm exact minutes in the CP app the night before. Sit left for the aqueduct |
+| 08:55           | Arrive Sintra → **taxi/Bolt up** ⭐ | **Skip Bus 434 for this leg** — at €13.50/day-pass per person it costs a family of four €54. A **taxi/Bolt straight up to the Pena gate is ~€10–15 total** for all four, 15 min. Tuk-tuks quote €30+ — skip |
+| 09:15           | **Pena Park gate**                | ⚠️ The 10:00 time is the **Palace door, not the Park gate** — the ticket says to allow **~30 min** from gate to palace either way. ✅ **The park shuttle is already bought — 4 × €4.50, undated, valid 365 days.** Ride up, or take the steep 15–25 min walk. Either way you land at the door with slack, not sprinting |
+| **10:00–11:45** | **[Palácio da Pena](https://maps.google.com/?q=Pal%C3%A1cio+da+Pena+Lisbon+Portugal) [🌐](https://www.parquesdesintra.pt)** ⭐⭐          | ✅ **Booked & paid — Essential Visit, €20 adult / €18 youth, 10:00 slot.** Entry window is strict — **early is refused too**, and after the slot the ticket is dead, no refund. The candy-coloured Romantic palace on its peak. Do the staterooms first, then the walls and Queen's Terrace; if you're at the gate early, the park itself (largest arboretum in Portugal, Chalet da Condessa d'Edla) is the place to burn the wait |
+| 12:00–13:00     | **[Castelo dos Mouros](https://maps.google.com/?q=Castelo+dos+Mouros+Lisbon+Portugal)**            | Shuttle or walk back down to Pena's gate, then 10 min across. 8th-c Moorish walls along the ridge — walk the battlements, huge Atlantic views. **€12 adult** (reduced youth band — check at purchase). ⚠️ **The on-site booth is closed** — buy this ticket at the **Pena ticket office** while you're up there |
+| **13:25**       | **Lunch: [Tascantiga](https://maps.google.com/?q=Tascantiga+Escadinhas+da+Fonte+da+Pipa+2+Sintra+Portugal)** ⭐ ✅ **Chosen** | Walk down the shaded forest path from the castle (~25 min, lovely) or grab a passing 434/tuk-tuk. **Escadinhas da Fonte da Pipa 2–4**, 2710-557 — a *petiscos* terrace on a stepped lane just off the village centre: shareable small plates, shaded tables, vegetarian and gluten-free options, €15–25/person. 4.4★ over ~1,380 reviews. ⏰ **Monday hours are 12:15–16:15, lunch service only** — which fits this slot exactly, but means **you must eat now, not later** (see the dinner note below). **Phone +351 21 924 3242** to hold a terrace table — it's small and August is peak. Be done by **14:15** for the Regaleira gate. **[Casa Piriquita](https://maps.google.com/?q=Casa+Piriquita+Lisbon+Portugal) [🌐](https://piriquita.pt)** is then the *pastry* stop, not lunch: _travesseiros_ + _queijadas_, since 1862. **Backups if the terrace is full:** [Apeadeiro](https://maps.google.com/?q=Restaurante+Apeadeiro+Sintra+Portugal) ⭐⭐ (Av. Miguel Bombarda — 46 years feeding *sintrenses*, cavernous azulejo room) or [A Tasca do Manel](https://maps.google.com/?q=Tasca+do+Manel+Sintra+Portugal) (soup + steak + drink + coffee ~€8). ⚠️ Sintra kitchens close ~16:00 across the board. **Optional a/c add-on nearby:** [Sintra Mitos e Lendas](https://maps.google.com/?q=Sintra+Mitos+e+Lendas) (~€12, 17 multimedia rooms of local legends, daily 10:00–18:30) if anyone needs a cool-down |
+| **14:30–16:00** | **[Quinta da Regaleira](https://maps.google.com/?q=Quinta+da+Regaleira+Lisbon+Portugal)** ⭐⭐      | ✅ **Booked & paid — MEO Blueticket purchase 38339594, 12-08-2026 22:42:14, Visa/Mastercard.** Ticket type **VISITAS LIVRES** (self-guided): 3 × ADULTO €20 + 1 × JOVEM 6–17 €15 = €75, plus 6% Blueticket service fee €5.54 → **€80.54 total**. ⏱️ **Entry window 14:30–15:00 as printed on the ticket** — be at the gate at 14:30; after 15:00 the slot is gone. ⚠️ **The confirmation email is NOT a ticket** — Blueticket states it outright. Download the ticket PDFs from the email link or the client area and save them offline / in the MEO Blueticket app before you leave. The **[Initiation Well](https://maps.google.com/?q=Initiation+Well+Quinta+da+Regaleira+Sintra+Portugal)** — a 27 m inverted spiral tower you descend into tunnels — is the kids' favourite of the whole trip. Bring a phone torch |
 | **16:15**       | **Wander Sintra town**            | The old-town lanes, **[Palácio Nacional de Sintra](https://maps.google.com/?q=Pal%C3%A1cio+Nacional+de+Sintra+Portugal)** exterior (the twin conical chimneys), shops. As much or as little as energy allows. If anyone still has legs, **[Casa Piriquita](https://maps.google.com/?q=Casa+Piriquita+Lisbon+Portugal) [🌐](https://piriquita.pt)** for a second round of _travesseiros_ |
 | **17:00**       | **Train Sintra → Rossio**         | ~40 min, **€2.30/person** (Viva Viagem) — leaving now beats the evening crowds home |
 | **19:30**       | **Easy Lisbon evening**           | Dinner near home. **[Cervejaria Ramiro](https://maps.google.com/?q=Cervejaria+Ramiro+Lisbon+Portugal) [🌐](https://cervejariaramiro.pt/)** (10 min from the apartment, arrive 19:00 sharp for the queue — garlic prawns, then the prego) is the famous option at **€30–50/pp**. **The neighbourhood alternative at a third of that:** **[O Cartaxinho](https://maps.google.com/?q=O+Cartaxinho+Rua+de+Santa+Marta+20+Lisboa+Portugal)** (R. de Santa Marta 20B — *cozido*, *cabidela*, *bacalhau à Brás*), **[Esquina da Fé](https://maps.google.com/?q=Esquina+da+F%C3%A9+Rua+da+F%C3%A9+60+Lisboa+Portugal)** (R. da Fé 60 — Minho cooking, everything house-made) or **[Forninho Saloio](https://maps.google.com/?q=Forninho+Saloio+Travessa+das+Parreiras+39+Lisboa+Portugal)** (Tv. das Parreiras 39 — *pernil*, daily specials), all €10–15/pp and 10–14 min on foot |
 
 > ⚠️ **What to look out for:**
 >
-> - ✅ **Regaleira is booked** (purchase 38339594). ⚠️ **Check the slot date/time printed on the downloaded PDF reads Mon Aug 24** — the email receipt doesn’t show it. Pena is ✅ booked and paid; respect its 09:00 window or forfeit.
-> - **The 434 math changed for a family of four:** the hop-on-hop-off day pass is €13.50 *per person* (€54 for four) and its first bus is too late for the 09:00 slot anyway. Two Bolt/taxi hops (station→Pena ~€12, castle→village is walkable) cost ~€15 total. Taxis and TVDEs are allowed up the hill road; private/rental cars are not.
-> - **Prefer to eat in Sintra and ride home later?** **[Tascantiga](https://maps.google.com/?q=Tascantiga+Lisbon+Portugal)** (petiscos terrace) or **[Incomum](https://maps.google.com/?q=Incomum+Sintra+Portugal)** (modern, book ahead), then the ~20:00 train — the day has the slack for it now.
+> - ✅ **Regaleira is booked** (purchase 38339594) — the ticket reads **Mon Aug 24, entry 14:30–15:00**. Lunch has to be done by 14:15. Pena is ✅ booked and paid; respect its 10:00 window or forfeit. Both windows are hard: miss them and the money is gone.
+> - ⚠️ **Pena is 10:00, not 09:00** — the e-ticket PDF reads **24-08-2026 10h00** for all four. The whole morning is built backwards from that, and the palace refuses **early** arrivals as well as late ones, so there's no gain in racing the first train up.
+> - **The 434 math for a family of four:** the hop-on-hop-off day pass is €13.50 *per person* (€54 for four). Two Bolt/taxi hops (station→Pena ~€12, castle→village is walkable) cost ~€15 total. Taxis and TVDEs are allowed up the hill road; private/rental cars are not.
+> - ⚠️ **Tascantiga is lunch, not dinner — don't reverse it.** It runs **midday service only Monday through Thursday** (12:15–16:15) and adds evening seatings **on Friday and Saturday only**; it's **closed Sundays** entirely. Aug 24 is a Monday, so the terrace is shut by the time you'd want dinner. **If you'd still rather eat in Sintra and ride home later**, the option that actually opens at night is **[Incomum](https://maps.google.com/?q=Incomum+Sintra+Portugal)** (modern, near the station, book ahead), then the ~20:00 train.
 > - 🐉 Pena was built around a **Hieronymite monastery** — the Manueline chapel and tiny cloister survive inside the palace circuit, for the church-lovers.
 > - 💧 Carry water up the hill — 28–32 °C is normal, and the queues are shadeless.
 
@@ -817,14 +840,19 @@ Then walk up to **[Miradouro de São Pedro de Alcântara](https://maps.google.co
 
 **13:20 — [Sé de Lisboa](https://maps.google.com/?q=S%C3%A9+de+Lisboa+Lisbon+Portugal) (Cathedral)** — the fortress-like 1147 cathedral, Lisbon's oldest, raised the year after the city was retaken, on the site of the old mosque (Mon–Sat ~09:30–18:30, **closed Sundays** to tourists). ⚠️ **Changed since the last research pass:** tourist entry is now **€5** (ticket includes the treasury and upper choir) and the **Gothic cloister with the Roman/Moorish excavation is still closed for long-term works** — the best €2.50 in Lisbon is off the menu. Verdict: step in briefly if the €20-for-four feels right, otherwise admire the rose window from outside — entry is free if you're attending Mass. Next door, the tiny **[Igreja de Santo António](https://maps.google.com/?q=Igreja+de+Santo+Antonio+Lisbon+Portugal)** (free) marks St Anthony's birthplace.
 
-**13:50 — Lunch in Alfama / [Mouraria](https://maps.google.com/?q=Mouraria+Lisbon+Portugal):**
+**13:50 — Lunch: [Zé dos Cornos](https://maps.google.com/?q=Z%C3%A9+dos+Cornos+Beco+dos+Surradores+5+Lisboa+Portugal)** ⭐⭐ ✅ **Chosen** — in [Mouraria](https://maps.google.com/?q=Mouraria+Lisbon+Portugal), 3 min from Martim Moniz
+
+**Beco dos Surradores 5**, 1100-591 — a genuine Mouraria tasca packed with regulars. The rack of oven ribs (*entrecosto*) is ~€13 and **feeds two**, so three racks cover the four of you for around €40. They hand beers out to people waiting.
+
+> ⚠️ **Three things that will bite you here:** it's **cash only** — no cards, foreign or otherwise; it takes **no reservations**, so the 13:50 arrival is deliberate (the noon queue is the worst of it); and **Tuesday is lunch service only, roughly 12:00–16:30** — there's no coming back in the evening. Phone **+351 218 869 641** the morning of to confirm they're open, since small family tascas do take unannounced August holidays.
+
+**The rest of the shortlist, all within a few minutes:**
 
 | Option | Why | Price |
 | --- | --- | --- |
-| **[Zé da Mouraria](https://maps.google.com/?q=Z%C3%A9+da+Mouraria+Lisbon+Portugal)** ⭐ | Iconic — bacalhau à minhota, portions that serve 2–4, line out the door at noon (which is why you're arriving at 13:50) | €10–15/person |
+| **[Zé da Mouraria](https://maps.google.com/?q=Z%C3%A9+da+Mouraria+Lisbon+Portugal)** ⭐ | The more famous one, same street pocket — bacalhau à minhota, portions that serve 2–4. Skipped as the pick purely because the queue is worse; if Cornos is shut, walk here | €10–15/person |
 | **[Páteo 13](https://maps.google.com/?q=P%C3%A1teo+13+Lisbon+Portugal)** | Outdoor Alfama square, charcoal-grilled **sardines** — late August is the tail of peak season | €10–20/person |
 | **[O Velho Eurico](https://maps.google.com/?q=O+Velho+Eurico+Lisbon+Portugal)** | Cult Castelo-side tasca — bacalhau à Brás, pork-belly petiscos (book ahead or arrive at opening) | €15–25/person |
-| **[Zé dos Cornos](https://maps.google.com/?q=Z%C3%A9+dos+Cornos+Beco+dos+Surradores+5+Lisboa+Portugal)** ⭐⭐ (Beco dos Surradores 5, Mouraria) | **The one to try first if Zé da Mouraria's queue is out the door.** Same street pocket, same crowd of regulars; the rack of oven ribs (*entrecosto*) is ~€13 and feeds two. They hand beers out to the queue. Cash | €10–15/person |
 | **[Sardinha](https://maps.google.com/?q=Sardinha+Rua+Jardim+do+Tabaco+18+Lisboa+Portugal)** (R. Jardim do Tabaco 18–20, Alfama) | Husband-and-wife room, no concept, no English. *Bitoque*, or two grilled quails with chips — change from €10 | €8–12/person |
 
 > 💡 **Tasca rules that save you money here:** the bread/olives/paté put on the table (*couvert*) is charged per item — wave it off if you don't want it; a *dose* feeds two, so order *meia dose* each; carry cash, most of these don't take foreign cards; and the *prato do dia* is both the cheapest and the freshest thing in the kitchen.
@@ -927,7 +955,7 @@ As everywhere on this trip, tourist access to a church closes while the liturgy 
 | Day            | Breakfast       | Lunch                    | Dinner                       |
 | -------------- | --------------- | ------------------------ | ---------------------------- |
 | Day 1 (Sun)    | (travel)        | **O Prado** (R. da Junqueira 472) ⭐ or Belém kiosks + pastéis | **Príncipe do Calhariz** ⭐ (Sunday-open Chiado room) — Time Out Market as fallback |
-| Day 2 (Sintra) | Rossio takeaway | **Apeadeiro** ⭐ / Tasca do Manel — **[Piriquita](https://maps.google.com/?q=Casa+Piriquita+Sintra+Portugal)** for pastry only | **[Cervejaria Ramiro](https://maps.google.com/?q=Cervejaria+Ramiro+Lisbon+Portugal)** (€30–50, queue at 19:00) — or the neighbourhood version at a third of the price: **O Cartaxinho / Esquina da Fé / Forninho Saloio** ⭐ |
+| Day 2 (Sintra) | Rossio takeaway | **[Tascantiga](https://maps.google.com/?q=Tascantiga+Escadinhas+da+Fonte+da+Pipa+2+Sintra+Portugal)** ✅ (petiscos terrace, 12:15–16:15 Mon) — Apeadeiro ⭐ / Tasca do Manel as backups; **[Piriquita](https://maps.google.com/?q=Casa+Piriquita+Sintra+Portugal)** for pastry only | **[Cervejaria Ramiro](https://maps.google.com/?q=Cervejaria+Ramiro+Lisbon+Portugal)** (€30–50, queue at 19:00) — or the neighbourhood version at a third of the price: **O Cartaxinho / Esquina da Fé / Forninho Saloio** ⭐ |
 | Day 3 (Alfama) | Copenhagen Coffee Lab / Baixa pastéis | Zé da Mouraria / **Zé dos Cornos** / Páteo 13 sardines | Fado: **A Baiuca ~€25** (call — Thu–Sat) → else **[Parreirinha](https://maps.google.com/?q=Parreirinha+de+Alfama+Lisbon+Portugal) [🌐](https://parreirinhadealfama.com)** €45–65 🔴 book |
 | Day 4 (depart) | Manteigaria + Fabrica | Vasco da Gama food court (post-Oceanário) | (on the plane / BCN)  |
 
@@ -942,9 +970,9 @@ As everywhere on this trip, tourist access to a church closes while the liturgy 
 | Mosteiro dos Jerónimos (cloister)              | €18 (church free)   | ~€9 (13–24, ID)                             | ✅ **Booked — order 38185413** | Day 1 — **closed Mon**; Sun church opens 14:00 |
 | Padrão dos Descobrimentos                      | €10                 | ~€5 _(unverified — ask)_                    | ❌ walk-up            | Day 1 — daily          |
 | Torre de Belém (reopened 26 May 2026)          | €15                 | **€7.50** (13–24, ID)                       | ✅ **Booked — order 38185394, 16:00** | Day 1 — closed Mon |
-| **[Palácio da Pena](https://maps.google.com/?q=Pal%C3%A1cio+da+Pena+Lisbon+Portugal) [🌐](https://www.parquesdesintra.pt) (Sintra)**                   | €20                 | reduced band — check at purchase            | ✅ **Booked & paid — 09:00**  | Day 2                  |
+| **[Palácio da Pena](https://maps.google.com/?q=Pal%C3%A1cio+da+Pena+Lisbon+Portugal) [🌐](https://www.parquesdesintra.pt) (Sintra)**                   | €20                 | reduced band — check at purchase            | ✅ **Booked & paid — 10:00**  | Day 2                  |
 | **[Castelo dos Mouros](https://maps.google.com/?q=Castelo+dos+Mouros+Lisbon+Portugal) (Sintra)**                | €12                 | reduced band — check at purchase            | ❌ buy at Pena office | Day 2                  |
-| **[Quinta da Regaleira](https://maps.google.com/?q=Quinta+da+Regaleira+Lisbon+Portugal) (Sintra)**               | **€20** (2026 price) | €15 (6–17 only; the 19-y-o pays adult)     | ✅ **Booked — 38339594**  | Day 2, 14:00           |
+| **[Quinta da Regaleira](https://maps.google.com/?q=Quinta+da+Regaleira+Lisbon+Portugal) (Sintra)**               | **€20** (2026 price) | €15 (6–17 only; the 19-y-o pays adult)     | ✅ **Booked — 38339594**  | Day 2, 14:30           |
 | Sintra Mitos e Lendas (optional)               | ~€12                | —                                           | ❌                    | Day 2 — daily 10:00–18:30 |
 | Cabo da Roca                                   | Free (cert €11)     | —                                           | ❌                    | ❌ Not on the plan — the coastal leg was cut |
 | Castelo de São Jorge                           | €17 (under 12 free) | **€8.50** (13–25, ID)                       | ✅ **Booked & paid** — open ticket, valid until 1 Nov 2026, entry from 09:00 | Day 3 — daily 09:00–21:00 |
@@ -967,14 +995,14 @@ As everywhere on this trip, tourist access to a church closes while the liturgy 
 
 | Item                                        | Status / deadline (as of Aug 5)   | Where                                                |
 | ------------------------------------------- | --------------------------------- | ---------------------------------------------------- |
-| **[Quinta da Regaleira](https://maps.google.com/?q=Quinta+da+Regaleira+Lisbon+Portugal) — 14:00, Aug 24**     | ✅ **Booked & paid** — purchase **38339594**, €80.54 incl. fee | MEO Blueticket — download the ticket PDFs |
 | **Fado dinner — [Parreirinha de Alfama](https://maps.google.com/?q=Parreirinha+de+Alfama+Lisbon+Portugal) [🌐](https://parreirinhadealfama.com), ~20:00 Tue Aug 25** | 🔴 **book THIS WEEK** — houses fill 1–2 weeks out | parreirinhadealfama.com / +351 218 868 209 (Clube de Fado as backup) |
 | **Oceanário — 12:00 band, Aug 26**          | 🔴 **decide & book by ~Aug 10** — €27 × 4 = €108, or consciously drop it | oceanario.pt |
 | ~~**Message apartment host re: early bag drop**~~ | ✅ **Done — Isabelly receives at 12:00** (online check-in + guest registration form both submitted Aug 12) | Booking.com chat |
-| ⚠️ **Verify the Jerónimos slot time on order 38185413** | 🔲 Before Aug 23 — if it's ≤12:30, ask Isabelly for 11:30 instead | Order confirmation email |
+| ⚠️ **Verify the Jerónimos slot time on order 38185413** | 🔲 Before Aug 23 — if it's ≤12:30, ask Isabelly for 11:30 instead | **Ticket PDFs in the client area** — the purchase email shows no date/time |
 | ~~**[Torre de Belém](https://maps.google.com/?q=Torre+de+Bel%C3%A9m+Lisbon+Portugal) (Day 1, 16:00)**~~       | ✅ Booked — order **38185394**, paid | — |
 | ~~**Jerónimos cloister (Day 1)**~~          | ✅ Booked — order **38185413**, paid | — |
-| ~~**[Palácio da Pena](https://maps.google.com/?q=Pal%C3%A1cio+da+Pena+Lisbon+Portugal) [🌐](https://www.parquesdesintra.pt) (Day 2, 09:00)**~~      | ✅ Booked & paid — Essential Visit, €20 adult | — |
+| ~~**[Palácio da Pena](https://maps.google.com/?q=Pal%C3%A1cio+da+Pena+Lisbon+Portugal) [🌐](https://www.parquesdesintra.pt) (Day 2, 10:00)**~~      | ✅ Booked & paid — Essential Visit, €20 adult | — |
+| ~~**[Quinta da Regaleira](https://maps.google.com/?q=Quinta+da+Regaleira+Lisbon+Portugal) (Day 2, 14:30)**~~ | ✅ Booked & paid — purchase **38339594**, €80.54 incl. fee · entry window **14:30–15:00** | MEO Blueticket — download the ticket PDFs |
 | ~~**[Castelo de São Jorge](https://maps.google.com/?q=Castelo+de+S%C3%A3o+Jorge+Lisbon+Portugal) [🌐](https://castelodesaojorge.pt/en/) (Day 3)**~~        | ✅ Booked & paid — open ticket, valid until 1 Nov 2026, entry from 09:00 | — |
 | ~~**[São Vicente de Fora](https://maps.google.com/?q=Sao+Vicente+de+Fora+Lisbon+Portugal) [🌐](https://mosteirodesaovicentedefora.com/en/) (Day 3)**~~         | ✅ Booked — ref **980497008** (2 adult, 2 youth) | — |
 | ~~Lisbon apartment~~                        | ✅ Booked — 64 Rua da Bempostinha, €579.50 paid | — |
@@ -988,7 +1016,7 @@ As everywhere on this trip, tourist access to a church closes while the liturgy 
 - ⚠️ **Tram 28** is the city's #1 **pickpocket** spot and is packed in August — ride before 09:30, bags zipped in front, or just walk the route. Same vigilance at Rossio, the Santa Justa arch, Time Out Market and Feira da Ladra.
 - ⚠️ **Day-of-week closures (the itinerary is already sequenced around these):** Jerónimos, Belém Tower, Panteão, São Roque & most museums **closed Mon** (hence Sintra on Monday); Sé & Carmo **closed Sun**; Feira da Ladra **Tue & Sat only**. Jerónimos's free church keeps **Sunday hours 14:00–17:00** — see Day 1.
 - ⚠️ **2026 price/works surprises, verified:** Regaleira now **€20 adult**; Panteão now **€10 adult**; Sé now charges **€5** and its famous excavated cloister is **shut for works**; Belém Tower **reopened 26 May 2026** with a strict 60-per-half-hour cap — the 16:00 slot is booked, don't be late.
-- ⚠️ **Sintra timing is strict:** the 09:00 Pena slot is the *palace door*, a steep 15–25 min above the gate where all wheels stop. Taxi up, first thing — the first 434 bus of the day is too late.
+- ⚠️ **Sintra timing is strict:** the 10:00 Pena slot is the *palace door*, a steep 15–25 min above the gate where all wheels stop (park shuttle already paid). Early entry is refused as firmly as late — aim to be at the gate ~09:15, not at dawn. Castelo dos Mouros is untimed, so it absorbs any slip.
 - ⚠️ **Heat:** late August is 28–32 °C and sunny. Hats, water bottles, and the a/c lanes built into Days 3–4 (Museu do Fado, Oceanário) are there for a reason.
 - ⚠️ **TAP carry-on discipline:** 0 checked bags on both Lisbon flights — repack properly on Day 4 before the airport, not at it.
 
@@ -1002,7 +1030,7 @@ As everywhere on this trip, tourist access to a church closes while the liturgy 
 
 | Sight | Adult | Youth (17 & 19) | Family of 4 |
 | ----- | ----- | --------------- | ----------- |
-| Mosteiro dos Jerónimos (cloister) | €18 | ~€9 both | **~€54** ✅ paid |
+| Mosteiro dos Jerónimos (cloister) | €18 | **€9** both | **€54** + €3.32 fee ✅ paid (€57.32) |
 | Torre de Belém | €15 | €7.50 both | **€45** ✅ paid |
 | Padrão dos Descobrimentos | €10 | ~€5 _(unverified)_ | ~€30 |
 | Palácio da Pena | €20 | reduced band — check | ✅ paid (Essential Visit) |
@@ -1318,7 +1346,9 @@ Then drop bags, passports back in the safe **except set an alarm-note: they come
 
 ### Day 5 — Sunday Aug 30 · Girona Day Trip _or_ Barcelona in Depth
 
-> Your second day-trip slot. **Option A — [Girona](https://maps.google.com/?q=Girona+Barcelona+Spain)** (a cathedral with the world's widest Gothic nave, the best-preserved Jewish quarter in Europe, a Romanesque monastery, _Game of Thrones_ stairs) is the church/history pick. **Option B** stays in town and rides the free-Sunday wave. **Decide Mass first** — the best liturgy in Barcelona starts at 09:00, exactly when the Girona train would be pulling out (full options under _⛪ Mass in Barcelona_ below; the clean solve is the **Saturday 20:00 vigil**, which frees all of Sunday).
+> ✅ **Going with Option A — Girona.** Lunch is booked there (**Bartali Pizza Co., 14:00**), which commits the day: you're on the ~08:20 train. Option B is kept below as the wet-weather / everyone-is-exhausted escape hatch, not as an open question.
+>
+> Your second day-trip slot. **Option A — [Girona](https://maps.google.com/?q=Girona+Barcelona+Spain)** (a cathedral with the world's widest Gothic nave, the best-preserved Jewish quarter in Europe, a Romanesque monastery, _Game of Thrones_ stairs) is the church/history pick. **Option B** stays in town and rides the free-Sunday wave. **Decide Mass first** — the best liturgy in Barcelona starts at 09:00, exactly when the Girona train would be pulling out (full options under _⛪ Mass in Barcelona_ below; the clean solve is the **Saturday 20:00 vigil**, which frees all of Sunday). ⚠️ With Girona now locked, **take the Saturday vigil** — the Sunday 09:00 Mass and the 08:20 train cannot both happen.
 
 **Option A — Girona day trip ⭐ (recommended 2nd trip)**
 
@@ -1348,16 +1378,24 @@ Then drop bags, passports back in the safe **except set an alarm-note: they come
 
 **13:40 — [Escales de Sant Martí](https://maps.google.com/?q=Escales+de+Sant+Mart%C3%AD+Girona+Spain)** ⭐ (Pujada de Sant Domènec, 2 min away) — the baroque staircase sweeping up to Sant Martí Sacosta: **Arya's Braavos chase** ran down these steps. Shoot from the bottom looking up. Free.
 
-**14:00 — Lunch in Girona** — the arcaded **[Plaça de la Independència](https://maps.google.com/?q=Pla%C3%A7a+de+la+Independ%C3%A8ncia+Girona+Spain)** is the easy shaded option with four, but it's also the square that prices for visitors. Two streets up into the Barri Vell is where the town eats:
+**14:00 — Lunch: [Bartali Pizza Co.](https://maps.google.com/?q=Bartali+Pizza+Co+Carrer+Nou+del+Teatre+3+Girona+Spain) [🌐](https://bartalipizza.com/)** ⭐ ✅ **Chosen**
+
+**Carrer Nou del Teatre 3**, 17004 Girona — a couple of minutes downhill from the Sant Martí steps, at the south end of the Barri Vell. Neapolitan-style pizza, **4.8★ over ~725 reviews**, terrace seating, and **gluten-free bases** if anyone needs them. About **€15/person** for a pizza and a drink — the cheapest sit-down meal of the whole Barcelona block, on the day you're already paying for train tickets.
+
+> 🔴 **Book it — Sunday is their short day.** **Sunday hours are 13:00–15:30, lunch only**, so a 14:00 table is comfortable but a 15:00 walk-in is not. Reserve through **bartalipizza.com** (or OpenTable / Resy), or **phone +34 972 21 09 91**. Note it in the calendar for the morning of Aug 26 when you book the trains.
+>
+> ⏰ **This is the day's real deadline.** Sant Feliu at 13:10 and the Sant Martí steps at 13:40 have to stay brisk — the kitchen stops at 15:30 and there is no second lunch service.
+
+**If Bartali is full or the day slips:**
 
 | Option | What | Price |
 | ------ | ---- | ----- |
 | **[Draps](https://maps.google.com/?q=Draps+Carrer+de+la+Cort+Reial+2+Girona+Spain)** ⭐ (C/ de la Cort Reial 2) | Well-loved local room in the old town; generous *menú del dia* with the wine included | €13–18/pp |
 | **[El Carrito Barri Vell](https://maps.google.com/?q=El+Carrito+Barri+Vell+Carrer+La+Barca+10+Girona+Spain)** ⭐ (C/ La Barca 10) | Argentine grill on a medieval lane — big plates of meat and chips, very cheap, buzzy and completely local. Easy to walk past | €12–18/pp |
 | **[La Fonda d'El Foment](https://maps.google.com/?q=La+Fonda+d%27El+Foment+Carrer+dels+Mercaders+6+Girona+Spain)** (C/ dels Mercaders 6) | Catalan, local produce, terrace — €30–40 à la carte, so **go at lunch for the set menu** | €15–20/pp at lunch |
-| **Mercadal / Mercat del Lleó** side | Cross the river away from the postcard blocks: this is where Girona's office workers eat | €12–16/pp |
+| **[Plaça de la Independència](https://maps.google.com/?q=Pla%C3%A7a+de+la+Independ%C3%A8ncia+Girona+Spain)** arcades | The easy shaded square that seats four without a booking — but it's also the square that prices for visitors | €18–25/pp |
 
-> ⚠️ **It's a Sunday** — several Barri Vell kitchens close Sun/Mon, and the *menú del dia* is usually a weekday-only thing. Check a board before you sit; if the set menus are off, Pl. de la Independència's terraces are the honest fallback. Girona is Celler de Can Roca's home town, so even ordinary kitchens punch above their weight.
+> ⚠️ **It's a Sunday** — several Barri Vell kitchens close Sun/Mon, and the *menú del dia* is usually a weekday-only thing. That's precisely why Bartali is booked rather than left to chance. Girona is Celler de Can Roca's home town, so even ordinary kitchens punch above their weight.
 
 **15:30 — Rocambolesc** 🍦 [📍](https://maps.google.com/?q=Rocambolesc+Girona+Spain) (C/ de Santa Clara 50) — Jordi Roca's ice-cream shop: the **€5 way to eat three-Michelin-star cooking**. Ridiculous toppings; kids love it. Then shaded lanes until the heat breaks.
 
@@ -1475,7 +1513,7 @@ The reason to do it even with the Aug 27 ticket in hand: **you see the opposite 
 | Day 2 (Gaudí)       | Near hotel      | Gràcia _menú del día_ — **Verdi / Torrijos / Santa Magdalena**, not Pl. del Sol | **el Xuletò** ⭐ / Casa Amalia (Catalana & El Nacional = fallbacks) |
 | Day 3 (Montserrat)  | Near hotel      | Monastery buffet (Tot ticket)    | Same near-hotel shortlist   |
 | Day 4 (Old City)    | Petritxol granja | **[La Cova Fumada](https://maps.google.com/?q=La+Cova+Fumada+Barcelona+Spain)** (door 11:45!) — Bar Jai-Ca if it's full | **[Carrer de Blai](https://maps.google.com/?q=Carrer+de+Blai+Barcelona+Spain)** pintxos: Koska → La Tasqueta → Blai 9  |
-| Day 5 (Girona/city) | Near hotel / pre-Mass | Girona: **Draps** / **El Carrito** ⭐ (not Pl. Independència) | **7 Portes** 🟠 book — or Blai / **Bodega La Palma** for a third of the money |
+| Day 5 (Girona) | Near hotel / pre-Mass | Girona: **[Bartali Pizza Co.](https://maps.google.com/?q=Bartali+Pizza+Co+Carrer+Nou+del+Teatre+3+Girona+Spain)** ✅ 🔴 book (Sun 13:00–15:30 only, ~€15/pp) — Draps / El Carrito ⭐ as backups | **7 Portes** 🟠 book — or Blai / **Bodega La Palma** for a third of the money |
 | Day 6 (departure)   | Near hotel, quick | On to Zaragoza                  | —                           |
 
 > ⚠️ **August reality check (verified):** **[Quimet & Quimet](https://maps.google.com/?q=Quimet+%26+Quimet+Barcelona+Spain) — closed ALL of August** (skip this trip). **[El Xampanyet](https://maps.google.com/?q=El+Xampanyet+Barcelona+Spain) — closed for August break, reportedly back ~Aug 24–25** — confirm at the window. **Tickets — permanently closed** (its successor Teatro closed too; Albert Adrià's flame lives on at Enigma). **La Cova Fumada** — open but **Sat 09:00–13:00**, cash only, call ahead re: holiday days. **Cal Pep** — closed Sun; Sat lunch 13:15–15:45 walk-in bar. **La Boqueria — closed Sundays.**
@@ -1616,7 +1654,7 @@ Land in **[El Tubo](https://maps.google.com/?q=El+Tubo+Zaragoza+Spain)** — the
 | Any Old Town bar *menú del día*         | 3 courses + drink, best value in Spain                                                              | €13–16/pp   |
 | **[Mercado Central](https://maps.google.com/?q=Mercado+Central+Zaragoza+Spain)** tapas stalls        | 1903 Modernist iron market; degustación stands at the center (food stalls run till ~14:00)          | €10–15/pp   |
 
-> ⚠️ **Don't plan [Casa Lac](https://maps.google.com/?q=Casa+Lac+Zaragoza+Spain) today:** Spain's oldest restaurant serves **no dinner on Mondays** (several listings say closed Monday entirely). It's booked for Tuesday lunch instead — the slot that actually works.
+> ⚠️ **Don't plan [Casa Lac](https://maps.google.com/?q=Casa+Lac+Zaragoza+Spain) today:** Spain's oldest restaurant serves **no dinner on Mondays** (several listings say closed Monday entirely). It's slotted into Tuesday lunch instead — the slot that actually works (🔲 still to reserve).
 
 **14:30 — Siesta-hour loop: [Plaza del Pilar](https://maps.google.com/?q=Plaza+del+Pilar+Zaragoza+Spain) at full scale**
 
@@ -1670,7 +1708,7 @@ Walk to the middle of the 15th-century stone bridge. **Sunset 20:37**: the basil
 | **[El Tubo](https://maps.google.com/?q=El+Tubo+Zaragoza+Spain) crawl** ⭐                | **[Doña Casta](https://maps.google.com/?q=Taberna+Do%C3%B1a+Casta+Zaragoza+Spain)** (croquetas — get the *ternasco* one), **[El Champi](https://maps.google.com/?q=El+Champi+Zaragoza+Spain)** (garlicky mushroom pintxo), **[Bodegas Almau](https://maps.google.com/?q=Bodegas+Almau+Zaragoza+Spain)** (open till 24:00; anchovies, vermouth, 1870 woodwork) + whatever smells good | €18–28/pp |
 | **The longer, more local El Tubo route** ⭐⭐ | Add the rooms the *zaragozanos* fill, all inside the same five alleys (Cinegio, Estébanes, Libertad, Mártires, 4 de Agosto): **[Vinos Nicolás](https://maps.google.com/?q=Vinos+Nicol%C3%A1s+Zaragoza+Spain)** (trading since 1912 — *fritos*, *montados*, *huevos rotos*, the baked potato and the *gamba orly*) · **[El Corral de la Delfina](https://maps.google.com/?q=El+Corral+de+la+Delfina+Zaragoza+Spain)** (C/ Cuatro de Agosto — *casquería*: trotters, callos, breaded ear and sweetbreads, plus artichokes and *secreto*) · **[La Miguería](https://maps.google.com/?q=La+Migueria+Plaza+de+Sas+Zaragoza+Spain)** (Pl. de Sas — *migas aragonesas* in 20+ versions) · **[La Republicana](https://maps.google.com/?q=La+Republicana+Zaragoza+Spain)** (*huevos rotos republicanos*; **menú del día ~€11.50** if you'd rather sit) · **Bar Casto** (torreznos, quantity discounts) | €12–20/pp |
 | **Host-picks crawl** (near apt)     | Bar Gallizo → La Viña (*berenjenas con miel*) → El Ángel del Pincho → nightcap at The Lynx — ⚠️ Monday/August hours unverified; if a shutter is down, El Tubo is 10 min away | €15–25/pp |
-| **[Casa Lac](https://maps.google.com/?q=Casa+Lac+Zaragoza+Spain)**                        | ❌ Not tonight — no Monday dinner service. Booked for tomorrow's lunch                                   | —         |
+| **[Casa Lac](https://maps.google.com/?q=Casa+Lac+Zaragoza+Spain)**                        | ❌ Not tonight — no Monday dinner service. Slotted for tomorrow's lunch (🔲 reserve first)                                   | —         |
 
 > 💡 **The dish:** *ternasco aragonés* — PDO Aragonese young lamb, roasted simply with garlic and olive oil, astonishingly tender. If you see *ternasco* croquetas or skewers tonight, that's your warm-up for tomorrow's main event.
 
@@ -1680,7 +1718,7 @@ Walk to the middle of the 15th-century stone bridge. **Sunset 20:37**: the basil
 
 ### Day 2 — Tuesday Sep 1 · La Aljafería + Casa Lac + AVE to Madrid ⭐
 
-> The flagship day: checkout maneuver first, Aljafería at 10:00-ish opening (booked online — see Must-Book), Roman forum at noon (open again — it's Tuesday), Spain's oldest restaurant for lunch, trenza for the road, **17:48 AVE** (locator 4U5NZV, at Delicias by 17:15). Bags go to the station consigna in the morning so the day ends with zero backtracking.
+> The flagship day: checkout maneuver first, Aljafería at 10:00-ish opening (🔲 **still to book online** — see Must-Book), Roman forum at noon (open again — it's Tuesday), Spain's oldest restaurant for lunch, trenza for the road, **17:48 AVE** (locator 4U5NZV, at Delicias by 17:15). Bags go to the station consigna in the morning so the day ends with zero backtracking.
 
 **08:15 — Pack fully before breakfast**
 
@@ -1721,7 +1759,7 @@ Now it's open (Tuesday!): the excavated Roman forum preserved underground beneat
 - Tue–Sat 10:00–14:00 & 17:00–21:00, **closed Mon** (which is why it's today) · €4/adult, €3 students, **under-15 free**
 - The €7 Roman-route combo (Foro + Teatro + Termas + Puerto Fluvial) only pays if you'll do 2+ — today one is enough; you'll pass the open-air **Teatro** ruins later for free
 
-**13:30 — Lunch at [Casa Lac](https://maps.google.com/?q=Casa+Lac+Zaragoza+Spain)** ⭐ — booked
+**13:30 — Lunch at [Casa Lac](https://maps.google.com/?q=Casa+Lac+Zaragoza+Spain)** ⭐ — 🔲 **not booked yet** (976 39 61 96 · restaurantecasalac@gmail.com, by ~Aug 25)
 
 Spain's **oldest restaurant license (1825)**, in the heart of El Tubo — chandeliered upstairs dining room, downstairs bar. Order the *ternasco al horno* (roast Aragonese lamb) and the market vegetables they're quietly famous for; *migas aragonesas* to start if they have them.
 
@@ -1867,7 +1905,7 @@ Zaragoza is **the only city in the world with two cathedrals**, and both are a f
 | **Travel in**             | AVE 03162: Zaragoza Delicias → Madrid Atocha, Sep 1 17:48→19:44 (locator **4U5NZV** · Coche 7 · 2C/2D/3C/3D)                                                                                                                                                            |
 | **Travel out**            | AA 95: MAD T4 → JFK, Sep 5, 10:25 → 12:25 · Be at MAD T4 by **08:00**                                                                                                                                                                                                   |
 | **[Atocha](https://maps.google.com/?q=Madrid+Atocha+station+Spain) → apartment**    | Taxi ~€10–12, 15 min (easiest with bags); or Metro L1 from **[Estación del Arte](https://maps.google.com/?q=Estaci%C3%B3n+del+Arte+Madrid+Spain)** 2 stops → Pacífico → L6 3 stops → Legazpi (~20 min + short walk)                                                                                                                       |
-| **Apt → Airport (Sep 5)** | Taxi **flat rate €33** to any terminal (fixed by law, no bag/night supplements), ~30 min; leave **06:45** — pre-book the night before                                                                                                                                    |
+| **Apt → Airport (Sep 5)** | **Bolt, ordered from the flat at 06:45** (~€30–35, ~30 min at dawn). Fallback: street/radio taxi at the **flat rate €33** to any terminal (fixed by law, no bag/night supplements)                                                                                                                                    |
 | **Neighbourhood**         | **Arganzuela** — south-central, family-friendly. 15 min walk to La Latina (Cava Baja). 20 min walk to Palacio Real or Prado. **[Matadero Madrid](https://maps.google.com/?q=Matadero+Madrid+Madrid+Spain) [🌐](https://www.mataderomadrid.org) + Madrid Río linear park 5 min walk.** Metro Legazpi (L3/L6) at the door.                                                |
 | **Emily's flat** ⭐        | **C/ Alonso Cano 4, 2ºA — 28010 Madrid ([Chamberí](https://maps.google.com/?q=Chamber%C3%AD+Madrid+Spain)/Trafalgar)**. Her home to December. Nearest Metro **Iglesia (L1)** ~5 min or **Quevedo (L2)** ~6 min; **[Plaza de Olavide](https://maps.google.com/?q=Plaza+de+Olavide+Madrid+Spain) 2 min**. Cercanías for UAM from **[Nuevos Ministerios](https://maps.google.com/?q=Nuevos+Ministerios+station+Madrid+Spain)**, ~15–18 min on foot |
 | **Emily's UAM** ⭐         | **[Universidad Autónoma de Madrid — Campus de Cantoblanco](https://maps.google.com/?q=Universidad+Aut%C3%B3noma+de+Madrid+%E2%80%94+Campus+de+Cantoblanco+Madrid+Spain) [🌐](https://www.uam.es)**, Ctra. de Colmenar Viejo (M-607) km 15, 28049. **Cercanías C-4 → "Cantoblanco Universidad."** Thu Sep 3 **15:00–18:00** · Fri Sep 4 **11:00–16:00** (may end 12:00 — confirm with her) |
@@ -2302,7 +2340,7 @@ Two ways to do this, and the family should pick deliberately. **(A) The chef-res
 
 **22:45 — Taxi home to Arganzuela** — ~€14–16, 20 min. Say goodbye at her door, not at 06:30 tomorrow.
 
-> ⚠️ **Before bed tonight, non-negotiable:** **pre-book the 06:45 airport taxi** (Free Now / Cabify / Uber all schedule in advance; backup Radio-Taxi **+34 91 547 82 00**), and do **AA 95 online check-in** — the 24h window opens ~10:25 Friday, so it's already open by dinner. Street-hailing on an Arganzuela corner at 06:45 is the one gamble not to take.
+> ⚠️ **Before bed tonight, non-negotiable:** check the **Bolt** app is installed, logged in and has a working card (that's the 06:45 airport ride — nothing is pre-booked; backup Radio-Taxi **+34 91 547 82 00** at the €33 flat rate), and do **AA 95 online check-in** — the 24h window opens ~10:25 Friday, so it's already open by dinner. Street-hailing on an Arganzuela corner at 06:45 is the one gamble not to take.
 
 > 🍫 **Optional last flourish:** **[San Ginés](https://maps.google.com/?q=Chocolater%C3%ADa+San+Gin%C3%A9s+Madrid+Spain) churros** (open 24h) on the way home — it's a €10 taxi detour from Chamberí and the classic Madrid last-night move. Only if legs allow; the dinner is the farewell, this is the encore.
 
@@ -2314,7 +2352,7 @@ Two ways to do this, and the family should pick deliberately. **(A) The chef-res
 | --------- | ----------------------------------------------------------------------------------------------------- |
 | 05:45     | Wake                                                                                                  |
 | 06:30     | Final pack, sweep for chargers, check the PIN-door clicks shut behind you                             |
-| **06:45** | **Taxi to MAD T4** — flat rate **€33**, ~30 min at dawn. ⚠️ Pre-book the night before: schedule a ride in **Free Now / Cabify / Uber** (all allow advance booking in Madrid), or ask any driver during the trip for a card and book direct — street-hailing on a residential Arganzuela corner at 06:45 is the one gamble not to take. Backup: Radio-Taxi +34 91 547 82 00 |
+| **06:45** | **Bolt to MAD T4** — ~€30–35, ~30 min at dawn. Order it from inside the flat, bags by the door, before going down; at 06:45 on a Saturday cars are around but not instant, so allow a few minutes for the match. ⚠️ Don't street-hail on a residential Arganzuela corner at dawn. Backups: Radio-Taxi +34 91 547 82 00 or any street taxi at the **€33 flat rate** to any terminal |
 | 07:20     | Arrive T4 — AA check-in (oneworld/Iberia hall), bag drop, security                                    |
 | ~07:50    | ⚠️ **US flights board from the T4S satellite** — after security/passport control, the automated underground train to T4S takes ~10 min. Build it in; the gate is farther than it looks |
 | 08:30     | Airside T4S — breakfast at the satellite cafés                                                        |
@@ -2446,7 +2484,7 @@ Status as of **Aug 5** — departure in 14 days, Madrid in 27. Everything below 
 - ⚠️ **[Ermita de San Antonio de la Florida](https://maps.google.com/?q=Ermita+de+San+Antonio+de+la+Florida+Madrid+Spain)** (Goya frescoes + tomb) closed for conservation since Mar 2025 — verify before going. **[Teleférico de Madrid](https://maps.google.com/?q=Telef%C3%A9rico+de+Madrid+Madrid+Spain) [🌐](https://teleferico.emtmadrid.es)** closed since 2022 for structural repairs — don't plan on it
 - ⚠️ **[Almudena](https://maps.google.com/?q=Catedral+de+la+Almudena+Madrid+Spain) crypt shuts 14:00–16:30** — see it in the Day 2 morning, not after lunch
 - ⚠️ **Kitchen hours are law:** most Madrid kitchens close ~16:00–20:00. Miss the lunch window and you're eating gelato and jamón cones until dinner — which, granted, is not the worst failure mode
-- ⚠️ **Sep 5 departure:** taxi pre-booked for 06:45, flat €33, T4 (separate building from T1–T3), gates at the T4S satellite
+- ⚠️ **Sep 5 departure:** **Bolt at 06:45** (nothing pre-booked — order it from the flat; ~€30–35 to the airport, and the €33 flat-rate taxi is the fallback if no driver takes it), T4 (separate building from T1–T3), gates at the T4S satellite
 - ⚠️ **Pickpockets:** Puerta del Sol, Plaza Mayor, Atocha, the 19:00 Debod crowd — bags in front, phones off back pockets
 
 ### Madrid Budget
@@ -2755,9 +2793,8 @@ _Re-sorted by urgency on **Aug 5** (T-14 days). Work the 🔴 table top to botto
 | **Palacio Real**                                 | Wed Sep 2, 10:00     | [tickets.patrimonionacional.es](https://tickets.patrimonionacional.es/) — €18 adult / €9 youth                                 |
 | **Aljafería timed entry**                        | Tue Sep 1, 10:00     | [tickets.aljaferia.es](https://tickets.aljaferia.es/) — €7, capacity-limited; book by ~Aug 25                                  |
 | **Casa Lac** lunch                               | Tue Sep 1, 13:30     | 976 39 61 96 · restaurantecasalac@gmail.com (no Monday dinner service — lunch is the plan)                                     |
-| ~~**Quinta da Regaleira** timed entry~~ ✅       | Booked               | MEO Blueticket **38339594** — €80.54 paid. Remaining: download the ticket PDFs, the email is not valid for entry            |
 | **Fado house** — Parreirinha de Alfama           | Tue Aug 25, ~20:00   | +351 21 886 82 09 (Clube de Fado as backup)                                                                                    |
-| **Taberna dos Mercadores** dinner                | Thu Aug 20           | Email via tabernadosmercadores.com — 16 seats, email is the only reliable channel                                              |
+| **Taberna dos Mercadores** dinner                | Thu Aug 20           | **Phone +351 222 010 510, 10:30–11:30 only** — or the form on tabernadosmercadores.com (24h reply). **8 tables**, books months out |
 | **Gruta** farewell dinner                        | Sat Aug 22           | grutaporto.com — small room, book early                                                                                         |
 | ~~**Zaragoza guest registration form**~~ ✅        | Done                 | Lockbox code released. **Remaining: save the code offline on two phones** |
 | **Message Lisbon host: early bag drop**          | By Thu Aug 20        | Booking.com chat — land 09:55, apartment opens 16:00; fallback lockers at Anjos (~€5/bag)                                      |
@@ -2769,7 +2806,8 @@ _Re-sorted by urgency on **Aug 5** (T-14 days). Work the 🔴 table top to botto
 | --------------------------------------------- | ------------------ | ---------------------------------------------------------------------------------------------------- |
 | **Oceanário** — decide & book (or drop)       | ~Aug 10            | [oceanario.pt](https://www.oceanario.pt/) — €27 × 4 = €108; slots Day 4 (Wed Aug 26) 12:00 band      |
 | **MUU** dinner (Porto Day 2)                  | Aug 14             | muu-restaurant.com                                                                                   |
-| **O Gaveto** / **Escama** (Day 3 A meals)     | Aug 14             | ogaveto.com · escamaporto.com                                                                        |
+| **Escama** (Day 3 farewell dinner, 20:00)     | 🔴 **now**         | TheFork via escamaporto.com · reservas@escamaporto.com · **+351 913 595 551** · **moved to Cais da Ribeira 29** |
+| **Bartali Pizza Co.** (Girona lunch, 14:00 Sun Aug 30) | 🔴 with the train booking | bartalipizza.com / OpenTable / Resy · **+34 972 21 09 91** · Sunday service is **13:00–15:30 only** |
 | **7 Portes** Sunday dinner (Barcelona)        | ~Aug 20            | [7portes.com](https://www.7portes.com/) — daily 13:00–01:00; Sunday tables go early                  |
 | **Girona train** (Aug 30, if Option A)        | ~Aug 25            | renfe.com — Sants → Girona ~38 min; pick the ~09:15 fast service                                     |
 | **Tot Montserrat** combo tickets              | ~Aug 25            | [montserratcard.com](https://www.montserratcard.com/) / FGC desk Pl. d'Espanya — €71.50/pp, lunch incl. |
@@ -2789,12 +2827,13 @@ _Re-sorted by urgency on **Aug 5** (T-14 days). Work the 🔴 table top to botto
 | Hotels ×5 (all paid/confirmed)      | Porto 5732321948 · Lisbon Booking.com · BCN Booking.com · Zaragoza Airbnb #HM28SJ8P8C · Madrid #5149971517 PIN 7526 |
 | Sagrada Família ⚠️ nominative       | Aug 27 · entry 17:45 · EN tour 18:30 · code **103719876** · bring passports             |
 | Park Güell                          | Aug 27 · 09:30 · 4 × €18 · locator **700328431455**                                     |
-| Pena Palace (Sintra)                | Aug 24 · 09:00 palace slot · Essential Visit · paid                                     |
-| Jerónimos cloister                  | Aug 23 · order **38185413** · paid                                                      |
+| Pena Palace (Sintra)                | Aug 24 · 10:00 palace slot · Essential Visit · paid (+ 4 park-shuttle tickets, undated) |
+| Quinta da Regaleira (Sintra)        | Aug 24 · **entry window 14:30–15:00** · VISITAS LIVRES self-guided · MEO Blueticket **38339594** · €80.54 paid · ⚠️ the email is not a ticket — download the PDFs |
+| Jerónimos cloister                  | Aug 23 · purchase **38185413** (03-08-2026, Visa/Mastercard) · 2 × ADULTO €18 + 2 × JOVEM 13-24 €9 = €54 + 5% fee €3.32 → **€57.32 paid** · ⚠️ **the email is not a ticket — download the PDFs from the client area** · 🔲 slot time not on the receipt, read it off the PDF |
 | Torre de Belém                      | Aug 23 · 16:00 slot · order **38185394** · paid                                         |
-| São Vicente de Fora                 | Aug 25 · ref **980497008** (2 adult, 2 youth)                                           |
+| São Vicente de Fora                 | Tue Aug 25 · ref **980497008** (2 × adult + 2 × youth) · entry at Largo de São Vicente · ⚠️ **download the PDF tickets** — show the phone at the ticket office · free cancel/reschedule until **23:59 Aug 24** |
 | Castelo de São Jorge                | Open ticket to 1 Nov 2026 · entry from 09:00 · paid                                     |
-| 7 Bridges sunset cruise (Porto)     | Aug 21 · 18:45 · ref **GYG7VKRQ9BVG** · meet 430 Rua da Praia, Gaia (door C)            |
+| 7 Bridges sunset cruise (Porto)     | Aug 21 · 18:45–20:45 · ref **GYG7VKRQ9BVG** (booking #368686504) · Leçaodouro +351 934 604 483 · meet 430 Rua da Praia, Gaia (door C) |
 
 ---
 

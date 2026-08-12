@@ -95,14 +95,14 @@ Walkable city — Metro + Uber/Bolt for longer hops. No car.
 | €1–5 (snacks) | Pastel de nata (Bolhão / Manteigaria), bifana (Casa da Bifana / Conga), *sande de pernil* at **Casa Guedes** (Pç. dos Poveiros 130 — your corner) |
 | €8–15 (locals' band) ⭐ | **O Buraco** (R. do Bolhão 95, worker-lunch tasca, 3 min) · **Casa Expresso** (Pç. Carlos Alberto 73, €5–6 dishes) · **Tasquinha Zé Povinho** (Clemente Meneres 36) · **Cantarinha** francesinha (Lg. Maternidade de Júlio Dinis 75) |
 | €15–25 (mid) | **Adega São Nicolau** (R. de São Nicolau 1 — where Porto cooks eat) · **Antunes** (Bonjardim 614) · **O Rápido** (Madeira 194) · **Salta o Muro / Tito / Casa Serrão** (Matosinhos grill street) · Café Santiago · Terreiro / Terra Nova (view pricing) |
-| €25–35 (occasion) | Taberna dos Mercadores (16 seats, email), Escama |
+| €25–50 (occasion) | Taberna dos Mercadores (8 tables — phone 10:30–11:30), Escama (€30–50, Cais da Ribeira 29) |
 | €35+ (tourist-priced) | MUU Steakhouse, Gruta, O Gaveto, Culto ao Bacalhau — real, but the opposite of "small and local" |
 
 | Day | Breakfast | Lunch | Dinner |
 |-----|-----------|-------|--------|
-| Day 1 | Confeitaria do Bolhão | **O Buraco** / Casa Guedes / Bolhão stalls | **Adega São Nicolau** ⭐ or Taberna dos Mercadores |
-| Day 2 | Época or Hakko | Café Santiago or **Cantarinha** (francesinha) | **Antunes** ⭐ / Zé Povinho / Solar Moinho de Vento |
-| Day 3 | SO Coffee Roasters | **Salta o Muro / Tito**, R. Heróis de França ⭐ | **Casa Expresso** ⭐ / O Rápido (Escama = the one modern option) |
+| Day 1 | Confeitaria do Bolhão | **O Buraco** / Casa Guedes / Bolhão stalls | **Taberna dos Mercadores** ✅ 🔴 book — Adega São Nicolau ⭐ if full |
+| Day 2 | Época or Hakko | Café Santiago or **Cantarinha** (francesinha) | **Antunes** ✅ ⭐ (closes 22:00 — phone ahead) / **Gazela** walk-in till 22:30 |
+| Day 3 | SO Coffee Roasters | **Salta o Muro / Tito**, R. Heróis de França ⭐ | **Escama** ✅ 🔴 book — Casa Expresso ⭐ / O Rápido if full |
 | Day 4 | OPO airside — Aloma nata + Costa (Bolhão & confeitaria closed Sun) | — | — |
 
 > ⚠️ **Struck from the plan as unverifiable:** Eleit, Taberna de São Miguel, Tabuleta, Cobre, O Rafael — no address, no listing, no reviews anywhere. Replacements above are all documented, family-run, cheaper.
@@ -114,14 +114,14 @@ Walkable city — Metro + Uber/Bolt for longer hops. No car.
 | Item | Status/Deadline as of Aug 5 | Where |
 |------|----------|-------|
 | ~~Livraria Lello tickets~~ | **CANCELLED** | — |
-| Taberna dos Mercadores (Day 1 dinner) | Email **today** — or skip it: **Adega São Nicolau** (same street, cheaper, phone booking) is now the Day 1 pick | tabernadosmercadores.com |
+| **Taberna dos Mercadores (Day 1 dinner)** ✅ chosen | 🔴 **Phone +351 222 010 510 in the 10:30–11:30 window** — 8 tables, books months out. Site form as backup. If they can't seat you, **Adega São Nicolau** (same street, cheaper, phone booking) | tabernadosmercadores.com |
 | ~~7 Bridges Sunset Cruise (Day 2, 18:45)~~ ✅ Booked | — | ref **GYG7VKRQ9BVG** · Leçaodouro · meet 430 Rua da Praia, Vila Nova de Gaia (door C) |
 | Cálem port lodge (optional, Day 1 Gaia) | By ~Fri Aug 14 — timed slots · was €20/€10 youth, platforms now €26–28 | tour.calem.pt |
 | ~~Palácio da Bolsa~~ — swapped for MMIPO | — | Day-of if you reinstate it: palaciodabolsa.com |
 | MUU (Day 2 dinner) | By Fri Aug 14 | Restaurant website |
 | Gruta (Day 3 dinner) | **Book TODAY** — small room, book early | grutaporto.com |
 | O Gaveto (Day 3 lunch splurge) | By Fri Aug 14 | ogaveto.com |
-| Escama (Day 3 dinner alt) | By Fri Aug 14 | escamaporto.com |
+| **Escama (Day 3 farewell dinner)** ✅ chosen | 🔴 **Now** — TheFork / reservas@escamaporto.com / +351 913 595 551. 📍 Moved to **Cais da Ribeira 29** | escamaporto.com |
 
 ---
 

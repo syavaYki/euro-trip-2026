@@ -53,9 +53,9 @@ Two clusters: Ribeira/downtown, and Matosinhos (Metro Line A to Matosinhos-Sul, 
 
 | Name | Why | Price | Area | Book? | Tip |
 |------|-----|-------|------|-------|-----|
-| **Escama** [📍](https://maps.google.com/?q=Escama+Porto+Portugal) 🥈 | Modern Atlantic cuisine, elegant but warm — Day 3 dinner alternate | €24–35/pp | Centre | ✅ by Fri Aug 14 | Order the turbot with hazelnut vinaigrette — the dish the room is famous for |
+| **Escama** [📍](https://maps.google.com/?q=Escama+Cais+da+Ribeira+29+Porto+Portugal) ⭐ | Modern Atlantic cuisine, elegant but warm — **the Day 3 farewell dinner** | €30–50/pp | **Cais da Ribeira 29** (moved — not Mouzinho da Silveira) | 🔴 book now | Order the turbot with hazelnut vinaigrette — the dish the room is famous for. Daily 12:30–15:00 & 19:00–22:30 |
 | **Culto ao Bacalhau** [📍](https://maps.google.com/?q=Culto+ao+Bacalhau+Porto+Portugal) | Michelin-recommended cod specialist inside Bolhão Market | €30–45/pp | Bolhão (2 min) | Book ahead | Roasted cod with corn-bread crust; finish with abade de priscos pudding |
-| **Taberna dos Mercadores** [📍](https://maps.google.com/?q=Taberna+dos+Mercadores+Porto+Portugal) ⭐ | Tiny 16-seat Ribeira gem — our Day 1 dinner pick | €25–35/pp | Ribeira | ✅ Email today | The octopus rice is the order. No email reply? Show up 18:30 sharp for the first seating |
+| **Taberna dos Mercadores** [📍](https://maps.google.com/?q=Taberna+dos+Mercadores+Rua+dos+Mercadores+36+Porto+Portugal) ⭐ | Tiny **8-table** Ribeira gem — our Day 1 dinner pick | €25–35/pp | R. dos Mercadores 36–38 | 🔴 phone now | The octopus rice is the order. ☎️ **+351 222 010 510, 10:30–11:30 only**; else the site form. Tue–Sun 12:30–22:30, last entry 21:45, **closed Mon**. No reply? Show up 18:30 sharp |
 | **Terra Nova** [📍](https://maps.google.com/?q=Terra+Nova+Porto+Portugal) | Polished brasserie on the quay, big Douro-view windows | €15–30/pp | Ribeira | Walk-in | Ask for a window table — the view does half the work. Good oysters |
 | **Ostras & Coisas** [📍](https://maps.google.com/?q=Ostras+%26+Coisas+Porto+Portugal) | The downtown oyster reference; outstanding sparkling list | €20–35/pp | Centre | Recommended | Order the four-type "Mix" shellfish platter and let the table graze |
 | **Meia Nau Porto** [📍](https://maps.google.com/?q=Meia+Nau+Porto+Porto+Portugal) | City branch of a Matosinhos institution — rare good fish downtown | €15–25/pp | Cedofeita | Walk-in | The galo frito com açorda de ovas is the house signature nobody else does |
@@ -118,14 +118,14 @@ Small, family-run, Portuguese-only menus, paper tablecloths, cash welcome. A *do
 | **O Rápido** [📍](https://maps.google.com/?q=O+R%C3%A1pido+Rua+da+Madeira+194+Porto+Portugal) · R. da Madeira 194 | Classic tasca beside São Bento — weekly rotating specials; ***tripas à moda do Porto* Thu & Sat**, *tripa enfarinhada* otherwise (~€14) | €12–18/pp | Walk-in | This — not a petiscos bar — is where to eat the dish behind the *tripeiros* nickname |
 | **Adega São Nicolau** [📍](https://maps.google.com/?q=Adega+S%C3%A3o+Nicolau+Rua+de+S%C3%A3o+Nicolau+1+Porto+Portugal) ⭐⭐ · R. de São Nicolau 1 | The one Ribeira address that stayed honest — Porto chefs eat here on their nights off. Bacalhau croquettes, *polvo à lagareiro* | €15–25/pp | Phone / arrive 19:00 | **Day 1 dinner pick.** Its sister **Terreiro** is next door with a bigger terrace and easier seating |
 | **Restaurante Antunes** [📍](https://maps.google.com/?q=Restaurante+Antunes+Rua+do+Bonjardim+614+Porto+Portugal) ⭐⭐ · R. do Bonjardim 614 | *Pernil assado no forno* — oven-roast pork leg carved for the table, for two-plus. Family room, 6 min from the hotel | €15–22/pp | Phone (small room) | **Day 2 dinner pick.** Leave room for the *rabanada* |
-| **Solar Moinho de Vento** [📍](https://maps.google.com/?q=Solar+Moinho+de+Vento+Rua+de+S%C3%A1+de+Noronha+81+Porto+Portugal) · R. de Sá de Noronha 81 | Tavern on the same site since 1905 — *arroz de costelinha*, tripe, stone rooms | €18–25/pp | Walk-in | Two minutes from Clérigos, and nothing like the Clérigos prices |
+| **Solar Moinho de Vento** [📍](https://maps.google.com/?q=Solar+Moinho+de+Vento+Rua+de+S%C3%A1+de+Noronha+81+Porto+Portugal) · R. de Sá de Noronha 81 | Tavern on the same site since 1905 — *arroz de costelinha*, tripe, stone rooms | €18–25/pp | Walk-in | ⚠️ **Portuguese listings flag an annual closure in August** — assume shut for our dates and don't build an evening around it. Verify by phone (+351 222 051 158) before walking over |
 | **Casa dos Presuntos "Xico"** [📍](https://maps.google.com/?q=Casa+dos+Presuntos+Rua+do+Hero%C3%ADsmo+191+Porto+Portugal) · R. do Heroísmo 191 | Standing counter, thick *presunto* sandwiches, *vinho verde tinto* from the barrel. Two sandwiches + a half-litre came to under €10 | €5–10/pp | ❌ · **cash only** | Pure neighbourhood — no menu in English, no seats to speak of |
 
 ### 🍽️ Modern & chef-driven (real, but priced well above the brief)
 
 | Name | Why | Price | Book? | Tip |
 |------|-----|-------|-------|-----|
-| **Escama** [📍](https://maps.google.com/?q=Escama+Porto+Portugal) [🌐](https://escamaporto.com/en/) 🥈 | Modern Atlantic seafood; turbot with hazelnut vinaigrette. The sane one of the modern set | €24–35/pp | ✅ by Fri Aug 14 | If the family wants exactly one "designed" dinner, make it this |
+| **Escama** [📍](https://maps.google.com/?q=Escama+Cais+da+Ribeira+29+Porto+Portugal) [🌐](https://escamaporto.com/en/) ⭐ | Modern Atlantic seafood; turbot with hazelnut vinaigrette. The sane one of the modern set | €30–50/pp | 🔴 book now | The family wanted exactly one "designed" dinner — this is it. 📍 **Cais da Ribeira 29**, 4050-509 |
 | **MUU Steakhouse** [📍](https://maps.google.com/?q=MUU+Steakhouse+Rua+do+Almada+149+Porto+Portugal) [🌐](https://www.muusteakhouse.com/) · R. do Almada 149A | Verified: opened 2018, dinner only 19:00–24:00, dry-aged cuts **€35–95** | €35–60/pp | ✅ essential | Real and good, but it's a steakhouse bill — not a tasca |
 | **Gruta** [📍](https://maps.google.com/?q=Gruta+Rua+de+Santa+Catarina+447+Porto+Portugal) [🌐](https://www.grutaporto.com/) | R. de Santa Catarina 447. Seafood-led chef room, rated 4.7–4.8, small | €45–55/pp | ✅ well ahead | Reviews split on portion size vs price. Optional, not the plan |
 
@@ -179,9 +179,9 @@ Porto has an excellent gelato scene — the family treat after churches and long
 
 | Day | Breakfast | Lunch | Dinner | Late |
 |-----|-----------|-------|--------|------|
-| **Day 1** (Thu) | Confeitaria do Bolhão (+ Manteigaria nata if keen) | **O Buraco** (R. do Bolhão 95) / Casa Guedes counter / Bolhão stalls | **Adega São Nicolau** ⭐ (phone) or Taberna dos Mercadores (email) | Casa da Bifana after the Clérigos night climb |
-| **Day 2** (Fri) | Época or Hakko | Café Santiago francesinha (by 11:30) — or **Cantarinha**, cheaper and local | **Antunes** ⭐ 21:00 (post-cruise) / Tasquinha Zé Povinho / Solar Moinho de Vento · MUU only if you want the steakhouse bill | Picha Café |
-| **Day 3** (Sat) | SO Coffee Roasters or Confeitaria (opens 07:00 Sat) | **Salta o Muro / Tito**, R. Heróis de França ⭐ (O Gaveto = the €50–80 splurge, optional) | **Casa Expresso** ⭐ or O Rápido (Sat = *tripas* day) — 20:00; Escama if the table wants one modern dinner | Ribeira night walk |
+| **Day 1** (Thu) | Confeitaria do Bolhão (+ Manteigaria nata if keen) | **O Buraco** (R. do Bolhão 95) / Casa Guedes counter / Bolhão stalls | **Taberna dos Mercadores** ✅ 🔴 book — **Adega São Nicolau** ⭐ (phone) if full | Casa da Bifana after the Clérigos night climb |
+| **Day 2** (Fri) | Época or Hakko | Café Santiago francesinha (by 11:30) — or **Cantarinha**, cheaper and local | **Antunes** ✅ ⭐ 21:00 (post-cruise) — ☎️ ahead, **kitchen closes 22:00**. Walk-in backstop **Cervejaria Gazela** (till 22:30). ⚠️ Solar Moinho de Vento is dropped — August annual closure | Picha Café |
+| **Day 3** (Sat) | SO Coffee Roasters or Confeitaria (opens 07:00 Sat) | **Salta o Muro / Tito**, R. Heróis de França ⭐ (O Gaveto = the €50–80 splurge, optional) | **Escama** ✅ 🔴 book — 20:00, Cais da Ribeira 29. Casa Expresso ⭐ / O Rápido (Sat = *tripas* day) if full | Ribeira night walk — Escama puts you on the quay already |
 | **Day 4** (Sun) | **OPO airside: Aloma nata + Costa** — Bolhão market & confeitaria closed Sun | (in Lisbon) | — | — |
 
 ---
@@ -193,7 +193,7 @@ Porto has an excellent gelato scene — the family treat after churches and long
 | €1–5 (snacks) | Nata (Bolhão / Manteigaria / Aloma), bifana (Conga / Casa da Bifana), cachorrinhos (Gazela), *sande de pernil* (Casa Guedes), presunto sandwich (Xico), Bolhão stalls |
 | €8–15 (the locals' band) ⭐ | **O Buraco**, **Casa Expresso**, **Tasquinha Zé Povinho**, **Cantarinha**, O Golfinho, Mercado Food & Drinks |
 | €15–25 (mid) | **Adega São Nicolau**, **Antunes**, **O Rápido**, **Salta o Muro / Tito / Casa Serrão / O Lusitano** (Matosinhos), Solar Moinho de Vento, Café Santiago, Terreiro, Terra Nova |
-| €25–35 (occasion) | Taberna dos Mercadores, Escama, Culto ao Bacalhau |
+| €25–50 (occasion) | Taberna dos Mercadores (€25–35), **Escama (€30–50)**, Culto ao Bacalhau |
 | €35+ (tourist-priced / chef rooms) | MUU Steakhouse, Gruta, Restaurante Lusíadas, O Gaveto |
 
 ---
@@ -203,12 +203,12 @@ Porto has an excellent gelato scene — the family treat after churches and long
 | Booking | Status | Deadline |
 |---------|--------|----------|
 | **Adega São Nicolau (Day 1 dinner — new pick)** | ❌ Not booked | Phone a day or two ahead, or be at the door at 19:00. Cheaper and more local than the Mercadores/Terra Nova pair |
-| Taberna dos Mercadores (Day 1 alt) | ❌ Not booked | Email — tabernadosmercadores.com; fallback: arrive 18:30 |
+| **Taberna dos Mercadores (Day 1 dinner)** ✅ chosen | 🔴 Not booked | ☎️ **+351 222 010 510, 10:30–11:30 only** · site form (24h) · fallback: arrive 18:30 |
 | **Antunes (Day 2 dinner — new pick)** | ❌ Not booked | Phone the day before — small family room, 21:00 works post-cruise |
 | ~~MUU 21:00 (Day 2)~~ | Demoted | Only if you want a €35–95 steakhouse night — book by Fri Aug 14 |
 | **Casa Expresso (Day 3 farewell — new pick)** | — | ❌ Takes no reservations. Arrive at opening; bring cash |
 | ~~Gruta (Day 3 farewell)~~ | Demoted | €45–55/pp chef room — book well ahead only if you want it |
-| Escama (Day 3 modern option) | ❌ Not booked | By Fri Aug 14 |
+| **Escama (Day 3 farewell dinner)** ✅ chosen | 🔴 Not booked | Now — TheFork/escamaporto.com · +351 913 595 551 · **Cais da Ribeira 29** |
 | O Gaveto (Day 3 lunch splurge) | ❌ Not booked | By Fri Aug 14 — ogaveto.com |
 | Cálem lodge (optional Day 1 swap) | ❌ Optional | By ~Fri Aug 14 — tour.calem.pt, timed slots |
 | Beach shacks, tascas, cafés | — | Walk-in |

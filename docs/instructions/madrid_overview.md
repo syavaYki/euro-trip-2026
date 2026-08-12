@@ -50,7 +50,7 @@
 | **Day 2** (Wed Sep 2) | Royal Madrid ⭐ | Palacio Real 10:00 (booked) → Almudena + crypt (before 14:00) → San Miguel graze → Plaza Mayor → San Antonio de los Alemanes 16:00 → Malasaña/Chueca gelato → **Debod sunset 20:47** → **Botín 21:15** (booked) |
 | **Day 3** (Thu Sep 3) | Art Day + first UAM run ⭐ | Prado 10:00 → CaixaForum wall → **La Bola cocido 13:00** ⚠️ (earlier than before, cash) → **C-4 from Sol 14:15, Emily on campus 15:00** → family back for Reina Sofía 15:50 → she rides back solo 18:00 → **Retiro rowboats 19:00** → Cava Baja crawl. ❌ Botánico dropped |
 | **Day 4** (Fri Sep 4) | Move-in + El Pardo ⭐⭐ | **Bags to C/ Alonso Cano 4 at 08:45** → walk her commute → **UAM 11:00–16:00** → family to **El Pardo** (palace, Goya tapestries, tortilla lunch) → collect 16:00 → settle her flat → Chamberí evening (Olavide, Andén 0) → **farewell dinner 20:45, Lakasa/Bacira** |
-| **Day 5** (Sat Sep 5) | Departure | Taxi 06:45 (€33, pre-booked) → T4 by 07:30 → AA 95 10:25 → JFK 12:25 |
+| **Day 5** (Sat Sep 5) | Departure | Bolt 06:45 (~€30–35; €33 flat-rate taxi as fallback) → T4 by 07:30 → AA 95 10:25 → JFK 12:25 |
 
 ---
 
@@ -119,7 +119,7 @@ Status as of **Aug 5** (Madrid in 27 days):
 | **Casa Lucio** (Thu ~21:45) | 🔲 Book NOW (closed Aug, reopening wk) | [casalucio.es](https://www.casalucio.es/) |
 | ~~Mesón de Cándido~~ (Segovia) | ❌ **Cancelled — do not book.** Kept in the Segovia tab for Emily's own visit | — |
 | Cardamomo flamenco (Thu 21:00, optional) | 🔲 Only if family votes yes | [cardamomo.com](https://cardamomo.com/) |
-| Taxi for Sep 5 06:45 | 🔲 Book Fri evening | Free Now / Cabify / Uber schedule |
+| Ride for Sep 5 06:45 | ✅ Bolt on the day — nothing to book | Check the app + card work before Fri night; €33 flat-rate taxi as fallback |
 
 ---
 

@@ -138,7 +138,7 @@ Family-run, paper tablecloths, handwritten *prato do dia*, Portuguese-only menus
 | **Doca de Santo** [📍](https://maps.google.com/?q=Doca+de+Santo+Lisbon+Portugal) | Waterfront terrace under the bridge — kids' menu, high chairs | Alcântara (Doca de Santo Amaro) | €25–35/pp | Advisable | The relaxed family-dinner option if you end a day at LX Factory |
 | **Pizzaria Lisboa** [📍](https://maps.google.com/?q=Pizzaria+Lisboa+Lisbon+Portugal) | Reliable Neapolitan pizza, several branches | Central | €12–18/pp | No | The pressure-release valve when someone needs a bacalhau break |
 | **Casa Piriquita** [📍](https://maps.google.com/?q=Casa+Piriquita+Sintra+Portugal) | The Sintra institution since 1862 | Sintra (Rua das Padarias 1) | €2–4/pastry | No | **Day 2 lunch stop:** _travesseiros_ (warm almond-cream pillows) + _queijadas_ — eat one of each minimum |
-| **Tascantiga** [📍](https://maps.google.com/?q=Tascantiga+Sintra+Portugal) | Petiscos terrace on the Sintra lanes | Sintra (Escadinhas da Fonte da Pipa 4) | €15–25/pp | Advisable | The sit-down Sintra alternative if Piriquita is a zoo |
+| **Tascantiga** [📍](https://maps.google.com/?q=Tascantiga+Escadinhas+da+Fonte+da+Pipa+2+Sintra+Portugal) ⭐ ✅ | Petiscos terrace on the Sintra lanes — **our Day 2 lunch** | Sintra (Escadinhas da Fonte da Pipa 2–4) | €15–25/pp | 🔴 phone +351 21 924 3242 | ⚠️ **Lunch only Mon–Thu (12:15–16:15)**; dinner service Fri & Sat only; **closed Sundays**. Vegetarian and gluten-free options; 4.4★ / ~1,380 reviews |
 | **Incomum** [📍](https://maps.google.com/?q=Incomum+by+Luis+Santos+Sintra+Portugal) | Modern Portuguese near Sintra station | Sintra (Rua Dr. Alfredo Costa 22) | €20–35/pp | Book ahead | The "dinner in Sintra before the train home" pick on the lighter Day 2 variant |
 | **Centro Vasco da Gama food court** [📍](https://maps.google.com/?q=Centro+Vasco+da+Gama+Lisbon+Portugal) | Mall food court opposite Oriente station | Parque das Nações | €8–12/pp | No | Fast, air-conditioned, everyone picks — the practical Day 4 post-Oceanário lunch before the airport |
 
@@ -220,7 +220,7 @@ Family-run, paper tablecloths, handwritten *prato do dia*, Portuguese-only menus
 | Day | Breakfast | Gelato stop | Lunch | Dinner / evening |
 |-----|-----------|-------------|-------|------------------|
 | **Day 1 · Sun Aug 23 (Belém + Baixa)** | On the plane / airport coffee | Artisani (Doca) if time after Belém Tower | **O Prado** (R. da Junqueira 472) ⭐ or the riverside kiosks + **Pastéis de Belém** natas | **Príncipe do Calhariz** ⭐ (Sunday-open) — Time Out Market as the fallback; then **Santini** + ginjinha on the stroll |
-| **Day 2 · Mon Aug 24 (Sintra)** | Rossio station takeaway ~07:10 | Sintra village scoop (tourist-tier but earned) | **Apeadeiro** ⭐ (or Tasca do Manel, ~€8) — **Casa Piriquita** for travesseiros afterwards | **Cervejaria Ramiro** back in Lisbon, queue at 19:00 ⭐; or stay up and eat at **Tascantiga** / **Incomum** in Sintra, ~20:00 train home |
+| **Day 2 · Mon Aug 24 (Sintra)** | Rossio station takeaway ~07:10 | Sintra village scoop (tourist-tier but earned) | **Tascantiga** ✅ 12:45 (Apeadeiro ⭐ / Tasca do Manel ~€8 as backups) — **Casa Piriquita** for travesseiros afterwards | **Cervejaria Ramiro** back in Lisbon, queue at 19:00 ⭐. ⚠️ Tascantiga does **not** serve dinner on a Monday — if you want to eat in Sintra and ride home late, it has to be **Incomum** |
 | **Day 3 · Tue Aug 25 (Alfama)** | **Copenhagen Coffee Lab** (Campo de Santa Clara) | **Gelato Davvero** (São Cristóvão) after the Sé | **Zé da Mouraria** at 13:50 — or **Zé dos Cornos** / Páteo 13 sardines / O Velho Eurico | Call **A Baiuca** (~€25 fado vadio) first; otherwise **Parreirinha de Alfama** 🔴 book |
 | **Day 4 · Wed Aug 26 (Oceanário + fly)** | **Manteigaria** + **Fabrica Coffee Roasters** (Chiado) | Skip — plane day | **Centro Vasco da Gama food court** after the Oceanário (Time Out if Oceanário dropped) | On the plane; **Aloma airside nata** as the goodbye |
 
@@ -252,7 +252,7 @@ Family-run, paper tablecloths, handwritten *prato do dia*, Portuguese-only menus
 | **Baixa / Rossio** | As Bifanas do Afonso · Casa das Bifanas · Casa Portuguesa do Pastel de Bacalhau · Loja das Conservas · A Ginjinha |
 | **Campo de Ourique** | Aloma · the Mercado · Pigmeu · Tasca da Esquina |
 | **Parque das Nações** | Vasco da Gama food court (Day 4) |
-| **Sintra / Cascais (Day 2)** | Casa Piriquita · Tascantiga · Incomum · Cascais seafront fish houses |
+| **Sintra / Cascais (Day 2)** | **Tascantiga** ✅ (lunch only Mon–Thu) · Casa Piriquita · Incomum (the one open at night) · Cascais seafront fish houses |
 
 ---
 

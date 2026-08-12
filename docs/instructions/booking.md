@@ -1,8 +1,10 @@
 # 🎟️ Booking Tracker
 
-- **Today:** Thursday Aug 6, 2026 · **T-13 days** to wheels-up (Wed Aug 19, 23:10)
-- **Booked & paid:** flights ×4 · AVE ×2 · all 5 hotels · 8 timed tickets
+- **Today:** Wednesday Aug 12, 2026 · **T-7 days** to wheels-up (Wed Aug 19, 23:10)
+- **Booked & paid:** flights ×4 · AVE ×2 · all 5 hotels · 9 timed tickets
 - **Still open:** 11 restaurants/reservations · 5 paid tickets · 2 optional · 4 admin gates
+
+> ⚠️ **Lead-time note:** the "Lead time" column on the older rows below was calculated on **Aug 6** and is therefore **6 days optimistic**. The rows marked ✅ **chosen** were recalculated today. Anything still unbooked in Wave 1 is now overdue, not early.
 
 > 💡 **The whole strategy in one line:** almost everything left is **free to hold and free to cancel** — book it now and lose nothing. Only about **€215** of what remains is real money at risk, and every euro of that can wait until the dates in Wave 3.
 
@@ -23,12 +25,13 @@
 | Madrid — Plenora Alejandro Dumas, C. de Alejandro Dumas 30, 28005 [📍](https://maps.google.com/?q=Calle+de+Alejandro+Dumas+30+28005+Madrid+Spain) | 5149971517 · PIN **7526** · €671.73 paid · ✅ **checked in online** |
 | Sagrada Família ⚠️ nominative | Aug 27 · entry 17:45 · EN tour 18:30 · code **103719876** · **bring passports** |
 | Park Güell | Aug 27 · 09:30 · 4 × €18 · locator **700328431455** |
-| Pena Palace (Sintra) | Aug 24 · 09:00 palace slot · Essential Visit · paid |
-| Jerónimos cloister | Aug 23 · order **38185413** · paid |
+| Pena Palace (Sintra) | Aug 24 · 10:00 palace slot · Essential Visit · paid (+ 4 park-shuttle tickets, undated) |
+| Quinta da Regaleira (Sintra) | Aug 24 · **entry window 14:30–15:00** · MEO Blueticket **38339594** · €80.54 paid (3 × ADULTO €20 + 1 × JOVEM €15 + 6% fee) · VISITAS LIVRES self-guided · ⚠️ **the email is not a ticket — download the PDFs** |
+| Jerónimos cloister | Aug 23 · purchase **38185413** (03-08-2026, Visa/Mastercard) · 2 × ADULTO €18 + 2 × JOVEM 13-24 €9 = €54 + 5% fee €3.32 → **€57.32 paid** · ⚠️ **the email is not a ticket — download the PDFs from the client area** · 🔲 slot time is on the PDF, not the receipt |
 | Torre de Belém | Aug 23 · 16:00 slot · order **38185394** · paid |
-| São Vicente de Fora | Aug 25 · ref **980497008** (2 adult, 2 youth) |
+| São Vicente de Fora | Tue Aug 25 · ref **980497008** (2 × adult + 2 × youth) · start Largo de São Vicente, 1100-568 · ⚠️ **download the PDF tickets** (show at the ticket office) · ~1h visit · free cancel/reschedule until **23:59 Aug 24** |
 | Castelo de São Jorge | Open ticket to 1 Nov 2026 · entry from 09:00 · paid |
-| 7 Bridges sunset cruise (Porto) | Aug 21 · 18:45 · ref **GYG7VKRQ9BVG** · meet 430 Rua da Praia, Gaia (door C) |
+| 7 Bridges sunset cruise (Porto) | Aug 21 · 18:45–20:45 · ref **GYG7VKRQ9BVG** (booking #368686504) · Leçaodouro +351 934 604 483 · meet 430 Rua da Praia, Gaia (door C) |
 
 ---
 
@@ -47,19 +50,20 @@ The big money is already spent and already non-refundable: flights, both AVE leg
 
 ---
 
-## 🔴 Wave 1 — Do today or this weekend (Aug 6–9)
+## 🔴 Wave 1 — Overdue as of Aug 12 — clear this list today
 
 Capacity-limited, popular, or slow to reply. **Nothing here costs anything to hold.**
 
 | Item | Why now | For | Lead time | € at risk | How |
 | ---- | ------- | --- | --------- | --------- | --- |
 | **Escolania choir reservation** | Free but seat-capped, and the choir is back from its Aug 1–26 break on Aug 27 — the first Fridays refill fast | Fri Aug 28, 13:00 | 22 days | **€0** | [reserves.abadiamontserrat.cat](https://reserves.abadiamontserrat.cat/en/560-reservations/2985-noon-pray-cant-de-lescolania) — the **abbey ticket shop**, not escolania.cat |
-| **Taberna dos Mercadores** | **16 seats total** and email is the only channel that reliably answers — allow days for a reply | Thu Aug 20 dinner | 14 days | **€0** | Email via tabernadosmercadores.com |
+| **Taberna dos Mercadores** ✅ **Day 1 dinner — chosen** | **8 tables**, and the restaurant says it books *months* ahead. Now 8 days out — this is the tightest table of the trip | Thu Aug 20, 19:15 | **8 days** | **€0** | ☎️ **+351 222 010 510 — but only 10:30–11:30 (GMT+1)**, their one daily window. Else the form on tabernadosmercadores.com (24h reply). Walk-ins "subject to availability"; last entry 21:45 |
+| **Escama** ✅ **Day 3 farewell dinner — chosen** | Saturday night on the Ribeira waterfront in August. Was a Wave 2 "alternate" — it's now the pick, so it moves up | Sat Aug 22, 20:00 | **10 days** | **€0** | TheFork widget on escamaporto.com · reservas@escamaporto.com · +351 913 595 551. 📍 **Moved to Cais da Ribeira 29** — not Mouzinho da Silveira |
+| **Bartali Pizza Co.** ✅ **Girona lunch — chosen** | Sunday service is **13:00–15:30 only** and it's a 4.8★ room; a 15:00 walk-in will not happen | Sun Aug 30, 14:00 | 18 days | **€0** | bartalipizza.com / OpenTable / Resy · +34 972 21 09 91 · C/ Nou del Teatre 3, Girona |
 | **Sobrino de Botín** | World's oldest restaurant; prime tables go 3–4 weeks out and we want the late seating | Wed Sep 2, **21:15** | 27 days | **€0** | [botin.es](https://botin.es/en/) or +34 91 366 42 17 |
 | **Parreirinha de Alfama** (fado) | Fado houses fill 1–2 weeks out in August | Tue Aug 25, ~20:00 | 19 days | **€0** | +351 21 886 82 09 · Clube de Fado as backup |
 | **Gruta** | Tiny room, Bib Gourmand — books up fast | Sat Aug 22 dinner | 16 days | **€0** | grutaporto.com |
 | **Lakasa** (or **Bacira**) | Farewell dinner, a Friday, in Chamberí — the three hardest conditions at once; books 1–2 weeks out | Fri Sep 4, **20:45** | 29 days | **€0** | [lakasa.es](https://lakasa.es) 1st choice · [bacira.es](https://bacira.es) backup · 4 covers, €50–70/pp |
-| ~~**Quinta da Regaleira**~~ ✅ | **Booked & paid Aug 12** — MEO Blueticket purchase **38339594**, Visa/Mastercard | Mon Aug 24, afternoon | Done | **€80.54** | **VISITAS LIVRES** (self-guided) — 3 × ADULTO €20 + 1 × JOVEM 6–17 €15 = €75, + 6% service fee €5.54. ⚠️ **The email is not a ticket** — download the PDFs |
 
 ### 🔑 Admin gates — free, but they block other things
 
@@ -71,7 +75,7 @@ Capacity-limited, popular, or slow to reply. **Nothing here costs anything to ho
 | ~~**Message Lisbon host — early bag drop**~~ | ✅ **Resolved** — Isabelly receives at 12:00, online check-in done. Day 1 rewritten around it; lockers/LUGGit are now fallback-only | — | — |
 | **Ask AB Sagrada Família Bofill for the deposit amount** | Registration is done, but a **physical credit card** is required at check-in for a pre-auth hold, and the figure isn't in the booking. You need to know it before it eats a card limit at 22:45 — and confirm whether the tourist tax can go on card too | Before Aug 26 | Booking.com chat |
 | **Complete the Porto (Aposentus) check-in link** | The host only sends it **2 days before arrival** — it won't exist until ~Aug 18, and it carries the entry instructions | Same day it arrives (~Aug 18) | Watch email + Booking.com chat |
-| **Verify the Jerónimos slot time (order 38185413)** | The 12:00 Lisbon handover shifts Belém ~45 min later. If the slot is ≤12:30 it now clashes — ask Isabelly for 11:30 instead | Before Aug 23 | Order confirmation email |
+| **Verify the Jerónimos slot time (order 38185413)** | The 12:00 Lisbon handover shifts Belém ~45 min later. If the slot is ≤12:30 it now clashes — ask Isabelly for 11:30 instead | Before Aug 23 | **Download the ticket PDFs from the client area** — the purchase email lists only items and the €57.32 total, no date/time |
 | **Message Zaragoza host (Isabel) — early drop** | Arrive 12:28, check-in 16:00 | By ~Aug 26 | Airbnb chat · fallback: Delicias consigna 08:00–21:00, €4–6/bag |
 
 ---
@@ -82,9 +86,10 @@ Still free to hold, but a week out is when these tighten.
 
 | Item | Why this deadline | For | Lead time | € at risk | How |
 | ---- | ----------------- | --- | --------- | --------- | --- |
-| **MUU** | Small dinner room, 21:00 seating | Fri Aug 21 | 7 days | **€0** | muu-restaurant.com |
+| **Antunes** ✅ **Day 2 dinner — chosen** | Kitchen **closes 22:00** and the cruise doesn't land until 20:45. Tell them explicitly: four people, 21:00, straight off the river | Fri Aug 21, 21:00 | 9 days | **€0** | ☎️ +351 222 052 406 · R. do Bonjardim **614** (not the old 525). Walk-in backstop: **Cervejaria Gazela** till 22:30 |
+| **Tascantiga** ✅ **Sintra lunch — chosen** | Small terrace in peak August, and Monday is **lunch service only (12:15–16:15)** — there is no evening seating to fall back on | Mon Aug 24, 12:45 | 12 days | **€0** | ☎️ +351 21 924 3242 · Escadinhas da Fonte da Pipa 2–4 |
+| **MUU** | Small dinner room, 21:00 seating — now only the splurge fallback for Day 2 | Fri Aug 21 | 7 days | **€0** | muu-restaurant.com |
 | **O Gaveto** | Matosinhos seafood on a Saturday | Sat Aug 22 lunch | 8 days | **€0** | ogaveto.com |
-| **Escama** | Day 3 dinner alternate — book alongside O Gaveto and drop one later | Sat Aug 22 | 8 days | **€0** | escamaporto.com |
 | **Douro Option B boat** | Saturday departures sell out; book on a **free-cancel platform** so the A/B call can stay open | Sat Aug 22 | 8 days | **€0** (free-cancel) | GetYourGuide / cruzeiros-douro.pt — **final A/B decision by Aug 17** |
 | **Cálem port lodge** *(optional)* | Only if you want it — it consumes the 16:30–17:30 Gaia window and pushes São Francisco to Day 2 | Thu Aug 20 | 6 days | ~€20–30 | tour.calem.pt |
 
