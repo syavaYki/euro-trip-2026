@@ -3,10 +3,10 @@
 
 > ⚠️ **Revised Aug 5.** Segovia is dropped (Emily's UAM commitments at Cantoblanco — Thu 15:00–18:00, Fri 11:00–16:00). **El Pardo** replaces it as Friday's outing, **Andén 0 + Chamberí** join the evening, and the **Real Jardín Botánico** comes off Day 3.
 
-> ⚠️ **Closure board — verified Aug 5, 2026:**
-> - **Ermita de San Antonio de la Florida** (Goya's frescoes + tomb) — closed for conservation since Mar 17, 2025, no confirmed reopening. Check [esmadrid.com](https://www.esmadrid.com/en/tourist-information/ermita-de-san-antonio-de-la-florida) before trying.
+> ⚠️ **Closure board — verified Aug 12, 2026:**
+> - **Ermita de San Antonio de la Florida** (Goya's frescoes + tomb) — ✅ **reopened Jun 12, 2026** after restoration (confirmed via Infobae, Gacetín Madrid, Patrimonio Nacional, diario.madrid.es and [esmadrid.com](https://www.esmadrid.com/en/tourist-information/ermita-de-san-antonio-de-la-florida), which shows normal current hours and no closure notice). Not built into the locked plan, but a viable add if a slot opens up.
 > - **Teleférico de Madrid** — **closed since 2022 for structural repairs**, still no reopening date. Do not plan on it.
-> - **San Antonio de los Alemanes** closes ALL of August — reopens the week we arrive (see Churches).
+> - **San Antonio de los Alemanes** — ❌ **no guided visits run Jul, Aug or Sep 2026** ("Mes de agosto cerrado," no visits Jul/Aug/Sep — realhermandaddelrefugio.org, the church's own authority). Dropped from our Day 2; see Churches for the caveat.
 > - **Templo de Debod interior** — open again on a summer schedule (Tue–Sun 10:00–19:00 to Sep 15, last entry 18:30, closed Mon); the sunset terrace outside is always open.
 > - **El Capricho park** — weekends + holidays only; we have no free weekend day this trip.
 >
@@ -39,12 +39,12 @@
 
 | Name | Why go | Cost | Hours (our week) | Tip |
 |------|--------|------|------------------|-----|
-| **San Antonio de los Alemanes** [📍](https://maps.google.com/?q=Iglesia+de+San+Antonio+de+los+Alemanes+Madrid+Spain) ⭐⭐ | **The most surprising interior in Madrid** — every surface of the 1633 ellipse frescoed by Luca Giordano (1689). "The Sistine Chapel of Madrid" | **€5–12** by formula, audio guide incl. (€12 combo adds San Plácido) | ~Tue–Sat 10–18 (last 17:30), Sun 13–16; **closed ALL Aug — reopens our week**; daily Mass ~18:00 | Our Day 2, 16:00. Sources disagree on exact 2026 hours — realhermandaddelrefugio.org is the authority; if shut, it's the August reopening lag |
+| **San Antonio de los Alemanes** [📍](https://maps.google.com/?q=Iglesia+de+San+Antonio+de+los+Alemanes+Madrid+Spain) ⭐⭐ ⚠️ | **The most surprising interior in Madrid** — every surface of the 1633 ellipse frescoed by Luca Giordano (1689). "The Sistine Chapel of Madrid" | **€5–12** by formula, audio guide incl. (€12 combo adds San Plácido) | ~Tue–Sat 10–18 (last 17:30), Sun 13–16 **outside Jul–Sep**; daily Mass ~18:00 | ❌ **Currently unvisitable Jul–Sep 2026 — no guided visits at all** per realhermandaddelrefugio.org (the church's own authority), not just an August closure. Dropped from Day 2 in favour of Descalzas Reales. Worth revisiting on a trip outside this window |
 | **Catedral de la Almudena + crypt** [📍](https://maps.google.com/?q=Catedral+de+la+Almudena+Madrid+Spain) ⭐ | 1879–1993 cathedral with a defiantly contemporary interior; below it, Spain's largest Neo-Romanesque **crypt — 400 columns**, nearly tourist-free | Cathedral free (donation); crypt ~€1; museum + dome €7 | Cathedral ~10–20:30 daily; **crypt 10–14 + 16:30–20** | Crypt entrance is around the corner on C/ Mayor — and it shuts 14:00–16:30; go late morning (our Day 2 12:45) |
 | **Basílica de San Francisco el Grande** [📍](https://maps.google.com/?q=Bas%C3%ADlica+de+San+Francisco+el+Grande+Madrid+Spain) ⭐⭐ | The **largest dome in Spain** (33 m — wider than St Paul's) + an early Goya among the chapels | €5 guided | Tue–Sat ~10:30–13:30 + 16–18; Sun Mass | Unscheduled — the best "spare afternoon hour" in La Latina; stand dead-centre under the dome |
 | **Real Monasterio de las Descalzas Reales** [📍](https://maps.google.com/?q=Monasterio+de+las+Descalzas+Reales+Madrid+Spain) ⭐ | Working 1559 cloister stuffed with Titian, Rubens and a world-class Flemish tapestry cycle — nuns still live behind the walls | **€6, obligatory guided tour included** (free Wed/Thu 16–18:30 EU residents only) | Tue–Sat 10–14 + 16–18:30, Sun 10–15, **closed Mon**, last access −1h | The Day 2 16:00 swap option — book the slot at tickets.patrimonionacional.es; ~1h Spanish-led tour, English audio support |
 | **Iglesia de San Ginés** [📍](https://maps.google.com/?q=Iglesia+de+San+Gin%C3%A9s+Madrid+Spain) | 1358 parish beside the chocolatería — an **El Greco** hangs in its Cristo chapel | Free | Daily ~09–13 + 18–21 | Ask the verger to light the El Greco chapel if it's dark; pairs with the churros ritual |
-| **Real Ermita de San Antonio de la Florida** [📍](https://maps.google.com/?q=Real+Ermita+de+San+Antonio+de+la+Florida+Madrid+Spain) ⭐⭐ ⚠️ | Goya's own Sistine — he frescoed the dome in 1798 and is buried beneath it (minus his skull, lost in France) | Free | **CLOSED for conservation since Mar 2025 — verify** | If it reopens by Sep, it jumps straight into the Day 2 Debod cluster (10 min walk) — check esmadrid.com the week before |
+| **Real Ermita de San Antonio de la Florida** [📍](https://maps.google.com/?q=Real+Ermita+de+San+Antonio+de+la+Florida+Madrid+Spain) ⭐⭐ | Goya's own Sistine — he frescoed the dome in 1798 and is buried beneath it (minus his skull, lost in France) | Free | ✅ **Reopened Jun 12, 2026** after restoration — Tue–Sun 9:30–14 + 15–19 (summer sched. to Sep 15), closed Mon | Not in the locked plan, but a real option again — it's a 10 min walk from the Day 2 Debod cluster if a slot opens up |
 | **Basílica Pontificia de San Miguel** [📍](https://maps.google.com/?q=Bas%C3%ADlica+Pontificia+de+San+Miguel+Madrid+Spain) | Rare Italian-baroque **convex facade**, gilded quiet inside | Free | Daily ~09:45–13:30 + 17:30–21:15 | 2 min behind Mercado de San Miguel — a 10-minute Day 2 add-on while the market digests |
 | **Iglesia de San Pedro el Viejo** [📍](https://maps.google.com/?q=Iglesia+de+San+Pedro+el+Viejo+Madrid+Spain) | 14th-century **Mudéjar brick tower** — possibly the oldest structure in Madrid | Free | Exterior always; interior variable | Floodlit walk-by on the Day 3 Cava Baja night — look up from C/ Nuncio |
 | **Iglesia de San Andrés + Capilla del Obispo** [📍](https://maps.google.com/?q=Iglesia+de+San+Andr%C3%A9s+Madrid+Spain) | Twin La Latina churches; the 1535 Obispo chapel holds a carved-alabaster altarpiece almost nobody sees | Free; Obispo by booked tour (Tue/Thu) | San Andrés daily ~08–13 + 18–20 | Plaza de la Paja outside is Madrid's loveliest medieval square — gelato bench material |
@@ -124,11 +124,11 @@
 | Mood | Pick | Where it fits |
 |------|------|---------------|
 | "Wow the teenagers" | Royal Armoury → Debod sunset → rowboats | Days 2–3 (all scheduled) |
-| Painted ceilings | San Antonio de los Alemanes → Descalzas → San Francisco el Grande | Day 2 + spare hours |
+| Painted ceilings | Descalzas → San Francisco el Grande (~~San Antonio de los Alemanes~~ — no guided visits Jul–Sep 2026) | Day 2 + spare hours |
 | Free + outdoors | Madrid Río, Retiro, Debod terrace, Plaza Mayor at night | Every evening |
 | Rainy half-day | Prado overtime, Thyssen, CaixaForum Assyria, Descalzas tour | Slot as needed |
 | Quiet + strange | Carboneras turnstile, Almudena crypt, Panteón de Hombres Ilustres, Atocha turtles | 15–40 min each, all near the route |
-| Next trip | El Rastro (Sun), El Capricho (Sat–Sun), cemeteries, Ponzano dinner, Teleférico (if ever repaired), Ermita de la Florida (if reopened) | — |
+| Next trip | El Rastro (Sun), El Capricho (Sat–Sun), cemeteries, Ponzano dinner, Teleférico (if ever repaired), San Antonio de los Alemanes (outside Jul–Sep) | — |
 
 ---
 
@@ -137,12 +137,12 @@
 | Item | Action as of Aug 5 | Where |
 |------|--------------------|-------|
 | **Prado — Thu Sep 3, 10:00** | Buy this week; first-Sep mornings sell out | [entradas.museodelprado.es](https://entradas.museodelprado.es/) |
-| **Palacio Real — Wed Sep 2, 10:00** | Buy this week (€18/€9); add Royal Kitchen if offered | [tickets.patrimonionacional.es](https://tickets.patrimonionacional.es/en/tickets/palacio-real-de-madrid) |
+| ~~**Palacio Real — Wed Sep 2**~~ ✅ **booked, 10:15** | Order **R120871238** · €75.08 · 4 × Self-Guided Visit / Standard Admission · ⚠️ download the ticket PDFs | — |
 | ~~Avant Madrid Chamartín ↔ Segovia~~ | ❌ **Cancelled Aug 5 — do not book.** Segovia dropped for Emily's UAM day | — |
 | **Palacio Real de El Pardo — Fri Sep 4** | No booking needed, but ⚠️ **verify it's open the day before — it shuts at no notice for state visits** | [tickets.patrimonionacional.es](https://tickets.patrimonionacional.es/) |
 | **Cercanías C-4 to Cantoblanco — Thu + Fri** | Buy at the machine on the day. ⚠️ **Metro card does not work** | Renfe machines, ~€2/pp each way |
 | Reina Sofía — Thu 17:30 | Buy online day-of or before; or free 19:00 window (see master for the tradeoff) | [museoreinasofia.es](https://www.museoreinasofia.es/en) |
-| Descalzas Reales — optional Wed 16:00 | Book slot a few days out if swapping in | [tickets.patrimonionacional.es](https://tickets.patrimonionacional.es/) |
+| Descalzas Reales — Wed 16:00 (replaces San Antonio de los Alemanes) | Book slot a few days out | [tickets.patrimonionacional.es](https://tickets.patrimonionacional.es/) |
 | Templo de Debod interior — optional | Reserve a free timed slot if wanted (before 18:30) | madrid.es — search "Debod reservas" |
 | Casa Museo Lope de Vega — optional | Free, but the guided slot must be booked | [casamuseolopedevega.org](https://casamuseolopedevega.org/) |
 | Retiro rowboats — Thu **~19:00** | Walk up, or reserve same-day in the app. Buy the ticket while waiting for Emily's train, not after it arrives | Madrid Móvil app |
@@ -151,4 +151,4 @@
 
 ---
 
-*Research date: May 2026, re-verified Aug 5, 2026 (hours, prices, closures for Sep 1–5) via patrimonionacional.es, museoreinasofia.es, museodelprado.es, madrid.es, esmadrid.com, archimadrid.org and Madrid press. Sunset Sep 2 ≈ 20:47 (computed + cross-checked). Flagged: Teleférico closed, Ermita de la Florida closed, San Antonio de los Alemanes new paid-visit regime.*
+*Research date: May 2026, re-verified Aug 12, 2026 (hours, prices, closures for Sep 1–5) via patrimonionacional.es, museoreinasofia.es, museodelprado.es, madrid.es, esmadrid.com, archimadrid.org, realhermandaddelrefugio.org and Madrid press. Sunset Sep 2 ≈ 20:47 (computed + cross-checked). Flagged: Teleférico closed, Ermita de la Florida reopened Jun 12 2026, San Antonio de los Alemanes no guided visits Jul–Sep 2026.*

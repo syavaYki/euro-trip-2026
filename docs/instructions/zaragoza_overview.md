@@ -55,7 +55,7 @@
 
 | Sight | Why | Cost | Book? | When (our day) |
 |-------|-----|------|-------|----------------|
-| **La Aljafería** ⭐⭐ | 11th-c. Moorish palace, Alhambra-class, no crowds | €7 · €2 student · u12 free | ✅ [tickets.aljaferia.es](https://tickets.aljaferia.es) | Tue 10:15 (daily 10:00–18:00) |
+| **La Aljafería** ⭐⭐ | 11th-c. Moorish palace, Alhambra-class, no crowds | €7 · €2 student · u12 free | ✅ [cortesaragon.es](https://www.cortesaragon.es/Visitas-e-informacion.2270.0.html) or phone 976 289 683 (book by phone/in person if online booking unavailable) | Tue 10:15 (daily 10:00–18:00) |
 | **La Seo + Tapestry Museum** ⭐ | Gothic-Mudéjar cathedral + world-class Flemish tapestries | €10 · €7 youth | At door | Mon 17:30 (open Mon; shut 14:30–16:00) |
 | **Torre Mirador del Pilar** ⭐ | Lift to 80 m — domes, Ebro, whole city | €6 · €4 youth (combo w/ Seo €12/€9) | At door | Mon 19:00 — **last lift 19:30** |
 | **Basílica del Pilar** | Spain's great Marian shrine; Goya frescoes | Free | No | Mon siesta + evening (daily ~06:45–20:30) |
@@ -92,7 +92,7 @@
 | Item | Status / Deadline (as of Aug 5) | Where |
 |------|--------------------------------|-------|
 | ~~**🔑 Guest registration form → releases lockbox code**~~ | ✅ **Done — code released** | Remaining: save the code offline on two phones |
-| **Aljafería timed entry Tue ~10:00** | 🔲 Book by ~Aug 25 | [tickets.aljaferia.es](https://tickets.aljaferia.es) |
+| **Aljafería timed entry Tue ~10:00** | 🔲 Book by ~Aug 25 | [cortesaragon.es](https://www.cortesaragon.es/Visitas-e-informacion.2270.0.html) or phone 976 289 683 (book by phone/in person if online booking unavailable — verify current process) |
 | **Casa Lac lunch Tue 13:30** | 🔲 Book by ~Aug 25 | 976 39 61 96 · restaurantecasalac@gmail.com |
 | Host early bag-drop ask (Mon ~13:00) | 🔲 Message this week | Airbnb / +34 659 60 06 43 |
 | AVE BCN→ZGZ · ZGZ→Madrid | ✅ Booked | **WJXSCF** · **4U5NZV** |

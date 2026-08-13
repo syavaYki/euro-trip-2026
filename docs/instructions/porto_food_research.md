@@ -98,7 +98,7 @@ Two clusters: Ribeira/downtown, and Matosinhos (Metro Line A to Matosinhos-Sul, 
 | **Pão – Padaria Artesanal** [📍](https://maps.google.com/?q=P%C3%A3o+%E2%80%93+Padaria+Artesanal+Porto+Portugal) | Organic sourdough stall inside Mercado da Foz | Moderate | Foz (Rua de Diu 365) | Day 3 coffee stop: savoury toast topped with Portuguese canned fish — rare at breakfast |
 | **Manteigaria** [📍](https://maps.google.com/?q=Manteigaria+Porto+Portugal) ⭐ | Reddit's unanimous #1 standalone nata | ~€1.30/nata | Centre | Standing counter only: nata straight from the oven, cinnamon, eat immediately, order a bica |
 | **Fábrica da Nata** [📍](https://maps.google.com/?q=F%C3%A1brica+da+Nata+Porto+Portugal) | Reliable nata without Manteigaria's queue | ~€1.30/nata | Santa Catarina + others | The quick fix mid-shopping on Rua de Santa Catarina |
-| **Aloma** [📍](https://maps.google.com/?q=Aloma+Porto+Portugal) 🏆 | Best Pastel de Nata 2024–25 winner; has an OPO airport shop | ~€1.50/nata | Airport + city | **Our Day 4 breakfast**: airside at OPO before the 09:00 flight — richer, more egg-forward custard |
+| **Aloma** [📍](https://maps.google.com/?q=Aloma+Lisbon+Portugal) 🏆 | Best Pastel de Nata 2024–25 winner; richer, more egg-forward custard — but **no Porto airport shop**, only Lisbon (LIS) and a city-centre counter | ~€1.50/nata | Lisbon only | Not for Porto Day 4 — grab coffee + a pastry at Costa Coffee or First Class Café airside at OPO instead |
 
 ---
 
@@ -112,7 +112,7 @@ Small, family-run, Portuguese-only menus, paper tablecloths, cash welcome. A *do
 
 | Name | Why | Price | Book? | Tip |
 |------|-----|-------|-------|-----|
-| **O Buraco** [📍](https://maps.google.com/?q=O+Buraco+Rua+do+Bolh%C3%A3o+95+Porto+Portugal) ⭐⭐ · R. do Bolhão 95 | 3 min from the hotel. Tables of work colleagues at 13:00, menu rewritten daily and posted on their Facebook — bacalhau, fried fish, grilled steak, *rabanada* | €10–15/pp | Phone for lunch | The house bacalhau is the thing. Go at 12:45 or after 14:00 |
+| **A Tasquinha** [📍](https://maps.google.com/?q=A+Tasquinha+Rua+do+Carmo+23+Porto+Portugal) ⭐⭐ · R. do Carmo 23 | 12 min from the hotel, near Igreja do Carmo. 40+ year family-run tasca — bacalhau à Braga, à Lagareira, com broa. Replaces **O Buraco, closed for summer holidays until Aug 31, 2026** | €10–15/pp | Walk-in (Mon–Sat) | The bacalhau à Lagareira is the order — regulars call it the best cod in Porto for the price |
 | **Casa Expresso** [📍](https://maps.google.com/?q=Casa+Expresso+Pra%C3%A7a+de+Carlos+Alberto+73+Porto+Portugal) ⭐⭐ · Pç. de Carlos Alberto 73 | Tasca culture undiluted: chalkboard in the window, dishes €5–6, regulars standing at the bar. *Sandes de rojão*, alheira, dish of the day | €10–15/pp | ❌ none taken | Cedofeita side, 10 min from the hotel. Go early — small room |
 | **Tasquinha Zé Povinho** [📍](https://maps.google.com/?q=Tasquinha+Z%C3%A9+Povinho+Rua+de+Clemente+Meneres+36+Porto+Portugal) · R. de Clemente Meneres 36 | Never renovated, never had to: mains ~€6, soup + bread ~€2.50, jug wine. Working-class Porto, still | €8–14/pp | Walk-in | The cheapest honest sit-down meal in the centre |
 | **O Rápido** [📍](https://maps.google.com/?q=O+R%C3%A1pido+Rua+da+Madeira+194+Porto+Portugal) · R. da Madeira 194 | Classic tasca beside São Bento — weekly rotating specials; ***tripas à moda do Porto* Thu & Sat**, *tripa enfarinhada* otherwise (~€14) | €12–18/pp | Walk-in | This — not a petiscos bar — is where to eat the dish behind the *tripeiros* nickname |
@@ -179,10 +179,10 @@ Porto has an excellent gelato scene — the family treat after churches and long
 
 | Day | Breakfast | Lunch | Dinner | Late |
 |-----|-----------|-------|--------|------|
-| **Day 1** (Thu) | Confeitaria do Bolhão (+ Manteigaria nata if keen) | **O Buraco** (R. do Bolhão 95) / Casa Guedes counter / Bolhão stalls | **Taberna dos Mercadores** ✅ 🔴 book — **Adega São Nicolau** ⭐ (phone) if full | Casa da Bifana after the Clérigos night climb |
+| **Day 1** (Thu) | Confeitaria do Bolhão (+ Manteigaria nata if keen) | **A Tasquinha** (R. do Carmo 23) / Casa Guedes counter / Bolhão stalls | **Taberna dos Mercadores** ✅ 🔴 book — **Adega São Nicolau** ⭐ (phone) if full | Casa da Bifana after the Clérigos night climb |
 | **Day 2** (Fri) | Época or Hakko | Café Santiago francesinha (by 11:30) — or **Cantarinha**, cheaper and local | **Antunes** ✅ ⭐ 21:00 (post-cruise) — ☎️ ahead, **kitchen closes 22:00**. Walk-in backstop **Cervejaria Gazela** (till 22:30). ⚠️ Solar Moinho de Vento is dropped — August annual closure | Picha Café |
 | **Day 3** (Sat) | SO Coffee Roasters or Confeitaria (opens 07:00 Sat) | **Salta o Muro / Tito**, R. Heróis de França ⭐ (O Gaveto = the €50–80 splurge, optional) | **Escama** ✅ 🔴 book — 20:00, Cais da Ribeira 29. Casa Expresso ⭐ / O Rápido (Sat = *tripas* day) if full | Ribeira night walk — Escama puts you on the quay already |
-| **Day 4** (Sun) | **OPO airside: Aloma nata + Costa** — Bolhão market & confeitaria closed Sun | (in Lisbon) | — | — |
+| **Day 4** (Sun) | **OPO airside: coffee + pastry at Costa / First Class Café** — Bolhão market & confeitaria closed Sun | (in Lisbon) | — | — |
 
 ---
 
@@ -190,8 +190,8 @@ Porto has an excellent gelato scene — the family treat after churches and long
 
 | Budget | Best Bets |
 |--------|-----------|
-| €1–5 (snacks) | Nata (Bolhão / Manteigaria / Aloma), bifana (Conga / Casa da Bifana), cachorrinhos (Gazela), *sande de pernil* (Casa Guedes), presunto sandwich (Xico), Bolhão stalls |
-| €8–15 (the locals' band) ⭐ | **O Buraco**, **Casa Expresso**, **Tasquinha Zé Povinho**, **Cantarinha**, O Golfinho, Mercado Food & Drinks |
+| €1–5 (snacks) | Nata (Bolhão / Manteigaria), bifana (Conga / Casa da Bifana), cachorrinhos (Gazela), *sande de pernil* (Casa Guedes), presunto sandwich (Xico), Bolhão stalls |
+| €8–15 (the locals' band) ⭐ | **A Tasquinha**, **Casa Expresso**, **Tasquinha Zé Povinho**, **Cantarinha**, O Golfinho, Mercado Food & Drinks |
 | €15–25 (mid) | **Adega São Nicolau**, **Antunes**, **O Rápido**, **Salta o Muro / Tito / Casa Serrão / O Lusitano** (Matosinhos), Solar Moinho de Vento, Café Santiago, Terreiro, Terra Nova |
 | €25–50 (occasion) | Taberna dos Mercadores (€25–35), **Escama (€30–50)**, Culto ao Bacalhau |
 | €35+ (tourist-priced / chef rooms) | MUU Steakhouse, Gruta, Restaurante Lusíadas, O Gaveto |

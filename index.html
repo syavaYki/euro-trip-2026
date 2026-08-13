@@ -270,6 +270,8 @@
       text-overflow: ellipsis;
       min-width: 0;
     }
+    /* Flat cards have no expandable body — wrap instead of truncating */
+    .tcard-flat .tcard-desc { white-space: normal; }
 
     .tcard-chevron {
       flex-shrink: 0;

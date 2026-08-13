@@ -1,12 +1,12 @@
 # 🎟️ Booking Tracker
 
 - **Today:** Wednesday Aug 12, 2026 · **T-7 days** to wheels-up (Wed Aug 19, 23:10)
-- **Booked & paid:** flights ×4 · AVE ×2 · all 5 hotels · 9 timed tickets
-- **Still open:** 11 restaurants/reservations · 5 paid tickets · 2 optional · 4 admin gates
+- **Booked & paid:** flights ×4 · AVE ×2 · all 5 hotels · 10 timed tickets
+- **Still open:** 11 restaurants/reservations · 4 paid tickets · 2 optional · 4 admin gates
 
 > ⚠️ **Lead-time note:** the "Lead time" column on the older rows below was calculated on **Aug 6** and is therefore **6 days optimistic**. The rows marked ✅ **chosen** were recalculated today. Anything still unbooked in Wave 1 is now overdue, not early.
 
-> 💡 **The whole strategy in one line:** almost everything left is **free to hold and free to cancel** — book it now and lose nothing. Only about **€215** of what remains is real money at risk, and every euro of that can wait until the dates in Wave 3.
+> 💡 **The whole strategy in one line:** almost everything left is **free to hold and free to cancel** — book it now and lose nothing. Only about **€160** of what remains is real money at risk, and every euro of that can wait until the dates in Wave 3.
 
 ---
 
@@ -31,6 +31,7 @@
 | Torre de Belém | Aug 23 · 16:00 slot · order **38185394** · paid |
 | São Vicente de Fora | Tue Aug 25 · ref **980497008** (2 × adult + 2 × youth) · start Largo de São Vicente, 1100-568 · ⚠️ **download the PDF tickets** (show at the ticket office) · ~1h visit · free cancel/reschedule until **23:59 Aug 24** |
 | Castelo de São Jorge | Open ticket to 1 Nov 2026 · entry from 09:00 · paid |
+| Palacio Real (Madrid) | Wed Sep 2 · **10:15** · order **R120871238** · 4 × Self-Guided Visit / Standard Admission · **€75.08 paid** · Calle de Bailén, s/n [📍](https://maps.google.com/?q=Palacio+Real+Madrid+Spain) · ⚠️ **download the ticket PDFs** |
 | 7 Bridges sunset cruise (Porto) | Aug 21 · 18:45–20:45 · ref **GYG7VKRQ9BVG** (booking #368686504) · Leçaodouro +351 934 604 483 · meet 430 Rua da Praia, Gaia (door C) |
 
 ---
@@ -42,11 +43,11 @@ The worry — *"don't want to pay for everything in case the trip dies, don't wa
 | Kind | Cancellation cost | So the rule is |
 | ---- | ----------------- | -------------- |
 | **Restaurant tables & free reservations** (11 of the 16 open items) | **€0** — a phone call or an email cancels them | Book them **all today**. Waiting has no upside and a real downside. |
-| **Paid timed tickets** (5 items, ~€215 total) | Non-refundable once bought | Book each at its **latest safe date** — listed per item below. |
+| **Paid timed tickets** (4 items, ~€160 total) | Non-refundable once bought | Book each at its **latest safe date** — listed per item below. |
 
-The big money is already spent and already non-refundable: flights, both AVE legs, and all five hotels. So the *marginal* exposure from finishing the booking list is small — roughly **€215**, or about 3% of what the trip has already cost. That's the real number behind the worry, and it's low enough that the only genuine decision left is Oceanário (€108, optional) and Montserrat's Tot ticket (€286 — but buyable at the desk, so it never needs pre-paying).
+The big money is already spent and already non-refundable: flights, both AVE legs, and all five hotels. So the *marginal* exposure from finishing the booking list is small — roughly **€160**, or about 2% of what the trip has already cost. That's the real number behind the worry, and it's low enough that the only genuine decision left is Oceanário (€108, optional) and Montserrat's Tot ticket (€286 — but buyable at the desk, so it never needs pre-paying).
 
-> ⚠️ **The actual point of no return is Aug 18**, when the Zaragoza Airbnb charge (~$94) hits PayPal. Every hotel's free-cancel window (Aug 26) falls *after* departure, so it's decorative. If the trip is going to be called off, it has to be called off before Aug 18 — and the €215 below is what you'd forfeit on top of everything already sunk.
+> ⚠️ **The actual point of no return is Aug 18**, when the Zaragoza Airbnb charge (~$94) hits PayPal. Every hotel's free-cancel window (Aug 26) falls *after* departure, so it's decorative. If the trip is going to be called off, it has to be called off before Aug 18 — and the €160 below is what you'd forfeit on top of everything already sunk.
 
 ---
 
@@ -59,7 +60,7 @@ Capacity-limited, popular, or slow to reply. **Nothing here costs anything to ho
 | **Escolania choir reservation** | Free but seat-capped, and the choir is back from its Aug 1–26 break on Aug 27 — the first Fridays refill fast | Fri Aug 28, 13:00 | 22 days | **€0** | [reserves.abadiamontserrat.cat](https://reserves.abadiamontserrat.cat/en/560-reservations/2985-noon-pray-cant-de-lescolania) — the **abbey ticket shop**, not escolania.cat |
 | **Taberna dos Mercadores** ✅ **Day 1 dinner — chosen** | **8 tables**, and the restaurant says it books *months* ahead. Now 8 days out — this is the tightest table of the trip | Thu Aug 20, 19:15 | **8 days** | **€0** | ☎️ **+351 222 010 510 — but only 10:30–11:30 (GMT+1)**, their one daily window. Else the form on tabernadosmercadores.com (24h reply). Walk-ins "subject to availability"; last entry 21:45 |
 | **Escama** ✅ **Day 3 farewell dinner — chosen** | Saturday night on the Ribeira waterfront in August. Was a Wave 2 "alternate" — it's now the pick, so it moves up | Sat Aug 22, 20:00 | **10 days** | **€0** | TheFork widget on escamaporto.com · reservas@escamaporto.com · +351 913 595 551. 📍 **Moved to Cais da Ribeira 29** — not Mouzinho da Silveira |
-| **Bartali Pizza Co.** ✅ **Girona lunch — chosen** | Sunday service is **13:00–15:30 only** and it's a 4.8★ room; a 15:00 walk-in will not happen | Sun Aug 30, 14:00 | 18 days | **€0** | bartalipizza.com / OpenTable / Resy · +34 972 21 09 91 · C/ Nou del Teatre 3, Girona |
+| ~~**Bartali Pizza Co.** — Girona lunch~~ | ✅ **Booked** — 30-08-2026, 14:00h, **4 people**, SVYATOSLAV PODOLSKIY, table **COMEDOR INTERIOR** | Sun Aug 30, 14:00 | — | **€0** | +34 972 21 09 91 · C/ Nou del Teatre 3, Girona · Sunday service 13:00–15:30 only |
 | **Sobrino de Botín** | World's oldest restaurant; prime tables go 3–4 weeks out and we want the late seating | Wed Sep 2, **21:15** | 27 days | **€0** | [botin.es](https://botin.es/en/) or +34 91 366 42 17 |
 | **Parreirinha de Alfama** (fado) | Fado houses fill 1–2 weeks out in August | Tue Aug 25, ~20:00 | 19 days | **€0** | +351 21 886 82 09 · Clube de Fado as backup |
 | **Gruta** | Tiny room, Bib Gourmand — books up fast | Sat Aug 22 dinner | 16 days | **€0** | grutaporto.com |
@@ -87,7 +88,7 @@ Still free to hold, but a week out is when these tighten.
 | Item | Why this deadline | For | Lead time | € at risk | How |
 | ---- | ----------------- | --- | --------- | --------- | --- |
 | **Antunes** ✅ **Day 2 dinner — chosen** | Kitchen **closes 22:00** and the cruise doesn't land until 20:45. Tell them explicitly: four people, 21:00, straight off the river | Fri Aug 21, 21:00 | 9 days | **€0** | ☎️ +351 222 052 406 · R. do Bonjardim **614** (not the old 525). Walk-in backstop: **Cervejaria Gazela** till 22:30 |
-| **Tascantiga** ✅ **Sintra lunch — chosen** | Small terrace in peak August, and Monday is **lunch service only (12:15–16:15)** — there is no evening seating to fall back on | Mon Aug 24, 12:45 | 12 days | **€0** | ☎️ +351 21 924 3242 · Escadinhas da Fonte da Pipa 2–4 |
+| **Tascantiga** ✅ **Sintra lunch — chosen** | Small terrace in peak August, and Monday is **lunch service only (12:15–16:15)** — there is no evening seating to fall back on | Mon Aug 24, 13:25 | 12 days | **€0** | ☎️ +351 21 924 3242 · Escadinhas da Fonte da Pipa 2–4 |
 | **MUU** | Small dinner room, 21:00 seating — now only the splurge fallback for Day 2 | Fri Aug 21 | 7 days | **€0** | muu-restaurant.com |
 | **O Gaveto** | Matosinhos seafood on a Saturday | Sat Aug 22 lunch | 8 days | **€0** | ogaveto.com |
 | **Douro Option B boat** | Saturday departures sell out; book on a **free-cancel platform** so the A/B call can stay open | Sat Aug 22 | 8 days | **€0** (free-cancel) | GetYourGuide / cruzeiros-douro.pt — **final A/B decision by Aug 17** |
@@ -102,12 +103,12 @@ The paid tickets. Every one of these is safe to leave until now, and this is the
 | Item | Why this deadline | For | Lead time | € at risk | How |
 | ---- | ----------------- | --- | --------- | --------- | --- |
 | **Picasso Museum** | Summer Saturdays sell out; the 14:00 slot specifically | Sat Aug 29, 14:00 | 4 days | ~€25–40 | [museupicassobcn.cat](https://www.museupicassobcn.cat/) — under-18 free |
-| **Palacio Real** | Timed entry, capacity-capped, closes without notice for state visits | Wed Sep 2, 10:00 | 8 days | **€54** | [tickets.patrimonionacional.es](https://tickets.patrimonionacional.es/) — €18 adult / €9 youth |
+| ~~**Palacio Real**~~ | ✅ **Booked & paid** — order **R120871238**, €75.08, 4 × Standard Admission | Wed Sep 2, **10:15** | — | **€0** | ⚠️ Download the ticket PDFs · entrance Calle de Bailén, s/n |
 | **Museo del Prado** | On sale now; the 10:00 slot is the one that makes the day work | Thu Sep 3, 10:00 | 9 days | ~€30–45 | [museodelprado.es](https://www.museodelprado.es/en) — €15 adult, under-18 free |
 | **Aljafería** | Genuinely capacity-limited, small venue | Tue Sep 1, 10:00 | 7 days | **€18** | [tickets.aljaferia.es](https://tickets.aljaferia.es/) — €7/€2, bring student IDs |
 | **Casa Lac** | Spain's oldest restaurant — a week ahead is the local expectation; **lunch**, no Monday dinner service | Tue Sep 1, 13:30 | 7 days | **€0** | 976 39 61 96 · restaurantecasalac@gmail.com |
-| **7 Portes** | Sunday tables go early | Sun Aug 30 dinner | 5 days | **€0** | [7portes.com](https://www.7portes.com/) — book by ~Aug 20 to be safe |
-| **Girona train** *(only if Option A)* | Renfe fares climb as the date nears; pick the ~09:15 fast service | Sun Aug 30 | 5 days | ~€100–160 | renfe.com — Sants → Girona ~38 min. ⚠️ **Promo fares are non-refundable; Flexible costs more but cancels free** |
+| **7 Portes** *(optional splurge — La Bendita/el Xuletò/Bodega La Palma need no booking)* | Sunday tables go early | Sun Aug 30 dinner | 5 days | **€0** | [7portes.com](https://www.7portes.com/) — book by ~Aug 20 to be safe |
+| **Girona train** | Renfe fares climb as the date nears; pick the ~09:15 fast service | Sun Aug 30 | 5 days | ~€100–160 | renfe.com — Sants → Girona ~38 min. ⚠️ **Promo fares are non-refundable; Flexible costs more but cancels free** |
 | **Taberna La Bola** | ⚠️ **Book 13:00, not 14:00** — the 15:00 UAM run needs the first sitting | Thu Sep 3 lunch | ~5 days (by Aug 29) | **€0** | [labola.es/reservar](https://labola.es/reservar) · +34 91 547 69 30 — **cash only** |
 | **Casa Lucio** *(alt Sep 3 dinner)* | **Closed all August**, reopens ~Sep 1 — book right at reopening or not at all | Thu Sep 3 | 2 days | **€0** | [casalucio.es](https://www.casalucio.es/) |
 
@@ -133,7 +134,6 @@ Spending effort here is wasted; spending money here early is worse.
 | ---- | -------- | -------- | ---- |
 | **Oceanário de Lisboa** | The only meaningful money decision left. €108 for a 12:00 band on Day 4 (Wed Aug 26) — a strong a/c option on a hot departure day, but it competes with a relaxed Lisbon morning before the 18:55 flight. **Decide, don't drift.** | ~Aug 10 | **€108** |
 | **Douro Option A vs B** | A = beach default (free), B = Régua valley day (boat + CP train). Book the boat on a free-cancel platform by Aug 14 so the decision itself stays free | Boat Aug 14 · final call Aug 17 | €0 if free-cancel |
-| **Girona vs city-depth day** | Option A = Girona day trip (train cost), Option B = deeper Barcelona (free) | ~Aug 25 | €0 or ~€100–160 |
 | **Cardamomo flamenco** | Only if a Madrid evening actually frees up — 4 shows/night from €39, rarely sells out | Day-of is fine | ~€156 if all four |
 
 ---

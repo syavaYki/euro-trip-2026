@@ -47,7 +47,7 @@
 | Day | Theme | Key activities |
 |-----|-------|---------------|
 | **Day 1** (Tue Sep 1) | Arrival | Atocha 19:44 → taxi → PIN 7526 → dinner at El Brillante or Bodegas Rosell (call first) → optional Madrid Río night stroll |
-| **Day 2** (Wed Sep 2) | Royal Madrid ⭐ | Palacio Real 10:00 (booked) → Almudena + crypt (before 14:00) → San Miguel graze → Plaza Mayor → San Antonio de los Alemanes 16:00 → Malasaña/Chueca gelato → **Debod sunset 20:47** → **Botín 21:15** (booked) |
+| **Day 2** (Wed Sep 2) | Royal Madrid ⭐ | Palacio Real **10:15** (booked — R120871238) → Almudena + crypt (before 14:00) → San Miguel graze → Plaza Mayor → Descalzas Reales 16:00 (swapped in for San Antonio de los Alemanes — no guided visits Jul–Sep 2026) → Malasaña/Chueca gelato → **Debod sunset 20:47** → **Botín 21:15** (booked) |
 | **Day 3** (Thu Sep 3) | Art Day + first UAM run ⭐ | Prado 10:00 → CaixaForum wall → **La Bola cocido 13:00** ⚠️ (earlier than before, cash) → **C-4 from Sol 14:15, Emily on campus 15:00** → family back for Reina Sofía 15:50 → she rides back solo 18:00 → **Retiro rowboats 19:00** → Cava Baja crawl. ❌ Botánico dropped |
 | **Day 4** (Fri Sep 4) | Move-in + El Pardo ⭐⭐ | **Bags to C/ Alonso Cano 4 at 08:45** → walk her commute → **UAM 11:00–16:00** → family to **El Pardo** (palace, Goya tapestries, tortilla lunch) → collect 16:00 → settle her flat → Chamberí evening (Olavide, Andén 0) → **farewell dinner 20:45, Lakasa/Bacira** |
 | **Day 5** (Sat Sep 5) | Departure | Bolt 06:45 (~€30–35; €33 flat-rate taxi as fallback) → T4 by 07:30 → AA 95 10:25 → JFK 12:25 |
@@ -58,9 +58,9 @@
 
 | Sight | Why | Cost (2026) | Book? | When (our slot) |
 |-------|-----|-------------|-------|-----------------|
-| **Palacio Real** ⭐⭐ | Europe's biggest palace; Royal Armoury = kids' hit | €18 / €9 (5–16, student, 65+) | ✅ NOW | Wed 10:00 |
+| **Palacio Real** ⭐⭐ | Europe's biggest palace; Royal Armoury = kids' hit | ✅ **€75.08 paid** (4 × standard) | ✅ **Booked — R120871238** | Wed **10:15** |
 | **Catedral de la Almudena + crypt** ⭐ | Wild contemporary interior; 400-column crypt | Free / ~€1 | ❌ | Wed 12:15 (crypt shuts 14:00) |
-| **San Antonio de los Alemanes** ⭐⭐ | Giordano-frescoed "Sistine Chapel of Madrid" | €5–12 incl. audio guide | ❌ walk-in | Wed 16:00 (closed Aug — reopening wk) |
+| ~~San Antonio de los Alemanes~~ ⭐⭐ | Giordano-frescoed "Sistine Chapel of Madrid" | €5–12 incl. audio guide | ❌ | ❌ **Dropped** — no guided visits Jul/Aug/Sep 2026 (realhermandaddelrefugio.org); worth revisiting outside that window |
 | **Templo de Debod** ⭐⭐ | Real Egyptian temple; the sunset of the trip | Free | ❌ | Wed 19:45 (sunset 20:47) |
 | **Museo del Prado** ⭐⭐ | Las Meninas, Goya, Bosch | €15 / €7.50 (18–25) / <18 free | ✅ NOW | Thu 10:00 |
 | **Reina Sofía (Guernica)** ⭐ | The 20th century's defining painting | €12 / <18 + students free; free daily 19–21 | Online | Thu **15:50** — Emily skips (the free 19:00 window is hers all autumn) |
@@ -71,10 +71,10 @@
 | **Plaza de Olavide** *(new)* | Emily's local square, 2 min from her door — terraces, playground, no tourists | Free | ❌ | Fri evening |
 | ~~Real Jardín Botánico~~ | Shaded 1755 garden + bonsai | €6, <18 free | ❌ | ❌ **Dropped** — the UAM run took the Thu 16:30 slot |
 | **CaixaForum wall garden** | 24 m living wall + floating building | Free outside; €6 expos | ❌ | Thu **12:35** (10 min, photo stop) |
-| **Descalzas Reales** (option) | Cloistered Habsburg art trove, tour incl. | €6 | Slot online | Wed 16:00 alt |
+| **Descalzas Reales** | Cloistered Habsburg art trove, tour incl. | €6 | Slot online | Wed 16:00 (replaces San Antonio de los Alemanes) |
 | **Matadero + Madrid Río** | Arts campus + river park, 5 min from apt | Free | ❌ | Day 1 evening |
 | ~~Teleférico~~ | ⚠️ **Closed since 2022** (structural) | — | — | — |
-| ~~Ermita S. A. de la Florida~~ | ⚠️ **Closed since Mar 2025** (Goya frescoes) | — | — | — |
+| **Ermita S. A. de la Florida** | ✅ **Reopened Jun 12, 2026** (Goya frescoes) — not in the locked plan, viable if a slot opens up | Free | — | 10 min walk from Debod |
 | ~~El Rastro~~ | Sundays only — we have none | — | — | Next trip |
 
 ---
@@ -109,7 +109,7 @@ Status as of **Aug 5** (Madrid in 27 days):
 |------|-------------------|-------|
 | ~~Apartment · AVE in · flight out~~ | ✅ Booked | #5149971517 · 4U5NZV · AA 95 |
 | **Prado** (Thu 10:00) | 🔲 Buy this week | [entradas.museodelprado.es](https://entradas.museodelprado.es/) |
-| **Palacio Real** (Wed 10:00) | 🔲 Buy this week | [tickets.patrimonionacional.es](https://tickets.patrimonionacional.es/en/tickets/palacio-real-de-madrid) |
+| ~~**Palacio Real** (Wed **10:15**)~~ | ✅ Booked & paid — order **R120871238**, €75.08, 4 × Standard Admission. ⚠️ download the ticket PDFs | — |
 | **Chamberí farewell dinner** (Fri 20:45) ⭐ | 🔲 **Book this week** — Friday, 4 covers | [lakasa.es](https://lakasa.es) 1st choice · [bacira.es](https://bacira.es) 2nd · €50–70/pp |
 | **Emily's key handover** ⚠️ | 🔲 **Confirm in writing** — the Fri 08:45 bag drop depends on it | Landlord / agency |
 | **Emily's Friday end time** ⚠️ | 🔲 Ask her — 16:00 or 12:00? Changes the whole afternoon | — |

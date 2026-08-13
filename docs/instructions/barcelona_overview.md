@@ -1,7 +1,7 @@
 # Barcelona — City Overview
 ## Aug 26–31 (5 nights) · Euro Trip 2026
 
-> Arrive late Wed Aug 26 (TP1038 lands 21:50); four full days, then the 11:00 AVE to Zaragoza on Mon Aug 31. Shape: **Gaudí → Montserrat → Old City churches + beach → Girona (or city depth) → out.** Flat, Metro-easy city; the hotel sits literally at the Sagrada Família. Booked: hotel, AVE out, **Sagrada Família (Thu 17:45)**, **Park Güell (Thu 09:30)**. 2026 is the **Gaudí centenary** — everything Gaudí is slammed; our two timed tickets are the moat.
+> Arrive late Wed Aug 26 (TP1038 lands 21:50); four full days, then the 11:00 AVE to Zaragoza on Mon Aug 31. Shape: **Gaudí → Montserrat → Old City churches + beach → Girona → out.** Flat, Metro-easy city; the hotel sits literally at the Sagrada Família. Booked: hotel, AVE out, **Sagrada Família (Thu 17:45)**, **Park Güell (Thu 09:30)**. 2026 is the **Gaudí centenary** — everything Gaudí is slammed; our two timed tickets are the moat.
 
 ---
 
@@ -43,7 +43,7 @@
 | **Day 2** (Thu Aug 27) | Gaudí Day ⭐⭐ (runs backwards — evening basilica) | **Park Güell 09:30 ✅** → walk down Gràcia (Casa Vicens facade) → menú del día → **siesta** → Sant Pau 15:45 → Av. Gaudí → **Sagrada Família 17:45 ✅ (passports!)** → Eixample dinner |
 | **Day 3** (Fri Aug 28) | Montserrat ⭐⭐ | 08:36 R5 + cremallera → Moreneta early → Sant Joan funicular → **choir 13:00 (free, reserve at [reserves.abadiamontserrat.cat](https://reserves.abadiamontserrat.cat/en/560-reservations/2985-noon-pray-cant-de-lescolania) — back from break Aug 27!)** → Tot buffet lunch → museum → mató stalls → down ~16:45 |
 | **Day 4** (Sat Aug 29) | Old City + beach ⭐ | Petritxol churros → **La Seu 09:30** (Sat closes 17:15) → Gothic lanes → Pi → **La Cova Fumada door 11:45 (Sat 09:00–13:00!)** → Sta. Maria del Mar → **Picasso 14:00 (book!)** → **beach 16:30–20:15** → Blai pintxos |
-| **Day 5** (Sun Aug 30) | **A: Girona** / **B: free-Sunday city depth** 💰 · ⛪ Mass options first | A: Eiffel bridge → xuixo → Call museum + Sant Pere **before 14:00 closures** → **cathedral from 12:00 (Sun!)** → Sant Feliu 13:00 → GoT stairs → lunch → Rocambolesc → walls → 18:40 train · B: Tibidabo (T-casual route) → **Pedralbes 15:00 FREE** → **Montjuïc Castle FREE** → beach hour. Either way: **7 Portes farewell ~21:00 (book!)** |
+| **Day 5** (Sun Aug 30) | Girona ⛪ Saturday-vigil Mass first | Eiffel bridge → xuixo → Call museum + Sant Pere **before 14:00 closures** → **cathedral from 12:00 (Sun!)** → Sant Feliu 13:00 → GoT stairs → lunch → Rocambolesc → walls → 18:40 train → farewell dinner: **La Bendita / el Xuletò / Bodega La Palma / Blai** (7 Portes 🟠 optional splurge) |
 | **Day 6** (Mon Aug 31) | Departure | Checkout 09:30–09:40 → taxi/L5 → **Sants 10:00–10:15, security** → **AVE 11:00** → Zaragoza 12:28 |
 
 ---
@@ -61,8 +61,7 @@
 | Santa Maria del Mar ⭐ | Purest Catalan Gothic, "Cathedral of the Sea" | €5 visit | ❌ | Day 4, 13:30 (Mon–Sat 10–18) |
 | **Picasso Museum** | Five palaces, formative years, A/C at 14:00 | €14 / 18–25 €7.50 / u18 free | 🔴 **book Sat 14:00 NOW** | Day 4, 14:00 |
 | Barceloneta beach | Warmest sea of the day + sunset ~20:30 | Free | ❌ | Day 4, 16:30+ |
-| **Girona** ⭐ | Cathedral (widest Gothic nave), the Call, GoT stairs | €7.50 cathedral+Sant Feliu; ~€14 all interiors | Train 🟠 | Day 5 A — **Sun: museums till 14:00, cathedral from 12:00** |
-| Pedralbes / Montjuïc Castle | Gothic cloister; harbour panorama | **FREE Sun from 15:00** | ❌ | Day 5 B afternoon |
+| **Girona** ⭐ | Cathedral (widest Gothic nave), the Call, GoT stairs | €7.50 cathedral+Sant Feliu; ~€14 all interiors | Train 🟠 | Day 5 — **Sun: museums till 14:00, cathedral from 12:00** |
 | Bunkers del Carmel | 360° view — now fenced, 09:00–19:30 | Free | ❌ | ❌ **not a sunset spot anymore**; optional daytime only |
 | ~~Casa Batlló / La Pedrera~~ | Skipped — centenary pricing; facades free at night | — | ❌ decision | Day 2 evening walk-by |
 | 💃 **Flamenco** | Carmen Amaya was born on Barceloneta beach — the city's tablaos are the real thing | €20 (Los Tarantos, 30 min) → €90 (dinner shows) | ❌ same-week online | **No night picked** — full options on the Sights tab |
@@ -77,14 +76,14 @@
 | €10–18 (the locals' band) ⭐ | **La Cova Fumada** (bomba, cash, no sign) · **Bar Jai-Ca** (C/ de Ginebra 13, since 1955) · **Bar La Plata** (C/ de la Mercè 28, four tapas since 1945, ~€3.50–7 each, closed Sun) · **Koska Taberna / La Tasqueta de Blai** (Poble-sec) · *menú del día* **one street off** the Gràcia squares (€12–16) |
 | €14–25 (mid, still local) | **el Xuletò** (menú ~€12.90) and **Casa Amalia** (Ptge. del Mercat 14) near the hotel · **Santa Magdalena** + **Bodega Cal Pep** (Verdi 141) in Gràcia · **Bodega La Palma** (Gothic) · **Bodega La Peninsular** (Barceloneta) |
 | €20–35 (visitor-priced) | Cal Pep bar, Bar del Pla, Cervecería Catalana, El Nacional |
-| €40+ (splurge) | **7 Portes** (1836 paella institution — 🟠 still unbooked) |
+| €40+ (splurge) | **7 Portes** (1836 paella institution — 🟠 still unbooked, optional Day 5 splurge) |
 
 | Day | Breakfast | Lunch | Dinner |
 |-----|-----------|-------|--------|
 | Day 2 | Near hotel | Gràcia menú del día — **Verdi / Torrijos / Santa Magdalena**, not Pl. del Sol | **el Xuletò** ⭐ / Casa Amalia (Catalana & El Nacional = fallbacks) |
 | Day 3 | Near hotel | Montserrat buffet (Tot) | Same near-hotel shortlist, 2 streets off the basilica |
 | Day 4 | Petritxol granja | **La Cova Fumada** (11:45, cash) — Bar Jai-Ca if full | Blai pintxos: **Koska** (nº 8) → **La Tasqueta** (15–17) → **Blai 9** |
-| Day 5 | Near hotel | Girona: **Draps** (Cort Reial 2) / **El Carrito** (La Barca 10) ⭐ — not the Pl. Independència terraces | **7 Portes** farewell 🟠 **NOT booked** (€40–60/pp) — cheaper Sunday-open alternatives: Carrer de Blai, Bodega La Palma |
+| Day 5 | Near hotel | Girona: **Bartali Pizza Co.** ✅ booked 14:00 (Draps / El Carrito ⭐ if it slips) | **La Bendita** (by the hotel) / **el Xuletò** / **Bodega La Palma** / Blai pintxos — or **7 Portes** 🟠 splurge, not booked (€40–60/pp) |
 
 > ⚠️ **August closures (verified):** **Quimet & Quimet closed ALL month** · **El Xampanyet** closed till ~Aug 24–25 (confirm) · **Tickets permanently closed** · La Cova Fumada **Sat 09:00–13:00 only**, closed Sun · Cal Pep closed Sun · **Bar La Plata closed Sun** · **La Boqueria closed Sun**.
 >
@@ -100,8 +99,8 @@
 | ~~Park Güell~~ ✅ | Booked — Aug 27 · 09:30 · `700328431455` | parkguell.barcelona |
 | **Escolania choir Aug 28 13:00** (free) | 🔴 **Reserve TODAY** — re-check calendar week before | [reserves.abadiamontserrat.cat](https://reserves.abadiamontserrat.cat/en/560-reservations/2985-noon-pray-cant-de-lescolania) · calendar: [escolania.cat/when-do-we-sing](https://www.escolania.cat/en/when-do-we-sing/) |
 | **Picasso Sat Aug 29 14:00** | 🔴 **Book TODAY** (€35.50 for four) | museupicassobcn.cat |
-| **7 Portes — Sun Aug 30 ~21:00** | 🟠 Book this week | 7portes.com |
-| **Girona fast train** (if Option A) | 🟠 By ~Aug 26 | renfe.com |
+| **7 Portes — Sun Aug 30 ~21:00** (optional splurge) | 🟠 Book this week if going — local picks need no booking | 7portes.com |
+| **Girona fast train** | 🟠 By ~Aug 26 | renfe.com |
 | Montserrat **Tot** ticket (~€71.50) | On the day (or voucher, Pl. Catalunya 17-S) | FGC desk Pl. d'Espanya |
 | ~~Hotel~~ ✅ / ~~AVE out~~ ✅ | Booked | WJXSCF · Coche 6 |
 

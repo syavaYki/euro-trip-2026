@@ -84,7 +84,7 @@
 | Name | Vibe & character | Don't miss | Best time | Getting there |
 |------|-----------------|-----------|-----------|---------------|
 | **Alfama** [📍](https://maps.google.com/?q=Alfama+Lisbon+Portugal) | The oldest quarter — Moorish lanes under the castle, fado's home | Day 3 core: castle → miradouros → descent; evening fado | Before 10:00 or evening | Bolt/tuk-tuk up; walk down |
-| **Mouraria** [📍](https://maps.google.com/?q=Mouraria+Lisbon+Portugal) | Multicultural, unpolished, fado's true cradle | Rua do Capelão murals; Zé da Mouraria; Cantinho do Aziz | Late afternoon/evening | Metro Martim Moniz |
+| **Mouraria** [📍](https://maps.google.com/?q=Mouraria+Lisbon+Portugal) | Multicultural, unpolished, fado's true cradle | Rua do Capelão murals; Zé dos Cornos; Cantinho do Aziz | Late afternoon/evening | Metro Martim Moniz |
 | **Baixa / Chiado** [📍](https://maps.google.com/?q=Baixa+Chiado+Lisbon+Portugal) | The post-1755 grid + the cultural hill beside it | Praça do Comércio at sunset; Bertrand; Carmo | Morning or golden hour | Metro Baixa-Chiado |
 | **Bairro Alto** [📍](https://maps.google.com/?q=Bairro+Alto+Lisbon+Portugal) | Arty by day, the city's bar-grid by night | São Roque; Park Bar at sunset | Afternoon (family hours) | Walk up from Chiado |
 | **Príncipe Real** [📍](https://maps.google.com/?q=Pr%C3%ADncipe+Real+Lisbon+Portugal) | Lisbon's most elegant quarter — gardens, concept stores | Embaixada palace-mall; Nannarella; Saturday market | Late morning/afternoon | Metro Rato or walk |
@@ -149,13 +149,13 @@
 
 ## 🏰 Sintra Deep-Dive (our Day 2 — Mon Aug 24)
 
-> The top family day trip in Portugal, and everyone knows it — August is the busiest month of the year. The counter-moves: the 07:21 train, a taxi (not the bus) up the hill, and pre-booked timed slots. **No pass covers any of this** — tickets direct from parquesdesintra.pt and regaleira.pt.
+> The top family day trip in Portugal, and everyone knows it — August is the busiest month of the year. The counter-moves: the 08:11 train, a taxi (not the bus) up the hill, and pre-booked timed slots. **No pass covers any of this** — tickets direct from parquesdesintra.pt and regaleira.pt.
 
 ### The palaces — what to choose
 
 | Palace | Why | 2026 price (adult / youth 17 & 19) | Book? | Time | Family verdict |
 |--------|-----|------------------------------------|-------|------|----------------|
-| **Pena Palace** ⭐⭐ [📍](https://maps.google.com/?q=Pena+Palace+Sintra+Portugal) | The unmissable candy-coloured Romantic fantasy (1840s) on the highest peak — Manueline, Moorish and Gothic smashed together over a surviving Hieronymite monastery chapel | €20 adult; reduced youth band — check at purchase | ✅ **Booked & paid — Essential Visit, €20 adult, 09:00 palace slot** | 2–3 hrs | ⭐⭐⭐⭐⭐ Strict window: palace door within ~30 min of slot time or forfeit. First hour is magical |
+| **Pena Palace** ⭐⭐ [📍](https://maps.google.com/?q=Pena+Palace+Sintra+Portugal) | The unmissable candy-coloured Romantic fantasy (1840s) on the highest peak — Manueline, Moorish and Gothic smashed together over a surviving Hieronymite monastery chapel | €20 adult; reduced youth band — check at purchase | ✅ **Booked & paid — Essential Visit, €20 adult, 10:00 palace slot** (+ 4 park-shuttle tickets, undated) | 2–3 hrs | ⭐⭐⭐⭐⭐ Strict window: palace door within ~30 min of slot time or forfeit — **early is refused too** |
 | **Quinta da Regaleira** ⭐⭐ [📍](https://maps.google.com/?q=Quinta+da+Regaleira+Sintra+Portugal) | 1910 neo-Manueline estate whose garden hides the **Initiation Well** — 27 m of spiral stairs into the earth, exiting through tunnels and grottoes | **€20 / €15 (6–17 only — the 19-y-o pays adult) → €75 for our four**; family 2+2 pack €60 doesn't fit us | 🔴 **Book NOW** — timed 30-min slots from 10:00, August afternoons sell out; regaleira.pt | 2–2.5 hrs | ⭐⭐⭐⭐⭐ The kids' favourite of the whole trip; bring a phone torch |
 | **Castelo dos Mouros** [📍](https://maps.google.com/?q=Moorish+Castle+Sintra+Portugal) | 8th–9th-c Moorish ramparts riding the ridgeline — Atlantic views from the towers | €12; reduced youth band — check | ❌ ⚠️ on-site booth closed — **buy at the Pena ticket office** while up there | 1–1.5 hrs | ⭐⭐⭐⭐ 10 min from Pena's gate; the forest path down to the village is the day's loveliest walk |
 | **Palácio Nacional de Sintra** [📍](https://maps.google.com/?q=National+Palace+of+Sintra+Portugal) | The twin-chimneyed medieval palace in the village centre — Swan Hall, Hall of Crests | ~€15; under 14 free | ❌ walk-in | 45–60 min | ⭐⭐⭐⭐ Not in the day plan (no room) — the exterior chimneys get seen from the lunch table |
@@ -168,17 +168,17 @@
 
 | Time | Move | Why it works |
 |------|------|--------------|
-| **07:00** | Bolt/Metro to **Rossio Station**; takeaway coffee | Beat the day at its start |
-| **07:21** | Train Rossio → Sintra (€2.30/pp zapping; ~every 20 min) | **07:41 is the hard latest** for the 09:00 slot — confirm exact minutes in the CP app the night before |
-| **08:05** | Arrive Sintra → **taxi/Bolt straight up to the Pena gate (~€10–15 total for 4)** | The first 434 bus (~08:50) is too late for a 09:00 slot, and its €13.50/pp day pass costs a family of four €54. Taxis/TVDEs are allowed up; private cars are not |
-| **08:30** | Pena Park gate → walk up to the palace (15–25 min steep) or paid shuttle ~€4.50/pp | The 09:00 time is the **palace door**, not the park gate |
-| **09:00–11:00** | **Pena Palace** ✅ | First-crowd magic; staterooms → walls → gardens |
-| **11:15–12:15** | **Castelo dos Mouros** (ticket bought at Pena's office) | 10 min walk; battlements + Atlantic |
-| **12:45** | Forest path down to the village (~25 min, shaded) → **Casa Piriquita** lunch | Travesseiros + queijadas, since 1862 |
+| **07:50** | Bolt/Metro to **Rossio Station**; takeaway coffee | Beat the day at its start |
+| **08:11** | Train Rossio → Sintra (€2.30/pp zapping; ~every 20 min) | **08:31 is the hard latest** for the 10:00 slot — confirm exact minutes in the CP app the night before |
+| **08:55** | Arrive Sintra → **taxi/Bolt straight up to the Pena gate (~€10–15 total for 4)** | The 434's €13.50/pp day pass costs a family of four €54. Taxis/TVDEs are allowed up; private cars are not |
+| **09:15** | Pena Park gate → **park shuttle (already bought: 4 × €4.50, undated)** or the steep 15–25 min walk | The 10:00 time is the **palace door**, not the park gate — allow ~30 min either way |
+| **10:00–11:45** | **Pena Palace** ✅ | Staterooms → walls → Queen's Terrace; **early arrivals are refused too**, so the gate slack goes into the park |
+| **12:00–13:00** | **Castelo dos Mouros** (ticket bought at Pena's office) | 10 min walk; battlements + Atlantic |
+| **13:25** | Forest path down to the village (~25 min, shaded) → **Tascantiga** ✅ lunch | Petiscos terrace; **Monday is lunch service only, 12:15–16:15**. Be done by 14:15. **Casa Piriquita** is the pastry stop afterwards, not lunch |
 | **14:30–16:00** | **Quinta da Regaleira** ✅ booked (38339594) | Entry window **14:30–15:00** on the ticket. Initiation Well + tunnels; afternoon slots calmer than mornings |
 | **16:15** | **Sintra old town** — lanes, shops, the **Palácio Nacional** exterior (twin conical chimneys) | Free; as much or little as energy allows |
 | **17:00** | Train Sintra → Rossio (€2.30/pp, ~40 min) | Leaving now beats the evening crowds home |
-| **19:30** | Easy Lisbon evening — **Cervejaria Ramiro** (queue at 19:00) or a Chiado tasca | 10 min walk from the apartment |
+| **19:30** | Easy Lisbon evening — **Príncipe do Calhariz** (Mon 19:00–22:30) or a neighbourhood tasca | 10 min walk from Rossio, where the Sintra train drops you |
 
 > ⚠️ **Fallback:** rain doesn’t kill this day — Pena’s interiors and Regaleira’s tunnels are half under cover anyway. If everyone still has legs at 16:15, dinner in Sintra and the ~20:00 train home works just as well — but it has to be **Incomum**: **Tascantiga is lunch-only Mon–Thu** and will be shut by then.
 
@@ -239,7 +239,7 @@
 |------|--------|--------|
 | Jerónimos cloister (Day 1) | ✅ Booked & paid — **order 38185413** | Be at the door ~10 min before the slot on the confirmation |
 | Torre de Belém 16:00 (Day 1) | ✅ Booked & paid — **order 38185394** | At the gate 15:55; 60-per-half-hour cap is strict |
-| Palácio da Pena 09:00 (Day 2) | ✅ Booked & paid — **Essential Visit, €20 adult** | Palace door within ~30 min of 09:00; taxi up, not the 434 |
+| Palácio da Pena 10:00 (Day 2) | ✅ Booked & paid — **Essential Visit, €20 adult** (+ 4 park-shuttle tickets, undated) | Palace door within ~30 min of 10:00; taxi up, not the 434 |
 | **Quinta da Regaleira 14:30 (Day 2)** | ✅ **Booked & paid** — 38339594 | VISITAS LIVRES (self-guided); €75 + €5.54 fee = €80.54. Entry window **14:30–15:00** |
 | Castelo de São Jorge (Day 3) | ✅ Booked & paid — **open ticket, valid until 1 Nov 2026, entry from 09:00** | Just show the QR at the gate at 09:00 |
 | São Vicente de Fora (Day 3) | ✅ Booked — **ref 980497008** (2 adult, 2 youth) | Open daily; last entry 18:00 |

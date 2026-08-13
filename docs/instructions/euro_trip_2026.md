@@ -31,7 +31,7 @@
 | **Aug 24** | Lisbon: Sintra day trip (Pena + Castelo dos Mouros + Regaleira)                                          |
 | **Aug 26** | Lisbon morning, then fly Lisbon → Barcelona (TP1038, 18:55 → 21:50)                                       |
 | **Aug 28** | Barcelona: Montserrat day trip — Escolania sings 13:00 (back from summer break Aug 27; free reservation required) |
-| **Aug 30** | Barcelona: Girona day trip (or city-depth day)                                                            |
+| **Aug 30** | Barcelona: Girona day trip                                                                                |
 | **Aug 31** | AVE Barcelona → Zaragoza, 11:00 → 12:28 — full Zaragoza afternoon + evening                               |
 | **Sep 1**  | Zaragoza: Aljafería at 10:00 → check out noon → afternoon sights → AVE 17:48 → Madrid 19:44 (dinner only) |
 | **Sep 2**  | Madrid: Palacio Real + Plaza Mayor + Mercado de San Miguel + Templo de Debod                              |
@@ -149,7 +149,7 @@ Drop bags; grab your first pastel de nata:
 | ---------------------------- | ----------------------------------------------------------------------------------------------------- | ------ |
 | **[Confeitaria do Bolhão](https://maps.google.com/?q=Confeitaria+do+Bolh%C3%A3o+Porto+Portugal) [🌐](https://www.confeitariadobolhao.com/en/)** ⭐ | Est. 1896 Art Nouveau pastry shop. Nata €1.20, galão €1.50. Sit inside — beautiful preserved interior | 2 min  |
 | **[Manteigaria](https://maps.google.com/?q=Manteigaria+Porto+Portugal) [🌐](https://www.manteigaria.com/en/)**              | Reddit's #1 standalone nata in Porto. Standing counter, piping hot                                    | 10 min |
-| **[Fábrica da Nata](https://maps.google.com/?q=Fabrica+da+Nata+Porto+Portugal) [🌐](https://www.fabricadanata.com/)**          | Reliable nata, multiple city locations                                                                | 5 min  |
+| **[Fábrica da Nata](https://maps.google.com/?q=Fabrica+da+Nata+Porto+Portugal) [🌐](https://www.fabricadanata.pt/)**          | Reliable nata, multiple city locations                                                                | 5 min  |
 
 > _"Bolhão confeitaria for the atmosphere, Manteigaria for the actual nata. Both in one morning if you're keen."_ — r/porto
 
@@ -157,7 +157,7 @@ Drop bags; grab your first pastel de nata:
 
 | Option                   | Vibe                                                                               | Price         | Walk   |
 | ------------------------ | ---------------------------------------------------------------------------------- | ------------- | ------ |
-| **[O Buraco](https://maps.google.com/?q=O+Buraco+Rua+do+Bolh%C3%A3o+95+Porto+Portugal)** ⭐⭐ (R. do Bolhão 95) | **The locals' pick.** Plain tasca two streets from the hotel, tables of work colleagues at 13:00, menu changes daily (posted on their Facebook): bacalhau, fried fish, grilled steak. Portuguese-only menu, paper cloths | €10–15/person | 3 min |
+| **[A Tasquinha](https://maps.google.com/?q=A+Tasquinha+Rua+do+Carmo+23+Porto+Portugal)** ⭐⭐ (R. do Carmo 23) | **The swap-in for O Buraco**, which is closed for summer holidays until Aug 31, 2026. 40+ year family-run tasca near Igreja do Carmo — bacalhau à Braga, à Lagareira, com broa; regulars call it the best cod in Porto for the price | €10–15/person | 12 min |
 | **[Casa Guedes](https://maps.google.com/?q=Casa+Guedes+Pra%C3%A7a+dos+Poveiros+130+Porto+Portugal)** ⭐ (Pç. dos Poveiros 130) | Literally your corner. Counter institution since 1987 — *sande de pernil* (slow-roast pork) with Serra cheese melting into it. Eat standing, 20 minutes, done | €5–8/person | 1 min |
 | **[Mercado do Bolhão](https://maps.google.com/?q=Mercado+do+Bolh%C3%A3o+Porto+Portugal)** | Graze the stalls — fruit, cheese, petiscos, bifanas. Low-commitment, kids can roam | €8–15/person  | 2 min  |
 | **[Adega São Nicolau](https://maps.google.com/?q=Adega+S%C3%A3o+Nicolau+Rua+de+S%C3%A3o+Nicolau+1+Porto+Portugal)** (R. de São Nicolau 1) | If you'd rather eat down at the river: the one Ribeira address locals defend — Porto cooks eat here. Bacalhau croquettes, *polvo à lagareiro*. Book or arrive at opening | €15–25/person | 20 min |
@@ -269,7 +269,7 @@ Late snack: **[Casa da Bifana](https://maps.google.com/?q=Casa+da+Bifana+Porto+P
 | Option                       | What                                                             | Walk                        |
 | ---------------------------- | ---------------------------------------------------------------- | --------------------------- |
 | **[Confeitaria do Bolhão](https://maps.google.com/?q=Confeitaria+do+Bolh%C3%A3o+Porto+Portugal) [🌐](https://www.confeitariadobolhao.com/en/)** ⭐ | Opens 6am (weekdays). Galão + nata, gorgeous Art Nouveau interior | 2 min                       |
-| **[Época Porto](https://maps.google.com/?q=%C3%89poca+Porto+Porto+Portugal) [🌐](http://epocaporto.com/)**              | Nordic-organic sourdough plates. Always a queue — arrive 08:15   | 12 min (Rua do Rosário)     |
+| **[Época Porto](https://maps.google.com/?q=%C3%89poca+Porto+Porto+Portugal) [🌐](http://epoca-porto.com/)**              | Nordic-organic sourdough plates. Always a queue — arrive 08:15   | 12 min (Rua do Rosário)     |
 | **[Hakko](https://maps.google.com/?q=Hakko+Porto+Portugal) [🌐](https://www.instagram.com/hakko_house_/)**                    | Brilliant croissants + Turkish eggs, Copenhagen specialty coffee | 12 min (Rua do Rosário 313) |
 
 > _"Tiny, always a queue, worth it. Get there before 9 or expect to wait 20 min."_ — r/porto on Época
@@ -540,7 +540,7 @@ TAP closes check-in 90 min before departure = **07:30**. Bolt backup: ~€18, 25
 
 **06:25 — Metro Line E** from Bolhão → Aeroporto: **Z4 €2.25/person** (your Andante cards from Day 1 reload at the machine), ~40 min. Metro runs from ~06:00 on Sundays too, but ⚠️ **early-Sunday frequency is 20–30 min** — if the platform board shows the next airport train more than 15 min out, switch straight to the Bolt.
 
-**Breakfast — at the airport.** ⚠️ **Mercado do Bolhão and [Confeitaria do Bolhão](https://maps.google.com/?q=Confeitaria+do+Bolh%C3%A3o+Porto+Portugal) [🌐](https://www.confeitariadobolhao.com/en/) are both closed on Sundays** (the confeitaria's famous 06:00 opening is weekdays only) — there is no grab-and-go near the hotel at 06:15. Instead: eat the fruit + water bought at Friday's market run on the ride out, clear security by ~07:45, then breakfast airside — **[Aloma](https://maps.google.com/?q=Aloma+Porto+Portugal) [🌐](https://www.aloma.pt/)** (Best Pastel de Nata 2024–25 winner) has an airport shop, alongside Costa Coffee and the food court, open from the first departures (~05:30). A calm 30 minutes before the 08:30 gate beats sprinting with a nata.
+**Breakfast — at the airport.** ⚠️ **Mercado do Bolhão and [Confeitaria do Bolhão](https://maps.google.com/?q=Confeitaria+do+Bolh%C3%A3o+Porto+Portugal) [🌐](https://www.confeitariadobolhao.com/en/) are both closed on Sundays** (the confeitaria's famous 06:00 opening is weekdays only) — there is no grab-and-go near the hotel at 06:15. Instead: eat the fruit + water bought at Friday's market run on the ride out, clear security by ~07:45, then breakfast airside — **Aloma has no Porto airport shop** (only Lisbon's LIS and a city-centre counter at El Corte Inglés), so grab coffee and a pastry at **Costa Coffee** or **First Class Café** in the departures concourse, open from the first flights (~05:30). A calm 30 minutes before the 08:30 gate beats sprinting.
 
 ---
 
@@ -549,17 +549,17 @@ TAP closes check-in 90 min before departure = **07:30**. Bolt backup: ~€18, 25
 | Budget           | Best Bets                                                                            |
 | ---------------- | ------------------------------------------------------------------------------------ |
 | €1–5 (snacks)    | Pastel de nata (Bolhão / Manteigaria), bifana (Casa da Bifana / Conga), *sande de pernil* at Casa Guedes, Bolhão market stalls |
-| €8–15 (the locals' band) ⭐ | **O Buraco** (R. do Bolhão 95) · **Casa Expresso** (Carlos Alberto 73) · **Tasquinha Zé Povinho** (Clemente Meneres 36) · **Cantarinha** francesinha · Matosinhos grill street |
+| €8–15 (the locals' band) ⭐ | **A Tasquinha** (R. do Carmo 23) · **Casa Expresso** (Carlos Alberto 73) · **Tasquinha Zé Povinho** (Clemente Meneres 36) · **Cantarinha** francesinha · Matosinhos grill street |
 | €15–25 (mid)     | **Adega São Nicolau** · **Antunes** · **O Rápido** · **Salta o Muro / Tito / Casa Serrão** (Matosinhos) · Café Santiago · Solar Moinho de Vento · Terreiro / Terra Nova (view pricing) |
 | €25–50 (occasion) | **Taberna dos Mercadores** (8 tables — phone 10:30–11:30), **Escama** (Cais da Ribeira 29, €30–50) |
 | €35+ (tourist-priced / chef rooms — optional) | MUU Steakhouse, Gruta, O Gaveto, Culto ao Bacalhau                  |
 
 | Day   | Breakfast             | Lunch                              | Dinner                 |
 | ----- | --------------------- | ---------------------------------- | ---------------------- |
-| Day 1 | Confeitaria do Bolhão | **O Buraco** (or Casa Guedes counter / Bolhão stalls) | **Taberna dos Mercadores** ✅ 🔴 book — Adega São Nicolau ⭐ if they're full |
+| Day 1 | Confeitaria do Bolhão | **A Tasquinha** (or Casa Guedes counter / Bolhão stalls) | **Taberna dos Mercadores** ✅ 🔴 book — Adega São Nicolau ⭐ if they're full |
 | Day 2 | Época or Hakko        | Café Santiago francesinha (or **Cantarinha**, cheaper + local) | **Antunes** ⭐ or Tasquinha Zé Povinho / Solar Moinho de Vento |
 | Day 3 | SO Coffee Roasters    | **Salta o Muro / Tito** on R. Heróis de França, Matosinhos ⭐ | **Escama** ✅ 🔴 book (Cais da Ribeira 29) — Casa Expresso ⭐ / O Rápido if they're full |
-| Day 4 | OPO airside — Aloma nata + Costa (Bolhão & the confeitaria closed Sun) | (in Lisbon) | — |
+| Day 4 | OPO airside — coffee + pastry at Costa / First Class Café (Bolhão & the confeitaria closed Sun) | (in Lisbon) | — |
 
 > ⚠️ **Deleted as unverifiable (do not look for them):** *Eleit*, *Taberna de São Miguel*, *Tabuleta*, *Cobre*, *O Rafael* (Matosinhos). Every replacement above has a street address and a documented trading history.
 
@@ -604,7 +604,7 @@ TAP closes check-in 90 min before departure = **07:30**. Bolt backup: ~€18, 25
 | **Taberna dos Mercadores (Day 1 dinner)** ✅ chosen | 🔴 **Phone tomorrow 10:30–11:30** | **+351 222 010 510** (1-hr daily window) · form on tabernadosmercadores.com · 8 tables only |
 | ~~7 Bridges Sunset Cruise (Day 2, 18:45)~~ ✅ Booked | — | ref **GYG7VKRQ9BVG** · Leçaodouro · meet 430 Rua da Praia, Gaia (door C) |
 | Cálem port lodge (optional Day 1 swap)     | By ~Fri Aug 14 — timed slots  | tour.calem.pt              |
-| ~~Palácio da Bolsa~~ — swapped for MMIPO   | —                              | Day-of if you reinstate it: palaciodabolsa.com |
+| ~~Palácio da Bolsa~~ — swapped for MMIPO   | —                              | Day-of if you reinstate it: palaciodabolsa.pt |
 | MUU (Day 2 dinner, 21:00)                  | By Fri Aug 14                 | Restaurant website / phone |
 | Gruta (Day 3 dinner)                       | **Book TODAY** — small room, book early     | grutaporto.com / phone |
 | O Gaveto (Day 3 lunch)                     | By Fri Aug 14                 | ogaveto.com                |
@@ -762,11 +762,11 @@ Something savoury alongside, all within the same few blocks:
 
 | Option | Why | Price | Book |
 | --- | --- | --- | --- |
-| **[Príncipe do Calhariz](https://maps.google.com/?q=Pr%C3%ADncipe+do+Calhariz+Cal%C3%A7ada+do+Combro+28+Lisboa+Portugal)** ⭐⭐ (Calçada do Combro 28) | **The locals' pick, and it's the one that's actually open on a Sunday night.** Big plain Chiado room, grilled steak and fish, house wine, families and neighbours rather than queues. Walk-ins absorb four people easily | €12–20/person | Walk-in |
+| **[Cervejaria Ramiro](https://maps.google.com/?q=Cervejaria+Ramiro+Lisbon+Portugal) [🌐](https://cervejariaramiro.pt/)** ⭐⭐ (Av. Almirante Reis 1) | **The Lisbon legend, and open Sunday 12:00–23:00 when most tascas are shut.** Garlic prawns, then the prego — no reservations, arrive right at your slot to beat the queue. It's near Intendente, not Chiado, so budget a Bolt (~10 min) back for the gelato stroll after | €30–50/person | Walk-in, expect a queue |
 | **[Time Out Market](https://maps.google.com/?q=Time+Out+Market+Lisbon+Portugal) [🌐](https://www.timeout.com/time-out-market-lisboa)** [📍](https://maps.google.com/?q=Time+Out+Market+Lisboa+Lisbon+Portugal) | 26 curated stalls under one roof, everyone picks their own, open to midnight. ⚠️ It's a **food hall built for visitors** — convenient and fine, but stall prices run ~2× a tasca for the same dish. Keep it as the fallback, not the plan | €10–20/person | Walk-in |
-| **[Taberna da Rua das Flores](https://maps.google.com/?q=Taberna+da+Rua+das+Flores+Lisbon+Portugal) [🌐](https://tberna.com/)** | Chalkboard petiscos, no printed menu — genuinely good, but a 60–90 min queue is normal and it's small | €15–25/person | Arrive at opening or queue |
+| **[Taberna da Rua das Flores](https://maps.google.com/?q=Taberna+da+Rua+das+Flores+Lisbon+Portugal) [🌐](https://www.instagram.com/tabernadasflores/)** | Chalkboard petiscos, no printed menu — genuinely good, but a 60–90 min queue is normal and it's small | €15–25/person | Arrive at opening or queue |
 
-> ⚠️ **Sunday, Aug 23 — the tasca problem.** Most of Lisbon's family places (Zé dos Cornos, Das Flores, half of Mouraria) are shut Sunday evening. **Príncipe do Calhariz opens Sundays including evenings** — that's why it leads tonight. Second Sunday-safe option: **Casa do Alentejo** (R. das Portas de Santo Antão 58) — petiscos in a 17th-century palace courtyard, *migas com porco*, open through the afternoon.
+> ⚠️ **Sunday, Aug 23 — the tasca problem.** Most of Lisbon's family places (Zé dos Cornos, Das Flores, half of Mouraria) are shut Sunday evening. **Ramiro opens Sundays 12:00–23:00** — that's why it leads tonight. Backup Sunday-safe options: **Príncipe do Calhariz** (Calçada do Combro 28, also open Sunday evenings) or **Casa do Alentejo** (R. das Portas de Santo Antão 58) — petiscos in a 17th-century palace courtyard, *migas com porco*, open through the afternoon.
 
 **21:45 — Gelato + night stroll:**
 
@@ -799,7 +799,7 @@ Then walk up to **[Miradouro de São Pedro de Alcântara](https://maps.google.co
 | **14:30–16:00** | **[Quinta da Regaleira](https://maps.google.com/?q=Quinta+da+Regaleira+Lisbon+Portugal)** ⭐⭐      | ✅ **Booked & paid — MEO Blueticket purchase 38339594, 12-08-2026 22:42:14, Visa/Mastercard.** Ticket type **VISITAS LIVRES** (self-guided): 3 × ADULTO €20 + 1 × JOVEM 6–17 €15 = €75, plus 6% Blueticket service fee €5.54 → **€80.54 total**. ⏱️ **Entry window 14:30–15:00 as printed on the ticket** — be at the gate at 14:30; after 15:00 the slot is gone. ⚠️ **The confirmation email is NOT a ticket** — Blueticket states it outright. Download the ticket PDFs from the email link or the client area and save them offline / in the MEO Blueticket app before you leave. The **[Initiation Well](https://maps.google.com/?q=Initiation+Well+Quinta+da+Regaleira+Sintra+Portugal)** — a 27 m inverted spiral tower you descend into tunnels — is the kids' favourite of the whole trip. Bring a phone torch |
 | **16:15**       | **Wander Sintra town**            | The old-town lanes, **[Palácio Nacional de Sintra](https://maps.google.com/?q=Pal%C3%A1cio+Nacional+de+Sintra+Portugal)** exterior (the twin conical chimneys), shops. As much or as little as energy allows. If anyone still has legs, **[Casa Piriquita](https://maps.google.com/?q=Casa+Piriquita+Lisbon+Portugal) [🌐](https://piriquita.pt)** for a second round of _travesseiros_ |
 | **17:00**       | **Train Sintra → Rossio**         | ~40 min, **€2.30/person** (Viva Viagem) — leaving now beats the evening crowds home |
-| **19:30**       | **Easy Lisbon evening**           | Dinner near home. **[Cervejaria Ramiro](https://maps.google.com/?q=Cervejaria+Ramiro+Lisbon+Portugal) [🌐](https://cervejariaramiro.pt/)** (10 min from the apartment, arrive 19:00 sharp for the queue — garlic prawns, then the prego) is the famous option at **€30–50/pp**. **The neighbourhood alternative at a third of that:** **[O Cartaxinho](https://maps.google.com/?q=O+Cartaxinho+Rua+de+Santa+Marta+20+Lisboa+Portugal)** (R. de Santa Marta 20B — *cozido*, *cabidela*, *bacalhau à Brás*), **[Esquina da Fé](https://maps.google.com/?q=Esquina+da+F%C3%A9+Rua+da+F%C3%A9+60+Lisboa+Portugal)** (R. da Fé 60 — Minho cooking, everything house-made) or **[Forninho Saloio](https://maps.google.com/?q=Forninho+Saloio+Travessa+das+Parreiras+39+Lisboa+Portugal)** (Tv. das Parreiras 39 — *pernil*, daily specials), all €10–15/pp and 10–14 min on foot |
+| **19:30**       | **Easy Lisbon evening**           | Dinner back in the centre. **[Príncipe do Calhariz](https://maps.google.com/?q=Pr%C3%ADncipe+do+Calhariz+Cal%C3%A7ada+do+Combro+28+Lisboa+Portugal)** ⭐ (Calçada do Combro 28, Chiado — a 10 min walk from Rossio where the Sintra train drops you) is the pick: **open Mondays 12:00–15:00 & 19:00–22:30**, grilled steak and fish, house wine, walk-ins absorb four easily, **€12–20/pp**. **The neighbourhood alternative nearer the apartment:** **[O Cartaxinho](https://maps.google.com/?q=O+Cartaxinho+Rua+de+Santa+Marta+20+Lisboa+Portugal)** (R. de Santa Marta 20B — *cozido*, *cabidela*, *bacalhau à Brás*), **[Esquina da Fé](https://maps.google.com/?q=Esquina+da+F%C3%A9+Rua+da+F%C3%A9+60+Lisboa+Portugal)** (R. da Fé 60 — Minho cooking, everything house-made) or **[Forninho Saloio](https://maps.google.com/?q=Forninho+Saloio+Travessa+das+Parreiras+39+Lisboa+Portugal)** (Tv. das Parreiras 39 — *pernil*, daily specials), all €10–15/pp and 10–14 min on foot |
 
 > ⚠️ **What to look out for:**
 >
@@ -850,7 +850,7 @@ Then walk up to **[Miradouro de São Pedro de Alcântara](https://maps.google.co
 
 | Option | Why | Price |
 | --- | --- | --- |
-| **[Zé da Mouraria](https://maps.google.com/?q=Z%C3%A9+da+Mouraria+Lisbon+Portugal)** ⭐ | The more famous one, same street pocket — bacalhau à minhota, portions that serve 2–4. Skipped as the pick purely because the queue is worse; if Cornos is shut, walk here | €10–15/person |
+| **[O Trigueirinho](https://maps.google.com/?q=O+Trigueirinho+Largo+dos+Trigueiros+17+Lisboa+Portugal)** ⭐ | Same Mouraria pocket, 2 min from Cornos on Largo dos Trigueiros — home-style Portuguese, cash-friendly, lunch service **12:30–15:30**. *(Note: the original Zé da Mouraria on Rua João do Outeiro has permanently closed — this is the replacement fallback.)* | €10–15/person |
 | **[Páteo 13](https://maps.google.com/?q=P%C3%A1teo+13+Lisbon+Portugal)** | Outdoor Alfama square, charcoal-grilled **sardines** — late August is the tail of peak season | €10–20/person |
 | **[O Velho Eurico](https://maps.google.com/?q=O+Velho+Eurico+Lisbon+Portugal)** | Cult Castelo-side tasca — bacalhau à Brás, pork-belly petiscos (book ahead or arrive at opening) | €15–25/person |
 | **[Sardinha](https://maps.google.com/?q=Sardinha+Rua+Jardim+do+Tabaco+18+Lisboa+Portugal)** (R. Jardim do Tabaco 18–20, Alfama) | Husband-and-wife room, no concept, no English. *Bitoque*, or two grilled quails with chips — change from €10 | €8–12/person |
@@ -861,7 +861,7 @@ Then walk up to **[Miradouro de São Pedro de Alcântara](https://maps.google.co
 
 | Option                                                                  | What                                                                                                                                                                                                                                                                                                                                                                   | Notes                                                                 |
 | ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| **A — More churches + a famous cemetery** (recommended for this family) | **[Igreja de São Roque](https://maps.google.com/?q=Igreja+de+S%C3%A3o+Roque+Lisbon+Portugal) [🌐](https://www.museu-saoroque.com/en)** ⭐⭐ (Bairro Alto; church free, Tue–Sun, closed Mon) — plain façade hiding the dazzling gilded **Chapel of St John the Baptist**, built in Rome, blessed by the Pope, shipped here in pieces in 1742, once the most expensive chapel in the world; adjoining museum €2.50 → tram 28/25 (or Bolt) to **[Cemitério dos Prazeres](https://maps.google.com/?q=Cemit%C3%A9rio+dos+Prazeres+Lisbon+Portugal)** ⭐ (daily, free) — a silent city of cypress-lined mausoleum "streets," the giant Palmela tomb, views to the bridge | Atmospheric, never crowded; gelato at **[Santini](https://maps.google.com/?q=Santini+Lisbon+Portugal) [🌐](https://santini.pt)** en route |
+| **A — More churches + a famous cemetery** (recommended for this family) | **[Igreja de São Roque](https://maps.google.com/?q=Igreja+de+S%C3%A3o+Roque+Lisbon+Portugal) [🌐](https://museusaoroque.scml.pt/en/)** ⭐⭐ (Bairro Alto; church free, Tue–Sun, closed Mon) — plain façade hiding the dazzling gilded **Chapel of St John the Baptist**, built in Rome, blessed by the Pope, shipped here in pieces in 1742, once the most expensive chapel in the world; adjoining museum €2.50 → tram 28/25 (or Bolt) to **[Cemitério dos Prazeres](https://maps.google.com/?q=Cemit%C3%A9rio+dos+Prazeres+Lisbon+Portugal)** ⭐ (daily, free) — a silent city of cypress-lined mausoleum "streets," the giant Palmela tomb, views to the bridge | Atmospheric, never crowded; gelato at **[Santini](https://maps.google.com/?q=Santini+Lisbon+Portugal) [🌐](https://santini.pt)** en route |
 | **B — Cool-down loop** (if the heat has won)                            | **[Museu do Fado](https://maps.google.com/?q=Museu+do+Fado+Lisbon+Portugal) [🌐](https://www.museudofado.pt/en/)** (Alfama, €5, air-conditioned — headphones with Amália at full volume, perfect primer for tonight) → **[Gelato Davvero](https://maps.google.com/?q=Gelato+Davvero+Lisbon+Portugal)** (Rua de São Cristóvão, 4.9/5) → siesta at the apartment before the fado dinner                                                                                                                                                  | The honest August option; tonight is a late one                       |
 
 **19:45 — Fado dinner in Alfama** ⭐⭐ — dinner with live fado, family-friendly (a proper restaurant, not a bar). 🔴 **UNBOOKED — book today (Aug 5); the good houses fill 1–2 weeks out in August. The pick: [Parreirinha de Alfama](https://maps.google.com/?q=Parreirinha+de+Alfama+Lisbon+Portugal) [🌐](https://parreirinhadealfama.com).**
@@ -872,7 +872,7 @@ Then walk up to **[Miradouro de São Pedro de Alcântara](https://maps.google.co
 | **[Clube de Fado](https://maps.google.com/?q=Clube+de+Fado+Lisbon+Portugal) [🌐](https://www.clubedefado.pt/en/)** (backup #1) | Prestige house founded by guitarist Mário Pacheco — superb performers, serious food, roomier tables. Open nightly 19:30–01:00, music from 20:30 | €50–80/person | clubedefado.pt |
 | **Sr. Fado** (backup #2) | Small Alfama house run by a singer/guitarist couple — warm, uncramped, great with teens | €35–55/person | Book ahead |
 | **[A Baiuca](https://maps.google.com/?q=A+Baiuca+Rua+de+S%C3%A3o+Miguel+20+Lisboa+Portugal)** ⭐⭐ **← the cheap, local one** (R. de São Miguel 20) | *Fado vadio* since 1998 — two dozen stools, the room sings, and the Alfama audience is still genuinely local. ⚠️ **Runs Thu–Sat by most listings, so probably not tonight — call and ask** (+351 218 867 284). If they're on, take it over Parreirinha | **~€25/person** with dinner | Phone only |
-| **[A Tasca do Chico](https://maps.google.com/?q=A+Tasca+do+Chico+Lisbon+Portugal) [🌐](https://www.tascadochico.com)** (Bairro Alto, R. do Diário de Notícias 39) | The budget floor: benches, football scarves, *chouriço* flamed at the table, whoever wants to sing. Our note says vadio Mon & Wed; **2026 listings say singing most nights from ~21:00 — worth a call before writing off a Tuesday** | **~€10 minimum spend** | No bookings — inside before 19:00 |
+| **[A Tasca do Chico](https://maps.google.com/?q=A+Tasca+do+Chico+Lisbon+Portugal) [🌐](https://www.instagram.com/tascadochico_/)** (Bairro Alto, R. do Diário de Notícias 39) | The budget floor: benches, football scarves, *chouriço* flamed at the table, whoever wants to sing. Our note says vadio Mon & Wed; **2026 listings say singing most nights from ~21:00 — worth a call before writing off a Tuesday** | **~€10 minimum spend** | No bookings — inside before 19:00 |
 
 > 💰 **Fado, priced honestly:** Parreirinha for four = **€180–260**. A Baiuca ≈ **€100 for four**. Tasca do Chico ≈ **€40–60**. All three are the real thing; the extra money buys a tablecloth, a booked table and a professional line-up, not better fado. Bring **cash for the singers' tips** wherever you land. August is the most tourist-heavy month in every fado room in the city — that's unavoidable, not a reason to overpay.
 >
@@ -946,20 +946,20 @@ As everywhere on this trip, tourist access to a church closes while the liturgy 
 | Budget           | Best Bets                                                                                                 |
 | ---------------- | --------------------------------------------------------------------------------------------------------- |
 | €1–4 (snacks)    | Pastel de nata (**[Pastéis de Belém](https://maps.google.com/?q=Past%C3%A9is+de+Bel%C3%A9m+Lisbon+Portugal) [🌐](https://pasteisdebelem.pt)**, **[Manteigaria](https://maps.google.com/?q=Manteigaria+Lisbon+Portugal) [🌐](https://www.manteigaria.com/en/)**, **[Aloma](https://maps.google.com/?q=Aloma+Lisbon+Portugal) [🌐](https://aloma.pt)**), bifana at **[As Bifanas do Afonso](https://maps.google.com/?q=As+Bifanas+do+Afonso+Lisbon+Portugal)**, _ginjinha_ |
-| €8–15 (lunch)    | Time Out Market stalls, **[Zé da Mouraria](https://maps.google.com/?q=Z%C3%A9+da+Mouraria+Lisbon+Portugal)**, grilled sardines at **[Páteo 13](https://maps.google.com/?q=P%C3%A1teo+13+Lisbon+Portugal)**, Vasco da Gama food court    |
-| €15–30 (mid)     | Petiscos bars (**[Taberna da Rua das Flores](https://maps.google.com/?q=Taberna+da+Rua+das+Flores+Lisbon+Portugal) [🌐](https://tberna.com/)**), seafood tascas                                             |
+| €8–15 (lunch)    | Time Out Market stalls, **[Zé dos Cornos](https://maps.google.com/?q=Z%C3%A9+dos+Cornos+Lisbon+Portugal)** / **[O Trigueirinho](https://maps.google.com/?q=O+Trigueirinho+Largo+dos+Trigueiros+17+Lisboa+Portugal)**, grilled sardines at **[Páteo 13](https://maps.google.com/?q=P%C3%A1teo+13+Lisbon+Portugal)**, Vasco da Gama food court    |
+| €15–30 (mid)     | Petiscos bars (**[Taberna da Rua das Flores](https://maps.google.com/?q=Taberna+da+Rua+das+Flores+Lisbon+Portugal) [🌐](https://www.instagram.com/tabernadasflores/)**), seafood tascas                                             |
 | €30–50 (splurge) | **[Cervejaria Ramiro](https://maps.google.com/?q=Cervejaria+Ramiro+Lisbon+Portugal) [🌐](https://cervejariaramiro.pt/)**, classic marisqueiras                                                               |
 | €45–80 (fado night) | **[Parreirinha de Alfama](https://maps.google.com/?q=Parreirinha+de+Alfama+Lisbon+Portugal) [🌐](https://parreirinhadealfama.com)** (the pick), Clube de Fado                                                    |
 | Treats           | Gelato at **[Santini](https://maps.google.com/?q=Santini+Lisbon+Portugal) [🌐](https://santini.pt)** (Chiado), **[Nannarella](https://maps.google.com/?q=Nannarella+Lisbon+Portugal)** (São Bento) & **[Gelato Davvero](https://maps.google.com/?q=Gelato+Davvero+Lisbon+Portugal)** (Alfama); _travesseiros_ at **[Piriquita](https://maps.google.com/?q=Casa+Piriquita+Sintra+Portugal)** (Sintra) |
 
 | Day            | Breakfast       | Lunch                    | Dinner                       |
 | -------------- | --------------- | ------------------------ | ---------------------------- |
-| Day 1 (Sun)    | (travel)        | **O Prado** (R. da Junqueira 472) ⭐ or Belém kiosks + pastéis | **Príncipe do Calhariz** ⭐ (Sunday-open Chiado room) — Time Out Market as fallback |
-| Day 2 (Sintra) | Rossio takeaway | **[Tascantiga](https://maps.google.com/?q=Tascantiga+Escadinhas+da+Fonte+da+Pipa+2+Sintra+Portugal)** ✅ (petiscos terrace, 12:15–16:15 Mon) — Apeadeiro ⭐ / Tasca do Manel as backups; **[Piriquita](https://maps.google.com/?q=Casa+Piriquita+Sintra+Portugal)** for pastry only | **[Cervejaria Ramiro](https://maps.google.com/?q=Cervejaria+Ramiro+Lisbon+Portugal)** (€30–50, queue at 19:00) — or the neighbourhood version at a third of the price: **O Cartaxinho / Esquina da Fé / Forninho Saloio** ⭐ |
-| Day 3 (Alfama) | Copenhagen Coffee Lab / Baixa pastéis | Zé da Mouraria / **Zé dos Cornos** / Páteo 13 sardines | Fado: **A Baiuca ~€25** (call — Thu–Sat) → else **[Parreirinha](https://maps.google.com/?q=Parreirinha+de+Alfama+Lisbon+Portugal) [🌐](https://parreirinhadealfama.com)** €45–65 🔴 book |
+| Day 1 (Sun)    | (travel)        | **O Prado** (R. da Junqueira 472) ⭐ or Belém kiosks + pastéis | **[Cervejaria Ramiro](https://maps.google.com/?q=Cervejaria+Ramiro+Lisbon+Portugal)** ⭐ (Sunday-open 12:00–23:00) — Time Out Market / Príncipe do Calhariz as fallback |
+| Day 2 (Sintra) | Rossio takeaway | **[Tascantiga](https://maps.google.com/?q=Tascantiga+Escadinhas+da+Fonte+da+Pipa+2+Sintra+Portugal)** ✅ (petiscos terrace, 12:15–16:15 Mon) — Apeadeiro ⭐ / Tasca do Manel as backups; **[Piriquita](https://maps.google.com/?q=Casa+Piriquita+Sintra+Portugal)** for pastry only | **[Príncipe do Calhariz](https://maps.google.com/?q=Pr%C3%ADncipe+do+Calhariz+Cal%C3%A7ada+do+Combro+28+Lisboa+Portugal)** (€12–20, Monday hours 12:00–15:00 & 19:00–22:30) — or the neighbourhood version: **O Cartaxinho / Esquina da Fé / Forninho Saloio** ⭐ |
+| Day 3 (Alfama) | Copenhagen Coffee Lab / Baixa pastéis | **Zé dos Cornos** ✅ / O Trigueirinho / Páteo 13 sardines | Fado: **A Baiuca ~€25** (call — Thu–Sat) → else **[Parreirinha](https://maps.google.com/?q=Parreirinha+de+Alfama+Lisbon+Portugal) [🌐](https://parreirinhadealfama.com)** €45–65 🔴 book |
 | Day 4 (depart) | Manteigaria + Fabrica | Vasco da Gama food court (post-Oceanário) | (on the plane / BCN)  |
 
-> 🥇 **Lisbon locals' shortlist (all verified, all cheap):** **Zé dos Cornos** (Beco dos Surradores 5, ribs €13) · **Sardinha** (R. Jardim do Tabaco 18–20, bitoque under €10) · **O Prado** (R. da Junqueira 472, Belém) · **Príncipe do Calhariz** (Calçada do Combro 28 — *opens Sundays*) · **Apeadeiro** (Sintra). Near the apartment in Arroios — now the Day 2 dinner zone since the Cascais leg was cut: **O Cartaxinho** (R. de Santa Marta 20B), **Esquina da Fé** (R. da Fé 60), **Forninho Saloio** (Tv. das Parreiras 39) — all 10–14 min on foot, all *prato do dia* rooms.
+> 🥇 **Lisbon locals' shortlist (all verified, all cheap):** **Zé dos Cornos** (Beco dos Surradores 5, ribs €13) · **Sardinha** (R. Jardim do Tabaco 18–20, bitoque under €10) · **O Prado** (R. da Junqueira 472, Belém) · **Príncipe do Calhariz** (Calçada do Combro 28 — the Day 2 dinner pick, also opens Sundays) · **Apeadeiro** (Sintra). Near the apartment in Arroios — a cheaper Day 2 dinner fallback since the Cascais leg was cut: **O Cartaxinho** (R. de Santa Marta 20B), **Esquina da Fé** (R. da Fé 60), **Forninho Saloio** (Tv. das Parreiras 39) — all 10–14 min on foot, all *prato do dia* rooms.
 
 ---
 
@@ -979,7 +979,7 @@ As everywhere on this trip, tourist access to a church closes while the liturgy 
 | **[São Vicente de Fora](https://maps.google.com/?q=Sao+Vicente+de+Fora+Lisbon+Portugal) [🌐](https://mosteirodesaovicentedefora.com/en/)** (monastery + pantheon) | €8                  | **€4** (under 25)                           | ✅ **Booked — ref 980497008** | Day 3 — open daily |
 | **[Panteão Nacional](https://maps.google.com/?q=Pante%C3%A3o+Nacional+Lisbon+Portugal) [🌐](https://www.panteaonacional.gov.pt/en/)**                           | **€10** (2026 price) | **€5** (13–24)                             | ❌                    | Day 3 — **closed Mon** |
 | Sé de Lisboa                                   | **€5** (cloister closed for works) | €5 (kids 7–12 €3)             | ❌ optional           | Day 3 — closed Sun     |
-| **[Igreja de São Roque](https://maps.google.com/?q=Igreja+de+S%C3%A3o+Roque+Lisbon+Portugal) [🌐](https://www.museu-saoroque.com/en)**                        | Church free (museum €2.50) | museum €2.50                         | ❌                    | Day 3 — closed Mon     |
+| **[Igreja de São Roque](https://maps.google.com/?q=Igreja+de+S%C3%A3o+Roque+Lisbon+Portugal) [🌐](https://museusaoroque.scml.pt/en/)**                        | Church free (museum €2.50) | museum €2.50                         | ❌                    | Day 3 — closed Mon     |
 | **[Cemitério dos Prazeres](https://maps.google.com/?q=Cemit%C3%A9rio+dos+Prazeres+Lisbon+Portugal)**                     | Free                | —                                           | ❌                    | Day 3 — daily          |
 | Convento do Carmo                              | €7 (under 14 free)  | €7 (€5 with student card)                   | ❌                    | Day 4 — closed Sun     |
 | **[Oceanário de Lisboa](https://maps.google.com/?q=Ocean%C3%A1rio+de+Lisboa+Lisbon+Portugal) [🌐](https://oceanario.pt/en/)**                        | **€25–29 by time band** (12:00 band = €27) | same — 13+ pays adult | 🔴 **book NOW** (timed) | Day 4, 12:00 |
@@ -1063,7 +1063,7 @@ As everywhere on this trip, tourist access to a church closes while the liturgy 
 
 ## 🇪🇸 Barcelona — Aug 26–31 (5 nights)
 
-> Arrive late **Wed Aug 26** (TP1038 lands 21:50). Four full days + a morning departure to Zaragoza. Shape: **Gaudí → [Montserrat](https://maps.google.com/?q=Montserrat+Barcelona+Spain) → Old City churches + beach → Girona (or city depth) → out.** Two day-trip options are built in — **Montserrat (Fri)** and **[Girona](https://maps.google.com/?q=Girona+Barcelona+Spain) (Sun)** — both leaning into the monasteries, cathedrals and big views this family loves. Barcelona is **flat and Metro-easy**: the opposite of Porto's hills.
+> Arrive late **Wed Aug 26** (TP1038 lands 21:50). Four full days + a morning departure to Zaragoza. Shape: **Gaudí → [Montserrat](https://maps.google.com/?q=Montserrat+Barcelona+Spain) → Old City churches + beach → Girona → out.** Two day trips are built in — **Montserrat (Fri)** and **[Girona](https://maps.google.com/?q=Girona+Barcelona+Spain) (Sun)** — both leaning into the monasteries, cathedrals and big views this family loves. Barcelona is **flat and Metro-easy**: the opposite of Porto's hills.
 >
 > **Best base neighbourhoods:** you're in **Eixample** (Metro-central, Gaudí on the doorstep — the hotel is literally at the Sagrada Família). Gràcia (village feel), El Born (best walking + restaurants), Gothic Quarter (oldest core).
 
@@ -1075,8 +1075,8 @@ Demand is exceptional this year. The two big Gaudí tickets are **done** — the
 - ~~**[Park Güell](https://maps.google.com/?q=Park+G%C3%BCell+Barcelona+Spain) [🌐](https://parkguell.barcelona/en/)**~~ ✅ **BOOKED — Thu 27/08/2026 · 09:30 · 4 × general @ €18 = €72 · locator `700328431455`.** **30-min entry window** from 09:30, no re-entry once you leave.
 - 🔴 **[Escolania](https://maps.google.com/?q=Escolania+de+Montserrat+Spain) choir reservation (free)** — the Fri Aug 28 **13:00** _Salve/Virolai_ at Montserrat **requires a (free) reservation**. Book at **[reserves.abadiamontserrat.cat → "Noon pray — Cant de l'Escolania"](https://reserves.abadiamontserrat.cat/en/560-reservations/2985-noon-pray-cant-de-lescolania)** — the abbey's ticket shop, **not** escolania.cat (that site is calendar-only). The choir returns from summer break **Aug 27** — our visit is their second day back. **Reserve TODAY.**
 - 🔴 **[Picasso Museum](https://maps.google.com/?q=Picasso+Museum+Barcelona+Spain) [🌐](https://museupicassobcn.cat/en/) — Sat Aug 29, 14:00** — **NOT yet booked** and Saturday slots sell out. €14 online (€15 door), 18–25 €7.50, **under 18 free**. **Book TODAY** at museupicassobcn.cat: 2 × €14 + €7.50 + free = **€35.50**.
-- 🟠 **[7 Portes](https://maps.google.com/?q=7+Portes+Barcelona+Spain) [🌐](https://www.7portes.com/en/) farewell dinner — Sun Aug 30 ~21:00** — the institution books out weeks ahead in August. **Book NOW** (7portes.com / OpenTable).
-- 🟠 **[Girona](https://maps.google.com/?q=Girona+Barcelona+Spain) fast train** (only if Day 5 = Option A) — book by ~Aug 26; Sunday-morning trains fill with day-trippers.
+- 🟠 **[7 Portes](https://maps.google.com/?q=7+Portes+Barcelona+Spain) [🌐](https://www.7portes.com/en/) farewell dinner — Sun Aug 30 ~21:00** — optional splurge, the institution books out weeks ahead in August. **Book NOW if going** (7portes.com / OpenTable); the local picks below need no booking.
+- 🟠 **[Girona](https://maps.google.com/?q=Girona+Barcelona+Spain) fast train** — book by ~Aug 26; Sunday-morning trains fill with day-trippers.
 - 🔲 **[Montserrat](https://maps.google.com/?q=Montserrat+Barcelona+Spain) combined ticket (Tot)** — bought at the desk, no sell-out risk; pre-buy voucher optional (see Day 3).
 - ❌ **[Casa Batlló](https://maps.google.com/?q=Casa+Batll%C3%B3+Barcelona+Spain) [🌐](https://www.casabatllo.es/en/) / La Pedrera — deliberately skipped.** Centenary-year pricing (€35–45+/pp = €150+ for four per house) for interiors that lose to the Sagrada Família anyway. The facades are free after dark — walk-by built into Day 2 evening.
 
@@ -1116,9 +1116,9 @@ Flat city, superb Metro. No car.
 | # | Move | Saves (family of 4) |
 | - | ---- | ------------------- |
 | 1 | **4 × T-casual (€50.20)** for all transport — see Getting Around above | ~€90 vs Hola Barcelona 96h |
-| 2 | **Sunday Aug 30 after 15:00** — Barcelona's municipal museums are **free every Sunday from 15:00** (Pedralbes, Montjuïc Castle, MUHBA, El Born Centre). That's Day 5 Option B — just run it in the **afternoon** | ~€40 |
-| 3 | **Tot Montserrat over Trans Montserrat** — the ~€21.50 upgrade buys ~€26–30 (museum + the buffet lunch we were paying for anyway) | ~€20 net |
-| 4 | **Youth rates already exploited** — Sagrada Under-30 €24 × 2 (booked); Picasso **under-18 free** + 18–25 €7.50; Sant Pau 12–24 **€11.90** × 2; Girona Cathedral audio guide **included** in the €7.50 | ~€40 |
+| 2 | **Tot Montserrat over Trans Montserrat** — the ~€21.50 upgrade buys ~€26–30 (museum + the buffet lunch we were paying for anyway) | ~€20 net |
+| 3 | **Youth rates already exploited** — Sagrada Under-30 €24 × 2 (booked); Picasso **under-18 free** + 18–25 €7.50; Sant Pau 12–24 **€11.90** × 2; Girona Cathedral audio guide **included** in the €7.50 | ~€40 |
+| 4 | **Skip 7 Portes** for the Day 5 farewell — La Bendita / el Xuletò / Bodega La Palma run a third of the price, no booking needed | ~€25/pp |
 
 > ⚠️ **[MNAC](https://maps.google.com/?q=MNAC+Barcelona+Spain) is not on the Sunday rule** — free **Saturdays from 15:00** plus the first Sunday of the month, and **online booking is required even when free**. Aug 29 is a Saturday, but that slot is the Picasso Museum + beach — MNAC is on Montjuïc and would mean crossing the city twice. Skip the interior; the **MNAC steps outside are free at any hour** and are the optional sunset stop that evening.
 
@@ -1174,7 +1174,7 @@ Then drop bags, passports back in the safe **except set an alarm-note: they come
 
 **09:30 — Park Güell** ⭐⭐ ✅ **BOOKED — locator `700328431455`, 4 × general.** ⚠️ **30-min entry window** — be at the gate by 09:30; no re-entry once you exit. This was supposed to be a **gated garden city for sixty villas** (1900–1914); only two houses ever sold, the project flopped, and Barcelona inherited the greatest folly-park in Europe: the dragon/salamander staircase, the serpentine **trencadís** mosaic bench (its curves were reportedly moulded on a workman's body so it would seat perfectly), the 86-column Hypostyle Hall, and one of the best **city-and-sea panoramas** going [📍](https://maps.google.com/?q=Park+G%C3%BCell+Barcelona+Spain). Gaudí himself lived in the pink house here for 20 years. Going at opening beats both the crowds and the heat. ~1.5 hrs.
 
-**11:15 — Walk down into Gràcia** (~20 min, downhill) — leave the crowds for the **village squares**: Plaça de la Vila de Gràcia, Plaça del Sol, Plaça de la Virreina — low-rise, leafy, local. On the way down you pass **[Casa Vicens](https://maps.google.com/?q=Casa+Vicens+Barcelona+Spain) [🌐](https://www.casavicens.org/en/)**, Gaudí's vivid first house (1885): the tiled facade is a free 5-min stop from the street (interior €16–18 — only if someone's smitten; it's the quiet Gaudí, no queues).
+**11:15 — Walk down into Gràcia** (~20 min, downhill) — leave the crowds for the **village squares**: Plaça de la Vila de Gràcia, Plaça del Sol, Plaça de la Virreina — low-rise, leafy, local. On the way down you pass **[Casa Vicens](https://maps.google.com/?q=Casa+Vicens+Barcelona+Spain) [🌐](https://casavicens.org)**, Gaudí's vivid first house (1885): the tiled facade is a free 5-min stop from the street (interior €16–18 — only if someone's smitten; it's the quiet Gaudí, no queues).
 
 **13:00 — Lunch in Gràcia** — pick by mood:
 
@@ -1344,14 +1344,10 @@ Then drop bags, passports back in the safe **except set an alarm-note: they come
 
 ---
 
-### Day 5 — Sunday Aug 30 · Girona Day Trip _or_ Barcelona in Depth
+### Day 5 — Sunday Aug 30 · Girona Day Trip
 
-> ✅ **Going with Option A — Girona.** Lunch is booked there (**Bartali Pizza Co., 14:00**), which commits the day: you're on the ~08:20 train. Option B is kept below as the wet-weather / everyone-is-exhausted escape hatch, not as an open question.
+> Second day-trip slot: **[Girona](https://maps.google.com/?q=Girona+Barcelona+Spain)** — a cathedral with the world's widest Gothic nave, the best-preserved Jewish quarter in Europe, a Romanesque monastery, _Game of Thrones_ stairs. Lunch is booked there (**Bartali Pizza Co., 14:00**), which commits the day: you're on the ~08:20 train. ⚠️ **Take the Saturday 20:00 vigil Mass** (see _⛪ Mass in Barcelona_ below) — the Sunday 09:00 Mass and the 08:20 train cannot both happen.
 >
-> Your second day-trip slot. **Option A — [Girona](https://maps.google.com/?q=Girona+Barcelona+Spain)** (a cathedral with the world's widest Gothic nave, the best-preserved Jewish quarter in Europe, a Romanesque monastery, _Game of Thrones_ stairs) is the church/history pick. **Option B** stays in town and rides the free-Sunday wave. **Decide Mass first** — the best liturgy in Barcelona starts at 09:00, exactly when the Girona train would be pulling out (full options under _⛪ Mass in Barcelona_ below; the clean solve is the **Saturday 20:00 vigil**, which frees all of Sunday). ⚠️ With Girona now locked, **take the Saturday vigil** — the Sunday 09:00 Mass and the 08:20 train cannot both happen.
-
-**Option A — Girona day trip ⭐ (recommended 2nd trip)**
-
 > Why Girona: a complete walled medieval city 38 minutes away — cathedral, Romanesque monastery, Europe's best-kept Jewish quarter, river houses, _Game of Thrones_ sets — all compact, flat inside the old town, and far emptier than anything in Barcelona.
 
 > ⚠️ **Sunday rewires the order — verified hours:** the **Cathedral only opens to visitors at 12:00 on Sundays** (12:00–16:30) and **Sant Feliu at 13:00** (13:00–17:30), while the **museums shut at 14:00** (Jewish museum last entry ~13:30). So: **museums and lanes first, cathedral at noon, churches after** — do not reshuffle this. One ticket (€7.50 adult, **audio guide included**; students/pensioners €5, under 16 €1.50, under 8 free) covers **Cathedral + Sant Feliu**.
@@ -1378,13 +1374,13 @@ Then drop bags, passports back in the safe **except set an alarm-note: they come
 
 **13:40 — [Escales de Sant Martí](https://maps.google.com/?q=Escales+de+Sant+Mart%C3%AD+Girona+Spain)** ⭐ (Pujada de Sant Domènec, 2 min away) — the baroque staircase sweeping up to Sant Martí Sacosta: **Arya's Braavos chase** ran down these steps. Shoot from the bottom looking up. Free.
 
-**14:00 — Lunch: [Bartali Pizza Co.](https://maps.google.com/?q=Bartali+Pizza+Co+Carrer+Nou+del+Teatre+3+Girona+Spain) [🌐](https://bartalipizza.com/)** ⭐ ✅ **Chosen**
+**14:00 — Lunch: [Bartali Pizza Co.](https://maps.google.com/?q=Bartali+Pizza+Co+Carrer+Nou+del+Teatre+3+Girona+Spain) [🌐](https://bartalipizza.com/)** ⭐ ✅ **Booked — 30-08-2026, 14:00h, 4 people, under SVYATOSLAV PODOLSKIY. Table: COMEDOR INTERIOR.**
 
-**Carrer Nou del Teatre 3**, 17004 Girona — a couple of minutes downhill from the Sant Martí steps, at the south end of the Barri Vell. Neapolitan-style pizza, **4.8★ over ~725 reviews**, terrace seating, and **gluten-free bases** if anyone needs them. About **€15/person** for a pizza and a drink — the cheapest sit-down meal of the whole Barcelona block, on the day you're already paying for train tickets.
+**Carrer Nou del Teatre 3**, 17004 Girona — a couple of minutes downhill from the Sant Martí steps, at the south end of the Barri Vell. Neapolitan-style pizza, **4.8★ over ~725 reviews**, and **gluten-free bases** if anyone needs them. About **€15/person** for a pizza and a drink — the cheapest sit-down meal of the whole Barcelona block, on the day you're already paying for train tickets.
 
-> 🔴 **Book it — Sunday is their short day.** **Sunday hours are 13:00–15:30, lunch only**, so a 14:00 table is comfortable but a 15:00 walk-in is not. Reserve through **bartalipizza.com** (or OpenTable / Resy), or **phone +34 972 21 09 91**. Note it in the calendar for the morning of Aug 26 when you book the trains.
+> ℹ️ **The table is indoors (comedor interior), not on the terrace** — which in a Girona August at 14:00 is the better half of the deal anyway. If you want the terrace, ask on arrival, don't count on it.
 >
-> ⏰ **This is the day's real deadline.** Sant Feliu at 13:10 and the Sant Martí steps at 13:40 have to stay brisk — the kitchen stops at 15:30 and there is no second lunch service.
+> ⏰ **This is the day's real deadline.** Sant Feliu at 13:10 and the Sant Martí steps at 13:40 have to stay brisk — **Sunday service is 13:00–15:30 only**, there is no second sitting, and the table is now a fixed 14:00 commitment rather than a hope.
 
 **If Bartali is full or the day slips:**
 
@@ -1403,29 +1399,20 @@ Then drop bags, passports back in the safe **except set an alarm-note: they come
 
 **18:15 — Walk to the station** (~15 min) → **~18:40 fast train**, Barcelona by ~19:20. ⚠️ Check the last fast departures when booking — Sunday evening service thins.
 
-**~21:00 — Farewell dinner: [7 Portes](https://maps.google.com/?q=7+Portes+Barcelona+Spain) [🌐](https://www.7portes.com/en/)** (Pg. d'Isabel II 14) — paella institution **since 1836**, open daily 13:00–01:00: white jackets, marble tables, _paella Parellada_ and black rice. €40–60/pp. 🟠 **Book now for Sunday ~21:00** — August weekends fill weeks out. Then pack: tomorrow leaves at 09:40.
+**~21:00 — Farewell dinner: casual and local, not the splurge.**
+
+| Pick | Why | Price | Notes |
+| ---- | --- | ----- | ----- |
+| **[La Bendita](https://maps.google.com/?q=La+Bendita+Carrer+de+Sardenya+Barcelona+Spain)** — C/ de Sardenya, 2 min from the hotel | Casual Catalan-Mediterranean right by the Sagrada Família | €15–25/pp | Open Sun to 24:00, kitchen non-stop — no booking needed |
+| **[Bar Restaurante el Xuletò](https://maps.google.com/?q=Bar+Restaurante+El+Xulet%C3%B2+Barcelona+Spain)** — Eixample, near hotel | The near-hotel Catalan grill this trip has already used Days 2–3 — honest home cooking | €14–22/pp | Long daily hours |
+| **[Bodega La Palma](https://maps.google.com/?q=Bodega+La+Palma+Carrer+de+la+Palma+de+Sant+Just+7+Barcelona+Spain)** — C/ de la Palma de Sant Just 7, Gothic | Old barrel bodega in the Gothic alleys, local favourite | €15–25/pp | Verify Sunday hours; book ahead for weekend crowds |
+| **Carrer de Blai** pintxo strip — Poble-sec | Same crawl style as Day 4, at a third of 7 Portes' price | €15–20/pp | No booking, open evenings daily |
+
+🟠 Still on the table as the splurge: **[7 Portes](https://maps.google.com/?q=7+Portes+Barcelona+Spain) [🌐](https://www.7portes.com/en/)** (Pg. d'Isabel II 14) — paella institution **since 1836**, open daily 13:00–01:00: white jackets, marble tables, _paella Parellada_ and black rice. €40–60/pp. **Book now if going** — August weekends fill weeks out. Then pack: tomorrow leaves at 09:40.
 
 > 💡 **If the day feels long:** the natural cut is everything after lunch — take a ~16:00 train back. The morning (bridge → xuixo → Call → cathedral → Sant Feliu → stairs) is the irreducible core. Cost note: fast trains for four ≈ €65–130 return + interiors ≈ €55–65 → **~€150–200 all-in**; the free-and-outdoor half (bridge, lanes, gardens, stairs, walls) costs nothing but the train.
 
-**Option B — Barcelona in depth** (church/monastery + views + beach, no intercity trains)
-
-> 💰 **Run this one in the afternoon.** Municipal museums are **free every Sunday from 15:00** — Option B's paid stops become **€0**. And ⚠️ **[La Boqueria market](https://maps.google.com/?q=La+Boqueria+Market+Barcelona+Spain) is closed Sundays** (as are La Cova Fumada, Quimet & Quimet — and El Xampanyet's Sunday is off too), so don't route a food stop through La Rambla today.
-
-| Time | What | Cost |
-| ---- | ---- | ---- |
-| Morning | **[Tibidabo](https://maps.google.com/?q=Tibidabo+Barcelona+Spain)** — the **[Temple del Sagrat Cor](https://maps.google.com/?q=Temple+Sagrat+Cor+Tibidabo+Barcelona+Spain)** crowning the city (church free; lift up the tower to the Sacred Heart statue, small fee), the retro hilltop funfair alongside, and the **widest view of all**. Go the integrated-fare way: FGC S1/S2 → Peu del Funicular → **[Vallvidrera funicular](https://maps.google.com/?q=Funicular+de+Vallvidrera+Barcelona+Spain)** (covered by T-casual) → **bus 111** to the summit (also covered) | ~€0 transport + lift |
-| ~13:00 | Lunch down in Sarrià's village core, then toward Pedralbes | — |
-| **15:00** | **[Monestir de Pedralbes](https://maps.google.com/?q=Monestir+de+Pedralbes+Barcelona+Spain)** ⭐ [📍](https://maps.google.com/?q=Monestir+de+Pedralbes+Barcelona+Spain) — a pristine 14th-c Gothic **monastery**: three-storey cloister, nuns' cells, herb garden; quiet and green | **FREE** from 15:00 (else ~€5) |
-| **~17:15** | **[Montjuïc](https://maps.google.com/?q=Montju%C3%AFc+Barcelona+Spain)** — funicular up from Paral·lel (**on the T-casual**); **[Montjuïc Castle](https://maps.google.com/?q=Montju%C3%AFc+Castle+Barcelona+Spain) [🌐](https://www.bcn.cat/castelldemontjuic/en/)** ramparts for the harbour panorama | **FREE** from 15:00 (else €5–12) |
-| Evening | A last **beach hour** below Montjuïc's far side (or Barceloneta again), then the farewell dinner — **[7 Portes](https://maps.google.com/?q=7+Portes+Barcelona+Spain) [🌐](https://www.7portes.com/en/) 🟠 still unbooked** (€40–60/pp, paella institution since 1836, open daily 13:00–01:00). **Cheaper and more local, and open on a Sunday:** the **Carrer de Blai** pintxo strip in Poble-sec (€15–20/pp, no booking) or **[Bodega La Palma](https://maps.google.com/?q=Bodega+La+Palma+Carrer+de+la+Palma+de+Sant+Just+7+Barcelona+Spain)** (C/ de la Palma de Sant Just 7, old barrel room in the Gothic alleys, €15–25/pp — book for a weekend) | — |
-
-> ⚠️ **[MNAC](https://maps.google.com/?q=MNAC+Barcelona+Spain) is the exception** — free **Saturdays** from 15:00 and first Sundays, **not today**, and online booking is required even when free. Same trap: the **[Montjuïc cable car](https://maps.google.com/?q=Telef%C3%A8ric+de+Montju%C3%AFc+Barcelona+Spain)** (telefèric, €13) is never covered — only the **funicular** is.
->
-> 💡 **Cost delta for four:** Option B runs **~€0–30** all-in (lift + odd fares) vs Girona's ~€150–200. Girona is still the better sightseeing day if the budget's fine — decide on the ground; a cheap Girona (outdoor-only + slow train) is also on the table.
-
-> Lighter 3rd alternative: **[Sitges](https://maps.google.com/?q=Sitges+Barcelona+Spain)** — whitewashed beach town with the seafront church on the breakwater, best water near Barcelona (R2 Sud from Passeig de Gràcia, ~40 min, ~€5 pp each way).
->
-> 🌧️ **Wet fallback:** Girona in rain still works (cathedral, Sant Feliu, museums, lanes — skip the walls); Option B collapses gracefully into free-Sunday museums (Pedralbes cloister, El Born Centre 15:00–20:00) plus the Picasso you've already seen — or simply the vermut-bar afternoon Barcelona natives would choose.
+> 🌧️ **Wet fallback:** Girona in rain still works — cathedral, Sant Feliu, museums, lanes — skip the walls.
 
 **Evening — pack to carry-on tonight.** Breakfast plan set, alarms set; there is no slack in the morning.
 
@@ -1461,7 +1448,6 @@ Then drop bags, passports back in the safe **except set an alarm-note: they come
 | **[Palau Dalmases](https://maps.google.com/?q=Palau+Dalmases+Barcelona+Spain)** (El Born) ⭐ | **Day 4** — candlelit baroque salon, ~70 seats, 3 min from both the Picasso Museum and Santa Maria del Mar, which are already on Saturday's route | ~€30 pp incl. drink · ~1 hr |
 | **[Tablao Cordobés](https://maps.google.com/?q=Tablao+Cordob%C3%A9s+Barcelona+Spain)** (La Rambla) ⭐ | The full tablao night — same room Camarón and Paco de Lucía played, since 1970. **Book direct**; the Rambla touts resell the same seats dearer | €45–50 + drink; €65–90 w/ tapas buffet |
 | **Gran Gala Flamenco** @ **[Palau de la Música](https://maps.google.com/?q=Palau+de+la+M%C3%BAsica+Catalana+Barcelona+Spain)** | Two sights on one ticket — the only way inside the stained-glass hall without the €22 tour. ⚠️ **Selected evenings only, not nightly** — check the calendar for Aug 26–30 first | €35–60 pp |
-| **[Tablao de Carmen](https://maps.google.com/?q=Tablao+de+Carmen+Barcelona+Spain)** (Poble Espanyol) | **Day 5 Option B** — we're already on Montjuïc for the castle at 17:15; ticket includes Poble Espanyol entry | ~€45–50 + drink |
 | **[Palacio del Flamenco](https://maps.google.com/?q=Palacio+del+Flamenco+Barcelona+Spain)** (Eixample) | **The Thursday fit** — out of the Sagrada ~19:45, dinner 20:15, Metro to the 21:30. Big theatre format, easiest to book late | €45 + drink; €60–90 w/ dinner |
 
 > 💡 **Free either way:** the **[Font de Carmen Amaya](https://maps.google.com/?q=Font+de+Carmen+Amaya+Barcelona+Spain)** on Plaça de Brugada, a block back from the Barceloneta sand — a 2-minute detour on the Day 4 beach walk. Full venue notes on the **Barcelona → Sights** tab.
@@ -1470,7 +1456,7 @@ Then drop bags, passports back in the safe **except set an alarm-note: they come
 
 ### ⛪ Mass in Barcelona — optional
 
-> This is the trip's **one full Sunday in Spain** (Aug 23 was Lisbon's). If attending Mass matters, decide **before** picking Day 5's option — the best celebration starts at 09:00, exactly when the Girona train leaves.
+> This is the trip's **one full Sunday in Spain** (Aug 23 was Lisbon's). If attending Mass matters, **take the Saturday vigil** — the best Sunday celebration starts at 09:00, exactly when the Girona train leaves, so the two can't both happen.
 
 **⭐ The pick: [Sagrada Família](https://maps.google.com/?q=Sagrada+Fam%C3%ADlia+Barcelona+Spain) [🌐](https://www.sagradafamilia.org/en/worship-at-the-basilica) — International Mass, Sunday Aug 30, 09:00. Free.**
 
@@ -1487,11 +1473,11 @@ The reason to do it even with the Aug 27 ticket in hand: **you see the opposite 
 | **Entrance** | Nativity façade, **[Carrer de la Marina](https://maps.google.com/?q=Carrer+de+la+Marina+Barcelona+Spain)** |
 | **Note** | A **service, not a visit** — seated in the nave, no wandering, no towers. Dress respectfully |
 
-> ⛪ **Saturday vigil — the one that rescues [Girona](https://maps.google.com/?q=Girona+Barcelona+Spain).** The basilica also holds an **international Mass Saturdays at 20:00**, same terms (free, limited capacity, Marina entrance). Taking the **vigil on Sat Aug 29** satisfies the Sunday obligation and leaves **all of Sunday free for Option A**. Cost: the tail of the Day 4 beach — sand until 19:00, Mass 20:00, dinner near the hotel ~21:15 instead of Carrer de Blai. ⚠️ Evening Mass times can shift for special events — confirm on sagradafamilia.org the week before.
+> ⛪ **Saturday vigil — the one that rescues [Girona](https://maps.google.com/?q=Girona+Barcelona+Spain).** The basilica also holds an **international Mass Saturdays at 20:00**, same terms (free, limited capacity, Marina entrance). Taking the **vigil on Sat Aug 29** satisfies the Sunday obligation and leaves **all of Sunday free for Girona**. Cost: the tail of the Day 4 beach — sand until 19:00, Mass 20:00, dinner near the hotel ~21:15 instead of Carrer de Blai. ⚠️ Evening Mass times can shift for special events — confirm on sagradafamilia.org the week before.
 
 **Traditional alternative if staying in town: [Barcelona Cathedral](https://maps.google.com/?q=Barcelona+Cathedral+Barcelona+Spain) [🌐](https://catedralbcn.org/en/) (La Seu)** — Sundays at the high altar: 09:00 Catalan · **10:30 ⭐ the solemn _Missa Conventual_** (Laudes 10:00 in the choir) · 12:00 Spanish · 13:00 Catalan · 18:00 Spanish · 19:15 Catalan. Free as a worshipper — but ⚠️ **tourist visiting is suspended during services** (no rooftop, no geese-cloister wandering), and Day 4 already covers La Seu properly as a visit.
 
-**If Girona (Option A):** Girona Cathedral celebrates Sunday Mass and worshippers enter free, but ⚠️ **the timetable could not be verified online** — confirm via **bisbatgirona.cat → "Horaris de misses" → _Arxiprestat de Girona-Salt_ PDF** or **+34 972 41 27 20**. Note the cathedral's tourist visit starts 12:00 Sunday, so a morning Mass there would slot _before_ the visit rather than replacing it.
+**Girona Cathedral:** it celebrates Sunday Mass and worshippers enter free, but ⚠️ **the timetable could not be verified online** — confirm via **bisbatgirona.cat → "Horaris de misses" → _Arxiprestat de Girona-Salt_ PDF** or **+34 972 41 27 20**. Note the cathedral's tourist visit starts 12:00 Sunday, so a morning Mass there would slot _before_ the visit rather than replacing it.
 
 **And if [Montserrat](https://maps.google.com/?q=Montserrat+Barcelona+Spain) stole the show:** the **[Escolania](https://maps.google.com/?q=Escolania+de+Montserrat+Spain) sings the Sunday 11:00 Missa Conventual** (Aug 30, 11:00–12:00, free reservation required — [Missa Conventual booking page](https://reserves.abadiamontserrat.cat/en/560-reservations/2984-missa-conventual)) and **Vespers 18:45** — a full sung Mass rather than Friday's 13-minute Salve. It means repeating the mountain; only if Friday leaves everyone wanting more.
 
@@ -1505,7 +1491,7 @@ The reason to do it even with the Aug 27 ticket in hand: **you see the opposite 
 | €10–18 (the locals' band) ⭐ | **[La Cova Fumada](https://maps.google.com/?q=La+Cova+Fumada+Barcelona+Spain)** (_bomba_, cash, no sign) · **Bar Jai-Ca** (C/ de Ginebra 13) · **Bar La Plata** (C/ de la Mercè 28, four tapas since 1945) · Carrer de Blai pintxos (Koska, La Tasqueta) · _menú del día_ **one street off** the Gràcia squares |
 | €14–25 (mid, still local)   | **el Xuletò** / **Casa Amalia** (Ptge. del Mercat 14) near the hotel · **Santa Magdalena** (Gràcia) · **Bodega La Palma** (Gothic) · **Bodega La Peninsular** (Barceloneta) · Catalan _arròs_/fideuà |
 | €20–35 (mid, visitor-priced) | **[Cal Pep](https://maps.google.com/?q=Cal+Pep+Barcelona+Spain)** seafood bar, **[Bar del Pla](https://maps.google.com/?q=Bar+del+Pla+Barcelona+Spain)**, Cervecería Catalana, El Nacional |
-| €40+ (splurge) | **[7 Portes](https://maps.google.com/?q=7+Portes+Barcelona+Spain) [🌐](https://www.7portes.com/en/)** (paella institution since 1836 — 🟠 **not booked**), Kaiku's arròs negre                 |
+| €40+ (splurge) | **[7 Portes](https://maps.google.com/?q=7+Portes+Barcelona+Spain) [🌐](https://www.7portes.com/en/)** (paella institution since 1836 — 🟠 **not booked, optional Day 5 splurge**), Kaiku's arròs negre                 |
 
 | Day                 | Breakfast       | Lunch                            | Dinner                      |
 | ------------------- | --------------- | -------------------------------- | --------------------------- |
@@ -1513,7 +1499,7 @@ The reason to do it even with the Aug 27 ticket in hand: **you see the opposite 
 | Day 2 (Gaudí)       | Near hotel      | Gràcia _menú del día_ — **Verdi / Torrijos / Santa Magdalena**, not Pl. del Sol | **el Xuletò** ⭐ / Casa Amalia (Catalana & El Nacional = fallbacks) |
 | Day 3 (Montserrat)  | Near hotel      | Monastery buffet (Tot ticket)    | Same near-hotel shortlist   |
 | Day 4 (Old City)    | Petritxol granja | **[La Cova Fumada](https://maps.google.com/?q=La+Cova+Fumada+Barcelona+Spain)** (door 11:45!) — Bar Jai-Ca if it's full | **[Carrer de Blai](https://maps.google.com/?q=Carrer+de+Blai+Barcelona+Spain)** pintxos: Koska → La Tasqueta → Blai 9  |
-| Day 5 (Girona) | Near hotel / pre-Mass | Girona: **[Bartali Pizza Co.](https://maps.google.com/?q=Bartali+Pizza+Co+Carrer+Nou+del+Teatre+3+Girona+Spain)** ✅ 🔴 book (Sun 13:00–15:30 only, ~€15/pp) — Draps / El Carrito ⭐ as backups | **7 Portes** 🟠 book — or Blai / **Bodega La Palma** for a third of the money |
+| Day 5 (Girona) | Near hotel / pre-Mass | Girona: **[Bartali Pizza Co.](https://maps.google.com/?q=Bartali+Pizza+Co+Carrer+Nou+del+Teatre+3+Girona+Spain)** ✅ **booked 14:00, 4 pax** (Sun 13:00–15:30 only, ~€15/pp) | **La Bendita** / el Xuletò / Bodega La Palma / Blai — or **7 Portes** 🟠 splurge |
 | Day 6 (departure)   | Near hotel, quick | On to Zaragoza                  | —                           |
 
 > ⚠️ **August reality check (verified):** **[Quimet & Quimet](https://maps.google.com/?q=Quimet+%26+Quimet+Barcelona+Spain) — closed ALL of August** (skip this trip). **[El Xampanyet](https://maps.google.com/?q=El+Xampanyet+Barcelona+Spain) — closed for August break, reportedly back ~Aug 24–25** — confirm at the window. **Tickets — permanently closed** (its successor Teatro closed too; Albert Adrià's flame lives on at Enigma). **La Cova Fumada** — open but **Sat 09:00–13:00**, cash only, call ahead re: holiday days. **Cal Pep** — closed Sun; Sat lunch 13:15–15:45 walk-in bar. **La Boqueria — closed Sundays.**
@@ -1533,10 +1519,7 @@ The reason to do it even with the Aug 27 ticket in hand: **you see the opposite 
 | Santa Maria del Mar                              | €5 visit (roof €10)  | ❌                           | Day 4, 13:30 (Mon–Sat 10–18)          |
 | **[Picasso Museum](https://maps.google.com/?q=Picasso+Museum+Barcelona+Spain) [🌐](https://museupicassobcn.cat/en/)**                               | €14 / 18–25 €7.50 / u18 free | 🔴 **book 14:00 Sat NOW** | Day 4, 14:00 (Sat 09:00–21:00)  |
 | Bunkers del Carmel                               | Free                 | ❌                           | Fenced, **09:00–19:30** — daytime only, ❌ not sunset |
-| **[Girona](https://maps.google.com/?q=Girona+Barcelona+Spain)** (Cathedral+Sant Feliu €7.50; Call museum €4) | ~€14 pp interiors | ❌ (book train)          | Day 5 A — **Sun: museums to 14:00, cathedral from 12:00** |
-| Monestir de Pedralbes                            | ~€5 → **free Sun 15:00+** | ❌                       | Day 5 B — closed Mon                  |
-| Montjuïc Castle                                  | €5–12 → **free Sun 15:00+** | ❌                     | Day 5 B, pre-sunset                   |
-| Tibidabo / Sagrat Cor                            | Church free; lift small fee | ❌                    | Day 5 B morning (T-casual via Vallvidrera funicular + bus 111) |
+| **[Girona](https://maps.google.com/?q=Girona+Barcelona+Spain)** (Cathedral+Sant Feliu €7.50; Call museum €4) | ~€14 pp interiors | ❌ (book train)          | Day 5 — **Sun: museums to 14:00, cathedral from 12:00** |
 
 ---
 
@@ -1548,8 +1531,8 @@ The reason to do it even with the Aug 27 ticket in hand: **you see the opposite 
 | ~~**[Park Güell](https://maps.google.com/?q=Park+G%C3%BCell+Barcelona+Spain) [🌐](https://parkguell.barcelona/en/)**~~ ✅                              | Booked                    | **Aug 27 · 09:30 · 4 × €18 = €72 · locator `700328431455`** |
 | **[Escolania](https://maps.google.com/?q=Escolania+de+Montserrat+Spain) choir — Aug 28, 13:00** (free)         | 🔴 **Reserve TODAY** — choir back from holiday Aug 27, zero margin | [reserves.abadiamontserrat.cat → "Noon pray — Cant de l'Escolania"](https://reserves.abadiamontserrat.cat/en/560-reservations/2985-noon-pray-cant-de-lescolania) · calendar re-check: [escolania.cat/when-do-we-sing](https://www.escolania.cat/en/when-do-we-sing/) |
 | **[Picasso Museum](https://maps.google.com/?q=Picasso+Museum+Barcelona+Spain) [🌐](https://museupicassobcn.cat/en/) — Aug 29, 14:00**                 | 🔴 **Book TODAY** — Saturday sells out · €35.50 total | museupicassobcn.cat (under-18 free, 18–25 €7.50) |
-| **[7 Portes](https://maps.google.com/?q=7+Portes+Barcelona+Spain) [🌐](https://www.7portes.com/en/) — Sun Aug 30 ~21:00 farewell**          | 🟠 **Book this week**     | 7portes.com / OpenTable                    |
-| **[Girona](https://maps.google.com/?q=Girona+Barcelona+Spain) fast train** (only if Day 5 Option A)     | 🟠 By ~Aug 26 — Sunday morning fills | renfe.com                        |
+| **[7 Portes](https://maps.google.com/?q=7+Portes+Barcelona+Spain) [🌐](https://www.7portes.com/en/) — Sun Aug 30 ~21:00 farewell (optional splurge)**          | 🟠 **Book this week if going** — local picks (La Bendita, el Xuletò, Bodega La Palma) need no booking | 7portes.com / OpenTable                    |
+| **[Girona](https://maps.google.com/?q=Girona+Barcelona+Spain) fast train**     | 🟠 By ~Aug 26 — Sunday morning fills | renfe.com                        |
 | **[Montserrat](https://maps.google.com/?q=Montserrat+Barcelona+Spain) combined ticket** (take **Tot** ~€71.50) | On the day at the desk (or voucher → Pl. Catalunya 17-S day before) | FGC desk Pl. d'Espanya / Turisme de Barcelona |
 | ~~Casa Batlló / La Pedrera~~ ❌ skipped            | Decision — centenary pricing; facades free at night | —                            |
 | ~~Barcelona hotel~~ ✅                             | Booked                    | AB Sagrada Família Bofill                  |
@@ -1742,7 +1725,7 @@ An **11th-century Moorish palace** built by the Hudid kings when Zaragoza was ca
 
 - **Daily 10:00–18:00** (2026 continuous schedule) · allow **1.5–2 h, do not rush**
 - €7/adult · €2 reduced (students/carnet joven — bring the girls' student IDs) · under-12 free · audioguide €3 · guided visits in Spanish €9 (10:30/11:30/12:30…)
-- **Book timed entry online in advance** at [tickets.aljaferia.es](https://tickets.aljaferia.es) — capacity is limited; a Tuesday-morning slot is safe if booked this week (see Must-Book)
+- **Book timed entry** via [cortesaragon.es](https://www.cortesaragon.es/Visitas-e-informacion.2270.0.html) or phone 976 289 683 — capacity is limited; a Tuesday-morning slot is safe if booked this week (book by phone/in person if online booking is unavailable — verify current process; see Must-Book)
 - Occasional wings close for parliamentary business — the ticket portal shows real availability
 - ⚠️ Limited shade in the moat gardens; do the outside walk first while it's cool
 
@@ -1802,7 +1785,7 @@ Metro or taxi to the hotel. Late casual dinner near the hotel — see Madrid Sep
 | If you still want to try | How |
 | ------------------------ | --- |
 | **Jota with dinner** | **[El Cachirulo](https://maps.google.com/?q=Restaurante+El+Cachirulo+Zaragoza+Spain)** on the Logroño road — live jota in full regional costume. ⚠️ 15-min taxi out of the centre, shows lean to weekends, **call first**; a Monday performance is unlikely |
-| **Whatever's programmed** | **Teatro Principal · Teatro de las Esquinas · Sala Las Armas** — check the agenda at [zaragoza.es](https://www.zaragoza.es) / [turismodezaragoza.es](https://www.turismodezaragoza.es) about a week out; the September season starts right on our dates |
+| **Whatever's programmed** | **Teatro Principal · Teatro de las Esquinas · Sala Las Armas** — check the agenda at [zaragoza.es](https://www.zaragoza.es) / [turismo.zaragoza.es](https://www.turismo.zaragoza.es) about a week out; the September season starts right on our dates |
 | **The free long shot** | Ask at the **tourist office on Plaza del Pilar** Monday afternoon (between La Seo and the tower) — summer jota performances get put on in plazas and civic centres and don't always reach the online listings |
 
 ---
@@ -1843,7 +1826,7 @@ Zaragoza is **the only city in the world with two cathedrals**, and both are a f
 
 | Sight                          | Our slot            | Hours that day                             | Cost                              | Book?                        |
 | ------------------------------ | ------------------- | ------------------------------------------ | --------------------------------- | ---------------------------- |
-| **[La Aljafería](https://maps.google.com/?q=La+Aljafer%C3%ADa+Zaragoza+Spain)** ⭐⭐          | Tue 10:15           | Daily 10:00–18:00                          | €7 · €2 student · u12 free        | ✅ Online, tickets.aljaferia.es |
+| **[La Aljafería](https://maps.google.com/?q=La+Aljafer%C3%ADa+Zaragoza+Spain)** ⭐⭐          | Tue 10:15           | Daily 10:00–18:00                          | €7 · €2 student · u12 free        | 976 289 683, book by phone/in person (online broken) |
 | **[La Seo](https://maps.google.com/?q=La+Seo+Zaragoza+Spain) + Tapestries** ⭐     | Mon 17:30           | Mon–Sat 10:00–14:30 & 16:00–20:00          | €10 · €7 youth · u12 free         | No — buy at door             |
 | **Pilar Tower (Ascensor)** ⭐  | Mon 19:00           | Mon–Thu 10:30–14:30 & 16:00–20:00, last lift 19:30 | €6 · €4 youth (combo w/ Seo €12/€9) | No                       |
 | **[Basílica del Pilar](https://maps.google.com/?q=Bas%C3%ADlica+del+Pilar+Zaragoza+Spain)**         | Mon siesta + 20:05  | Daily ~06:45–20:30, free                   | Free                              | No                           |
@@ -1856,7 +1839,7 @@ Zaragoza is **the only city in the world with two cathedrals**, and both are a f
 | Item                                                       | Status (as of Aug 5)                | Where / When                                                                                                     |
 | ---------------------------------------------------------- | ----------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
 | ~~**🔑 Online guest registration form — RELEASES THE LOCKBOX CODE**~~ | ✅ **Done** — hard gate cleared, code released | Was [u.partee.es](https://u.partee.es/4396/Oga33Ze0llPQgN7MIWtK3jHpu). **Now: save the code offline on two phones** |
-| **[La Aljafería](https://maps.google.com/?q=La+Aljafer%C3%ADa+Zaragoza+Spain) timed entry, Tue Sep 1 ~10:00–10:30**       | 🔲 Book by ~Aug 25 (capacity-limited) | [tickets.aljaferia.es](https://tickets.aljaferia.es) — €7/€2, bring student IDs                                    |
+| **[La Aljafería](https://maps.google.com/?q=La+Aljafer%C3%ADa+Zaragoza+Spain) timed entry, Tue Sep 1 ~10:00–10:30**       | 🔲 Book by ~Aug 25 (capacity-limited) | Online booking broken — book by phone [976 289 683] or in person; €7/€2, bring student IDs. Info: [cortesaragon.es](https://www.cortesaragon.es/Visitas-e-informacion.2270.0.html) |
 | **[Casa Lac](https://maps.google.com/?q=Casa+Lac+Zaragoza+Spain) lunch, Tue Sep 1 13:30**                        | 🔲 Call/email ~1 week ahead (by Aug 25) | 976 39 61 96 · restaurantecasalac@gmail.com — reservation expected                                                |
 | **Message host re: early bag drop Mon ~13:00**             | 🔲 Ask via Airbnb this week          | Isabel/Jose Luis · +34 659 60 06 43 — fallback is station consigna either way                                     |
 | AVE BCN → Zaragoza (Aug 31 11:00)                          | ✅ Booked                            | Locator **WJXSCF** · Coche 6 · 2A/2B/3A/3B                                                                        |
@@ -1910,7 +1893,7 @@ Zaragoza is **the only city in the world with two cathedrals**, and both are a f
 | **Emily's flat** ⭐        | **C/ Alonso Cano 4, 2ºA — 28010 Madrid ([Chamberí](https://maps.google.com/?q=Chamber%C3%AD+Madrid+Spain)/Trafalgar)**. Her home to December. Nearest Metro **Iglesia (L1)** ~5 min or **Quevedo (L2)** ~6 min; **[Plaza de Olavide](https://maps.google.com/?q=Plaza+de+Olavide+Madrid+Spain) 2 min**. Cercanías for UAM from **[Nuevos Ministerios](https://maps.google.com/?q=Nuevos+Ministerios+station+Madrid+Spain)**, ~15–18 min on foot |
 | **Emily's UAM** ⭐         | **[Universidad Autónoma de Madrid — Campus de Cantoblanco](https://maps.google.com/?q=Universidad+Aut%C3%B3noma+de+Madrid+%E2%80%94+Campus+de+Cantoblanco+Madrid+Spain) [🌐](https://www.uam.es)**, Ctra. de Colmenar Viejo (M-607) km 15, 28049. **Cercanías C-4 → "Cantoblanco Universidad."** Thu Sep 3 **15:00–18:00** · Fri Sep 4 **11:00–16:00** (may end 12:00 — confirm with her) |
 | **The 2 checked bags**    | 23 kg × 2, left with Emily, home in December. **Move them to Alonso Cano on Fri Sep 4 morning** — they cannot ride along to T4 at 06:45 Saturday |
-| **Status**                | ✅ Apartment booked · ✅ AVE in booked · ✅ Flight out booked · 🔲 Prado (Sep 3, 10:00) · 🔲 Palacio Real (Sep 2) · 🔲 Sobrino de Botín (Sep 2 dinner) · 🔲 Taberna La Bola (Sep 3 lunch — **13:00 now**) · 🔲 Casa Lucio (Sep 3 dinner) · 🔲 **Lakasa or Bacira (Sep 4 farewell dinner, [Chamberí](https://maps.google.com/?q=Chamber%C3%AD+Madrid+Spain))** · ❌ ~~Avant Segovia~~ + ~~Mesón de Cándido~~ cancelled |
+| **Status**                | ✅ Apartment booked · ✅ AVE in booked · ✅ Flight out booked · 🔲 Prado (Sep 3, 10:00) · ✅ Palacio Real (Sep 2, **10:15** — R120871238) · 🔲 Sobrino de Botín (Sep 2 dinner) · 🔲 Taberna La Bola (Sep 3 lunch — **13:00 now**) · 🔲 Casa Lucio (Sep 3 dinner) · 🔲 **Lakasa or Bacira (Sep 4 farewell dinner, [Chamberí](https://maps.google.com/?q=Chamber%C3%AD+Madrid+Spain))** · ❌ ~~Avant Segovia~~ + ~~Mesón de Cándido~~ cancelled |
 
 ### Getting Around
 
@@ -1975,7 +1958,7 @@ Follow *Salida* signs off the AVE platforms — the taxi rank is signposted from
 | Option                                                                               | Walk   | Notes                                                                                                     | Price     |
 | ------------------------------------------------------------------------------------ | ------ | --------------------------------------------------------------------------------------------------------- | --------- |
 | **[El Brillante](https://maps.google.com/?q=El+Brillante+Madrid+Spain) [🌐](https://barelbrillante.es)** (Atocha) | 10 min | *Bocadillo de calamares* (€3.50–7) + caña — Madrid's signature sandwich at the 1952 institution. Open daily to ~23:30, no August closure. The exactly-right arrival meal | €5–10/pp  |
-| **[Bodegas Rosell](https://maps.google.com/?q=Bodegas+Rosell+Madrid+Spain) [🌐](https://bodegasrosell.es)**      | 10 min | Barrel-aged wine bar since 1920, vermut on tap, blue tiles. ⚠️ **Closes all of August** — Sep 1 should be reopening day, but **call +34 914 678 458 before walking over** | €15–25/pp |
+| **[Bodegas Rosell](https://maps.google.com/?q=Bodegas+Rosell+Madrid+Spain) [🌐](https://www.esmadrid.com/en/restaurants/bodegas-rosell)**      | 10 min | Barrel-aged wine bar since 1920, vermut on tap, blue tiles. ⚠️ **Closes all of August** — Sep 1 should be reopening day, but **call +34 914 678 458 before walking over**. (Its own site, bodegasrosell.es, is dead — linked to the official Madrid tourism listing instead) | €15–25/pp |
 | **[Carambola](https://maps.google.com/?q=Carambola+Madrid+Spain)**                | 15 min | Family-friendly tapas, kids' menu, relaxed                                                                | €20–25/pp |
 | **[Mercado de San Fernando](https://maps.google.com/?q=Mercado+de+San+Fernando+Madrid+Spain)** (Lavapiés) | 15 min | Working-market food stalls — quick, casual, local                                          | €10–18/pp |
 
@@ -1985,7 +1968,7 @@ Follow *Salida* signs off the AVE platforms — the taxi rank is signposted from
 
 ### Day 2 — Wednesday Sep 2 · Royal Madrid + Templo de Debod Sunset ⭐
 
-> Palacio Real → Almudena + crypt → Plaza Mayor → San Miguel graze → Giordano's painted church → Malasaña + Chueca gelato → Egyptian temple at sunset (**20:47**) → the world's oldest restaurant. Big day, but almost all of it within one walkable arc.
+> Palacio Real → Almudena + crypt → Plaza Mayor → San Miguel graze → the Descalzas Reales cloister → Malasaña + Chueca gelato → Egyptian temple at sunset (**20:47**) → the world's oldest restaurant. Big day, but almost all of it within one walkable arc.
 
 **08:30 — Breakfast at Sol on the way** — Metro L3 Legazpi → Sol (12 min), then pick:
 
@@ -1999,24 +1982,25 @@ While you're at Sol: the **[Kilómetro 0](https://maps.google.com/?q=Kil%C3%B3me
 
 > 💡 Save the full San Ginés ritual for tomorrow's 08:00 if you'd rather not do churros two days running — today's breakfast just needs to be quick.
 
-**09:20 — Walk to [Palacio Real](https://maps.google.com/?q=Palacio+Real+Madrid+Spain) [🌐](https://www.patrimonionacional.es)** — 15 min via C/ del Arenal and Plaza de Oriente (statues of the Visigoth kings; the equestrian Felipe IV was calculated by Galileo to balance on two hooves). **Be at the gate by 09:50** — opens 10:00, and the first hour is the quietest.
+**09:20 — Walk to [Palacio Real](https://maps.google.com/?q=Palacio+Real+Madrid+Spain) [🌐](https://www.patrimonionacional.es)** — 15 min via C/ del Arenal and Plaza de Oriente (statues of the Visigoth kings; the equestrian Felipe IV was calculated by Galileo to balance on two hooves). **Be at the gate by 09:55** — the palace opens 10:00 and our slot is 10:15, so we're in the first cycle while it's still quiet.
 
-**10:00 — Palacio Real** ⭐⭐ (pre-book — see Must-Book) — 2h
+**10:15 — Palacio Real** ⭐⭐ ✅ **BOOKED — order R120871238** — 2h
 
 Europe's largest functioning royal palace — **3,418 rooms**, bigger than Versailles or Buckingham, built 1738–1764 over the burnt Moorish Alcázar. The route: Grand Staircase → Throne Room (Tiepolo ceiling) → Gasparini Room (rococo overload) → Banquet Hall set for 145. Then the **[Royal Armoury](https://maps.google.com/?q=Real+Armer%C3%ADa+Palacio+Real+Madrid+Spain)**, the kids' hit — child-sized parade armour, full jousting kits for horse and rider, Charles V's actual suits.
 
-- **€18/adult · €9 ages 5–16, students to 25, 65+** (2026 prices — up from €14) → ~€54 for our four if the 19-year-old shows student ID
-- Apr–Sep: Mon–Sat 10:00–19:00 (last entry 18:00); book the **10:00 slot** at tickets.patrimonionacional.es — if the booking flow offers the **Royal Kitchen add-on** (a few € more), take it: the vast 19th-century below-stairs kitchens, copper by the hundredweight
-- Wed + Sat 11:00–14:00: **Changing of the Guard** at the Puerta del Príncipe, every 30 min — catch a cycle from Plaza de la Armería on the way out (~12:00). (The grand *Relevo Solemne* skips September — no loss, the small one is the charming one.)
+- ✅ **Paid — €75.08, order R120871238**, 4 × Self-Guided Visit / Standard Admission, **Wed Sep 2, 10:15**. Entrance: **Calle de Bailén, s/n** (Plaza de la Armería gate). ⚠️ **Download the ticket PDFs** — the confirmation email is not the ticket
+- Note we bought **4 × standard**, not the youth rate — no student ID needed at the door, and no €9 refund to chase
+- Apr–Sep: Mon–Sat 10:00–19:00 (last entry 18:00). Royal Kitchen was **not** on our ticket — if the desk sells it as an on-the-day add-on it's the vast 19th-century below-stairs kitchens, copper by the hundredweight
+- Wed + Sat 11:00–14:00: **Changing of the Guard** at the Puerta del Príncipe, every 30 min — catch a cycle from Plaza de la Armería on the way out (~12:15). (The grand *Relevo Solemne* skips September — no loss, the small one is the charming one.)
 - The **[Jardines de Sabatini](https://maps.google.com/?q=Jardines+de+Sabatini+Madrid+Spain)** below the north facade are free — a formal hedge garden with the palace looming over it; 10 bonus minutes if the queue moved fast
 
 > 💡 **Local tip:** the palace faces the Almudena across the Plaza de la Armería — the armoury exit drops you 60 seconds from the cathedral door. No transit, no decisions; this corner of Madrid runs itself.
 
-**12:15 — [Catedral de la Almudena](https://maps.google.com/?q=Catedral+de+la+Almudena+Madrid+Spain) [🌐](https://catedraldelaalmudena.es)** ⭐ (across the plaza) — 45 min
+**12:30 — [Catedral de la Almudena](https://maps.google.com/?q=Catedral+de+la+Almudena+Madrid+Spain) [🌐](https://catedraldelaalmudena.es)** ⭐ (across the plaza) — 45 min
 
 Madrid waited 500 years for a cathedral — proposed under Felipe II, started 1879, finished **1993**, when John Paul II consecrated it: the first cathedral he consecrated outside Rome. The exterior was redesigned to match the palace opposite; the interior is **startlingly contemporary** — pop-coloured vault panels, Rupnik mosaics in the apse chapel. It splits opinion, and that's half the fun of standing in it. Free (small donation).
 
-- ⛪ Weekday **Mass in the cathedral at 12:00** — arrive to it if you want the family Mass ticked off today (see Mass section); visits shuffle to the side aisles while it runs
+- ⛪ Weekday **Mass in the cathedral at 12:00** — ⚠️ the 10:15 palace slot means we arrive **after** it starts; walk in mid-Mass and stand at the back, or take the Mass on another day (see Mass section). Visits shuffle to the side aisles while it runs
 - **The crypt is the sleeper hit** [📍](https://maps.google.com/?q=Cripta+de+la+Almudena+Madrid+Spain) — separate entrance around the corner on C/ Mayor: **400 Neo-Romanesque columns**, each capital carved differently, candle-lit gloom, the image of Madrid's patroness — and almost nobody there. This is the 19th-century building the cathedral project began as. Open 10:00–14:00 + 16:30–20:00 (~€1 donation) — ⚠️ **go before 14:00**, it shuts at midday
 - Skip the museum + dome climb (€7) today — the day is full and the better viewpoint money is Cibeles another time
 
@@ -2042,11 +2026,11 @@ The 1916 iron-and-glass hall, restored as a gourmet market — prettier than Bar
 >
 > | Where | What | ~€ |
 > | --- | --- | --- |
-> | **[Casa Revuelta](https://maps.google.com/?q=Casa+Revuelta+Calle+de+Latoneros+3+Madrid+Spain)** ⭐⭐ (C/ de Latoneros 3, 4 min south of Plaza Mayor) | Open since 1966, no printed menu — a glass case and regulars who know. **Battered boneless cod (*bacalao rebozado*) ~€2.50 a piece**, plus *torreznos*, *callos*, croquetas, wine from the *frasca*. Cash, tiled, packed, magnificent | €8–12/pp |
+> | **[Casa Revuelta](https://maps.google.com/?q=Casa+Revuelta+Calle+de+Latoneros+3+Madrid+Spain)** ⭐⭐ (C/ de Latoneros 3, 4 min south of Plaza Mayor) | Open since 1966, no printed menu — a glass case and regulars who know. **Battered boneless cod (*bacalao rebozado*) ~€2.50 a piece**, plus *torreznos*, *callos*, croquetas, wine from the *frasca*. Cash, tiled, packed, magnificent. ⚠️ **Customarily closes for August vacation** — their own site posted a "back from vacation" note but with no year attached, so no confirmed 2026 reopening date; call +34 913 663 332 (Latoneros) to verify open before walking over | €8–12/pp |
 > | **[Bar La Campana](https://maps.google.com/?q=Bar+La+Campana+Calle+de+Botoneras+6+Madrid+Spain)** ⭐ (C/ de Botoneras 6, on the plaza's edge) | The *bocadillo de calamares* — **~€4.50**, hot, standing room only. Use the takeaway queue on the right ("*Aquí solo pedidos para llevar*"), it's minutes not tens of minutes, then eat it in the square | €5–7/pp |
 > | **[Casa Labra](https://maps.google.com/?q=Casa+Labra+Madrid+Spain)** (C/ de Tetuán 12, by Sol) | 1860 bar where the Spanish Socialist Party was founded; the *tajada de bacalao* and cod croquettes at the standing counter | €6–10/pp |
 >
-> Do San Miguel as a **15-minute walk-through for the building**, then eat at Revuelta. That swap alone saves the four of you €40–50 and buys a better story.
+> Do San Miguel as a **15-minute walk-through for the building**, then eat at Revuelta (⚠️ call ahead first — see August-closure caveat above). That swap alone saves the four of you €40–50 and buys a better story.
 
 **15:00 — Plaza Mayor** ⭐ — 20 min
 
@@ -2058,17 +2042,20 @@ Felipe III's 1619 square — bullfights, coronations and Inquisition *autos-da-f
 
 **15:25 — Gelato: [Heladerías Palazzo](https://maps.google.com/?q=Helader%C3%ADas+Palazzo+Madrid+Spain) [🌐](https://heladeriaspalazzo.com)** (C/ del Arenal 1) — the Madrid family classic since 1972; lemon and *yogur natural* are the local picks. €3–5, eat walking.
 
-**15:40 — Walk north into [Malasaña](https://maps.google.com/?q=Malasa%C3%B1a+Madrid+Spain)** — 15 min via Gran Vía / C/ de la Puebla. Gran Vía is Madrid's 1920s skyscraper canyon — glance up at the Metrópolis dome and the Telefónica tower (Europe's first skyscraper) as you cross.
+**15:40 — Walk to [Real Monasterio de las Descalzas Reales](https://maps.google.com/?q=Monasterio+de+las+Descalzas+Reales+Madrid+Spain)** — 10 min via C/ Preciados from Plaza Mayor / San Miguel.
 
-**16:00 — [San Antonio de los Alemanes](https://maps.google.com/?q=Iglesia+de+San+Antonio+de+los+Alemanes+Madrid+Spain)** ⭐⭐ — 40 min
+**16:00 — Real Monasterio de las Descalzas Reales** ⭐ — 60 min
 
-**The most surprising interior in Madrid.** A plain brick ellipse on a Malasaña corner — then you step in and every surface, floor to lantern, is baroque trompe-l'œil fresco: Luca Giordano's 1689 cycle of St Anthony's life over an earlier scheme, with no bare stone anywhere. Built 1633 as *San Antonio de los Portugueses* for Madrid's Portuguese community; when Portugal broke away, the Habsburgs handed it to German Catholics — hence "de los Alemanes." It's run by the **Hermandad del Refugio**, a 17th-century charity that once fed Madrid's poor on "bread-and-egg rounds." Sit in a pew, look up, let the dome do its infinite-recession trick.
+A working 1559 convent two minutes off Sol, behind a plain facade — cloistered nuns still live here. The obligatory guided tour (Spanish-led, English audio support) walks a Habsburg-era art trove: Titian, Rubens, and a world-class Flemish tapestry cycle almost no visitor sees.
 
-- ⚠️ **Regime changed (2025–26):** now a managed cultural visit — roughly **Tue–Sat 10:00–18:00 (last entry 17:30)**, Sun 13:00–16:00, **entry €5–12/pp** depending on formula (audio guide included; the €12 combo adds the San Plácido monastery nearby). The old free-mornings-only era is over. **It also closes all of August — we land in reopening week**, so if the door is shut, that's why; realhermandaddelrefugio.org has current times
-- Daily Mass ~18:00 — visits pause for it; 16:00 arrival keeps us clear
-- Sources disagree on the exact 2026 hours — worst case the door says "guided visits only, mornings": then swap in the Descalzas option below and catch Giordano another year
+- **€6/pp, guided tour included** (free Wed/Thu 16:00–18:30, but EU-resident-only — doesn't apply to us)
+- Tue–Sat 10:00–14:00 + 16:00–18:30, closed Mon, last access −1h — **book the 16:00 slot at tickets.patrimonionacional.es**
 
-**17:00 — Malasaña wander + coffee** — Plaza del 2 de Mayo (where Madrid's 1808 uprising against Napoleon started — Goya painted the aftermath you'll see tomorrow), C/ de la Palma street art. Coffee stop: **[HanSo Café](https://maps.google.com/?q=HanSo+Caf%C3%A9+Madrid+Spain) [🌐](https://hansocafe.com)** (C/ del Pez 20, best flat white in Madrid) or the 1887 **[Café Comercial](https://maps.google.com/?q=Caf%C3%A9+Comercial+Madrid+Spain) [🌐](https://cafecomercialmadrid.com)** on Glorieta de Bilbao for the marble-and-mirrors version. ~€4.
+> ⚠️ **Swapped in for San Antonio de los Alemanes.** Its own authority, the Hermandad del Refugio, confirms **no guided visits run July, August or September 2026** ("Mes de agosto cerrado," no visits Jul/Aug/Sep — realhermandaddelrefugio.org). The Giordano frescoes stay on the list for a return trip outside that window.
+
+**17:00 — Walk into [Malasaña](https://maps.google.com/?q=Malasa%C3%B1a+Madrid+Spain)** — 12 min via Gran Vía / C/ de la Puebla. Gran Vía is Madrid's 1920s skyscraper canyon — glance up at the Metrópolis dome and the Telefónica tower (Europe's first skyscraper) as you cross.
+
+**17:15 — Malasaña wander + coffee** — Plaza del 2 de Mayo (where Madrid's 1808 uprising against Napoleon started — Goya painted the aftermath you'll see tomorrow), C/ de la Palma street art. Coffee stop: **[HanSo Café](https://maps.google.com/?q=HanSo+Caf%C3%A9+Madrid+Spain) [🌐](https://hansocafe.es)** (C/ del Pez 20, best flat white in Madrid) or the 1887 **[Café Comercial](https://maps.google.com/?q=Caf%C3%A9+Comercial+Madrid+Spain) [🌐](https://cafecomercialmadrid.com)** on Glorieta de Bilbao for the marble-and-mirrors version. ~€4.
 
 **17:45 — [Mercado de San Antón](https://maps.google.com/?q=Mercado+de+San+Ant%C3%B3n+Madrid+Spain) [🌐](https://mercadosananton.com)** (Chueca) — 30 min
 
@@ -2109,8 +2096,6 @@ A **genuine 2nd-century BC Egyptian temple** to Amun and Isis — Egypt's 1968 t
 > 💸 **Worth saying plainly:** Botín is a real 1725 restaurant with a real oven and a **€40–55/pp tourist-institution price** — you're buying the room and the Guinness certificate as much as the pig. If the table wants the *cochinillo* experience, keep it (it's the one night for it). If the table would rather eat like the neighbourhood, **Taberna de Antonio Sánchez** (1830, Lavapiés) or **Casa Ciriaco** (1929) deliver the same century-old Madrid at roughly half. Either way, **Casa Revuelta at lunch already gave you the castizo hit today.**
 
 **23:15 — Walk back through Plaza Mayor at night** (lit, nearly empty — completely different place), then taxi home from Sol (~€8–10).
-
-> ⛪ **Optional swap for the church-lovers: Monasterio de las [Descalzas Reales](https://maps.google.com/?q=Monasterio+de+las+Descalzas+Reales+Madrid+Spain)** — a still-cloistered 1559 royal convent near Callao hiding Titian, Rubens and one of only two complete Rubens-cartoon tapestry sets in the world. **Compulsory guided tour, included in the €6 ticket** (Patrimonio Nacional guide, ~1h; English audio support). Tue–Sat 10:00–14:00 + **16:00–18:30** (last access ~17:30), closed Mon — so the real Day 2 window is a **16:00–17:00 tour instead of San Antonio + Malasaña**, rejoining the plan at San Antón. Book the slot at tickets.patrimonionacional.es. Two painted-church superlatives in one afternoon is a lot — pick one and keep the other for a return trip.
 
 ### Day 3 — Thursday Sep 3 · Art Day + Emily's First UAM Run + Retiro Rowboats ⭐
 
@@ -2154,9 +2139,9 @@ The temple of **cocido madrileño** since 1870 — fourth-generation family, sam
 
 > 💡 **How to eat it like a local:** add a spoon of the fiery guindilla-vinegar to the broth, save some chickpeas to mash into the meats, and don't order a starter. The girls can split one cocido and add a *tortilla* — portions are serious.
 >
-> 💰 **Is La Bola worth €25–35?** Yes, with an asterisk: it is a genuine 1870 family cocido house, not a costume — but it is also the *famous* one, and you're paying for that. The cheaper local versions of the same dish: **Malacatín** (C/ Ruda 5, La Latina — tiny, cash, cocido for two off a €25-ish set) or any **menú del día** board in the side streets (€13–16 for three courses, which on a Thursday in September will often include cocido anyway). Keep La Bola for today because the 13:00 first sitting is what makes the 15:00 campus run possible.
+> 💰 **Is La Bola worth €25–35?** Yes, with an asterisk: it is a genuine 1870 family cocido house, not a costume — but it is also the *famous* one, and you're paying for that. The cheaper local versions of the same dish: **Malacatín** (C/ Ruda 5, La Latina — tiny, cash, cocido for two off a €25-ish set; ⚠️ also customarily closed all August with no confirmed 2026 reopening date — call ahead) or any **menú del día** board in the side streets (€13–16 for three courses, which on a Thursday in September will often include cocido anyway). Keep La Bola for today because the 13:00 first sitting is what makes the 15:00 campus run possible.
 
-> **No table?** **[Casa Labra](https://maps.google.com/?q=Casa+Labra+Madrid+Spain) [🌐](https://casalabra.es)** (C/ Tetuán 12, since 1860 — the bar where the Spanish Socialist Party was founded, plaque inside) — battered-cod *tajadas* + croquetas standing up, the Madrid pilgrimage snack, €3–4/piece. Or **[Casa Ciriaco](https://maps.google.com/?q=Casa+Ciriaco+Madrid+Spain)** (C/ Mayor 84) for *pepitoria de gallina*.
+> **No table?** **[Casa Labra](https://maps.google.com/?q=Casa+Labra+Madrid+Spain) [🌐](https://www.esmadrid.com/en/restaurants/casa-labra)** (C/ Tetuán 12, since 1860 — the bar where the Spanish Socialist Party was founded, plaque inside) — battered-cod *tajadas* + croquetas standing up, the Madrid pilgrimage snack, €3–4/piece. Or **[Casa Ciriaco](https://maps.google.com/?q=Casa+Ciriaco+Madrid+Spain)** (C/ Mayor 84) for *pepitoria de gallina*.
 
 **14:05 — Walk to Sol Cercanías** — 10 min down C/ Arenal. Ice-cream on the move: **Giuseppe Ricci** (C/ del Espejo 8, 2 min from La Bola) — Roman maestro, dairy-free chocolate sorbet — eat it walking, don't sit.
 
@@ -2436,16 +2421,16 @@ Gelato rotation (2/day in the heat): **Palazzo** (Arenal 1, Sol) · **[Mistura](
 
 | Sight                        | Cost (2026)                     | Our slot            | Hours that matter                                     | Book?                          |
 | ---------------------------- | ------------------------------- | ------------------- | ----------------------------------------------------- | ------------------------------ |
-| **[Palacio Real](https://maps.google.com/?q=Palacio+Real+Madrid+Spain) [🌐](https://www.patrimonionacional.es)** ⭐⭐        | €18 / €9 (5–16, student, 65+)   | Wed Sep 2, 10:00    | Mon–Sat 10:00–19:00 (Apr–Sep)                         | ✅ NOW — patrimonionacional.es |
+| **[Palacio Real](https://maps.google.com/?q=Palacio+Real+Madrid+Spain) [🌐](https://www.patrimonionacional.es)** ⭐⭐        | ✅ **€75.08 paid** (4 × standard) | Wed Sep 2, **10:15** | Mon–Sat 10:00–19:00 (Apr–Sep)                         | ✅ **Booked — R120871238**      |
 | **[Almudena](https://maps.google.com/?q=Catedral+de+la+Almudena+Madrid+Spain) + crypt** ⭐      | Free/donation; crypt ~€1        | Wed Sep 2, 12:15    | Cathedral ~10:00–20:30; **crypt 10–14 + 16:30–20**    | ❌                             |
-| **[San Antonio de los Alemanes](https://maps.google.com/?q=Iglesia+de+San+Antonio+de+los+Alemanes+Madrid+Spain)** ⭐⭐ | €5–12 incl. audio guide  | Wed Sep 2, 16:00    | ~Tue–Sat 10–18 (last 17:30); closed Aug — just reopened | ❌ (walk-in; verify at door)  |
+| ~~San Antonio de los Alemanes~~ ⭐⭐ | €5–12 incl. audio guide  | ❌ **Dropped** — no guided visits Jul/Aug/Sep 2026 (realhermandaddelrefugio.org) | ~Tue–Sat 10–18 (last 17:30) outside that window | — |
 | **[Templo de Debod](https://maps.google.com/?q=Templo+de+Debod+Madrid+Spain) [🌐](https://www.esmadrid.com/en/tourist-information/templo-de-debod)** ⭐⭐     | Free                            | Wed Sep 2, 19:45    | Terrace always; interior Tue–Sun 10–19 (last 18:30)   | ❌ (interior: madrid.es slot)  |
 | **[Museo del Prado](https://maps.google.com/?q=Museo+del+Prado+Madrid+Spain) [🌐](https://www.museodelprado.es/en)** ⭐⭐     | €15 / €7.50 (18–25) / <18 free  | Thu Sep 3, 10:00    | Mon–Sat 10:00–20:00                                   | ✅ NOW — museodelprado.es      |
 | **[CaixaForum](https://maps.google.com/?q=CaixaForum+Madrid+Spain) wall garden**   | Exterior free; expos €6, <16 free | Thu Sep 3, **12:35** | Daily 10:00–20:00                                     | ❌                             |
 | ~~[Real Jardín Botánico](https://maps.google.com/?q=Real+Jard%C3%ADn+Bot%C3%A1nico+Madrid+Spain) [🌐](https://www.rjb.csic.es)~~ | €6, under 18 free | ❌ **Dropped** — the UAM run took the Thu afternoon slot | Daily 10:00–21:00 (Apr–Sep) | — |
 | **[Reina Sofía](https://maps.google.com/?q=Museo+Reina+Sof%C3%ADa+Madrid+Spain) (Guernica)** ⭐ | €12; <18 + students <25 free; free daily 19–21 | Thu Sep 3, **15:50** | Thu 10:00–21:00; **closed Tue**            | Online skips the line          |
 | **[Retiro](https://maps.google.com/?q=Parque+del+Retiro+Madrid+Spain) rowboats** ⭐⭐     | **€6/boat (4 pax), 45 min** weekdays | Thu Sep 3, **19:00** | Boats ~10–14 + 15:30–20:00 (office shuts 20:00)      | ❌ (Madrid Móvil app optional) |
-| **[Descalzas Reales](https://maps.google.com/?q=Monasterio+de+las+Descalzas+Reales+Madrid+Spain)** (option) | €6, guided tour included       | Wed Sep 2, 16:00 alt | Tue–Sat 10–14 + 16–18:30; closed Mon                  | tickets.patrimonionacional.es  |
+| **[Descalzas Reales](https://maps.google.com/?q=Monasterio+de+las+Descalzas+Reales+Madrid+Spain)** ⭐ | €6, guided tour included       | Wed Sep 2, 16:00 | Tue–Sat 10–14 + 16–18:30; closed Mon                  | tickets.patrimonionacional.es  |
 | **[Plaza Mayor](https://maps.google.com/?q=Plaza+Mayor+Madrid+Spain) + Panadería frescoes** | Free                     | Wed Sep 2, 15:00    | Always                                                | ❌                             |
 | **[Mercado de San Miguel](https://maps.google.com/?q=Mercado+de+San+Miguel+Madrid+Spain) [🌐](https://mercadodesanmiguel.es)**    | Free entry; graze ~€20/pp       | Wed Sep 2, 13:45    | Daily 10:00–24:00 (Fri–Sat to 02:00)                  | ❌                             |
 | **[Mercado de San Antón](https://maps.google.com/?q=Mercado+de+San+Ant%C3%B3n+Madrid+Spain) [🌐](https://mercadosananton.com) + Mistura** | Free entry                | Wed Sep 2, 17:45    | Daily; market floors to ~22:00                        | ❌                             |
@@ -2453,7 +2438,7 @@ Gelato rotation (2/day in the heat): **Palazzo** (Arenal 1, Sol) · **[Mistura](
 | **[Thyssen-Bornemisza](https://maps.google.com/?q=Museo+Thyssen-Bornemisza+Madrid+Spain)** (not scheduled) | €13; free Mon 12–16   | Spare-hour option   | Tue–Sun 10–19, Mon 12–16                              | Online if used                 |
 | **[Mirador Cibeles](https://maps.google.com/?q=Mirador+Madrid+Palacio+de+Cibeles+Spain)** (not scheduled) | €3, under 14 free        | Daytime pocket option | Tue–Sun 10:30–14 + 16–19:30; closed Mon             | ❌                             |
 | ~~Teleférico de Madrid~~     | —                               | ⚠️ **CLOSED** since 2022, structural repairs, no date | —                          | —                              |
-| ~~Ermita S. Antonio de la Florida~~ | Free                     | ⚠️ **Closed for conservation since Mar 2025** — check esmadrid.com before trying | — | —                     |
+| **[Ermita de San Antonio de la Florida](https://maps.google.com/?q=Real+Ermita+de+San+Antonio+de+la+Florida+Madrid+Spain)** (not scheduled) | Free | ✅ **Reopened Jun 12, 2026** after restoration — pocket option if a slot opens up | Tue–Sun 9:30–14 + 15–19 (summer sched. to Sep 15), closed Mon | ❌ |
 | ~~El Rastro flea market~~    | Free                            | Sundays only — we have no Sunday; next trip | —             | —                              |
 
 ### Madrid Must-Book
@@ -2463,7 +2448,7 @@ Status as of **Aug 5** — departure in 14 days, Madrid in 27. Everything below 
 | Item                                            | Do this NOW                                                                                            | Where                                                                                              |
 | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
 | **[Museo del Prado](https://maps.google.com/?q=Museo+del+Prado+Madrid+Spain) [🌐](https://www.museodelprado.es/en)** (Thu Sep 3, 10:00)          | Slots are on sale — buy this week; first-week-of-Sep mornings do sell out                              | [entradas.museodelprado.es](https://entradas.museodelprado.es/) — €15/€7.50/<18 free               |
-| **[Palacio Real](https://maps.google.com/?q=Palacio+Real+Madrid+Spain) [🌐](https://www.patrimonionacional.es)** (Wed Sep 2, 10:00)             | Buy this week — €18/€9; pick 10:00 entry                                                               | [tickets.patrimonionacional.es](https://tickets.patrimonionacional.es/en/tickets/palacio-real-de-madrid) |
+| ~~**[Palacio Real](https://maps.google.com/?q=Palacio+Real+Madrid+Spain) [🌐](https://www.patrimonionacional.es)** (Wed Sep 2)~~             | ✅ **Booked & paid** — order **R120871238**, €75.08, 4 × Self-Guided / Standard Admission, entry **10:15**. ⚠️ download the ticket PDFs | — |
 | ⭐ **[Chamberí](https://maps.google.com/?q=Chamber%C3%AD+Madrid+Spain) farewell dinner** (Fri Sep 4, 20:45) | **Book this week** — Friday, 4 covers, €50–70/pp. Lakasa first, Bacira second, Las Tortillas de Gabino as the walk-up-safe backstop | [lakasa.es](https://lakasa.es) · [bacira.es](https://bacira.es) · Gabino +34 91 319 75 05 |
 | ⚠️ **Confirm Emily's key handover**             | Before Sep 4 — **in writing**. The Friday 08:45 bag drop at C/ Alonso Cano 4-2A depends entirely on it  | Landlord / letting agency                                                                          |
 | ⚠️ **Confirm Emily's Friday end time**          | Before Sep 3 — 16:00 or 12:00? Fork A and Fork B on Day 4 are different afternoons                     | Ask her                                                                                            |
@@ -2473,15 +2458,17 @@ Status as of **Aug 5** — departure in 14 days, Madrid in 27. Everything below 
 | **[Casa Lucio](https://maps.google.com/?q=Casa+Lucio+Madrid+Spain) [🌐](https://casalucio.es)** (Thu Sep 3, ~21:45)              | Book NOW — closed all Aug, reopening-week tables vanish; if the online form shows nothing, phone       | [casalucio.es](https://www.casalucio.es/) · +34 91 365 32 52                                       |
 | ~~Mesón de Cándido~~ (Segovia lunch)            | ❌ **CANCELLED Aug 5 — do not book.** Plan kept in the Segovia tab for Emily's own visit                | —                                                                                                  |
 | **[Cardamomo](https://maps.google.com/?q=Cardamomo+Madrid+Spain) [🌐](https://cardamomo.com) flamenco** (optional, Thu Sep 3 21:00) | Only if the family votes yes — then book this week for the 21:00 show                               | [cardamomo.com](https://cardamomo.com/) — from ~€39                                                |
-| Descalzas Reales (optional Wed 16:00)           | Book the tour slot a few days ahead if swapping it in                                                  | [tickets.patrimonionacional.es](https://tickets.patrimonionacional.es/) — €6                       |
+| **Descalzas Reales** (Wed Sep 2, 16:00)         | 🔲 Book the guided tour slot — this replaced San Antonio de los Alemanes (no guided visits Jul–Sep 2026) | [tickets.patrimonionacional.es](https://tickets.patrimonionacional.es/) — €6                       |
+| ~~San Antonio de los Alemanes~~ (was Wed Sep 2, 16:00) | ❌ **Dropped** — realhermandaddelrefugio.org confirms no guided visits Jul/Aug/Sep 2026. Descalzas Reales fills the slot | —                                                                                                   |
 
 ### Madrid Critical Warnings
 
 - ⚠️ **Cercanías is a different operator from the Metro** — the Multi card / 10-trip Metrobús **does not work** on the C-4 to Cantoblanco. Buy Renfe singles at the Cercanías machine (~€2/pp each way, verify the 2026 fare). At Sol and Nuevos Ministerios the Cercanías entrance is separate from the Metro one and easy to miss
 - ⚠️ **Do not book anything for Segovia** — dropped Aug 5. The tab below is reference material for Emily, not this trip's plan
-- ⚠️ **August-closure reopening week:** Casa Lucio, Posada de la Villa, Bodegas Rosell and San Antonio de los Alemanes all close ALL of August and reopen ~Sep 1 — book/call before relying on any of them. Botín, El Brillante, La Bola, Casa Toni, San Miguel run all summer
+- ⚠️ **August-closure reopening week:** Casa Lucio, Posada de la Villa, Bodegas Rosell and Casa Revuelta all close ALL of August — none has a firmly confirmed 2026 reopening date, so book/call before relying on any of them. Botín, El Brillante, La Bola, Casa Toni, San Miguel run all summer
+- ⚠️ **San Antonio de los Alemanes runs NO guided visits Jul–Aug–Sep 2026** (confirmed via realhermandaddelrefugio.org — "Mes de agosto cerrado," no visits Jul/Aug/Sep) — dropped from the plan entirely, not just an August-reopening risk. Descalzas Reales fills the Wed 16:00 slot instead
 - ⚠️ **[Casa Dani](https://maps.google.com/?q=Casa+Dani+Madrid+Spain) [🌐](https://www.casadani.es)** (the Salamanca tortilla legend) reopened after a two-month food-safety closure in early 2026 — it's back and queues are back, but call +34 91 575 59 25 if making the trek
-- ⚠️ **[Ermita de San Antonio de la Florida](https://maps.google.com/?q=Ermita+de+San+Antonio+de+la+Florida+Madrid+Spain)** (Goya frescoes + tomb) closed for conservation since Mar 2025 — verify before going. **[Teleférico de Madrid](https://maps.google.com/?q=Telef%C3%A9rico+de+Madrid+Madrid+Spain) [🌐](https://teleferico.emtmadrid.es)** closed since 2022 for structural repairs — don't plan on it
+- ✅ **[Ermita de San Antonio de la Florida](https://maps.google.com/?q=Ermita+de+San+Antonio+de+la+Florida+Madrid+Spain)** (Goya frescoes + tomb) reopened Jun 12, 2026 after restoration — viable again if a slot opens up, not built into the locked plan. **[Teleférico de Madrid](https://maps.google.com/?q=Telef%C3%A9rico+de+Madrid+Madrid+Spain) [🌐](https://teleferico.emtmadrid.es)** closed since 2022 for structural repairs — don't plan on it
 - ⚠️ **[Almudena](https://maps.google.com/?q=Catedral+de+la+Almudena+Madrid+Spain) crypt shuts 14:00–16:30** — see it in the Day 2 morning, not after lunch
 - ⚠️ **Kitchen hours are law:** most Madrid kitchens close ~16:00–20:00. Miss the lunch window and you're eating gelato and jamón cones until dinner — which, granted, is not the worst failure mode
 - ⚠️ **Sep 5 departure:** **Bolt at 06:45** (nothing pre-booked — order it from the flat; ~€30–35 to the airport, and the €33 flat-rate taxi is the fallback if no driver takes it), T4 (separate building from T1–T3), gates at the T4S satellite
@@ -2497,7 +2484,7 @@ Per person · 3 full Madrid days · excludes accommodation (paid). Segovia's tra
 | Lunches × 3                    | €30–45      | €55–80      | €80–110     |
 | Dinners × 3                    | €40–60      | €80–120     | €120–170    |
 | Gelato ×2/day + snacks         | €18–25      | €18–25      | €25–35      |
-| Sights (Palacio, Prado, Reina, S. Antonio, Botánico, boats) | €38–45 | €45–55 | €55–70 incl. extras |
+| Sights (Palacio, Prado, Reina, Descalzas, boats) | €38–45 | €45–55 | €55–70 incl. extras |
 | Flamenco (optional)            | —           | €39–55      | €55–75      |
 | Transport (metro + taxis, excl. airport) | €10–15 | €15–25   | €25–40      |
 | **Total / person**             | **€145–200** | **€265–380** | **€380–530** |
@@ -2790,8 +2777,8 @@ _Re-sorted by urgency on **Aug 5** (T-14 days). Work the 🔴 table top to botto
 | **Picasso Museum** 14:00 slot                    | Sat Aug 29           | [museupicassobcn.cat](https://www.museupicassobcn.cat/) — under-18 free; summer Sat hours to 21:00                             |
 | **Sobrino de Botín** dinner                      | Wed Sep 2, **21:15** | [botin.es](https://botin.es/en/) or +34 91 366 42 17 — 21:15 (not earlier) so Debod sunset ~20:47 isn't rushed                 |
 | **Museo del Prado** morning slot                 | Thu Sep 3, 10:00     | [museodelprado.es](https://www.museodelprado.es/en) — €15 adult, under-18 free; on sale now                                    |
-| **Palacio Real**                                 | Wed Sep 2, 10:00     | [tickets.patrimonionacional.es](https://tickets.patrimonionacional.es/) — €18 adult / €9 youth                                 |
-| **Aljafería timed entry**                        | Tue Sep 1, 10:00     | [tickets.aljaferia.es](https://tickets.aljaferia.es/) — €7, capacity-limited; book by ~Aug 25                                  |
+| ~~**Palacio Real**~~ ✅ booked                    | Wed Sep 2, **10:15** | Order **R120871238** · €75.08 paid (4 × standard) · Calle de Bailén, s/n — ⚠️ download the ticket PDFs                        |
+| **Aljafería timed entry**                        | Tue Sep 1, 10:00     | Online booking broken — book by phone 976 289 683 or in person; €7, capacity-limited; book by ~Aug 25                                  |
 | **Casa Lac** lunch                               | Tue Sep 1, 13:30     | 976 39 61 96 · restaurantecasalac@gmail.com (no Monday dinner service — lunch is the plan)                                     |
 | **Fado house** — Parreirinha de Alfama           | Tue Aug 25, ~20:00   | +351 21 886 82 09 (Clube de Fado as backup)                                                                                    |
 | **Taberna dos Mercadores** dinner                | Thu Aug 20           | **Phone +351 222 010 510, 10:30–11:30 only** — or the form on tabernadosmercadores.com (24h reply). **8 tables**, books months out |
@@ -2807,9 +2794,9 @@ _Re-sorted by urgency on **Aug 5** (T-14 days). Work the 🔴 table top to botto
 | **Oceanário** — decide & book (or drop)       | ~Aug 10            | [oceanario.pt](https://www.oceanario.pt/) — €27 × 4 = €108; slots Day 4 (Wed Aug 26) 12:00 band      |
 | **MUU** dinner (Porto Day 2)                  | Aug 14             | muu-restaurant.com                                                                                   |
 | **Escama** (Day 3 farewell dinner, 20:00)     | 🔴 **now**         | TheFork via escamaporto.com · reservas@escamaporto.com · **+351 913 595 551** · **moved to Cais da Ribeira 29** |
-| **Bartali Pizza Co.** (Girona lunch, 14:00 Sun Aug 30) | 🔴 with the train booking | bartalipizza.com / OpenTable / Resy · **+34 972 21 09 91** · Sunday service is **13:00–15:30 only** |
-| **7 Portes** Sunday dinner (Barcelona)        | ~Aug 20            | [7portes.com](https://www.7portes.com/) — daily 13:00–01:00; Sunday tables go early                  |
-| **Girona train** (Aug 30, if Option A)        | ~Aug 25            | renfe.com — Sants → Girona ~38 min; pick the ~09:15 fast service                                     |
+| ~~**Bartali Pizza Co.** (Girona lunch, 14:00 Sun Aug 30)~~ | ✅ **Booked** — 30-08-2026 14:00h, **4 people**, SVYATOSLAV PODOLSKIY, table **COMEDOR INTERIOR** | +34 972 21 09 91 if the day slips — Sunday service is **13:00–15:30 only**, no second sitting |
+| **7 Portes** Sunday dinner (Barcelona, optional splurge) | ~Aug 20     | [7portes.com](https://www.7portes.com/) — daily 13:00–01:00; Sunday tables go early                  |
+| **Girona train** (Aug 30)                     | ~Aug 25            | renfe.com — Sants → Girona ~38 min; pick the ~09:15 fast service                                     |
 | **Tot Montserrat** combo tickets              | ~Aug 25            | [montserratcard.com](https://www.montserratcard.com/) / FGC desk Pl. d'Espanya — €71.50/pp, lunch incl. |
 | **Taberna La Bola** cocido lunch (Thu Sep 3)  | ~Aug 29            | ⚠️ **Book 13:00, not 14:00** — the 15:00 UAM run needs the first sitting. [labola.es/reservar](https://labola.es/reservar) or +34 91 547 69 30 — cash only |
 | **Casa Lucio** (alt Sep 3 dinner)             | ~Aug 29            | [casalucio.es](https://www.casalucio.es/) — closed all Aug, reopens ~Sep 1; book right at reopening  |
@@ -2833,6 +2820,7 @@ _Re-sorted by urgency on **Aug 5** (T-14 days). Work the 🔴 table top to botto
 | Torre de Belém                      | Aug 23 · 16:00 slot · order **38185394** · paid                                         |
 | São Vicente de Fora                 | Tue Aug 25 · ref **980497008** (2 × adult + 2 × youth) · entry at Largo de São Vicente · ⚠️ **download the PDF tickets** — show the phone at the ticket office · free cancel/reschedule until **23:59 Aug 24** |
 | Castelo de São Jorge                | Open ticket to 1 Nov 2026 · entry from 09:00 · paid                                     |
+| Palacio Real (Madrid)               | Wed Sep 2 · **10:15** · order **R120871238** · 4 × Self-Guided Visit / Standard Admission · **€75.08 paid** · Calle de Bailén, s/n · ⚠️ download the ticket PDFs |
 | 7 Bridges sunset cruise (Porto)     | Aug 21 · 18:45–20:45 · ref **GYG7VKRQ9BVG** (booking #368686504) · Leçaodouro +351 934 604 483 · meet 430 Rua da Praia, Gaia (door C) |
 
 ---
