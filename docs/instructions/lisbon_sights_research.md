@@ -17,7 +17,7 @@
 
 ## 🏛️ Main Attractions
 
-| Name | What / why | Area | Cost (adult / youth 17 & 19) | Hours for Aug 23–26 | Book? | Tip |
+| Name | What / why | Area | Cost (adult / youth — Emily 18 & Nicole 16) | Hours for Aug 23–26 | Book? | Tip |
 |------|------------|------|------|-------|-------|-----|
 | **Jerónimos Monastery** ⭐ [📍](https://maps.google.com/?q=Jer%C3%B3nimos+Monastery+Lisbon+Portugal) | Portugal's greatest Manueline building (1501) — spice-route wealth carved into stone lace; tombs of Vasco da Gama & Camões | Belém | €18 / ~€9 (13–24, ID) | Cloister Tue–Sun 09:30–18:30, **closed Mon**. Free church: Tue–Sat ~10:30–18:00, **Sun only 14:00–17:00** (Mass mornings) | ✅ **Booked — order 38185413, paid** (Day 1) | Two-storey cloister is the headline; the free church needs no ticket ever — Sunday plan: cloister 12:45, church at 14:00 |
 | **Torre de Belém** ⭐ [📍](https://maps.google.com/?q=Bel%C3%A9m+Tower+Lisbon+Portugal) | The 16th-c fortified gateway to the harbour — **reopened 26 May 2026 after 13-month restoration**; find the stone rhinoceros on the north bastion | Belém | €15 / €7.50 (13–24, ID) | Tue–Sun 09:30–18:00, **closed Mon**; timed slots, 60 per half-hour | ✅ **Booked — order 38185394, Aug 23 16:00, paid** | Be at the gate 15:55 — the spiral stair runs a traffic-light system, and late = forfeit |
@@ -153,10 +153,10 @@
 
 ### The palaces — what to choose
 
-| Palace | Why | 2026 price (adult / youth 17 & 19) | Book? | Time | Family verdict |
+| Palace | Why | 2026 price (adult / youth — Emily 18 & Nicole 16) | Book? | Time | Family verdict |
 |--------|-----|------------------------------------|-------|------|----------------|
 | **Pena Palace** ⭐⭐ [📍](https://maps.google.com/?q=Pena+Palace+Sintra+Portugal) | The unmissable candy-coloured Romantic fantasy (1840s) on the highest peak — Manueline, Moorish and Gothic smashed together over a surviving Hieronymite monastery chapel | €20 adult; reduced youth band — check at purchase | ✅ **Booked & paid — Essential Visit, €20 adult, 10:00 palace slot** (+ 4 park-shuttle tickets, undated) | 2–3 hrs | ⭐⭐⭐⭐⭐ Strict window: palace door within ~30 min of slot time or forfeit — **early is refused too** |
-| **Quinta da Regaleira** ⭐⭐ [📍](https://maps.google.com/?q=Quinta+da+Regaleira+Sintra+Portugal) | 1910 neo-Manueline estate whose garden hides the **Initiation Well** — 27 m of spiral stairs into the earth, exiting through tunnels and grottoes | **€20 / €15 (6–17 only — the 19-y-o pays adult) → €75 for our four**; family 2+2 pack €60 doesn't fit us | 🔴 **Book NOW** — timed 30-min slots from 10:00, August afternoons sell out; regaleira.pt | 2–2.5 hrs | ⭐⭐⭐⭐⭐ The kids' favourite of the whole trip; bring a phone torch |
+| **Quinta da Regaleira** ⭐⭐ [📍](https://maps.google.com/?q=Quinta+da+Regaleira+Sintra+Portugal) | 1910 neo-Manueline estate whose garden hides the **Initiation Well** — 27 m of spiral stairs into the earth, exiting through tunnels and grottoes | **€20 / €15 (6–17 only — Emily at 18 pays adult) → €75 for our four**; family 2+2 pack €60 doesn't fit us | 🔴 **Book NOW** — timed 30-min slots from 10:00, August afternoons sell out; regaleira.pt | 2–2.5 hrs | ⭐⭐⭐⭐⭐ The kids' favourite of the whole trip; bring a phone torch |
 | **Castelo dos Mouros** [📍](https://maps.google.com/?q=Moorish+Castle+Sintra+Portugal) | 8th–9th-c Moorish ramparts riding the ridgeline — Atlantic views from the towers | €12; reduced youth band — check | ❌ ⚠️ on-site booth closed — **buy at the Pena ticket office** while up there | 1–1.5 hrs | ⭐⭐⭐⭐ 10 min from Pena's gate; the forest path down to the village is the day's loveliest walk |
 | **Palácio Nacional de Sintra** [📍](https://maps.google.com/?q=National+Palace+of+Sintra+Portugal) | The twin-chimneyed medieval palace in the village centre — Swan Hall, Hall of Crests | ~€15; under 14 free | ❌ walk-in | 45–60 min | ⭐⭐⭐⭐ Not in the day plan (no room) — the exterior chimneys get seen from the lunch table |
 | **Monserrate** [📍](https://maps.google.com/?q=Monserrate+Palace+Sintra+Portugal) | Gothic-Moorish-Hindu fusion villa in botanical gardens — Pena's magic minus the crush | ~€12; under 14 free | ❌ | 1–1.5 hrs | ⭐⭐⭐⭐ The connoisseur swap for a future, quieter visit |
@@ -206,10 +206,10 @@
 
 > For the church/cemetery-loving crew — all sequenced into **Day 3 (Tue Aug 25)**, which threads the Sun/Mon closures. (Jerónimos is in Main Attractions; Pena in Sintra keeps its Hieronymite chapel.) Prices re-verified Aug 2026.
 
-| Place | What to look for | Cost (adult / youth 17 & 19) | Hours for our dates | Notes |
+| Place | What to look for | Cost (adult / youth — Emily 18 & Nicole 16) | Hours for our dates | Notes |
 |-------|------------------|------|-------|-------|
 | **Mosteiro de São Vicente de Fora** ⭐⭐ [📍](https://maps.google.com/?q=Mosteiro+de+Sao+Vicente+de+Fora+Lisbon+Portugal) | Azulejo cloisters (find the fables panels), the **Bragança Royal Pantheon**, rooftop terrace over Alfama | €8 / **€4 under 25** | **Open daily** 10:00–19:00 summer, last entry 18:00 | ✅ **Booked — ref 980497008 (2 adult, 2 youth)**. Feira da Ladra right outside on Tue/Sat |
-| **Panteão Nacional (Santa Engrácia)** ⭐ [📍](https://maps.google.com/?q=Panteao+Nacional+Lisbon+Portugal) | The great baroque dome (1682–1966 — hence _"obras de Santa Engrácia"_ = a never-ending job); Amália Rodrigues's tomb; dome-terrace 360° | **€10 / €5 (13–24)**, under 12 free — ⚠️ 2026 price, was €4 | Tue–Sun 10:00–18:00 (last 17:40), **closed Mon** | Ask about the 50% family rate at the till (needs a minor in the group — the 17-y-o qualifies) |
+| **Panteão Nacional (Santa Engrácia)** ⭐ [📍](https://maps.google.com/?q=Panteao+Nacional+Lisbon+Portugal) | The great baroque dome (1682–1966 — hence _"obras de Santa Engrácia"_ = a never-ending job); Amália Rodrigues's tomb; dome-terrace 360° | **€10 / €5 (13–24)**, under 12 free — ⚠️ 2026 price, was €4 | Tue–Sun 10:00–18:00 (last 17:40), **closed Mon** | Ask about the 50% family rate at the till (needs a minor in the group — Nicole, 16, qualifies) |
 | **Igreja de São Roque** ⭐⭐ [📍](https://maps.google.com/?q=Igreja+de+Sao+Roque+Lisbon+Portugal) | Flat trompe-l'oeil ceiling; the gilded **Chapel of St John the Baptist**, built in Rome (1742) and shipped in pieces — once the world's most expensive chapel | Church **free**; museum €2.50 | Church Tue–Sun, **closed Mon**; museum ~10:00–18:00 | Day 3 Option A anchor; five quiet minutes in front of the chapel beats an hour anywhere else |
 | **Sé de Lisboa** [📍](https://maps.google.com/?q=Se+de+Lisboa+Lisbon+Portugal) | Fortress Romanesque of 1147; rose window; treasury | **€5** (kids 7–12 €3) — free for Mass-goers | Mon–Sat ~09:30–18:30, **closed Sun** to visitors | ⚠️ The famous excavated cloister is **closed for works** — factor that into whether €20/4 is worth it |
 | **Igreja de Santo António** [📍](https://maps.google.com/?q=Igreja+de+Santo+Antonio+Lisbon+Portugal) | Built over St Anthony of Padua's birthplace — tiny, free, right beside the Sé | Free (crypt donation) | Daily | The 5-minute add-on as you pass on the Day 3 descent |
@@ -245,7 +245,7 @@
 | São Vicente de Fora (Day 3) | ✅ Booked — **ref 980497008** (2 adult, 2 youth) | Open daily; last entry 18:00 |
 | **Fado house (Day 3 night)** | 🔴 **UNBOOKED — book this week** | **Parreirinha de Alfama** ~20:00 (Clube de Fado backup) — see the food file |
 | **Oceanário 12:00 band (Day 4)** | 🔴 **UNBOOKED — decide & book by ~Aug 10** | oceanario.pt — €27 × 4 = €108, or consciously drop it |
-| Youth rates | — | **Photo ID (passports) at every gate**: 13–24 at national monuments, 13–25 at the castle, <25 at São Vicente; no youth rate at Oceanário/Regaleira for the 19-y-o |
+| Youth rates | — | **Photo ID (passports) at every gate**: 13–24 at national monuments, 13–25 at the castle, <25 at São Vicente; no youth rate at the Oceanário for either girl, and Regaleira's JOVEM band (6–17) excludes Emily at 18 |
 | Transport | — | Viva Viagem + zapping for everything city-side; Sintra hill = taxi |
 
 ---

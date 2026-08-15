@@ -29,7 +29,7 @@ No car. Metro + CP trains + Bolt do everything; Lisbon is big and hilly.
 
 > ❌ **No city pass — the Lisboa Card was considered and rejected; individual tickets win for our 3 days.** You can't pre-book slots with the card (voucher → physical pickup in Lisbon first), which would have gambled Day 1 on same-day August availability. Decision is final; every slot-critical ticket is now booked direct.
 >
-> ⚠️ **Daughters are 17 and 19 — Portugal's youth rates need photo ID at the gate.** Torre de Belém €15→€7.50 (13–24), Castelo €17→€8.50 (13–25), Jerónimos €18→~€9, São Vicente €8→€4 (<25), Panteão €10→€5 (13–24). Carry passports. No youth rate at Oceanário (13+ = adult) or Regaleira for the 19-year-old.
+> ⚠️ **Emily is 18 and Nicole is 16 — Portugal's youth rates need photo ID at the gate.** Torre de Belém €15→€7.50 (13–24), Castelo €17→€8.50 (13–25), Jerónimos €18→~€9, São Vicente €8→€4 (<25), Panteão €10→€5 (13–24). Carry passports. No youth rate at Oceanário (13+ = adult), and Regaleira's JOVEM band stops at 17, so Emily pays adult there.
 
 | Need | How |
 |------|-----|
@@ -58,14 +58,14 @@ No car. Metro + CP trains + Bolt do everything; Lisbon is big and hilly.
 
 ### Sights Quick-Reference
 
-| Sight | Adult | Youth (17 & 19) | Book? | When (our day) |
+| Sight | Adult | Youth (Emily 18 & Nicole 16) | Book? | When (our day) |
 |-------|------|-------------------|-------|-----------|
 | Mosteiro dos Jerónimos (cloister) | €18 (church free) | ~€9 (13–24, ID) | ✅ **Booked — order 38185413** | Day 1 — **closed Mon**; Sun church 14:00–17:00 |
 | Padrão dos Descobrimentos | €10 | ~€5 _(unverified)_ | ❌ | Day 1 — daily |
 | Torre de Belém (reopened 26 May 2026, timed entry) | €15 | **€7.50** (13–24, ID) | ✅ **Booked — order 38185394, 16:00** | Day 1 — closed Mon |
 | **Palácio da Pena (Sintra)** | €20 | reduced band — check | ✅ **Booked & paid — 10:00** | Day 2 |
 | **Castelo dos Mouros (Sintra)** | €12 | reduced band — check | ❌ buy at Pena office | Day 2 |
-| **Quinta da Regaleira (Sintra)** | **€20** (2026) | €15 (6–17); 19-y-o pays adult | ✅ **Booked — 38339594** | Day 2, 14:30 |
+| **Quinta da Regaleira (Sintra)** | **€20** (2026) | €15 (6–17); Emily (18) pays adult | ✅ **Booked — 38339594** | Day 2, 14:30 |
 | Cabo da Roca | Free (cert €11) | — | ❌ | ❌ Cut — coastal leg dropped |
 | Castelo de São Jorge | €17 (under 12 free) | **€8.50** (13–25, ID) | ✅ **Booked & paid** — open ticket valid until 1 Nov 2026, entry from 09:00 | Day 3, 09:00 |
 | **São Vicente de Fora** (monastery + royal pantheon) | €8 | **€4** (<25) | ✅ **Booked — ref 980497008** | Day 3 — open daily |

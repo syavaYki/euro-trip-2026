@@ -1,6 +1,6 @@
 # Barcelona Food & Drink
 ## Aug 26–31 (5 nights) · Euro Trip 2026
-### Family of 4: Seva, wife, 2 daughters (17 & 19)
+### Family of 4: Seva, Yevheniya, Emily (18), Nicole (16)
 
 > ✅ *Full research — sourced from "100 Authentic Local Tascas & Restaurants," local expat YouTube transcript, Reddit r/barcelona, Spotted by Locals, Time Out Barcelona, and Devour Tours guides. Hours re-verified Aug 2026 for the Aug 26–31 window.*
 

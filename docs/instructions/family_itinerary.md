@@ -2,7 +2,7 @@
 
 > 💡 This page is the "send it to Mom" sheet: flights, trains, hotels, addresses, map links and phone numbers, so anyone at home can tell where we're supposed to be on any given day. Everything below is copied from the master itinerary — if the two ever disagree, the master wins.
 
-**Travelers:** Seva, Sveta, Emily, Sonya (4)
+**Travelers:** Seva, Yevheniya, Emily (18), Nicole (16) — 4 of us
 **Trip:** Wed Aug 19 → Sat Sep 5, 2026 · Portugal 🇵🇹 & Spain 🇪🇸
 **Full guide (always current):** https://syavayki.github.io/euro-trip-2026/
 

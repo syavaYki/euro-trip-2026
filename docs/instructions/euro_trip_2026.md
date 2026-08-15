@@ -2,7 +2,7 @@
 
 - **Destination:** Porto → Lisbon → Barcelona → Zaragoza → Madrid (~~+ Segovia day trip~~ — dropped Aug 5)
 - **Dates:** August 19 – September 5, 2026 (18 days)
-- **Travelers:** 4 — Seva, wife, 2 daughters
+- **Travelers:** 4 — Seva, Yevheniya (wife), Emily (18), Nicole (16)
 - **Status:** 🎒 Ready for departure — open items live in the **Master Must-Book List** at the bottom, re-sorted by urgency and cancellation exposure in the **🎟️ Booking** tab
 
 > 💡 **How to use this guide:** this Overview is the full play-by-play — every day is executable straight from here (times, tickets, routes, fallbacks). The city tabs are the broad reference catalogs when you want options beyond the plan. Tap any section to expand it; during the trip, today's city and day open automatically with a 📍 badge. The 🖨️ button prints this tab or the entire guide — save a PDF to your phone before departure for offline backup.
@@ -216,7 +216,7 @@ The bridge, the cable car and the two riverbanks form a **triangle**, so you nev
 
 Allow ~70 min for the full loop + gelato.
 
-> 🍷 **Bigger swap, if you want it: a port lodge tour on the Gaia side.** There is currently **no port-house visit anywhere in the three Porto days** — a real gap for Porto. **[Cálem](https://maps.google.com/?q=Calem+Porto+Portugal) [🌐](https://www.calem.pt)** sits 2 min from where the lower deck lands. Tour + 2-wine tasting was **€20 adult / €10 youth 6–17** at last check — 2026 resale platforms list €26–28, so budget **~€80–110 for your four** and confirm the direct fare at tour.calem.pt (the 19-year-old pays adult and can taste; the 17-year-old joins at the youth rate). ~45–60 min, **timed slots — book ahead**, and a "Tour, Taste & Fado" version exists. ⚠️ It consumes the whole 16:30–17:30 window, so **São Francisco moves to Day 2**. Your call — but this is the more Porto thing to do.
+> 🍷 **Bigger swap, if you want it: a port lodge tour on the Gaia side.** There is currently **no port-house visit anywhere in the three Porto days** — a real gap for Porto. **[Cálem](https://maps.google.com/?q=Calem+Porto+Portugal) [🌐](https://www.calem.pt)** sits 2 min from where the lower deck lands. Tour + 2-wine tasting was **€20 adult / €10 youth 6–17** at last check — 2026 resale platforms list €26–28, so budget **~€80–110 for your four** and confirm the direct fare at tour.calem.pt (Emily is 18, so she pays adult and can legally taste; Nicole joins at the 6–17 youth rate, no tasting). ~45–60 min, **timed slots — book ahead**, and a "Tour, Taste & Fado" version exists. ⚠️ It consumes the whole 16:30–17:30 window, so **São Francisco moves to Day 2**. Your call — but this is the more Porto thing to do.
 
 **18:00 — [Igreja de São Francisco](https://maps.google.com/?q=Igreja+de+S%C3%A3o+Francisco+Porto+Portugal)** == COOL MUSEUM BUT TICKETS IN PERSON ==
 
@@ -965,14 +965,14 @@ As everywhere on this trip, tourist access to a church closes while the liturgy 
 
 ### Lisbon Sights Quick-Reference
 
-| Sight                                          | Adult               | Youth rate (17 & 19)                        | Book?                | When (our day)         |
+| Sight                                          | Adult               | Youth rate (Emily 18 & Nicole 16)           | Book?                | When (our day)         |
 | ---------------------------------------------- | ------------------- | ------------------------------------------- | -------------------- | ---------------------- |
 | Mosteiro dos Jerónimos (cloister)              | €18 (church free)   | ~€9 (13–24, ID)                             | ✅ **Booked — order 38185413** | Day 1 — **closed Mon**; Sun church opens 14:00 |
 | Padrão dos Descobrimentos                      | €10                 | ~€5 _(unverified — ask)_                    | ❌ walk-up            | Day 1 — daily          |
 | Torre de Belém (reopened 26 May 2026)          | €15                 | **€7.50** (13–24, ID)                       | ✅ **Booked — order 38185394, 16:00** | Day 1 — closed Mon |
 | **[Palácio da Pena](https://maps.google.com/?q=Pal%C3%A1cio+da+Pena+Lisbon+Portugal) [🌐](https://www.parquesdesintra.pt) (Sintra)**                   | €20                 | reduced band — check at purchase            | ✅ **Booked & paid — 10:00**  | Day 2                  |
 | **[Castelo dos Mouros](https://maps.google.com/?q=Castelo+dos+Mouros+Lisbon+Portugal) (Sintra)**                | €12                 | reduced band — check at purchase            | ❌ buy at Pena office | Day 2                  |
-| **[Quinta da Regaleira](https://maps.google.com/?q=Quinta+da+Regaleira+Lisbon+Portugal) (Sintra)**               | **€20** (2026 price) | €15 (6–17 only; the 19-y-o pays adult)     | ✅ **Booked — 38339594**  | Day 2, 14:30           |
+| **[Quinta da Regaleira](https://maps.google.com/?q=Quinta+da+Regaleira+Lisbon+Portugal) (Sintra)**               | **€20** (2026 price) | €15 (6–17 only; Emily at 18 pays adult)    | ✅ **Booked — 38339594**  | Day 2, 14:30           |
 | Sintra Mitos e Lendas (optional)               | ~€12                | —                                           | ❌                    | Day 2 — daily 10:00–18:30 |
 | Cabo da Roca                                   | Free (cert €11)     | —                                           | ❌                    | ❌ Not on the plan — the coastal leg was cut |
 | Castelo de São Jorge                           | €17 (under 12 free) | **€8.50** (13–25, ID)                       | ✅ **Booked & paid** — open ticket, valid until 1 Nov 2026, entry from 09:00 | Day 3 — daily 09:00–21:00 |
@@ -985,7 +985,7 @@ As everywhere on this trip, tourist access to a church closes while the liturgy 
 | **[Oceanário de Lisboa](https://maps.google.com/?q=Ocean%C3%A1rio+de+Lisboa+Lisbon+Portugal) [🌐](https://oceanario.pt/en/)**                        | **€25–29 by time band** (12:00 band = €27) | same — 13+ pays adult | 🔴 **book NOW** (timed) | Day 4, 12:00 |
 | Elevador de Santa Justa                        | —                   | —                                           | ❌ **closed for maintenance 2026** | view free from Largo do Carmo |
 
-> ⚠️ **The youth band needs photo ID at the gate — carry passports.** It runs **13–24** at the national monuments (Jerónimos, Belém Tower, Panteão), **13–25** at Castelo de São Jorge, **under 25** at São Vicente. Where no youth rate exists, both daughters simply pay adult (incl. Oceanário and Regaleira for the 19-year-old).
+> ⚠️ **The youth band needs photo ID at the gate — carry passports.** It runs **13–24** at the national monuments (Jerónimos, Belém Tower, Panteão), **13–25** at Castelo de São Jorge, **under 25** at São Vicente. Where no youth rate exists, both girls simply pay adult (incl. the Oceanário for both, and Regaleira for Emily, whose 18 is over the 6–17 JOVEM band).
 >
 > 💚 **Free to everyone:** the Jerónimos church (Santa Maria de Belém), the São Roque church, Santo António, Cemitério dos Prazeres, the MAAT rooftop, Cabo da Roca, Feira da Ladra, and every miradouro.
 
@@ -1026,16 +1026,16 @@ As everywhere on this trip, tourist access to a church closes while the liturgy 
 
 > ❌ **DECISION (final): the Lisboa Card is OUT.** Researched in full; the money worked for the two adults (~+€32 each) but the **operational** cost killed it: you cannot pre-book anything with it — the online purchase yields a voucher, the booking code is printed on the physical card, and the card must be collected *in Lisbon* before reserving the mandatory Jerónimos/Belém Tower slots. In peak August that meant gambling Day 1 on same-day slots (with the Tower now capped at 900/day, the gamble got worse, not better). **Individual tickets won for our 3 days** — and the proof is above: every slot-critical entry is already booked and paid. Recorded here so it doesn't get re-litigated.
 
-**Entry prices, à la carte (2026-verified)** — ⚠️ Daughters are 17 and 19: the 17-year-old lands in nearly every youth band; the 19-year-old does at the national monuments (13–24), the castle (13–25) and São Vicente (<25), but pays **adult at Regaleira and the Oceanário**. **Photo ID required at every gate — carry passports.**
+**Entry prices, à la carte (2026-verified)** — ⚠️ Emily is 18 and Nicole is 16: Nicole lands in every youth band; Emily does at the national monuments (13–24), the castle (13–25) and São Vicente (<25), but pays **adult at Regaleira (JOVEM is 6–17) and the Oceanário**. **Photo ID required at every gate — carry passports.**
 
-| Sight | Adult | Youth (17 & 19) | Family of 4 |
+| Sight | Adult | Youth (Emily 18 & Nicole 16) | Family of 4 |
 | ----- | ----- | --------------- | ----------- |
 | Mosteiro dos Jerónimos (cloister) | €18 | **€9** both | **€54** + €3.32 fee ✅ paid (€57.32) |
 | Torre de Belém | €15 | €7.50 both | **€45** ✅ paid |
 | Padrão dos Descobrimentos | €10 | ~€5 _(unverified)_ | ~€30 |
 | Palácio da Pena | €20 | reduced band — check | ✅ paid (Essential Visit) |
 | Castelo dos Mouros | €12 | reduced band — check | ~€40–48 |
-| Quinta da Regaleira | **€20** | €15 (17-y-o) / €20 (19-y-o) | **€75** + €5.54 fee ✅ paid |
+| Quinta da Regaleira | **€20** | €15 (Nicole, 16) / €20 (Emily, 18) | **€75** + €5.54 fee ✅ paid |
 | Castelo de São Jorge | €17 | €8.50 both | **€51** ✅ paid |
 | São Vicente de Fora | €8 | €4 both | **€24** ✅ paid |
 | Panteão Nacional | **€10** | €5 both | **€30** |
@@ -1088,7 +1088,7 @@ Demand is exceptional this year. The two big Gaudí tickets are **done** — the
 | **Check-in**  | Wed Aug 26 · 15:00–00:00 (you'll arrive ~22:45 after TP1038)                                                 |
 | **Registration** | ✅ **Done** — the online form is submitted |
 | **Deposit** ⚠️     | **A physical credit card is required at check-in for the security deposit.** AB take it as a **pre-authorisation hold**, not a charge — it's released after check-out, but it ring-fences part of the card's limit for the rest of the trip, so **don't use the card you're relying on for Zaragoza and Madrid.** ⚠️ **Amount not stated in the booking — ask them for the figure before Aug 26** (apartment deposits in Barcelona are typically €150–300, unverified). It must be a **credit card in the lead guest's name — debit cards and Apple/Google Pay are usually refused**, and it's 22:45 on arrival with nowhere to fix it. Have the physical card in a pocket, not in a checked bag |
-| **Tourist tax** | ⚠️ **Payable at the property on check-in — not included in the Booking.com total.** Catalonia's IEET plus the Barcelona city surcharge, capped at 7 nights; for a tourist apartment budget **~€6–7 per person per night** (⚠️ estimate — get the exact figure from the property, it depends on their licence class). **5 nights × 4 people ≈ €120–140.** Ask whether they take card; some AB units want cash. Note **under-16s are exempt**, so check which of the girls that covers |
+| **Tourist tax** | ⚠️ **Payable at the property on check-in — not included in the Booking.com total.** Catalonia's IEET plus the Barcelona city surcharge, capped at 7 nights; for a tourist apartment budget **~€6–7 per person per night** (⚠️ estimate — get the exact figure from the property, it depends on their licence class). **5 nights × 4 people ≈ €120–140.** Ask whether they take card; some AB units want cash. ⚠️ **Under-16s are exempt — but Nicole is 16, so all four of you pay.** |
 | **Check-out** | Mon Aug 31 · by 11:00 — but you'll **leave ~09:40** for the **AVE 11:00** (be at Sants by 10:30)              |
 | **Flight in** | TP1038 LIS → BCN: 18:55 → **21:50**, Terminal 1                                                              |
 | **Train out** | AVE 03112 BCN-Sants → Zaragoza Delicias, **Aug 31 11:00 → 12:28**, locator **WJXSCF**, Coche 6 · 2A/2B/3A/3B |
@@ -1929,8 +1929,8 @@ Zaragoza is **the only city in the world with two cathedrals**, and both are a f
 | Palacio Real free Mon–Thu 17:00–19:00          | **EU/Latin-American residents only** — not us                                               |
 | Descalzas free Wed/Thu 16:00–18:30             | Same EU-residents rule — not us; €6 with the tour included is fair anyway                   |
 | Botánico free Tuesdays                         | ❌ Dropped from Day 3 (the UAM run took its slot) — moved to Pocket Options                  |
-| CaixaForum expos free under 16                 | Under-16 only — one daughter maybe; exterior + wall garden free for everyone                |
-| Under-18s free at Prado + Reina Sofía          | Applies to the 17-year-old everywhere; the 19-year-old needs **student ID** for reductions — pack it |
+| CaixaForum expos free under 16                 | ⚠️ Nicole is 16, so **neither girl qualifies**; exterior + wall garden free for everyone      |
+| Under-18s free at Prado + Reina Sofía          | Applies to Nicole (16) everywhere; Emily (18) needs **student ID** for reductions — pack it  |
 
 > 💡 **Post-vacation Madrid:** the week of Sep 1 is when *madrileños* come back from August holidays. Several classic restaurants (Casa Lucio, Posada de la Villa, Bodegas Rosell) close ALL of August and reopen this exact week — call or book before counting on any of them. Statuses below are as of Aug 5.
 
@@ -2218,7 +2218,7 @@ Emily's line. Either branch (C-4a Colmenar Viejo or C-4b Alcobendas) calls at Ca
 
 **23:15 — Plaza Mayor by night → taxi home** (~€8). Gelato chaser at Palazzo Arenal if it's still open (Sol branch runs late in summer).
 
-> **Running late?** Droppable, in order: CaixaForum → Palacio de Cristal → the second half of the Reina Sofía. **Undroppable: Emily at Cantoblanco by 15:00.** Everything before lunch bends around that; if the Prado overruns, walk out of the Prado. After that, protect the cocido and the boats. (⚠️ **[Real Jardín Botánico](https://maps.google.com/?q=Real+Jard%C3%ADn+Bot%C3%A1nico+Madrid+Spain) [🌐](https://www.rjb.csic.es) is cut from this day** — it was the 16:30 slot the campus run now occupies. It's €6, it's next to the Prado, and it'll still be there for Emily in October.) If the group is museum'd out by 17:00, skip Reina Sofía entirely and take the Retiro slowly — Guernica guilt is real but so are 17-year-old feet; the free 19:00 window exists on every remaining evening of nobody's life, and that's fine.
+> **Running late?** Droppable, in order: CaixaForum → Palacio de Cristal → the second half of the Reina Sofía. **Undroppable: Emily at Cantoblanco by 15:00.** Everything before lunch bends around that; if the Prado overruns, walk out of the Prado. After that, protect the cocido and the boats. (⚠️ **[Real Jardín Botánico](https://maps.google.com/?q=Real+Jard%C3%ADn+Bot%C3%A1nico+Madrid+Spain) [🌐](https://www.rjb.csic.es) is cut from this day** — it was the 16:30 slot the campus run now occupies. It's €6, it's next to the Prado, and it'll still be there for Emily in October.) If the group is museum'd out by 17:00, skip Reina Sofía entirely and take the Retiro slowly — Guernica guilt is real but so are teenage feet; the free 19:00 window exists on every remaining evening of nobody's life, and that's fine.
 
 > 💃 **Optional flamenco swap:** **[Cardamomo](https://maps.google.com/?q=Cardamomo+Madrid+Spain) [🌐](https://cardamomo.com)** (C/ Echegaray 15) — the critics' pick for real-deal flamenco, 100 seats close enough to feel the footwork, shows daily **18:00 / 19:30 / 21:00 / 22:30**, from ~€39 with a drink. Doing it = book the **21:00 show** and compress dinner to pre-show tapas at Casa Toni or Casa Labra. ⚠️ **Tonight is the only slot** — Sep 4 is Emily's move-in day and ends with the farewell dinner in Chamberí, which is not something to cut short. Book at cardamomo.com if the family votes yes.
 
@@ -2490,7 +2490,7 @@ Per person · 3 full Madrid days · excludes accommodation (paid). Segovia's tra
 | **Total / person**             | **€145–200** | **€265–380** | **€380–530** |
 | **Total for 4** (+ €33 airport taxi + ~€12 Atocha taxi) | **~€625–845** | **~€1,100–1,565** | **~€1,565–2,165** |
 
-> The two adult museum/palace tickets are where the fixed money goes (~€45/adult across Palacio + Prado + Reina); both girls ride mostly free on age — bring the 19-year-old's **student ID** everywhere.
+> The two adult museum/palace tickets are where the fixed money goes (~€45/adult across Palacio + Prado + Reina); both girls ride mostly free on age — bring Emily's **student ID** everywhere.
 
 ---
 
