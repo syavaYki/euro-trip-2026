@@ -46,6 +46,8 @@
 | **Day 5** (Sun Aug 30) | Girona ⛪ Saturday-vigil Mass first | Eiffel bridge → xuixo → Call museum + Sant Pere **before 14:00 closures** → **cathedral from 12:00 (Sun!)** → Sant Feliu 13:00 → GoT stairs → lunch → Rocambolesc → walls → 18:40 train → farewell dinner: **La Bendita / el Xuletò / Bodega La Palma / Blai** (7 Portes 🟠 optional splurge) |
 | **Day 6** (Mon Aug 31) | Departure | Checkout 09:30–09:40 → taxi/L5 → **Sants 10:00–10:15, security** → **AVE 11:00** → Zaragoza 12:28 |
 
+> 🔄 **The table above is Option A — the plan of record, unchanged.** If the **Benidorm friend meet-up** happens, **Options B and C** swap Aug 29–30 around: **Girona moves to Sat Aug 29** (a straight upgrade — Saturday opening hours are far better there) and **Sunday Aug 30 becomes a Valencia day trip** to meet him halfway, since Benidorm itself is 5h18 away by rail. **B = by train** (Euromed, ~€225–360 for four), **C = by rental car** (Sixt, ~€130–200, and the only way to reach El Palmar in the Albufera). The Old City + Barceloneta day is what gets dropped either way. **Full detail — trains, car hire, timings, bookings to move — on the Overview tab under _Aug 29–30 · Options B & C_.**
+
 ---
 
 ### Sights Quick-Reference

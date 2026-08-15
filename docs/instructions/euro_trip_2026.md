@@ -1418,6 +1418,143 @@ Then drop bags, passports back in the safe **except set an alarm-note: they come
 
 ---
 
+### 🔄 Aug 29–30 · Options B & C — the Benidorm Meet-Up in Valencia
+
+> **Nothing above changes unless you pick one of these.** Days 4 and 5 as written (Old City + Barceloneta on Sat, Girona on Sun) remain **Option A** — the plan of record, with the Bartali table already booked for Sunday. The two options below exist only if the meet-up with the Benidorm friend happens; they differ **only in how you get to Valencia**.
+
+> 🗺️ **Why Valencia and not Benidorm.** Benidorm has no mainline station, and **Barcelona → Alicante is 5h18** on the fastest train — going to him is not a day trip. The Valencia–Alicante high-speed link that would fix this **opens in 2027**, not for us. Valencia splits the difference: **~3h for you, 1h45 for him**, and it's a city worth a full day on its own terms rather than a compromise waiting room. (Castellón is closer to you — 1h55 — but it pushes his leg to **3h50 on only 3–4 buses a day**, and it's a half-day town. It was checked and rejected.)
+
+#### Common to B and C — Girona moves to Saturday Aug 29
+
+Both options make the same swap: **Girona → Sat Aug 29**, **Valencia → Sun Aug 30**. The Old City + Barceloneta day is what gets dropped.
+
+> ✅ **Saturday is a straight upgrade for Girona, not a compromise.** Every door opens wider: **Cathedral 10:00–18:30** (Sunday it's 12:00–16:30), **Sant Feliu 10:00–20:00** (Sunday 13:00–17:30), **Museu d'Història dels Jueus and Sant Pere de Galligants both 10:00–19:00** in July–August instead of slamming shut at 14:00. The Day 5 timeline above had to run museums-first-cathedral-at-noon and sprint Sant Feliu at 13:10 — **on a Saturday none of that applies.** Run the same stops in plain geographic order, start at leisure on a **~08:50 train**, and you're still done by mid-afternoon.
+>
+> ⛪ **And it rescues Mass.** Day 5 currently notes that the Sunday 09:00 Sagrada Família Mass and the Girona train cannot both happen. With Girona on Saturday, come back on the **~17:40 train (Sants ~18:20)** and the **20:00 Saturday vigil** at the basilica is a comfortable walk from the flat — **you get both Girona and Mass**, with time to shower between.
+>
+> 🔴 **One booking to move:** Bartali Pizza Co. is held for **30-08-2026, 14:00h, 4 people, SVYATOSLAV PODOLSKIY, table COMEDOR INTERIOR**. Call **+34 972 21 09 91** and shift it to **Sat 29-08-2026**. Saturday service is longer than Sunday's 13:00–15:30 window — confirm the Saturday hours on the call. It's free to move; do it before you commit to anything else.
+>
+> ❌ **Do not book the Picasso Museum** if you're going this way — the Sat 14:00 slot is the one thing on the 🔴 list that becomes dead money.
+
+**What you lose:** the Gothic Quarter churches (La Seu, Santa Maria del Mar, Santa Maria del Pi), the Picasso Museum, La Cova Fumada's bombas and the Barceloneta afternoon. Full detail for all of it stays on the **Barcelona → Sights** and **Barcelona → Food** tabs, so it's recoverable if a morning frees up. Malvarrosa on Sunday gives the beach half back.
+
+#### Sunday Aug 30 in Valencia — the day itself (same under B and C)
+
+> 📞 **Your friend's leg — tell him the bus.** **ALSA Benidorm → Valencia is direct, 1h45, ~hourly (28 services/day), ~€19–22**, into **[Estació d'Autobusos](https://maps.google.com/?q=Estaci%C3%B3+d%27Autobusos+Val%C3%A8ncia+Spain)** (Av. Menéndez Pidal). Driving is ~1h30 (150 km, AP-7). There is **no useful rail** — the FGV tram from Benidorm only runs down the coast to Alicante. Hourly service means a missed bus costs him an hour, not the day.
+
+**~11:20 — Meet.** Best single meeting point for a bus arrival and a train arrival alike is **[Plaça de la Reina](https://maps.google.com/?q=Pla%C3%A7a+de+la+Reina+Val%C3%A8ncia+Spain)**. Agree it in advance and pin it on the map.
+
+**11:45 — [La Lonja de la Seda](https://maps.google.com/?q=Lonja+de+la+Seda+Valencia+Spain)** ⭐⭐ — **UNESCO World Heritage, free on Sundays 10:00–14:00.** The 15th-century silk exchange: a hall of spiralling twisted stone columns fanning into palm-tree vaulting, built to show off a merchant city at its peak. Best thing in Valencia in 45 minutes, and today it's free. **Go here first — the 14:00 Sunday closing is the day's only hard door.**
+
+**12:35 — [Plaça de la Verge](https://maps.google.com/?q=Pla%C3%A7a+de+la+Verge+Val%C3%A8ncia+Spain) and the old town** — the cathedral apse, the Basílica dels Desemparats, the Turia fountain, café tables in the shade. Wander rather than tick; this is catching-up time.
+
+> ⚠️ **Two Sunday closures to plan around, not fight:** the **Mercat Central is closed Sundays** (it's the other great building — needs a weekday, so it isn't happening this trip), and **Valencia Cathedral + the Holy Grail chapel open 14:00–18:30 only on Sundays**, colliding head-on with lunch. Pick one: rice, or the Grail. The rice is the better call with a friend you came 350 km to see — but if the cathedral wins, eat in the old town and go in at 16:00.
+
+**14:00 — Paella lunch** ⭐⭐ — the point of the day. **Valencian Sunday lunch is a two-hour institution; do not schedule against it.**
+
+| Restaurant | What it is | Price | Sunday hours · booking |
+| ---------- | ---------- | ----- | ---------------------- |
+| **[La Pepica](https://maps.google.com/?q=La+Pepica+Passeig+de+Neptu+6+Valencia+Spain)** [🌐](https://lapepica.com/en/) ⭐⭐ (Pg. de Neptú 6, Malvarrosa) | **The pick under Option B.** Beachfront since **1898**, terrace facing the sea — Hemingway's table. Paella valenciana the orthodox way: chicken, rabbit, garrofó, saffron | €35–50/pp · **€30/pp minimum** | **Sun 13:00–16:00** · 🔴 **+34 963 71 03 66** |
+| **[La Marcelina](https://maps.google.com/?q=La+Marcelina+Passeig+de+Neptu+8+Valencia+Spain)** ⭐ (Pg. de Neptú 8, next door) | Older still — **1888** — same sea view, same tradition, noticeably cheaper. The value call for five | ~€20–25/pp | **Sun 11:00–16:00** · +34 963 71 20 25 |
+| **[El Palmar](https://maps.google.com/?q=El+Palmar+Albufera+Valencia+Spain)** (Albufera) ⭐⭐ | **Option C only — see below.** The actual birthplace of paella | €25–40/pp | Book ahead; summer Sundays are the village's big day |
+| **Casa Carmela** (C/ d'Isabel de Villena 155) | The connoisseur's orange-wood paella | — | ❌ **Closed Sundays**, no dinner service ever |
+| **El Racó de la Paella** (Campanar) | Wood fire, under the radar, often recommended | — | ❌ **Closed Aug 13 – Sep 4**, staff holiday |
+
+> 💡 **Order like a local:** *paella valenciana* is **chicken and rabbit — no seafood in it, and no chorizo in anything.** Want prawns? Order *arròs a banda* or *arròs del senyoret* and nobody will wince. **Rice is cooked to order and takes a minimum 45 minutes**, so a 14:00 table eats at ~14:45 — that's normal, not slow. And paella is a **lunch dish**: no Valencian eats it at night.
+
+**16:15 — [Platja de la Malvarrosa](https://maps.google.com/?q=Platja+de+la+Malvarrosa+Val%C3%A8ncia+Spain)** — swim and walk it off. Wide, clean, shallow, lifeguarded, showers along the promenade, sea ~25 °C in late August. **Pack swimwear and a change of clothes in a day bag** — there's no hotel to go back to. This is the Barceloneta afternoon, relocated.
+
+> 🕐 **The afternoon is deliberately unstructured.** You came to see a friend, not to clear a list. If the group would rather sit in the shade with a drink for two hours than swim, the day is working correctly.
+
+> 🌧️ **Wet fallback:** rain kills only the beach half. Swap to **Valencia Cathedral + the Holy Grail chapel** (opens 14:00 Sunday) and the **[Ciutat de les Arts i les Ciències](https://maps.google.com/?q=Ciutat+de+les+Arts+i+les+Ci%C3%A8ncies+Val%C3%A8ncia+Spain)** — Calatrava's white spaceship complex, 15 min from the old town, with the **Oceanogràfic** (Europe's largest aquarium) open daily and entirely indoors.
+
+---
+
+#### Option B — Valencia by train ⭐ the low-stress version
+
+> 🔴 **Book now if choosing B.** This corridor is **Renfe-only — no Ouigo, no Iryo, no price war**, so fares only climb. Roughly **€28–45 pp each way** → **~€225–360 for four, return.**
+
+| | |
+| --- | --- |
+| **Out** | **Euromed, Barcelona-Sants 08:15 → Valencia 11:20** (3h05) |
+| **Back** | **Euromed, Valencia 18:55 → Barcelona-Sants 22:04** (3h09) |
+| **Last train** | 20:05 → 23:14 — **only if Monday can absorb it**, and Monday leaves the flat at 09:40 |
+| **Other outbound** | 07:15 (first) · 10:15 → 13:13 — the 10:15 costs you the free Lonja window and pushes lunch late |
+| **Fastest on the route** | 2h47 (the 16:15 service) — the morning trains run 2h58–3h05 |
+| **Getting to Sants** | Metro **L5 direct** from the flat, ~15 min. ⚠️ Sants has airport-style bag scans — **leave 07:35** |
+
+> ⚠️ **On Renfe's booking form, set the destination to `VALENCIA (TODAS)`, not a named station.** Valencia has two long-distance stations and Euromed has been switching between them: it normally terminates at **València Joaquín Sorolla**, but platform works there pushed Euromed to **València Nord from 6 May 2025 until 30 June 2026**. Aug 30 is two months past that end date, so it *should* be Sorolla — but engineering overruns are routine, and filtering to one station could hide half the trains or all of them. Select "todas" and read the real station off the result. **Origin: `BARCELONA-SANTS`** (not França, not Passeig de Gràcia). ❌ Never **València Cabanyal** — regional trains only, 3 km out.
+>
+> Either station is fine on the ground: **Nord** is the 1917 modernista building right at Plaça de l'Ajuntament, ~10 min walk to Plaça de la Reina; **Sorolla** is ~800 m further south, ~15 min walk, with a free shuttle bus between the two. **Check the return leg departs from the same station you arrive at.**
+
+**Shape of the day:** leave the flat **07:35** → Sants 07:55 → **08:15 out** → Valencia 11:20 → the day above → back at the station **18:35** → **18:55 out** → Sants 22:04 → flat by **~22:40**. Then pack: Monday's AVE is at 11:00 and you're out the door at 09:40. **This is exactly why 20:05 is not the plan.**
+
+**Cost for four:** ~€225–360 all-in for transport. Nobody drives, everybody can drink at lunch, and the day has hard edges you cannot negotiate with.
+
+---
+
+#### Option C — Valencia by rental car 🚗 the flexible version
+
+> ⚠️ **Correcting one assumption up front: no Sixt city branch in Barcelona is 24/7 for pickup.** Only **Barcelona Airport** is open 24 hours. City branches offer **24-hour *return*** (after-hours key drop) but collect during business hours only — so a late return works, a late *pickup* does not.
+
+| Branch | Address | Hours | Notes |
+| ------ | ------- | ----- | ----- |
+| **[Sixt Barcelona Sants](https://maps.google.com/?q=Sixt+Barcelona+Sants+Estacio+Spain)** ⭐ **the pick** | SABA Sants Estació level **−1**, Pl. dels Països Catalans s/n, 08014 | **Daily 07:00–23:00** | **Metro L5 direct** from the flat, and it's where Monday's AVE leaves. From Pl. de Joan Peiró take the lift to −1, it's just past the McDonald's |
+| **[Sixt Barcelona Centre/Eixample](https://maps.google.com/?q=Sixt+Carrer+d%27Arag%C3%B3+54+Barcelona+Spain)** | Carrer d'Aragó 54, Eixample | Mon–Fri 08:00–20:00 · **Sat–Sun 08:00–16:30** · **24-hour return** | Closest to the flat, and the only one whose key-drop covers a post-midnight return. ⚠️ **Reported under renovation with pickups redirected to Sants — verify when booking** |
+| **[Sixt Barcelona Airport](https://maps.google.com/?q=Sixt+Barcelona+Airport+Spain)** | T1 & T2 arrivals | **24/7** | Genuinely round-the-clock, but it's 30 min and a taxi fare in the wrong direction each way |
+
+> ☎️ Sixt Spain: **902 49 16 16**. Book the car **now** — late August is peak and one-day rentals are the first thing to disappear.
+
+**The drive:** **~350 km each way, 3h30–4h** via the **AP-7 / A-7** coastal motorway, six lanes at 120 km/h for nearly all of it (it narrows to four through the hills near the Desert de les Palmes, ~km 42–47 north of Valencia).
+
+> ✅ **Tolls: €0.** The AP-7 was freed in stages — Valencia–Alicante in 2020, Tarragona–La Jonquera when the concession expired **31 Aug 2021**. The whole Barcelona → Valencia run is now toll-free public motorway. (Older guides still quote ~€38.50 each way; that figure is dead.)
+>
+> ✅ **Parking in Valencia is free on a Sunday.** Blue-zone charging in both the centre and the Malvarrosa beach area runs **Mon–Sat 09:00–21:00 only — Sundays and holidays are free**, and there are roughly two kilometres of free spaces along the seafront near Las Arenas. A paid garage in the centre is ~€6/day if you'd rather not circle.
+>
+> ✅ **Valencia's ZBE is not a problem for you.** Fines began 1 Jan 2026 but apply **only to Category A vehicles — those with no environmental sticker at all.** Any 2026 rental will carry a C, ECO or 0 badge. **Glance at the windscreen sticker at pickup** and you're done. (Fine if you got it wrong: €200, halved to €100 if paid within 20 days.)
+
+**Shape of the day:** collect the car at **Sants 07:00–07:30** → on the road by 07:45 → Valencia **~11:15** → the day above → leave Valencia **19:00** → back in Barcelona **~22:45**, inside the Sants branch's 23:00 close.
+
+> ⚠️ **That return time is the one real pinch.** 19:00 out of Valencia lands you at 22:45 with ~15 minutes of margin against a 23:00 desk close, and August Sunday-evening traffic on the AP-7 back into Barcelona is not theoretical. **Either leave Valencia by 18:45 and treat 23:00 as a hard wall, or book the Eixample branch for its 24-hour key drop and stop watching the clock.** Do not plan to return the car on Monday morning — you're leaving the flat at 09:40 for an 11:00 AVE and there is no slack there.
+
+**🌾 What the car actually buys you — [El Palmar](https://maps.google.com/?q=El+Palmar+Albufera+Valencia+Spain) in the Albufera** ⭐⭐
+
+This is the real argument for Option C. **El Palmar is the birthplace of paella** — a fishing village on stilts in the middle of the Albufera lagoon, **15 km / 20–25 min south of Valencia** on the V-15, with ~25 restaurants cooking rice over orange-wood fires and nothing else. Freshwater eel and lagoon fish, rice from the paddies you drove through. It is where Valencians themselves go for Sunday lunch, and it is effectively **unreachable by public transport** on a day-trip schedule — under Option B it simply doesn't exist as a choice.
+
+Add the **boat trip**: flat wooden *albuferencs* leave from the pontoon in the village all day for a 30–40 minute circuit of the lagoon and the Gola canal, through rice fields and waterfowl (~€4–6 pp). **At sunset it's the best hour in the province** — and sunset on Aug 30 is ~20:15, which unfortunately sits past your departure. Take the afternoon circuit instead, or trade the beach for it.
+
+> ⚠️ **Book the El Palmar table.** Parking in the village is normally free and plentiful — **except summer Sunday lunchtimes, which is precisely when you'd arrive**, when the whole city drives out for the weekly rice ritual. Reserve, and arrive before 14:00.
+
+**Cost for four (est.):**
+
+| Item | Estimate |
+| ---- | -------- |
+| One-day rental, 5-seat, peak August, booked ahead | €70–120 |
+| Fuel, ~700 km round trip | €60–80 |
+| Tolls (AP-7) | **€0** |
+| Parking in Valencia, Sunday | **€0** |
+| **Total** | **~€130–200** |
+
+---
+
+#### B or C — how to choose
+
+| | **Option B — Train** | **Option C — Car** |
+| --- | --- | --- |
+| **Cost, four people** | €225–360 | **€130–200** |
+| **Door to door, each way** | ~3h40 (flat → Sants → security → Valencia centre) | **~3h30–4h**, no station, no security |
+| **Who suffers** | Nobody — everyone reads, dozes, drinks at lunch | **One driver does 7h and cannot drink at a paella lunch** |
+| **Schedule** | Hard edges: 08:15 and 18:55, miss it and the day breaks | **Yours.** Leave when the conversation ends |
+| **Albufera / El Palmar** | ❌ Not realistically reachable | ⭐⭐ **The whole point** |
+| **Late return** | 22:04 at Sants, Metro home | 22:45 **and the desk shuts at 23:00** — or pay for the 24h key-drop branch |
+| **Risk** | Renfe station confusion (see the `TODAS` warning) | August Sunday AP-7 traffic; the 23:00 wall |
+
+> ⭐ **The call:** take **C if the group wants El Palmar and doesn't mind one person staying dry**, take **B if you'd rather everyone actually relax over the rice.** C is cheaper and more flexible on paper; B is the one where the whole family is on holiday, including whoever would have been driving. With a long Zaragoza-and-Madrid stretch starting the next morning, **B is the safer pick — but C is the better day if the driver genuinely doesn't mind.**
+
+> 🔄 **The option nobody has costed: let him come north.** **Alicante → Barcelona flies in 1h15** — Vueling runs it ~39×/week, €30–110 — against 5h18 by train. That's **one ticket instead of four**, no 6–8 hour round trip for anyone, Girona stays on Sunday where it's booked, the Old City day survives intact, and he joins you for a normal Barcelona Saturday. Worth one phone call before you book anything under B or C.
+
+---
+
 ### Day 6 — Monday Aug 31 · Departure to Zaragoza
 
 > AVE departs **Sants 11:00 sharp** — Renfe closes train access **2 minutes before** departure and Sants runs airport-style bag scans. Checkout by 11:00 is irrelevant — **you're gone by 09:40.** The math: leave 09:40 → Sants 10:00–10:15 → security + platform with 30+ min of cushion.
