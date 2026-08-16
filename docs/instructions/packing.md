@@ -114,7 +114,7 @@ These two suitcases end their trip in Madrid on Sep 5 and are not seen again unt
 - [ ] Anti-theft crossbody bag — **carries passports, cash and tickets in Barcelona**
 - [ ] Universal EU adapter #1
 
-### Wife
+### Yevheniya
 
 - [ ] Passport
 - [ ] Light scarf or shawl — **shoulders covered for Sagrada Família, Montserrat, all cathedrals**
@@ -122,14 +122,14 @@ These two suitcases end their trip in Madrid on Sep 5 and are not seen again unt
 - [ ] Makeup, decanted to under 100 ml (or full-size in a checked bag)
 - [ ] Universal EU adapter #2
 
-### Daughter (19)
+### Emily (18)
 
 - [ ] Passport — **required at ticket gates for the 13–24/13–25 youth rates and for the nominative Sagrada Família ticket**
 - [ ] Light scarf or shawl for churches
 - [ ] Phone + charger
 - [ ] Headphones (overnight flight)
 
-### Daughter (17)
+### Nicole (16)
 
 - [ ] Passport — same, youth-rate ID checks at Jerónimos, Belém Tower, Castelo de São Jorge
 - [ ] Light scarf or shawl for churches
