@@ -1,1313 +1,1985 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
-  <meta name="theme-color" content="#2c2c2c" />
-  <title>Euro Trip 2026 🇵🇹🇪🇸</title>
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta
+      name="theme-color"
+      content="#2c2c2c" />
+    <title>Euro Trip 2026 🇵🇹🇪🇸</title>
 
-  <!-- ── Auth guard — must be first script, blocks render until checked ── -->
-  <script>
-    (function() {
-      if (localStorage.getItem('tripAuth2026') !== 'ok') {
-        window.location.replace('./login.html');
+    <!-- ── Auth guard — must be first script, blocks render until checked ── -->
+    <script>
+      (function () {
+        if (localStorage.getItem('tripAuth2026') !== 'ok') {
+          window.location.replace('./login.html');
+        }
+      })();
+    </script>
+
+    <script>
+      const RAW_BASE = './';
+    </script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/9.1.6/marked.min.js"></script>
+
+    <style>
+      /* ── Reset & base ── */
+      *,
+      *::before,
+      *::after {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
       }
-    })();
-  </script>
 
-  <script>
-    const RAW_BASE = "./";
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/9.1.6/marked.min.js"></script>
-
-  <style>
-    /* ── Reset & base ── */
-    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-
-    :root {
-      --bg:        #f9f6f0;
-      --surface:   #ffffff;
-      --border:    #e0d9ce;
-      --accent:    #c0392b;       /* deep red — Portuguese/Spanish vibe */
-      --accent2:   #e67e22;       /* warm orange */
-      --text:      #2c2c2c;
-      --muted:     #777;
-      --tab-h:     48px;
-      --subt-h:    40px;
-      --radius:    10px;
-      --shadow:    0 2px 12px rgba(0,0,0,.08);
-    }
-
-    html, body {
-      min-height: 100%;
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-      background: var(--bg);
-      color: var(--text);
-      font-size: 15px;
-      line-height: 1.6;
-    }
-
-        /* ── City tab bar ── */
-    #city-tabs {
-      display: flex;
-      overflow-x: auto;
-      scrollbar-width: none;
-      background: #2c2c2c;
-      padding: 0 8px;
-      gap: 2px;
-      position: sticky;
-      top: 0;
-      z-index: 100;
-    }
-    #city-tabs::-webkit-scrollbar { display: none; }
-    #last-updated {
-      margin-left: auto;
-      flex-shrink: 0;
-      align-self: center;
-      padding: 0 8px;
-      font-size: .7rem;
-      color: rgba(255,255,255,.4);
-      white-space: nowrap;
-    }
-    .city-tab {
-      flex-shrink: 0;
-      padding: 0 16px;
-      height: var(--tab-h);
-      display: flex;
-      align-items: center;
-      cursor: pointer;
-      color: rgba(255,255,255,.65);
-      font-size: .85rem;
-      font-weight: 600;
-      border-bottom: 3px solid transparent;
-      white-space: nowrap;
-      transition: color .15s, border-color .15s;
-    }
-    .city-tab:hover  { color: #fff; }
-    .city-tab.active { color: #fff; border-bottom-color: var(--accent2); }
-    .city-tab .flag  { margin-right: 6px; font-size: 1.1em; }
-
-    /* ── Sub-tab bar (Food / Sights / Overview) — sticky under city tabs ── */
-    #sub-tabs {
-      display: flex;
-      align-items: center;
-      background: var(--surface);
-      border-bottom: 1px solid var(--border);
-      padding: 0 12px;
-      gap: 4px;
-      position: sticky;
-      top: var(--tab-h);
-      z-index: 90;
-    }
-    #sub-tab-row {
-      display: flex;
-      flex: 1;
-      gap: 4px;
-      min-width: 0;
-      overflow-x: auto;
-      scrollbar-width: none;
-    }
-    #sub-tab-row::-webkit-scrollbar { display: none; }
-    .sub-tab {
-      padding: 0 14px;
-      height: var(--subt-h);
-      display: flex;
-      align-items: center;
-      cursor: pointer;
-      font-size: .82rem;
-      font-weight: 600;
-      color: var(--muted);
-      border-bottom: 2px solid transparent;
-      transition: color .15s, border-color .15s;
-    }
-    .sub-tab:hover  { color: var(--text); }
-    .sub-tab.active { color: var(--accent); border-bottom-color: var(--accent); }
-
-    /* ── Content area ── */
-    #content {
-      max-width: 900px;
-      margin: 0 auto;
-      padding: 20px 16px 60px;
-    }
-
-    /* ── Loading / error states ── */
-    .loader {
-      text-align: center;
-      padding: 60px 20px;
-      color: var(--muted);
-    }
-    .loader .spinner {
-      width: 36px; height: 36px;
-      border: 3px solid var(--border);
-      border-top-color: var(--accent);
-      border-radius: 50%;
-      animation: spin .7s linear infinite;
-      margin: 0 auto 16px;
-    }
-    @keyframes spin { to { transform: rotate(360deg); } }
-
-    .error-box {
-      background: #fff3cd;
-      border: 1px solid #ffc107;
-      border-radius: var(--radius);
-      padding: 16px 20px;
-      font-size: .88rem;
-      line-height: 1.5;
-    }
-    .error-box strong { color: #856404; }
-
-    /* ── Markdown rendered content ── */
-    .md h1 { font-size: 1.5rem; color: var(--accent); margin: 0 0 6px; border-bottom: 2px solid var(--border); padding-bottom: 8px; }
-    .md h2 { font-size: 1.15rem; color: #444; margin: 28px 0 10px; display: flex; align-items: center; gap: 8px; }
-    .md h3 { font-size: 1rem; color: #555; margin: 18px 0 6px; }
-    .md p  { margin: 8px 0; }
-    .md a  { color: var(--accent); }
-    .md a:hover { text-decoration: underline; }
-    .md ul, .md ol { padding-left: 20px; margin: 6px 0; }
-    .md li { margin: 3px 0; }
-    .md strong { color: #222; }
-
-    /* ── Checklists (task lists) ── */
-    .md li:has(> input[type="checkbox"]) { list-style: none; margin-left: -20px; }
-    .md input[type="checkbox"] {
-      width: 16px; height: 16px;
-      margin-right: 9px;
-      vertical-align: -3px;
-      accent-color: var(--accent);
-      cursor: pointer;
-    }
-    .md li:has(> input:checked), .md li:has(> input:checked) strong { color: var(--muted); }
-
-    .md em { color: var(--muted); font-style: normal; font-size: .9em; }
-    .md blockquote {
-      border-left: 3px solid var(--accent2);
-      margin: 12px 0;
-      padding: 8px 14px;
-      background: #fff8f0;
-      border-radius: 0 6px 6px 0;
-      color: #7a5c30;
-      font-size: .88rem;
-    }
-    .md hr { border: none; border-top: 1px solid var(--border); margin: 20px 0; }
-
-    /* ── Tables ── */
-    .md table {
-      width: 100%;
-      border-collapse: collapse;
-      font-size: .82rem;
-      margin: 12px 0 20px;
-      background: var(--surface);
-      border-radius: var(--radius);
-      overflow: hidden;
-      box-shadow: var(--shadow);
-    }
-    .md th {
-      background: #f0ebe3;
-      text-align: left;
-      padding: 8px 10px;
-      font-weight: 700;
-      font-size: .78rem;
-      text-transform: uppercase;
-      letter-spacing: .5px;
-      color: #555;
-      border-bottom: 1px solid var(--border);
-    }
-    .md td {
-      padding: 8px 10px;
-      border-bottom: 1px solid #f0ebe3;
-      vertical-align: top;
-    }
-    .md tr:last-child td { border-bottom: none; }
-    .md tr:hover td { background: #fdf9f5; }
-
-    /* Mobile: make tables scroll horizontally (kept for un-transformed tables) */
-    .table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; margin: 0 -4px; }
-
-    /* ── Collapsible table cards ── */
-    .table-cards {
-      display: flex;
-      flex-direction: column;
-      gap: 6px;
-      margin: 10px 0 22px;
-    }
-
-    .tcard {
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: var(--radius);
-      overflow: hidden;
-      transition: box-shadow .15s;
-    }
-    .tcard:hover { box-shadow: var(--shadow); }
-
-    /* Head row — always visible */
-    .tcard-head {
-      display: flex;
-      align-items: baseline;
-      gap: 10px;
-      padding: 11px 14px;
-      cursor: pointer;
-    }
-    .tcard-flat .tcard-head { cursor: default; }
-
-    .tcard-name {
-      font-weight: 700;
-      font-size: .88rem;
-      color: var(--text);
-      flex-shrink: 0;
-      min-width: 90px;
-      max-width: 38%;
-    }
-    .tcard-name strong { color: var(--accent); font-weight: 700; }
-
-    .tcard-desc {
-      flex: 1;
-      font-size: .82rem;
-      color: var(--muted);
-      white-space: nowrap;
-      overflow: hidden;
-      text-overflow: ellipsis;
-      min-width: 0;
-    }
-    /* Flat cards have no expandable body — wrap instead of truncating */
-    .tcard-flat .tcard-desc { white-space: normal; }
-
-    .tcard-chevron {
-      flex-shrink: 0;
-      font-size: .7rem;
-      color: var(--muted);
-      transition: transform .2s ease;
-      margin-left: 4px;
-    }
-    .tcard.open .tcard-chevron { transform: rotate(180deg); }
-
-    /* Body — shown when open */
-    .tcard-body {
-      display: none;
-      padding: 2px 14px 12px;
-      border-top: 1px solid var(--border);
-      background: #fdfbf8;
-    }
-    .tcard.open .tcard-body { display: block; }
-
-    /* Each field row in the body */
-    .tcard-field {
-      display: flex;
-      gap: 10px;
-      padding: 7px 0;
-      border-bottom: 1px solid var(--border);
-      font-size: .84rem;
-      align-items: flex-start;
-    }
-    .tcard-field:last-child { border-bottom: none; }
-
-    .tcard-label {
-      flex-shrink: 0;
-      width: 100px;
-      font-size: .72rem;
-      font-weight: 700;
-      text-transform: uppercase;
-      letter-spacing: .04em;
-      color: var(--muted);
-      padding-top: 2px;
-    }
-
-    .tcard-val {
-      flex: 1;
-      color: var(--text);
-      line-height: 1.5;
-    }
-    .tcard-val strong { color: var(--accent); }
-    .tcard-val a { color: var(--accent); }
-
-    @media (max-width: 600px) {
-      .tcard-name { font-size: .83rem; min-width: 70px; max-width: 42%; }
-      .tcard-desc { font-size: .78rem; }
-      .tcard-field { flex-direction: column; gap: 2px; }
-      .tcard-label { width: auto; }
-    }
-
-    /* ── Overview two-column layout ── */
-    #content.overview-active {
-      max-width: 1180px;
-      padding: 0;
-    }
-    .overview-layout {
-      display: flex;
-      align-items: flex-start;
-      gap: 24px;
-      padding: 20px 16px 60px;
-    }
-    .overview-main { flex: 1; min-width: 0; }
-
-    /* ── TOC sidebar ── */
-    .toc-sidebar {
-      width: 200px;
-      flex-shrink: 0;
-      position: sticky;
-      top: calc(var(--tab-h) + var(--subt-h) + 12px);
-      max-height: calc(100vh - var(--tab-h) - var(--subt-h) - 32px);
-      overflow-y: auto;
-      scrollbar-width: thin;
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: var(--radius);
-      padding: 10px 0 12px;
-      box-shadow: var(--shadow);
-    }
-    .toc-sidebar::-webkit-scrollbar { width: 4px; }
-    .toc-sidebar::-webkit-scrollbar-thumb { background: var(--border); border-radius: 2px; }
-    .toc-title {
-      font-size: .68rem;
-      font-weight: 700;
-      text-transform: uppercase;
-      letter-spacing: .8px;
-      color: var(--muted);
-      padding: 0 14px 8px;
-      border-bottom: 1px solid var(--border);
-      margin-bottom: 6px;
-    }
-    .toc-group { display: flex; flex-direction: column; }
-    .toc-city {
-      display: block;
-      padding: 5px 14px;
-      font-size: .78rem;
-      font-weight: 700;
-      color: var(--text);
-      text-decoration: none;
-      transition: color .12s;
-      margin-top: 4px;
-    }
-    .toc-city:hover { color: var(--accent); }
-    .toc-city.active { color: var(--accent); }
-    .toc-day {
-      display: block;
-      padding: 3px 14px 3px 26px;
-      font-size: .74rem;
-      color: var(--muted);
-      text-decoration: none;
-      transition: color .12s;
-    }
-    .toc-day:hover { color: var(--text); }
-    .toc-day.active { color: var(--accent); font-weight: 600; }
-
-    /* ── Anchor offset under the two sticky bars ── */
-    .md h1, .md h2, .md h3 {
-      scroll-margin-top: calc(var(--tab-h) + var(--subt-h) + 10px);
-    }
-
-    /* ── Collapsible sections (Overview tab): level 1 = cities, level 2 = days ── */
-    .acc {
-      border: 1px solid var(--border);
-      border-radius: var(--radius);
-      background: var(--surface);
-      margin: 14px 0;
-      overflow: hidden;
-    }
-    .acc-head {
-      display: flex;
-      align-items: center;
-      gap: 10px;
-      padding: 12px 14px;
-      min-height: 48px;
-      cursor: pointer;
-      user-select: none;
-      -webkit-tap-highlight-color: transparent;
-    }
-    .acc-head:hover { background: #fdf9f5; }
-    .md .acc-head h2, .md .acc-head h3 { margin: 0; flex: 1; min-width: 0; }
-    .md .acc-head h2 { font-size: 1.08rem; }
-    .md .acc-head h3 { font-size: .95rem; }
-    .acc-chevron {
-      flex-shrink: 0;
-      font-size: .75rem;
-      color: var(--muted);
-      transition: transform .2s ease;
-    }
-    .acc.open > .acc-head .acc-chevron { transform: rotate(180deg); }
-    .acc-body { display: none; padding: 2px 16px 16px; }
-    .acc.open > .acc-body { display: block; }
-
-    .acc-city { box-shadow: var(--shadow); }
-    .acc-city > .acc-head { background: #f6f1e8; }
-    .acc-city > .acc-head:hover { background: #f0e9dd; }
-    .acc-city.open > .acc-head { border-bottom: 1px solid var(--border); }
-
-    .acc-sub { margin: 10px 0; box-shadow: none; }
-    .acc-sub > .acc-head { padding: 10px 12px; min-height: 44px; }
-    .acc-sub > .acc-body { padding: 0 12px 12px; }
-
-    .acc-today {
-      flex-shrink: 0;
-      font-size: .68rem;
-      font-weight: 700;
-      color: #fff;
-      background: var(--accent);
-      border-radius: 20px;
-      padding: 2px 9px;
-      white-space: nowrap;
-    }
-
-    .acc-controls {
-      display: flex;
-      gap: 8px;
-      align-items: center;
-      margin: 10px 0 4px;
-    }
-    .acc-controls button {
-      border: 1px solid var(--border);
-      background: var(--surface);
-      color: var(--muted);
-      font-size: .74rem;
-      font-weight: 600;
-      padding: 5px 12px;
-      border-radius: 20px;
-      cursor: pointer;
-    }
-    .acc-controls button:hover { color: var(--accent); border-color: var(--accent); }
-
-    /* ── Print button + menu (in sub-tab bar) ── */
-    #print-btn {
-      flex-shrink: 0;
-      margin-left: auto;
-      border: none;
-      background: none;
-      font-size: 1.05rem;
-      padding: 6px 8px;
-      cursor: pointer;
-      color: var(--muted);
-      -webkit-tap-highlight-color: transparent;
-    }
-    #print-btn:hover { color: var(--text); }
-    #print-menu {
-      position: fixed;
-      display: none;
-      z-index: 300;
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: var(--radius);
-      box-shadow: 0 6px 24px rgba(0,0,0,.16);
-      overflow: hidden;
-    }
-    #print-menu.show { display: block; }
-    #print-menu button {
-      display: block;
-      width: 100%;
-      text-align: left;
-      border: none;
-      background: none;
-      padding: 11px 16px;
-      font-size: .84rem;
-      font-weight: 600;
-      color: var(--text);
-      cursor: pointer;
-      white-space: nowrap;
-    }
-    #print-menu button:hover { background: #fdf9f5; color: var(--accent); }
-    #print-menu button + button { border-top: 1px solid var(--border); }
-    #print-menu .print-hint {
-      padding: 6px 16px 9px;
-      font-size: .7rem;
-      color: var(--muted);
-      border-top: 1px solid var(--border);
-      max-width: 230px;
-      white-space: normal;
-    }
-
-    /* ── Scroll-to-top FAB ── */
-    #to-top {
-      position: fixed;
-      right: 16px;
-      bottom: calc(18px + env(safe-area-inset-bottom, 0px));
-      width: 46px;
-      height: 46px;
-      border-radius: 50%;
-      border: none;
-      background: var(--accent);
-      color: #fff;
-      font-size: 1.15rem;
-      line-height: 1;
-      cursor: pointer;
-      box-shadow: 0 4px 14px rgba(0,0,0,.25);
-      z-index: 250;
-      opacity: 0;
-      transform: translateY(10px);
-      pointer-events: none;
-      transition: opacity .2s, transform .2s;
-      -webkit-tap-highlight-color: transparent;
-    }
-    #to-top.show { opacity: .92; transform: translateY(0); pointer-events: auto; }
-    #to-top:hover { opacity: 1; }
-
-    /* ── Print-entire-guide container (hidden on screen) ── */
-    #print-all { display: none; }
-
-    /* Original tables kept alongside their card views, shown only on paper */
-    .print-only { display: none; }
-
-    /* ── Responsive ── */
-    @media (max-width: 768px) {
-      .toc-sidebar { display: none; }
-      .overview-layout { padding: 14px 10px 60px; }
-    }
-    @media (max-width: 560px) {
-      #last-updated { display: none; }
-    }
-    /* ── Print (current tab or entire guide) ── */
-    @media print {
-      #city-tabs, #sub-tabs, .toc-sidebar, #to-top, #print-menu { display: none !important; }
-      #content, #content.overview-active { max-width: none; padding: 0; }
-      .overview-layout { display: block; padding: 0; }
-      body { font-size: 11pt; background: #fff; }
-      .md a { color: inherit; text-decoration: none; }
-      .md h1, .md h2, .md h3 { break-after: avoid; }
-      .md li, .md blockquote { break-inside: avoid; }
-      .md input[type="checkbox"] {
-        -webkit-appearance: none; appearance: none;
-        width: 12px; height: 12px;
-        border: 1px solid #444; border-radius: 2px;
-        background: #fff;
+      :root {
+        --bg: #f9f6f0;
+        --surface: #ffffff;
+        --border: #e0d9ce;
+        --accent: #c0392b; /* deep red — Portuguese/Spanish vibe */
+        --accent2: #e67e22; /* warm orange */
+        --text: #2c2c2c;
+        --muted: #777;
+        --tab-h: 48px;
+        --subt-h: 40px;
+        --radius: 10px;
+        --shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
       }
-      .md li:has(> input:checked), .md li:has(> input:checked) strong { color: inherit; }
 
-      /* Force every collapsible open on paper */
-      .acc { border: none; box-shadow: none; margin: 6px 0; }
-      .acc-body { display: block !important; padding: 0 0 6px; }
-      .acc-head { padding: 0; min-height: 0; cursor: default; }
-      .acc-city > .acc-head, .acc-city.open > .acc-head { background: none; border-bottom: none; }
-      .acc-chevron, .acc-controls, .acc-today { display: none !important; }
-      .acc-city { break-before: page; }
-      .md .acc-head h2 { font-size: 1.25rem; margin: 14px 0 6px; }
-      .md .acc-head h3 { font-size: 1.02rem; margin: 10px 0 4px; }
-
-      /* Swap card views back to compact real tables on paper */
-      .table-cards { display: none !important; }
-      .print-only { display: block; }
-      .md tr:hover td { background: none; }
-
-      .tcard-body { display: block !important; }
-      .tcard-chevron { display: none !important; }
-      .tcard { break-inside: avoid; box-shadow: none; }
-      .tcard-desc { white-space: normal; }
-
-      .md table { font-size: 8.5pt; box-shadow: none; }
-      .table-wrap { overflow: visible; }
-
-      /* Entire-guide mode: show only the assembled document */
-      body.print-all-mode #content { display: none !important; }
-      body.print-all-mode #print-all { display: block !important; }
-      .print-cover { text-align: center; padding-top: 34vh; break-after: page; }
-      .print-cover h1 { font-size: 2rem; color: var(--accent); }
-      .print-cover p { color: #555; margin-top: 8px; }
-      .print-doc { break-before: page; }
-      .print-doc:first-of-type { break-before: auto; }
-      .print-doc-head {
-        font-size: 1.35rem; font-weight: 800; color: var(--accent);
-        border-bottom: 2px solid #ddd; padding-bottom: 6px; margin: 0 0 14px;
+      html,
+      body {
+        min-height: 100%;
+        font-family:
+          -apple-system, BlinkMacSystemFont, 'Segoe UI',
+          Roboto, sans-serif;
+        background: var(--bg);
+        color: var(--text);
+        font-size: 15px;
+        line-height: 1.6;
       }
-    }
 
-    @media (max-width: 600px) {
-      .city-tab  { padding: 0 12px; font-size: .8rem; }
-      #content   { padding: 14px 10px 60px; }
-      .md h1 { font-size: 1.25rem; }
-      .md table { font-size: .75rem; }
-      .md th, .md td { padding: 6px 8px; }
-    }
-  </style>
-</head>
-<body>
+      /* ── City tab bar ── */
+      #city-tabs {
+        display: flex;
+        overflow-x: auto;
+        scrollbar-width: none;
+        background: #2c2c2c;
+        padding: 0 8px;
+        gap: 2px;
+        position: sticky;
+        top: 0;
+        z-index: 100;
+      }
+      #city-tabs::-webkit-scrollbar {
+        display: none;
+      }
+      #last-updated {
+        margin-left: auto;
+        flex-shrink: 0;
+        align-self: center;
+        padding: 0 8px;
+        font-size: 0.7rem;
+        color: rgba(255, 255, 255, 0.4);
+        white-space: nowrap;
+      }
+      .city-tab {
+        flex-shrink: 0;
+        padding: 0 16px;
+        height: var(--tab-h);
+        display: flex;
+        align-items: center;
+        cursor: pointer;
+        color: rgba(255, 255, 255, 0.65);
+        font-size: 0.85rem;
+        font-weight: 600;
+        border-bottom: 3px solid transparent;
+        white-space: nowrap;
+        transition:
+          color 0.15s,
+          border-color 0.15s;
+      }
+      .city-tab:hover {
+        color: #fff;
+      }
+      .city-tab.active {
+        color: #fff;
+        border-bottom-color: var(--accent2);
+      }
+      .city-tab .flag {
+        margin-right: 6px;
+        font-size: 1.1em;
+      }
 
-<!-- City tab bar -->
-<div id="city-tabs">
-  <div class="city-tab active" data-city="overview">
-    <span class="flag">📋</span>Overview
-  </div>
-  <div class="city-tab" data-city="porto">
-    <span class="flag">🇵🇹</span>Porto
-  </div>
-  <div class="city-tab" data-city="lisbon">
-    <span class="flag">🇵🇹</span>Lisbon
-  </div>
-  <div class="city-tab" data-city="barcelona">
-    <span class="flag">🇪🇸</span>Barcelona
-  </div>
-  <div class="city-tab" data-city="zaragoza">
-    <span class="flag">🇪🇸</span>Zaragoza
-  </div>
-  <div class="city-tab" data-city="madrid">
-    <span class="flag">🇪🇸</span>Madrid
-  </div>
-  <div class="city-tab" data-city="segovia">
-    <span class="flag">🇪🇸</span>Segovia
-  </div>
-  <span id="last-updated"></span>
-</div>
+      /* ── Sub-tab bar (Food / Sights / Overview) — sticky under city tabs ── */
+      #sub-tabs {
+        display: flex;
+        align-items: center;
+        background: var(--surface);
+        border-bottom: 1px solid var(--border);
+        padding: 0 12px;
+        gap: 4px;
+        position: sticky;
+        top: var(--tab-h);
+        z-index: 90;
+      }
+      #sub-tab-row {
+        display: flex;
+        flex: 1;
+        gap: 4px;
+        min-width: 0;
+        overflow-x: auto;
+        scrollbar-width: none;
+      }
+      #sub-tab-row::-webkit-scrollbar {
+        display: none;
+      }
+      .sub-tab {
+        padding: 0 14px;
+        height: var(--subt-h);
+        display: flex;
+        align-items: center;
+        cursor: pointer;
+        font-size: 0.82rem;
+        font-weight: 600;
+        color: var(--muted);
+        border-bottom: 2px solid transparent;
+        transition:
+          color 0.15s,
+          border-color 0.15s;
+      }
+      .sub-tab:hover {
+        color: var(--text);
+      }
+      .sub-tab.active {
+        color: var(--accent);
+        border-bottom-color: var(--accent);
+      }
 
-<!-- Sub-tab bar -->
-<div id="sub-tabs">
-  <div id="sub-tab-row"></div>
-  <button id="print-btn" title="Print" aria-label="Print">🖨️</button>
-</div>
+      /* ── Content area ── */
+      #content {
+        max-width: 900px;
+        margin: 0 auto;
+        padding: 20px 16px 60px;
+      }
 
-<!-- Print menu (positioned under the print button) -->
-<div id="print-menu">
-  <button data-print="tab">🖨️ Print this tab</button>
-  <button data-print="all">📖 Print entire guide</button>
-  <div class="print-hint">Tip: choose "Save as PDF" in the print dialog to keep an offline copy on your phone.</div>
-</div>
+      /* ── Loading / error states ── */
+      .loader {
+        text-align: center;
+        padding: 60px 20px;
+        color: var(--muted);
+      }
+      .loader .spinner {
+        width: 36px;
+        height: 36px;
+        border: 3px solid var(--border);
+        border-top-color: var(--accent);
+        border-radius: 50%;
+        animation: spin 0.7s linear infinite;
+        margin: 0 auto 16px;
+      }
+      @keyframes spin {
+        to {
+          transform: rotate(360deg);
+        }
+      }
 
-<!-- Main content -->
-<div id="content">
-  <div class="loader" id="loader">
-    <div class="spinner"></div>
-    Loading…
-  </div>
-</div>
+      .error-box {
+        background: #fff3cd;
+        border: 1px solid #ffc107;
+        border-radius: var(--radius);
+        padding: 16px 20px;
+        font-size: 0.88rem;
+        line-height: 1.5;
+      }
+      .error-box strong {
+        color: #856404;
+      }
 
-<!-- Scroll-to-top FAB -->
-<button id="to-top" aria-label="Scroll to top">↑</button>
+      /* ── Markdown rendered content ── */
+      .md h1 {
+        font-size: 1.5rem;
+        color: var(--accent);
+        margin: 0 0 6px;
+        border-bottom: 2px solid var(--border);
+        padding-bottom: 8px;
+      }
+      .md h2 {
+        font-size: 1.15rem;
+        color: #444;
+        margin: 28px 0 10px;
+        display: flex;
+        align-items: center;
+        gap: 8px;
+      }
+      .md h3 {
+        font-size: 1rem;
+        color: #555;
+        margin: 18px 0 6px;
+      }
+      .md p {
+        margin: 8px 0;
+      }
+      .md a {
+        color: var(--accent);
+      }
+      .md a:hover {
+        text-decoration: underline;
+      }
+      .md ul,
+      .md ol {
+        padding-left: 20px;
+        margin: 6px 0;
+      }
+      .md li {
+        margin: 3px 0;
+      }
+      .md strong {
+        color: #222;
+      }
 
-<script>
-// ─── City → file map ─────────────────────────────────────────────────────────
-const TABS = {
-  overview: {
-    label: "Overview",
-    subs: [
-      { key: "master",  label: "📋 Full Itinerary", file: "docs/instructions/euro_trip_2026.md" },
-      { key: "todo",    label: "✅ Todo", file: "docs/instructions/todo.md" },
-      { key: "tracker", label: "🎟️ Booking Tracker", file: "docs/instructions/booking.md" },
-      { key: "list",    label: "🎒 Packing List", file: "docs/instructions/packing.md" },
-      { key: "maps",    label: "🗺️ Maps", file: "docs/instructions/maps.md" },
-      { key: "family",  label: "👪 Family Copy", file: "docs/instructions/family_itinerary.md" }
-    ]
-  },
-  porto: {
-    label: "Porto",
-    subs: [
-      { key: "overview", label: "📋 Overview",       file: "docs/instructions/porto_overview.md" },
-      { key: "food",     label: "🍽️ Food & Drink",  file: "docs/instructions/porto_food_research.md" },
-      { key: "sights",   label: "🏛️ Sights",         file: "docs/instructions/porto_sights_research.md" }
-    ]
-  },
-  lisbon: {
-    label: "Lisbon",
-    subs: [
-      { key: "overview", label: "📋 Overview",       file: "docs/instructions/lisbon_overview.md" },
-      { key: "food",     label: "🍽️ Food & Drink",  file: "docs/instructions/lisbon_food_research.md" },
-      { key: "sights",   label: "🏛️ Sights",         file: "docs/instructions/lisbon_sights_research.md" }
-    ]
-  },
-  barcelona: {
-    label: "Barcelona",
-    subs: [
-      { key: "overview", label: "📋 Overview",       file: "docs/instructions/barcelona_overview.md" },
-      { key: "food",     label: "🍽️ Food & Drink",  file: "docs/instructions/barcelona_food_research.md" },
-      { key: "sights",   label: "🏛️ Sights",         file: "docs/instructions/barcelona_sights_research.md" }
-    ]
-  },
-  zaragoza: {
-    label: "Zaragoza",
-    subs: [
-      { key: "overview", label: "📋 Overview",       file: "docs/instructions/zaragoza_overview.md" },
-      { key: "food",     label: "🍽️ Food & Drink",  file: "docs/instructions/zaragoza_food_research.md" },
-      { key: "sights",   label: "🏛️ Sights",         file: "docs/instructions/zaragoza_sights_research.md" }
-    ]
-  },
-  madrid: {
-    label: "Madrid",
-    subs: [
-      { key: "overview", label: "📋 Overview",       file: "docs/instructions/madrid_overview.md" },
-      { key: "food",     label: "🍽️ Food & Drink",  file: "docs/instructions/madrid_food_research.md" },
-      { key: "sights",   label: "🏛️ Sights",         file: "docs/instructions/madrid_sights_research.md" }
-    ]
-  },
-  segovia: {
-    label: "Segovia",
-    subs: [
-      { key: "overview", label: "📋 Overview",       file: "docs/instructions/segovia_overview.md" },
-      { key: "food",     label: "🍽️ Food & Drink",  file: "docs/instructions/segovia_food_research.md" },
-      { key: "sights",   label: "🏛️ Sights",         file: "docs/instructions/segovia_sights_research.md" }
-    ]
-  }
-};
+      /* ── Checklists (task lists) ── */
+      .md li:has(> input[type='checkbox']) {
+        list-style: none;
+        margin-left: -20px;
+      }
+      .md input[type='checkbox'] {
+        width: 16px;
+        height: 16px;
+        margin-right: 9px;
+        vertical-align: -3px;
+        accent-color: var(--accent);
+        cursor: pointer;
+      }
+      .md li:has(> input:checked),
+      .md li:has(> input:checked) strong {
+        color: var(--muted);
+      }
 
-// ─── State ───────────────────────────────────────────────────────────────────
-let activeCity = "overview";
-let activeSub  = "master";
-const cache = {};       // file → rendered HTML
-let tocObserver = null; // IntersectionObserver for TOC highlight
+      .md em {
+        color: var(--muted);
+        font-style: normal;
+        font-size: 0.9em;
+      }
+      .md blockquote {
+        border-left: 3px solid var(--accent2);
+        margin: 12px 0;
+        padding: 8px 14px;
+        background: #fff8f0;
+        border-radius: 0 6px 6px 0;
+        color: #7a5c30;
+        font-size: 0.88rem;
+      }
+      .md hr {
+        border: none;
+        border-top: 1px solid var(--border);
+        margin: 20px 0;
+      }
 
-// ─── Elements ────────────────────────────────────────────────────────────────
-const contentEl  = document.getElementById("content");
-const loaderEl   = document.getElementById("loader");
-const subTabsEl  = document.getElementById("sub-tab-row");
-const cityTabsEl = document.getElementById("city-tabs");
+      /* ── Tables ── */
+      .md table {
+        width: 100%;
+        border-collapse: collapse;
+        font-size: 0.82rem;
+        margin: 12px 0 20px;
+        background: var(--surface);
+        border-radius: var(--radius);
+        overflow: hidden;
+        box-shadow: var(--shadow);
+      }
+      .md th {
+        background: #f0ebe3;
+        text-align: left;
+        padding: 8px 10px;
+        font-weight: 700;
+        font-size: 0.78rem;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+        color: #555;
+        border-bottom: 1px solid var(--border);
+      }
+      .md td {
+        padding: 8px 10px;
+        border-bottom: 1px solid #f0ebe3;
+        vertical-align: top;
+      }
+      .md tr:last-child td {
+        border-bottom: none;
+      }
+      .md tr:hover td {
+        background: #fdf9f5;
+      }
 
-// ─── Render sub-tabs ─────────────────────────────────────────────────────────
-function renderSubTabs(city) {
-  const subs = TABS[city].subs;
-  subTabsEl.innerHTML = subs.map(s =>
-    `<div class="sub-tab ${s.key === activeSub ? 'active' : ''}" data-sub="${s.key}">${s.label}</div>`
-  ).join("");
-  subTabsEl.querySelectorAll(".sub-tab").forEach(el => {
-    el.addEventListener("click", () => {
-      activeSub = el.dataset.sub;
-      subTabsEl.querySelectorAll(".sub-tab").forEach(t => t.classList.remove("active"));
-      el.classList.add("active");
-      loadContent(city, activeSub);
-    });
-  });
-}
+      /* Mobile: make tables scroll horizontally (kept for un-transformed tables) */
+      .table-wrap {
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        margin: 0 -4px;
+      }
 
-// ─── Fetch + render markdown ──────────────────────────────────────────────────
-async function loadContent(city, sub) {
-  const subCfg = TABS[city].subs.find(s => s.key === sub);
-  if (!subCfg) return;
+      /* ── Collapsible table cards ── */
+      .table-cards {
+        display: flex;
+        flex-direction: column;
+        gap: 6px;
+        margin: 10px 0 22px;
+      }
 
-  // Tear down any previous TOC observer and layout
-  if (tocObserver) { tocObserver.disconnect(); tocObserver = null; }
-  contentEl.classList.remove('overview-active');
+      .tcard {
+        background: var(--surface);
+        border: 1px solid var(--border);
+        border-radius: var(--radius);
+        overflow: hidden;
+        transition: box-shadow 0.15s;
+      }
+      .tcard:hover {
+        box-shadow: var(--shadow);
+      }
 
-  // Show loader
-  contentEl.innerHTML = `<div class="loader"><div class="spinner"></div>Loading ${subCfg.label}…</div>`;
+      /* Head row — always visible */
+      .tcard-head {
+        display: flex;
+        align-items: baseline;
+        gap: 10px;
+        padding: 11px 14px;
+        cursor: pointer;
+      }
+      .tcard-flat .tcard-head {
+        cursor: default;
+      }
 
-  const isOverview = (city === 'overview' && sub === 'master');
+      .tcard-name {
+        font-weight: 700;
+        font-size: 0.88rem;
+        color: var(--text);
+        flex-shrink: 0;
+        min-width: 90px;
+        max-width: 38%;
+      }
+      .tcard-name strong {
+        color: var(--accent);
+        font-weight: 700;
+      }
 
-  // Cache hit?
-  if (cache[subCfg.file]) {
-    contentEl.innerHTML = cache[subCfg.file];
-    externalLinksNewTab();
-    transformTables();
-    enableChecklist(subCfg.file);
-    if (isOverview) injectTOC();
-    return;
-  }
+      .tcard-desc {
+        flex: 1;
+        font-size: 0.82rem;
+        color: var(--muted);
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        min-width: 0;
+      }
+      /* Flat cards have no expandable body — wrap instead of truncating */
+      .tcard-flat .tcard-desc {
+        white-space: normal;
+      }
 
-  try {
-    const url = RAW_BASE + subCfg.file;
-    const res = await fetch(url);
-    if (!res.ok) throw new Error(`HTTP ${res.status} — file not found: ${subCfg.file}`);
-    const md = await res.text();
-    const html = `<div class="md">${marked.parse(md)}</div>`;
-    cache[subCfg.file] = html;
-    contentEl.innerHTML = html;
-    externalLinksNewTab();
-    transformTables();
-    enableChecklist(subCfg.file);
-    if (isOverview) injectTOC();
-  } catch (err) {
-    contentEl.innerHTML = `
+      .tcard-chevron {
+        flex-shrink: 0;
+        font-size: 0.7rem;
+        color: var(--muted);
+        transition: transform 0.2s ease;
+        margin-left: 4px;
+      }
+      .tcard.open .tcard-chevron {
+        transform: rotate(180deg);
+      }
+
+      /* Body — shown when open */
+      .tcard-body {
+        display: none;
+        padding: 2px 14px 12px;
+        border-top: 1px solid var(--border);
+        background: #fdfbf8;
+      }
+      .tcard.open .tcard-body {
+        display: block;
+      }
+
+      /* Each field row in the body */
+      .tcard-field {
+        display: flex;
+        gap: 10px;
+        padding: 7px 0;
+        border-bottom: 1px solid var(--border);
+        font-size: 0.84rem;
+        align-items: flex-start;
+      }
+      .tcard-field:last-child {
+        border-bottom: none;
+      }
+
+      .tcard-label {
+        flex-shrink: 0;
+        width: 100px;
+        font-size: 0.72rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.04em;
+        color: var(--muted);
+        padding-top: 2px;
+      }
+
+      .tcard-val {
+        flex: 1;
+        color: var(--text);
+        line-height: 1.5;
+      }
+      .tcard-val strong {
+        color: var(--accent);
+      }
+      .tcard-val a {
+        color: var(--accent);
+      }
+
+      @media (max-width: 600px) {
+        .tcard-name {
+          font-size: 0.83rem;
+          min-width: 70px;
+          max-width: 42%;
+        }
+        .tcard-desc {
+          font-size: 0.78rem;
+        }
+        .tcard-field {
+          flex-direction: column;
+          gap: 2px;
+        }
+        .tcard-label {
+          width: auto;
+        }
+      }
+
+      /* ── Overview two-column layout ── */
+      #content.overview-active {
+        max-width: 1180px;
+        padding: 0;
+      }
+      .overview-layout {
+        display: flex;
+        align-items: flex-start;
+        gap: 24px;
+        padding: 20px 16px 60px;
+      }
+      .overview-main {
+        flex: 1;
+        min-width: 0;
+      }
+
+      /* ── TOC sidebar ── */
+      .toc-sidebar {
+        width: 200px;
+        flex-shrink: 0;
+        position: sticky;
+        top: calc(var(--tab-h) + var(--subt-h) + 12px);
+        max-height: calc(
+          100vh - var(--tab-h) - var(--subt-h) - 32px
+        );
+        overflow-y: auto;
+        scrollbar-width: thin;
+        background: var(--surface);
+        border: 1px solid var(--border);
+        border-radius: var(--radius);
+        padding: 10px 0 12px;
+        box-shadow: var(--shadow);
+      }
+      .toc-sidebar::-webkit-scrollbar {
+        width: 4px;
+      }
+      .toc-sidebar::-webkit-scrollbar-thumb {
+        background: var(--border);
+        border-radius: 2px;
+      }
+      .toc-title {
+        font-size: 0.68rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.8px;
+        color: var(--muted);
+        padding: 0 14px 8px;
+        border-bottom: 1px solid var(--border);
+        margin-bottom: 6px;
+      }
+      .toc-group {
+        display: flex;
+        flex-direction: column;
+      }
+      .toc-city {
+        display: block;
+        padding: 5px 14px;
+        font-size: 0.78rem;
+        font-weight: 700;
+        color: var(--text);
+        text-decoration: none;
+        transition: color 0.12s;
+        margin-top: 4px;
+      }
+      .toc-city:hover {
+        color: var(--accent);
+      }
+      .toc-city.active {
+        color: var(--accent);
+      }
+      .toc-day {
+        display: block;
+        padding: 3px 14px 3px 26px;
+        font-size: 0.74rem;
+        color: var(--muted);
+        text-decoration: none;
+        transition: color 0.12s;
+      }
+      .toc-day:hover {
+        color: var(--text);
+      }
+      .toc-day.active {
+        color: var(--accent);
+        font-weight: 600;
+      }
+
+      /* ── Anchor offset under the two sticky bars ── */
+      .md h1,
+      .md h2,
+      .md h3 {
+        scroll-margin-top: calc(
+          var(--tab-h) + var(--subt-h) + 10px
+        );
+      }
+
+      /* ── Collapsible sections (Overview tab): level 1 = cities, level 2 = days ── */
+      .acc {
+        border: 1px solid var(--border);
+        border-radius: var(--radius);
+        background: var(--surface);
+        margin: 14px 0;
+        overflow: hidden;
+      }
+      .acc-head {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        padding: 12px 14px;
+        min-height: 48px;
+        cursor: pointer;
+        user-select: none;
+        -webkit-tap-highlight-color: transparent;
+      }
+      .acc-head:hover {
+        background: #fdf9f5;
+      }
+      .md .acc-head h2,
+      .md .acc-head h3 {
+        margin: 0;
+        flex: 1;
+        min-width: 0;
+      }
+      .md .acc-head h2 {
+        font-size: 1.08rem;
+      }
+      .md .acc-head h3 {
+        font-size: 0.95rem;
+      }
+      .acc-chevron {
+        flex-shrink: 0;
+        font-size: 0.75rem;
+        color: var(--muted);
+        transition: transform 0.2s ease;
+      }
+      .acc.open > .acc-head .acc-chevron {
+        transform: rotate(180deg);
+      }
+      .acc-body {
+        display: none;
+        padding: 2px 16px 16px;
+      }
+      .acc.open > .acc-body {
+        display: block;
+      }
+
+      .acc-city {
+        box-shadow: var(--shadow);
+      }
+      .acc-city > .acc-head {
+        background: #f6f1e8;
+      }
+      .acc-city > .acc-head:hover {
+        background: #f0e9dd;
+      }
+      .acc-city.open > .acc-head {
+        border-bottom: 1px solid var(--border);
+      }
+
+      .acc-sub {
+        margin: 10px 0;
+        box-shadow: none;
+      }
+      .acc-sub > .acc-head {
+        padding: 10px 12px;
+        min-height: 44px;
+      }
+      .acc-sub > .acc-body {
+        padding: 0 12px 12px;
+      }
+
+      .acc-today {
+        flex-shrink: 0;
+        font-size: 0.68rem;
+        font-weight: 700;
+        color: #fff;
+        background: var(--accent);
+        border-radius: 20px;
+        padding: 2px 9px;
+        white-space: nowrap;
+      }
+
+      .acc-controls {
+        display: flex;
+        gap: 8px;
+        align-items: center;
+        margin: 10px 0 4px;
+      }
+      .acc-controls button {
+        border: 1px solid var(--border);
+        background: var(--surface);
+        color: var(--muted);
+        font-size: 0.74rem;
+        font-weight: 600;
+        padding: 5px 12px;
+        border-radius: 20px;
+        cursor: pointer;
+      }
+      .acc-controls button:hover {
+        color: var(--accent);
+        border-color: var(--accent);
+      }
+
+      /* ── Print button + menu (in sub-tab bar) ── */
+      #print-btn {
+        flex-shrink: 0;
+        margin-left: auto;
+        border: none;
+        background: none;
+        font-size: 1.05rem;
+        padding: 6px 8px;
+        cursor: pointer;
+        color: var(--muted);
+        -webkit-tap-highlight-color: transparent;
+      }
+      #print-btn:hover {
+        color: var(--text);
+      }
+      #print-menu {
+        position: fixed;
+        display: none;
+        z-index: 300;
+        background: var(--surface);
+        border: 1px solid var(--border);
+        border-radius: var(--radius);
+        box-shadow: 0 6px 24px rgba(0, 0, 0, 0.16);
+        overflow: hidden;
+      }
+      #print-menu.show {
+        display: block;
+      }
+      #print-menu button {
+        display: block;
+        width: 100%;
+        text-align: left;
+        border: none;
+        background: none;
+        padding: 11px 16px;
+        font-size: 0.84rem;
+        font-weight: 600;
+        color: var(--text);
+        cursor: pointer;
+        white-space: nowrap;
+      }
+      #print-menu button:hover {
+        background: #fdf9f5;
+        color: var(--accent);
+      }
+      #print-menu button + button {
+        border-top: 1px solid var(--border);
+      }
+      #print-menu .print-hint {
+        padding: 6px 16px 9px;
+        font-size: 0.7rem;
+        color: var(--muted);
+        border-top: 1px solid var(--border);
+        max-width: 230px;
+        white-space: normal;
+      }
+
+      /* ── Scroll-to-top FAB ── */
+      #to-top {
+        position: fixed;
+        right: 16px;
+        bottom: calc(
+          18px + env(safe-area-inset-bottom, 0px)
+        );
+        width: 46px;
+        height: 46px;
+        border-radius: 50%;
+        border: none;
+        background: var(--accent);
+        color: #fff;
+        font-size: 1.15rem;
+        line-height: 1;
+        cursor: pointer;
+        box-shadow: 0 4px 14px rgba(0, 0, 0, 0.25);
+        z-index: 250;
+        opacity: 0;
+        transform: translateY(10px);
+        pointer-events: none;
+        transition:
+          opacity 0.2s,
+          transform 0.2s;
+        -webkit-tap-highlight-color: transparent;
+      }
+      #to-top.show {
+        opacity: 0.92;
+        transform: translateY(0);
+        pointer-events: auto;
+      }
+      #to-top:hover {
+        opacity: 1;
+      }
+
+      /* ── Print-entire-guide container (hidden on screen) ── */
+      #print-all {
+        display: none;
+      }
+
+      /* Original tables kept alongside their card views, shown only on paper */
+      .print-only {
+        display: none;
+      }
+
+      /* ── Responsive ── */
+      @media (max-width: 768px) {
+        .toc-sidebar {
+          display: none;
+        }
+        .overview-layout {
+          padding: 14px 10px 60px;
+        }
+      }
+      @media (max-width: 560px) {
+        #last-updated {
+          display: none;
+        }
+      }
+      /* ── Print (current tab or entire guide) ── */
+      @media print {
+        #city-tabs,
+        #sub-tabs,
+        .toc-sidebar,
+        #to-top,
+        #print-menu {
+          display: none !important;
+        }
+        #content,
+        #content.overview-active {
+          max-width: none;
+          padding: 0;
+        }
+        .overview-layout {
+          display: block;
+          padding: 0;
+        }
+        body {
+          font-size: 11pt;
+          background: #fff;
+        }
+        .md a {
+          color: inherit;
+          text-decoration: none;
+        }
+        .md h1,
+        .md h2,
+        .md h3 {
+          break-after: avoid;
+        }
+        .md li,
+        .md blockquote {
+          break-inside: avoid;
+        }
+        .md input[type='checkbox'] {
+          -webkit-appearance: none;
+          appearance: none;
+          width: 12px;
+          height: 12px;
+          border: 1px solid #444;
+          border-radius: 2px;
+          background: #fff;
+        }
+        .md li:has(> input:checked),
+        .md li:has(> input:checked) strong {
+          color: inherit;
+        }
+
+        /* Force every collapsible open on paper */
+        .acc {
+          border: none;
+          box-shadow: none;
+          margin: 6px 0;
+        }
+        .acc-body {
+          display: block !important;
+          padding: 0 0 6px;
+        }
+        .acc-head {
+          padding: 0;
+          min-height: 0;
+          cursor: default;
+        }
+        .acc-city > .acc-head,
+        .acc-city.open > .acc-head {
+          background: none;
+          border-bottom: none;
+        }
+        .acc-chevron,
+        .acc-controls,
+        .acc-today {
+          display: none !important;
+        }
+        .acc-city {
+          break-before: page;
+        }
+        .md .acc-head h2 {
+          font-size: 1.25rem;
+          margin: 14px 0 6px;
+        }
+        .md .acc-head h3 {
+          font-size: 1.02rem;
+          margin: 10px 0 4px;
+        }
+
+        /* Swap card views back to compact real tables on paper */
+        .table-cards {
+          display: none !important;
+        }
+        .print-only {
+          display: block;
+        }
+        .md tr:hover td {
+          background: none;
+        }
+
+        .tcard-body {
+          display: block !important;
+        }
+        .tcard-chevron {
+          display: none !important;
+        }
+        .tcard {
+          break-inside: avoid;
+          box-shadow: none;
+        }
+        .tcard-desc {
+          white-space: normal;
+        }
+
+        .md table {
+          font-size: 8.5pt;
+          box-shadow: none;
+        }
+        .table-wrap {
+          overflow: visible;
+        }
+
+        /* Entire-guide mode: show only the assembled document */
+        body.print-all-mode #content {
+          display: none !important;
+        }
+        body.print-all-mode #print-all {
+          display: block !important;
+        }
+        .print-cover {
+          text-align: center;
+          padding-top: 34vh;
+          break-after: page;
+        }
+        .print-cover h1 {
+          font-size: 2rem;
+          color: var(--accent);
+        }
+        .print-cover p {
+          color: #555;
+          margin-top: 8px;
+        }
+        .print-doc {
+          break-before: page;
+        }
+        .print-doc:first-of-type {
+          break-before: auto;
+        }
+        .print-doc-head {
+          font-size: 1.35rem;
+          font-weight: 800;
+          color: var(--accent);
+          border-bottom: 2px solid #ddd;
+          padding-bottom: 6px;
+          margin: 0 0 14px;
+        }
+      }
+
+      @media (max-width: 600px) {
+        .city-tab {
+          padding: 0 12px;
+          font-size: 0.8rem;
+        }
+        #content {
+          padding: 14px 10px 60px;
+        }
+        .md h1 {
+          font-size: 1.25rem;
+        }
+        .md table {
+          font-size: 0.75rem;
+        }
+        .md th,
+        .md td {
+          padding: 6px 8px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <!-- City tab bar -->
+    <div id="city-tabs">
+      <div
+        class="city-tab active"
+        data-city="overview">
+        <span class="flag">📋</span>Overview
+      </div>
+      <div
+        class="city-tab"
+        data-city="porto">
+        <span class="flag">🇵🇹</span>Porto
+      </div>
+      <div
+        class="city-tab"
+        data-city="lisbon">
+        <span class="flag">🇵🇹</span>Lisbon
+      </div>
+      <div
+        class="city-tab"
+        data-city="barcelona">
+        <span class="flag">🇪🇸</span>Barcelona
+      </div>
+      <div
+        class="city-tab"
+        data-city="zaragoza">
+        <span class="flag">🇪🇸</span>Zaragoza
+      </div>
+      <div
+        class="city-tab"
+        data-city="madrid">
+        <span class="flag">🇪🇸</span>Madrid
+      </div>
+      <div
+        class="city-tab"
+        data-city="segovia">
+        <span class="flag">🇪🇸</span>Segovia
+      </div>
+      <span id="last-updated"></span>
+    </div>
+
+    <!-- Sub-tab bar -->
+    <div id="sub-tabs">
+      <div id="sub-tab-row"></div>
+      <button
+        id="print-btn"
+        title="Print"
+        aria-label="Print">
+        🖨️
+      </button>
+    </div>
+
+    <!-- Print menu (positioned under the print button) -->
+    <div id="print-menu">
+      <button data-print="tab">🖨️ Print this tab</button>
+      <button data-print="all">
+        📖 Print entire guide
+      </button>
+      <div class="print-hint">
+        Tip: choose "Save as PDF" in the print dialog to
+        keep an offline copy on your phone.
+      </div>
+    </div>
+
+    <!-- Main content -->
+    <div id="content">
+      <div
+        class="loader"
+        id="loader">
+        <div class="spinner"></div>
+        Loading…
+      </div>
+    </div>
+
+    <!-- Scroll-to-top FAB -->
+    <button
+      id="to-top"
+      aria-label="Scroll to top">
+      ↑
+    </button>
+
+    <script>
+      // ─── City → file map ─────────────────────────────────────────────────────────
+      const TABS = {
+        overview: {
+          label: 'Overview',
+          subs: [
+            {
+              key: 'master',
+              label: '📋 Full Itinerary',
+              file: 'docs/instructions/euro_trip_2026.md',
+            },
+            {
+              key: 'todo',
+              label: '✅ Todo',
+              file: 'docs/instructions/todo.md',
+            },
+            {
+              key: 'notes',
+              label: '📒 Notes',
+              file: 'docs/instructions/notes.md',
+            },
+            {
+              key: 'tracker',
+              label: '🎟️ Booking Tracker',
+              file: 'docs/instructions/booking.md',
+            },
+            {
+              key: 'list',
+              label: '🎒 Packing List',
+              file: 'docs/instructions/packing.md',
+            },
+            {
+              key: 'maps',
+              label: '🗺️ Maps',
+              file: 'docs/instructions/maps.md',
+            },
+            {
+              key: 'family',
+              label: '👪 Family Copy',
+              file: 'docs/instructions/family_itinerary.md',
+            },
+          ],
+        },
+        porto: {
+          label: 'Porto',
+          subs: [
+            {
+              key: 'overview',
+              label: '📋 Overview',
+              file: 'docs/instructions/porto_overview.md',
+            },
+            {
+              key: 'food',
+              label: '🍽️ Food & Drink',
+              file: 'docs/instructions/porto_food_research.md',
+            },
+            {
+              key: 'sights',
+              label: '🏛️ Sights',
+              file: 'docs/instructions/porto_sights_research.md',
+            },
+          ],
+        },
+        lisbon: {
+          label: 'Lisbon',
+          subs: [
+            {
+              key: 'overview',
+              label: '📋 Overview',
+              file: 'docs/instructions/lisbon_overview.md',
+            },
+            {
+              key: 'food',
+              label: '🍽️ Food & Drink',
+              file: 'docs/instructions/lisbon_food_research.md',
+            },
+            {
+              key: 'sights',
+              label: '🏛️ Sights',
+              file: 'docs/instructions/lisbon_sights_research.md',
+            },
+          ],
+        },
+        barcelona: {
+          label: 'Barcelona',
+          subs: [
+            {
+              key: 'overview',
+              label: '📋 Overview',
+              file: 'docs/instructions/barcelona_overview.md',
+            },
+            {
+              key: 'food',
+              label: '🍽️ Food & Drink',
+              file: 'docs/instructions/barcelona_food_research.md',
+            },
+            {
+              key: 'sights',
+              label: '🏛️ Sights',
+              file: 'docs/instructions/barcelona_sights_research.md',
+            },
+          ],
+        },
+        zaragoza: {
+          label: 'Zaragoza',
+          subs: [
+            {
+              key: 'overview',
+              label: '📋 Overview',
+              file: 'docs/instructions/zaragoza_overview.md',
+            },
+            {
+              key: 'food',
+              label: '🍽️ Food & Drink',
+              file: 'docs/instructions/zaragoza_food_research.md',
+            },
+            {
+              key: 'sights',
+              label: '🏛️ Sights',
+              file: 'docs/instructions/zaragoza_sights_research.md',
+            },
+          ],
+        },
+        madrid: {
+          label: 'Madrid',
+          subs: [
+            {
+              key: 'overview',
+              label: '📋 Overview',
+              file: 'docs/instructions/madrid_overview.md',
+            },
+            {
+              key: 'food',
+              label: '🍽️ Food & Drink',
+              file: 'docs/instructions/madrid_food_research.md',
+            },
+            {
+              key: 'sights',
+              label: '🏛️ Sights',
+              file: 'docs/instructions/madrid_sights_research.md',
+            },
+          ],
+        },
+        segovia: {
+          label: 'Segovia',
+          subs: [
+            {
+              key: 'overview',
+              label: '📋 Overview',
+              file: 'docs/instructions/segovia_overview.md',
+            },
+            {
+              key: 'food',
+              label: '🍽️ Food & Drink',
+              file: 'docs/instructions/segovia_food_research.md',
+            },
+            {
+              key: 'sights',
+              label: '🏛️ Sights',
+              file: 'docs/instructions/segovia_sights_research.md',
+            },
+          ],
+        },
+      };
+
+      // ─── State ───────────────────────────────────────────────────────────────────
+      let activeCity = 'overview';
+      let activeSub = 'master';
+      const cache = {}; // file → rendered HTML
+      let tocObserver = null; // IntersectionObserver for TOC highlight
+
+      // ─── Elements ────────────────────────────────────────────────────────────────
+      const contentEl = document.getElementById('content');
+      const loaderEl = document.getElementById('loader');
+      const subTabsEl =
+        document.getElementById('sub-tab-row');
+      const cityTabsEl =
+        document.getElementById('city-tabs');
+
+      // ─── Render sub-tabs ─────────────────────────────────────────────────────────
+      function renderSubTabs(city) {
+        const subs = TABS[city].subs;
+        subTabsEl.innerHTML = subs
+          .map(
+            s =>
+              `<div class="sub-tab ${s.key === activeSub ? 'active' : ''}" data-sub="${s.key}">${s.label}</div>`,
+          )
+          .join('');
+        subTabsEl
+          .querySelectorAll('.sub-tab')
+          .forEach(el => {
+            el.addEventListener('click', () => {
+              activeSub = el.dataset.sub;
+              subTabsEl
+                .querySelectorAll('.sub-tab')
+                .forEach(t => t.classList.remove('active'));
+              el.classList.add('active');
+              loadContent(city, activeSub);
+            });
+          });
+      }
+
+      // ─── Fetch + render markdown ──────────────────────────────────────────────────
+      async function loadContent(city, sub) {
+        const subCfg = TABS[city].subs.find(
+          s => s.key === sub,
+        );
+        if (!subCfg) return;
+
+        // Tear down any previous TOC observer and layout
+        if (tocObserver) {
+          tocObserver.disconnect();
+          tocObserver = null;
+        }
+        contentEl.classList.remove('overview-active');
+
+        // Show loader
+        contentEl.innerHTML = `<div class="loader"><div class="spinner"></div>Loading ${subCfg.label}…</div>`;
+
+        const isOverview =
+          city === 'overview' && sub === 'master';
+
+        // Cache hit?
+        if (cache[subCfg.file]) {
+          contentEl.innerHTML = cache[subCfg.file];
+          externalLinksNewTab();
+          transformTables();
+          enableChecklist(subCfg.file);
+          if (isOverview) injectTOC();
+          return;
+        }
+
+        try {
+          const url = RAW_BASE + subCfg.file;
+          const res = await fetch(url);
+          if (!res.ok)
+            throw new Error(
+              `HTTP ${res.status} — file not found: ${subCfg.file}`,
+            );
+          const md = await res.text();
+          const html = `<div class="md">${marked.parse(md)}</div>`;
+          cache[subCfg.file] = html;
+          contentEl.innerHTML = html;
+          externalLinksNewTab();
+          transformTables();
+          enableChecklist(subCfg.file);
+          if (isOverview) injectTOC();
+        } catch (err) {
+          contentEl.innerHTML = `
       <div class="error-box">
         <strong>⚠️ Could not load file</strong><br><br>
         ${err.message}<br><br>
         Make sure the file is committed to your GitHub repo and the <code>RAW_BASE</code>
         URL is configured correctly at the top of this file.
       </div>`;
-  }
-}
-
-// ─── External links open in a new tab ────────────────────────────────────────
-function externalLinksNewTab() {
-  contentEl.querySelectorAll('.md a[href^="http"]').forEach(a => {
-    a.target = "_blank";
-    a.rel = "noopener noreferrer";
-  });
-}
-
-// ─── Make markdown task lists tickable + persist ticks ───────────────────────
-// State is keyed by checkbox index, so reordering the .md resets the ticks.
-function enableChecklist(file) {
-  const boxes = contentEl.querySelectorAll('.md input[type="checkbox"]');
-  if (!boxes.length) return;
-
-  const key   = `checks:${file}`;
-  const saved = JSON.parse(localStorage.getItem(key) || "[]");
-
-  boxes.forEach((box, i) => {
-    box.disabled = false;
-    box.checked  = saved.includes(i);
-    box.addEventListener("change", () => {
-      const on = [];
-      boxes.forEach((b, j) => { if (b.checked) on.push(j); });
-      localStorage.setItem(key, JSON.stringify(on));
-    });
-  });
-}
-
-// ─── Assign slug IDs to headings ──────────────────────────────────────────────
-function assignHeadingIds(container) {
-  const seen = {};
-  container.querySelectorAll('h1,h2,h3').forEach(h => {
-    let base = h.textContent.trim()
-      .toLowerCase()
-      .replace(/[\p{Emoji_Presentation}\p{Extended_Pictographic}]/gu, '')
-      .replace(/[^a-z0-9\s]/g, '')
-      .trim()
-      .replace(/\s+/g, '-');
-    let id = base;
-    let n = 2;
-    while (seen[id]) { id = `${base}-${n++}`; }
-    seen[id] = true;
-    h.id = id;
-  });
-}
-
-// ─── Collapsible sections (Overview): level 1 = cities, level 2 = days ───────
-const ACC_KEY = 'accOpen:v1';
-const TRIP_YEAR = 2026;
-let accState = {};
-try { accState = JSON.parse(localStorage.getItem(ACC_KEY) || '{}'); } catch (e) { accState = {}; }
-
-function saveAccState() {
-  try { localStorage.setItem(ACC_KEY, JSON.stringify(accState)); } catch (e) {}
-}
-
-// Pull "Aug 20–23", "Aug 31 – Sep 1", "Day 1 — Thursday Aug 20" out of headings
-function parseDateRange(text) {
-  const MONTHS = { jan:0, feb:1, mar:2, apr:3, may:4, jun:5, jul:6, aug:7, sep:8, oct:9, nov:10, dec:11 };
-  const re = /(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\.?\s+(\d{1,2})(?:\s*[–—-]\s*(\d{1,2}))?/gi;
-  const dates = [];
-  let m;
-  while ((m = re.exec(text)) !== null) {
-    const mo = MONTHS[m[1].slice(0, 3).toLowerCase()];
-    dates.push(new Date(TRIP_YEAR, mo, parseInt(m[2], 10)));
-    if (m[3]) dates.push(new Date(TRIP_YEAR, mo, parseInt(m[3], 10)));
-  }
-  if (!dates.length) return null;
-  dates.sort((a, b) => a - b);
-  return { start: dates[0], end: dates[dates.length - 1] };
-}
-
-function rangeIncludesToday(range) {
-  if (!range) return false;
-  const now = Date.now();
-  return now >= range.start.getTime() && now <= range.end.getTime() + 86399999;
-}
-
-function setAccOpen(acc, open, persist = true) {
-  acc.classList.toggle('open', open);
-  if (persist && acc.dataset.accId) {
-    accState[acc.dataset.accId] = open ? 1 : 0;
-    saveAccState();
-  }
-}
-
-function makeAcc(heading, bodyNodes, cls) {
-  const acc = document.createElement('section');
-  acc.className = 'acc ' + cls;
-  acc.dataset.accId = heading.id || '';
-
-  const head = document.createElement('div');
-  head.className = 'acc-head';
-  head.appendChild(heading);
-
-  const isNow = rangeIncludesToday(parseDateRange(heading.textContent));
-  if (isNow) {
-    const badge = document.createElement('span');
-    badge.className = 'acc-today';
-    badge.textContent = '📍 Today';
-    head.appendChild(badge);
-  }
-
-  const chev = document.createElement('span');
-  chev.className = 'acc-chevron';
-  chev.textContent = '▾';
-  head.appendChild(chev);
-
-  const body = document.createElement('div');
-  body.className = 'acc-body';
-  bodyNodes.forEach(n => body.appendChild(n));
-
-  acc.appendChild(head);
-  acc.appendChild(body);
-
-  head.addEventListener('click', e => {
-    if (e.target.closest('a')) return; // links inside headings still work
-    setAccOpen(acc, !acc.classList.contains('open'));
-  });
-
-  // Restore saved state; default: open only if it's happening today
-  const saved = accState[acc.dataset.accId];
-  setAccOpen(acc, saved !== undefined ? !!saved : isNow, false);
-  return acc;
-}
-
-function buildSubAccordions(nodes) {
-  const out = [];
-  let i = 0;
-  while (i < nodes.length && nodes[i].tagName !== 'H3') { out.push(nodes[i]); i++; }
-  while (i < nodes.length) {
-    const h3 = nodes[i++];
-    const body = [];
-    while (i < nodes.length && nodes[i].tagName !== 'H3') { body.push(nodes[i]); i++; }
-    if (!body.some(n => n.tagName !== 'HR')) { out.push(h3, ...body); continue; }
-    out.push(makeAcc(h3, body, 'acc-sub'));
-  }
-  return out;
-}
-
-function buildAccordions(mdEl) {
-  const nodes = Array.from(mdEl.children);
-  const frag = document.createDocumentFragment();
-  let i = 0;
-
-  // Keep the H1 + intro above the fold, un-collapsed
-  while (i < nodes.length && nodes[i].tagName !== 'H2') { frag.appendChild(nodes[i]); i++; }
-
-  const controls = document.createElement('div');
-  controls.className = 'acc-controls';
-  controls.innerHTML = '<button data-acc-all="1">▾ Expand all</button><button data-acc-all="0">▴ Collapse all</button>';
-  controls.addEventListener('click', e => {
-    const btn = e.target.closest('button[data-acc-all]');
-    if (!btn) return;
-    const open = btn.dataset.accAll === '1';
-    mdEl.querySelectorAll('.acc').forEach(a => setAccOpen(a, open));
-  });
-  frag.appendChild(controls);
-
-  while (i < nodes.length) {
-    const h2 = nodes[i++];
-    const body = [];
-    while (i < nodes.length && nodes[i].tagName !== 'H2') { body.push(nodes[i]); i++; }
-    if (!body.some(n => n.tagName !== 'HR')) continue; // skip empty marker headings
-    frag.appendChild(makeAcc(h2, buildSubAccordions(body), 'acc-city'));
-  }
-
-  mdEl.innerHTML = '';
-  mdEl.appendChild(frag);
-}
-
-// Open every collapsed ancestor of a section, then scroll to it
-function revealSection(id) {
-  const h = document.getElementById(id);
-  if (!h) return;
-  let acc = h.closest('.acc');
-  while (acc) {
-    setAccOpen(acc, true);
-    acc = acc.parentElement ? acc.parentElement.closest('.acc') : null;
-  }
-  requestAnimationFrame(() => h.scrollIntoView({ behavior: 'smooth', block: 'start' }));
-}
-
-// ─── Build TOC nav element ────────────────────────────────────────────────────
-function buildTOC(container) {
-  const nav = document.createElement('nav');
-  nav.className = 'toc-sidebar';
-  nav.innerHTML = '<div class="toc-title">Contents</div>';
-
-  let currentGroup = null;
-
-  container.querySelectorAll('h2,h3').forEach(h => {
-    if (h.tagName === 'H2') {
-      // Strip leading emoji and trailing date suffix for a short label
-      const label = h.textContent.trim()
-        .replace(/^[\p{Emoji_Presentation}\p{Extended_Pictographic}\s]+/gu, '')
-        .replace(/\s*[—\-].*$/, '')
-        .trim();
-
-      currentGroup = document.createElement('div');
-      currentGroup.className = 'toc-group';
-
-      const a = document.createElement('a');
-      a.href = `#${h.id}`;
-      a.className = 'toc-city';
-      a.dataset.id = h.id;
-      a.textContent = label;
-      a.addEventListener('click', e => {
-        e.preventDefault();
-        revealSection(h.id);
-      });
-
-      currentGroup.appendChild(a);
-      nav.appendChild(currentGroup);
-    } else if (h.tagName === 'H3' && currentGroup) {
-      const text = h.textContent.trim();
-      if (!text.startsWith('Day ')) return;
-
-      const label = text.match(/^Day \d+ \(Option [A-Z]\)|^Day \d+|^Day Trip/)?.[0] || text;
-
-      const a = document.createElement('a');
-      a.href = `#${h.id}`;
-      a.className = 'toc-day';
-      a.dataset.id = h.id;
-      a.textContent = label;
-      a.addEventListener('click', e => {
-        e.preventDefault();
-        revealSection(h.id);
-      });
-
-      currentGroup.appendChild(a);
-    }
-  });
-
-  return nav;
-}
-
-// ─── Inject TOC into overview layout ─────────────────────────────────────────
-function injectTOC() {
-  const mdEl = contentEl.querySelector('.md');
-  if (!mdEl) return;
-
-  assignHeadingIds(mdEl);
-  buildAccordions(mdEl);
-  const toc = buildTOC(mdEl);
-
-  contentEl.classList.add('overview-active');
-
-  const layout = document.createElement('div');
-  layout.className = 'overview-layout';
-
-  const main = document.createElement('div');
-  main.className = 'overview-main';
-  main.appendChild(mdEl);
-
-  layout.appendChild(main);
-  layout.appendChild(toc);
-  contentEl.appendChild(layout);
-
-  // Highlight active TOC link on scroll
-  const allLinks = toc.querySelectorAll('[data-id]');
-  const idToLink = {};
-  allLinks.forEach(a => { idToLink[a.dataset.id] = a; });
-
-  tocObserver = new IntersectionObserver(entries => {
-    entries.forEach(entry => {
-      if (entry.isIntersecting) {
-        allLinks.forEach(a => a.classList.remove('active'));
-        const link = idToLink[entry.target.id];
-        if (link) link.classList.add('active');
-      }
-    });
-  }, { rootMargin: '-8% 0px -82% 0px', threshold: 0 });
-
-  Object.keys(idToLink).forEach(id => {
-    const el = document.getElementById(id);
-    if (el) tocObserver.observe(el);
-  });
-
-  // Deep links: #section-id expands its collapsed ancestors
-  if (location.hash) {
-    const id = decodeURIComponent(location.hash.slice(1));
-    if (document.getElementById(id)) setTimeout(() => revealSection(id), 80);
-  }
-}
-
-// ─── Transform tables into collapsible cards ─────────────────────────────────
-function transformTables() {
-  contentEl.querySelectorAll("table").forEach(table => {
-
-    // Collect header labels
-    const headerCells = Array.from(table.querySelectorAll("thead th, thead td"));
-    const headers     = headerCells.map(th => th.textContent.trim());
-    const hasHeaders  = headers.length > 0 && headers.some(h => h !== '');
-
-    // No real headers → keep as a horizontally-scrollable plain table
-    if (!hasHeaders) {
-      if (!table.parentElement.classList.contains("table-wrap")) {
-        const wrap = document.createElement("div");
-        wrap.className = "table-wrap";
-        table.parentNode.insertBefore(wrap, table);
-        wrap.appendChild(table);
-      }
-      return;
-    }
-
-    const rows      = Array.from(table.querySelectorAll("tbody tr"));
-    const ncols     = headers.length;
-    const collapsible = ncols >= 3;   // 1-2 col tables: flat card; 3+ col: expandable
-
-    const container = document.createElement("div");
-    container.className = "table-cards";
-
-    rows.forEach(row => {
-      const cells = Array.from(row.querySelectorAll("td"));
-      if (cells.length === 0) return;
-
-      const card = document.createElement("div");
-      card.className = "tcard" + (collapsible ? "" : " tcard-flat");
-
-      // ── Head (always visible) ──────────────────────────────────────────────
-      const head = document.createElement("div");
-      head.className = "tcard-head";
-
-      const nameEl = document.createElement("span");
-      nameEl.className = "tcard-name";
-      nameEl.innerHTML = cells[0] ? cells[0].innerHTML : "—";
-      head.appendChild(nameEl);
-
-      if (ncols >= 2 && cells[1]) {
-        const descEl = document.createElement("span");
-        descEl.className = "tcard-desc";
-        // strip tags for the truncated summary line so it reads cleanly;
-        // flat cards have no body, so keep markup (links) there
-        if (collapsible) descEl.textContent = cells[1].textContent.trim();
-        else             descEl.innerHTML   = cells[1].innerHTML;
-        head.appendChild(descEl);
+        }
       }
 
-      if (collapsible) {
-        const chev = document.createElement("span");
-        chev.className = "tcard-chevron";
-        chev.textContent = "▾";
+      // ─── External links open in a new tab ────────────────────────────────────────
+      function externalLinksNewTab() {
+        contentEl
+          .querySelectorAll('.md a[href^="http"]')
+          .forEach(a => {
+            a.target = '_blank';
+            a.rel = 'noopener noreferrer';
+          });
+      }
+
+      // ─── Make markdown task lists tickable + persist ticks ───────────────────────
+      // State is keyed by checkbox index, so reordering the .md resets the ticks.
+      function enableChecklist(file) {
+        const boxes = contentEl.querySelectorAll(
+          '.md input[type="checkbox"]',
+        );
+        if (!boxes.length) return;
+
+        const key = `checks:${file}`;
+        const saved = JSON.parse(
+          localStorage.getItem(key) || '[]',
+        );
+
+        boxes.forEach((box, i) => {
+          box.disabled = false;
+          box.checked = saved.includes(i);
+          box.addEventListener('change', () => {
+            const on = [];
+            boxes.forEach((b, j) => {
+              if (b.checked) on.push(j);
+            });
+            localStorage.setItem(key, JSON.stringify(on));
+          });
+        });
+      }
+
+      // ─── Assign slug IDs to headings ──────────────────────────────────────────────
+      function assignHeadingIds(container) {
+        const seen = {};
+        container
+          .querySelectorAll('h1,h2,h3')
+          .forEach(h => {
+            let base = h.textContent
+              .trim()
+              .toLowerCase()
+              .replace(
+                /[\p{Emoji_Presentation}\p{Extended_Pictographic}]/gu,
+                '',
+              )
+              .replace(/[^a-z0-9\s]/g, '')
+              .trim()
+              .replace(/\s+/g, '-');
+            let id = base;
+            let n = 2;
+            while (seen[id]) {
+              id = `${base}-${n++}`;
+            }
+            seen[id] = true;
+            h.id = id;
+          });
+      }
+
+      // ─── Collapsible sections (Overview): level 1 = cities, level 2 = days ───────
+      const ACC_KEY = 'accOpen:v1';
+      const TRIP_YEAR = 2026;
+      let accState = {};
+      try {
+        accState = JSON.parse(
+          localStorage.getItem(ACC_KEY) || '{}',
+        );
+      } catch (e) {
+        accState = {};
+      }
+
+      function saveAccState() {
+        try {
+          localStorage.setItem(
+            ACC_KEY,
+            JSON.stringify(accState),
+          );
+        } catch (e) {}
+      }
+
+      // Pull "Aug 20–23", "Aug 31 – Sep 1", "Day 1 — Thursday Aug 20" out of headings
+      function parseDateRange(text) {
+        const MONTHS = {
+          jan: 0,
+          feb: 1,
+          mar: 2,
+          apr: 3,
+          may: 4,
+          jun: 5,
+          jul: 6,
+          aug: 7,
+          sep: 8,
+          oct: 9,
+          nov: 10,
+          dec: 11,
+        };
+        const re =
+          /(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\.?\s+(\d{1,2})(?:\s*[–—-]\s*(\d{1,2}))?/gi;
+        const dates = [];
+        let m;
+        while ((m = re.exec(text)) !== null) {
+          const mo = MONTHS[m[1].slice(0, 3).toLowerCase()];
+          dates.push(
+            new Date(TRIP_YEAR, mo, parseInt(m[2], 10)),
+          );
+          if (m[3])
+            dates.push(
+              new Date(TRIP_YEAR, mo, parseInt(m[3], 10)),
+            );
+        }
+        if (!dates.length) return null;
+        dates.sort((a, b) => a - b);
+        return {
+          start: dates[0],
+          end: dates[dates.length - 1],
+        };
+      }
+
+      function rangeIncludesToday(range) {
+        if (!range) return false;
+        const now = Date.now();
+        return (
+          now >= range.start.getTime() &&
+          now <= range.end.getTime() + 86399999
+        );
+      }
+
+      function setAccOpen(acc, open, persist = true) {
+        acc.classList.toggle('open', open);
+        if (persist && acc.dataset.accId) {
+          accState[acc.dataset.accId] = open ? 1 : 0;
+          saveAccState();
+        }
+      }
+
+      function makeAcc(heading, bodyNodes, cls) {
+        const acc = document.createElement('section');
+        acc.className = 'acc ' + cls;
+        acc.dataset.accId = heading.id || '';
+
+        const head = document.createElement('div');
+        head.className = 'acc-head';
+        head.appendChild(heading);
+
+        const isNow = rangeIncludesToday(
+          parseDateRange(heading.textContent),
+        );
+        if (isNow) {
+          const badge = document.createElement('span');
+          badge.className = 'acc-today';
+          badge.textContent = '📍 Today';
+          head.appendChild(badge);
+        }
+
+        const chev = document.createElement('span');
+        chev.className = 'acc-chevron';
+        chev.textContent = '▾';
         head.appendChild(chev);
-      }
 
-      card.appendChild(head);
+        const body = document.createElement('div');
+        body.className = 'acc-body';
+        bodyNodes.forEach(n => body.appendChild(n));
 
-      // ── Body (expanded, shows every column as label → value) ──────────────
-      if (collapsible) {
-        const body = document.createElement("div");
-        body.className = "tcard-body";
+        acc.appendChild(head);
+        acc.appendChild(body);
 
-        cells.forEach((cell, i) => {
-          const raw = cell.textContent.trim();
-          if (!raw || raw === "—" || raw === "N/A") return;
-
-          const field = document.createElement("div");
-          field.className = "tcard-field";
-
-          const labelEl = document.createElement("span");
-          labelEl.className = "tcard-label";
-          labelEl.textContent = headers[i] || "";
-
-          const valEl = document.createElement("span");
-          valEl.className = "tcard-val";
-          valEl.innerHTML = cell.innerHTML;   // keep bold/links/emoji
-
-          field.appendChild(labelEl);
-          field.appendChild(valEl);
-          body.appendChild(field);
+        head.addEventListener('click', e => {
+          if (e.target.closest('a')) return; // links inside headings still work
+          setAccOpen(acc, !acc.classList.contains('open'));
         });
 
-        card.appendChild(body);
-
-        // Toggle on head click
-        head.addEventListener("click", () => {
-          if (!window.getSelection().isCollapsed) return;  // don't toggle when finishing a text selection
-          card.classList.toggle("open");
-        });
+        // Restore saved state; default: open only if it's happening today
+        const saved = accState[acc.dataset.accId];
+        setAccOpen(
+          acc,
+          saved !== undefined ? !!saved : isNow,
+          false,
+        );
+        return acc;
       }
 
-      container.appendChild(card);
-    });
+      function buildSubAccordions(nodes) {
+        const out = [];
+        let i = 0;
+        while (
+          i < nodes.length &&
+          nodes[i].tagName !== 'H3'
+        ) {
+          out.push(nodes[i]);
+          i++;
+        }
+        while (i < nodes.length) {
+          const h3 = nodes[i++];
+          const body = [];
+          while (
+            i < nodes.length &&
+            nodes[i].tagName !== 'H3'
+          ) {
+            body.push(nodes[i]);
+            i++;
+          }
+          if (!body.some(n => n.tagName !== 'HR')) {
+            out.push(h3, ...body);
+            continue;
+          }
+          out.push(makeAcc(h3, body, 'acc-sub'));
+        }
+        return out;
+      }
 
-    // Cards on screen; keep the original table (hidden) so print gets a compact real table
-    table.parentNode.insertBefore(container, table);
-    const printWrap = document.createElement("div");
-    printWrap.className = "table-wrap print-only";
-    container.parentNode.insertBefore(printWrap, table);
-    printWrap.appendChild(table);
-  });
-}
+      function buildAccordions(mdEl) {
+        const nodes = Array.from(mdEl.children);
+        const frag = document.createDocumentFragment();
+        let i = 0;
 
-// ─── City tab click ───────────────────────────────────────────────────────────
-cityTabsEl.querySelectorAll(".city-tab").forEach(el => {
-  el.addEventListener("click", () => {
-    activeCity = el.dataset.city;
-    activeSub  = TABS[activeCity].subs[0].key;
+        // Keep the H1 + intro above the fold, un-collapsed
+        while (
+          i < nodes.length &&
+          nodes[i].tagName !== 'H2'
+        ) {
+          frag.appendChild(nodes[i]);
+          i++;
+        }
 
-    cityTabsEl.querySelectorAll(".city-tab").forEach(t => t.classList.remove("active"));
-    el.classList.add("active");
-    el.scrollIntoView({ inline: "center", block: "nearest", behavior: "smooth" });
+        const controls = document.createElement('div');
+        controls.className = 'acc-controls';
+        controls.innerHTML =
+          '<button data-acc-all="1">▾ Expand all</button><button data-acc-all="0">▴ Collapse all</button>';
+        controls.addEventListener('click', e => {
+          const btn = e.target.closest(
+            'button[data-acc-all]',
+          );
+          if (!btn) return;
+          const open = btn.dataset.accAll === '1';
+          mdEl
+            .querySelectorAll('.acc')
+            .forEach(a => setAccOpen(a, open));
+        });
+        frag.appendChild(controls);
 
-    renderSubTabs(activeCity);
-    loadContent(activeCity, activeSub);
-    window.scrollTo({ top: 0 });
-  });
-});
+        while (i < nodes.length) {
+          const h2 = nodes[i++];
+          const body = [];
+          while (
+            i < nodes.length &&
+            nodes[i].tagName !== 'H2'
+          ) {
+            body.push(nodes[i]);
+            i++;
+          }
+          if (!body.some(n => n.tagName !== 'HR')) continue; // skip empty marker headings
+          frag.appendChild(
+            makeAcc(
+              h2,
+              buildSubAccordions(body),
+              'acc-city',
+            ),
+          );
+        }
 
-// ─── Scroll-to-top FAB ────────────────────────────────────────────────────────
-const toTopBtn = document.getElementById("to-top");
-window.addEventListener("scroll", () => {
-  toTopBtn.classList.toggle("show", window.scrollY > 500);
-}, { passive: true });
-toTopBtn.addEventListener("click", () => window.scrollTo({ top: 0, behavior: "smooth" }));
+        mdEl.innerHTML = '';
+        mdEl.appendChild(frag);
+      }
 
-// ─── Print: current tab or entire guide ──────────────────────────────────────
-const printBtn  = document.getElementById("print-btn");
-const printMenu = document.getElementById("print-menu");
+      // Open every collapsed ancestor of a section, then scroll to it
+      function revealSection(id) {
+        const h = document.getElementById(id);
+        if (!h) return;
+        let acc = h.closest('.acc');
+        while (acc) {
+          setAccOpen(acc, true);
+          acc = acc.parentElement
+            ? acc.parentElement.closest('.acc')
+            : null;
+        }
+        requestAnimationFrame(() =>
+          h.scrollIntoView({
+            behavior: 'smooth',
+            block: 'start',
+          }),
+        );
+      }
 
-printBtn.addEventListener("click", e => {
-  e.stopPropagation();
-  const r = printBtn.getBoundingClientRect();
-  printMenu.style.top   = (r.bottom + 6) + "px";
-  printMenu.style.right = Math.max(8, window.innerWidth - r.right) + "px";
-  printMenu.classList.toggle("show");
-});
-document.addEventListener("click", () => printMenu.classList.remove("show"));
+      // ─── Build TOC nav element ────────────────────────────────────────────────────
+      function buildTOC(container) {
+        const nav = document.createElement('nav');
+        nav.className = 'toc-sidebar';
+        nav.innerHTML =
+          '<div class="toc-title">Contents</div>';
 
-printMenu.addEventListener("click", async e => {
-  e.stopPropagation();
-  const btn = e.target.closest("button[data-print]");
-  if (!btn) return;
-  printMenu.classList.remove("show");
-  if (btn.dataset.print === "tab") { window.print(); return; }
-  await printEntireGuide();
-});
+        let currentGroup = null;
 
-async function printEntireGuide() {
-  printBtn.textContent = "⏳";
-  try {
-    let container = document.getElementById("print-all");
-    if (!container) {
-      container = document.createElement("div");
-      container.id = "print-all";
-      document.body.appendChild(container);
-    }
-    container.innerHTML = `
+        container.querySelectorAll('h2,h3').forEach(h => {
+          if (h.tagName === 'H2') {
+            // Strip leading emoji and trailing date suffix for a short label
+            const label = h.textContent
+              .trim()
+              .replace(
+                /^[\p{Emoji_Presentation}\p{Extended_Pictographic}\s]+/gu,
+                '',
+              )
+              .replace(/\s*[—\-].*$/, '')
+              .trim();
+
+            currentGroup = document.createElement('div');
+            currentGroup.className = 'toc-group';
+
+            const a = document.createElement('a');
+            a.href = `#${h.id}`;
+            a.className = 'toc-city';
+            a.dataset.id = h.id;
+            a.textContent = label;
+            a.addEventListener('click', e => {
+              e.preventDefault();
+              revealSection(h.id);
+            });
+
+            currentGroup.appendChild(a);
+            nav.appendChild(currentGroup);
+          } else if (h.tagName === 'H3' && currentGroup) {
+            const text = h.textContent.trim();
+            if (!text.startsWith('Day ')) return;
+
+            const label =
+              text.match(
+                /^Day \d+ \(Option [A-Z]\)|^Day \d+|^Day Trip/,
+              )?.[0] || text;
+
+            const a = document.createElement('a');
+            a.href = `#${h.id}`;
+            a.className = 'toc-day';
+            a.dataset.id = h.id;
+            a.textContent = label;
+            a.addEventListener('click', e => {
+              e.preventDefault();
+              revealSection(h.id);
+            });
+
+            currentGroup.appendChild(a);
+          }
+        });
+
+        return nav;
+      }
+
+      // ─── Inject TOC into overview layout ─────────────────────────────────────────
+      function injectTOC() {
+        const mdEl = contentEl.querySelector('.md');
+        if (!mdEl) return;
+
+        assignHeadingIds(mdEl);
+        buildAccordions(mdEl);
+        const toc = buildTOC(mdEl);
+
+        contentEl.classList.add('overview-active');
+
+        const layout = document.createElement('div');
+        layout.className = 'overview-layout';
+
+        const main = document.createElement('div');
+        main.className = 'overview-main';
+        main.appendChild(mdEl);
+
+        layout.appendChild(main);
+        layout.appendChild(toc);
+        contentEl.appendChild(layout);
+
+        // Highlight active TOC link on scroll
+        const allLinks = toc.querySelectorAll('[data-id]');
+        const idToLink = {};
+        allLinks.forEach(a => {
+          idToLink[a.dataset.id] = a;
+        });
+
+        tocObserver = new IntersectionObserver(
+          entries => {
+            entries.forEach(entry => {
+              if (entry.isIntersecting) {
+                allLinks.forEach(a =>
+                  a.classList.remove('active'),
+                );
+                const link = idToLink[entry.target.id];
+                if (link) link.classList.add('active');
+              }
+            });
+          },
+          { rootMargin: '-8% 0px -82% 0px', threshold: 0 },
+        );
+
+        Object.keys(idToLink).forEach(id => {
+          const el = document.getElementById(id);
+          if (el) tocObserver.observe(el);
+        });
+
+        // Deep links: #section-id expands its collapsed ancestors
+        if (location.hash) {
+          const id = decodeURIComponent(
+            location.hash.slice(1),
+          );
+          if (document.getElementById(id))
+            setTimeout(() => revealSection(id), 80);
+        }
+      }
+
+      // ─── Transform tables into collapsible cards ─────────────────────────────────
+      function transformTables() {
+        contentEl
+          .querySelectorAll('table')
+          .forEach(table => {
+            // Collect header labels
+            const headerCells = Array.from(
+              table.querySelectorAll('thead th, thead td'),
+            );
+            const headers = headerCells.map(th =>
+              th.textContent.trim(),
+            );
+            const hasHeaders =
+              headers.length > 0 &&
+              headers.some(h => h !== '');
+
+            // No real headers → keep as a horizontally-scrollable plain table
+            if (!hasHeaders) {
+              if (
+                !table.parentElement.classList.contains(
+                  'table-wrap',
+                )
+              ) {
+                const wrap = document.createElement('div');
+                wrap.className = 'table-wrap';
+                table.parentNode.insertBefore(wrap, table);
+                wrap.appendChild(table);
+              }
+              return;
+            }
+
+            const rows = Array.from(
+              table.querySelectorAll('tbody tr'),
+            );
+            const ncols = headers.length;
+            const collapsible = ncols >= 3; // 1-2 col tables: flat card; 3+ col: expandable
+
+            const container = document.createElement('div');
+            container.className = 'table-cards';
+
+            rows.forEach(row => {
+              const cells = Array.from(
+                row.querySelectorAll('td'),
+              );
+              if (cells.length === 0) return;
+
+              const card = document.createElement('div');
+              card.className =
+                'tcard' +
+                (collapsible ? '' : ' tcard-flat');
+
+              // ── Head (always visible) ──────────────────────────────────────────────
+              const head = document.createElement('div');
+              head.className = 'tcard-head';
+
+              const nameEl = document.createElement('span');
+              nameEl.className = 'tcard-name';
+              nameEl.innerHTML = cells[0]
+                ? cells[0].innerHTML
+                : '—';
+              head.appendChild(nameEl);
+
+              if (ncols >= 2 && cells[1]) {
+                const descEl =
+                  document.createElement('span');
+                descEl.className = 'tcard-desc';
+                // strip tags for the truncated summary line so it reads cleanly;
+                // flat cards have no body, so keep markup (links) there
+                if (collapsible)
+                  descEl.textContent =
+                    cells[1].textContent.trim();
+                else descEl.innerHTML = cells[1].innerHTML;
+                head.appendChild(descEl);
+              }
+
+              if (collapsible) {
+                const chev = document.createElement('span');
+                chev.className = 'tcard-chevron';
+                chev.textContent = '▾';
+                head.appendChild(chev);
+              }
+
+              card.appendChild(head);
+
+              // ── Body (expanded, shows every column as label → value) ──────────────
+              if (collapsible) {
+                const body = document.createElement('div');
+                body.className = 'tcard-body';
+
+                cells.forEach((cell, i) => {
+                  const raw = cell.textContent.trim();
+                  if (!raw || raw === '—' || raw === 'N/A')
+                    return;
+
+                  const field =
+                    document.createElement('div');
+                  field.className = 'tcard-field';
+
+                  const labelEl =
+                    document.createElement('span');
+                  labelEl.className = 'tcard-label';
+                  labelEl.textContent = headers[i] || '';
+
+                  const valEl =
+                    document.createElement('span');
+                  valEl.className = 'tcard-val';
+                  valEl.innerHTML = cell.innerHTML; // keep bold/links/emoji
+
+                  field.appendChild(labelEl);
+                  field.appendChild(valEl);
+                  body.appendChild(field);
+                });
+
+                card.appendChild(body);
+
+                // Toggle on head click
+                head.addEventListener('click', () => {
+                  if (!window.getSelection().isCollapsed)
+                    return; // don't toggle when finishing a text selection
+                  card.classList.toggle('open');
+                });
+              }
+
+              container.appendChild(card);
+            });
+
+            // Cards on screen; keep the original table (hidden) so print gets a compact real table
+            table.parentNode.insertBefore(container, table);
+            const printWrap = document.createElement('div');
+            printWrap.className = 'table-wrap print-only';
+            container.parentNode.insertBefore(
+              printWrap,
+              table,
+            );
+            printWrap.appendChild(table);
+          });
+      }
+
+      // ─── City tab click ───────────────────────────────────────────────────────────
+      cityTabsEl
+        .querySelectorAll('.city-tab')
+        .forEach(el => {
+          el.addEventListener('click', () => {
+            activeCity = el.dataset.city;
+            activeSub = TABS[activeCity].subs[0].key;
+
+            cityTabsEl
+              .querySelectorAll('.city-tab')
+              .forEach(t => t.classList.remove('active'));
+            el.classList.add('active');
+            el.scrollIntoView({
+              inline: 'center',
+              block: 'nearest',
+              behavior: 'smooth',
+            });
+
+            renderSubTabs(activeCity);
+            loadContent(activeCity, activeSub);
+            window.scrollTo({ top: 0 });
+          });
+        });
+
+      // ─── Scroll-to-top FAB ────────────────────────────────────────────────────────
+      const toTopBtn = document.getElementById('to-top');
+      window.addEventListener(
+        'scroll',
+        () => {
+          toTopBtn.classList.toggle(
+            'show',
+            window.scrollY > 500,
+          );
+        },
+        { passive: true },
+      );
+      toTopBtn.addEventListener('click', () =>
+        window.scrollTo({ top: 0, behavior: 'smooth' }),
+      );
+
+      // ─── Print: current tab or entire guide ──────────────────────────────────────
+      const printBtn = document.getElementById('print-btn');
+      const printMenu =
+        document.getElementById('print-menu');
+
+      printBtn.addEventListener('click', e => {
+        e.stopPropagation();
+        const r = printBtn.getBoundingClientRect();
+        printMenu.style.top = r.bottom + 6 + 'px';
+        printMenu.style.right =
+          Math.max(8, window.innerWidth - r.right) + 'px';
+        printMenu.classList.toggle('show');
+      });
+      document.addEventListener('click', () =>
+        printMenu.classList.remove('show'),
+      );
+
+      printMenu.addEventListener('click', async e => {
+        e.stopPropagation();
+        const btn = e.target.closest('button[data-print]');
+        if (!btn) return;
+        printMenu.classList.remove('show');
+        if (btn.dataset.print === 'tab') {
+          window.print();
+          return;
+        }
+        await printEntireGuide();
+      });
+
+      async function printEntireGuide() {
+        printBtn.textContent = '⏳';
+        try {
+          let container =
+            document.getElementById('print-all');
+          if (!container) {
+            container = document.createElement('div');
+            container.id = 'print-all';
+            document.body.appendChild(container);
+          }
+          container.innerHTML = `
       <div class="print-cover">
         <h1>Euro Trip 2026 🇵🇹🇪🇸</h1>
         <p>Porto · Lisbon · Barcelona · Zaragoza · Madrid · Segovia</p>
         <p>Aug 19 – Sep 5, 2026</p>
       </div>`;
-    for (const cityKey of Object.keys(TABS)) {
-      for (const sub of TABS[cityKey].subs) {
-        const res = await fetch(RAW_BASE + sub.file);
-        if (!res.ok) continue;
-        const md = await res.text();
-        const sec = document.createElement("section");
-        sec.className = "print-doc";
-        const subLabel = sub.label.replace(/^\S+\s/, "");
-        const head = document.createElement("div");
-        head.className = "print-doc-head";
-        head.textContent = `${TABS[cityKey].label} — ${subLabel}`;
-        sec.appendChild(head);
-        const mdDiv = document.createElement("div");
-        mdDiv.className = "md";
-        mdDiv.innerHTML = marked.parse(md);
-        sec.appendChild(mdDiv);
-        container.appendChild(sec);
+          for (const cityKey of Object.keys(TABS)) {
+            for (const sub of TABS[cityKey].subs) {
+              const res = await fetch(RAW_BASE + sub.file);
+              if (!res.ok) continue;
+              const md = await res.text();
+              const sec = document.createElement('section');
+              sec.className = 'print-doc';
+              const subLabel = sub.label.replace(
+                /^\S+\s/,
+                '',
+              );
+              const head = document.createElement('div');
+              head.className = 'print-doc-head';
+              head.textContent = `${TABS[cityKey].label} — ${subLabel}`;
+              sec.appendChild(head);
+              const mdDiv = document.createElement('div');
+              mdDiv.className = 'md';
+              mdDiv.innerHTML = marked.parse(md);
+              sec.appendChild(mdDiv);
+              container.appendChild(sec);
+            }
+          }
+          document.body.classList.add('print-all-mode');
+          await new Promise(r =>
+            requestAnimationFrame(() => setTimeout(r, 50)),
+          );
+          window.print();
+        } catch (err) {
+          alert(
+            'Could not assemble the full guide: ' +
+              err.message,
+          );
+          document.body.classList.remove('print-all-mode');
+        } finally {
+          printBtn.textContent = '🖨️';
+        }
       }
-    }
-    document.body.classList.add("print-all-mode");
-    await new Promise(r => requestAnimationFrame(() => setTimeout(r, 50)));
-    window.print();
-  } catch (err) {
-    alert("Could not assemble the full guide: " + err.message);
-    document.body.classList.remove("print-all-mode");
-  } finally {
-    printBtn.textContent = "🖨️";
-  }
-}
 
-window.addEventListener("afterprint", () => {
-  document.body.classList.remove("print-all-mode");
-  const c = document.getElementById("print-all");
-  if (c) c.remove();
-});
+      window.addEventListener('afterprint', () => {
+        document.body.classList.remove('print-all-mode');
+        const c = document.getElementById('print-all');
+        if (c) c.remove();
+      });
 
-// ─── Initial load ─────────────────────────────────────────────────────────────
-renderSubTabs(activeCity);
-loadContent(activeCity, activeSub);
-document.querySelector(".city-tab.active")?.scrollIntoView({ inline: "center", block: "nearest" });
+      // ─── Initial load ─────────────────────────────────────────────────────────────
+      renderSubTabs(activeCity);
+      loadContent(activeCity, activeSub);
+      document
+        .querySelector('.city-tab.active')
+        ?.scrollIntoView({
+          inline: 'center',
+          block: 'nearest',
+        });
 
-// ─── Last updated (written by CI at deploy time) ──────────────────────────────
-fetch("last-updated.txt").then(r => r.ok ? r.text() : "").then(date => {
-  if (date.trim()) document.getElementById("last-updated").textContent = `Updated ${date.trim()}`;
-}).catch(() => {});
-</script>
-
-</body>
+      // ─── Last updated (written by CI at deploy time) ──────────────────────────────
+      fetch('last-updated.txt')
+        .then(r => (r.ok ? r.text() : ''))
+        .then(date => {
+          if (date.trim())
+            document.getElementById(
+              'last-updated',
+            ).textContent = `Updated ${date.trim()}`;
+        })
+        .catch(() => {});
+    </script>
+  </body>
 </html>

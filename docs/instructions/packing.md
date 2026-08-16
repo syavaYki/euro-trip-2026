@@ -5,11 +5,168 @@ Porto → Lisbon → Barcelona → Zaragoza → Madrid (~~→ Segovia~~ dropped 
 
 > **The model:** the **4 carry-ons are the trip** — that's what you live out of, in and out daily. The **2 checked bags are freight** — bulk, liquids, and everything heading to Emily in Madrid. They get opened at each apartment for refills and otherwise stay shut.
 >
-> **The 2 checked bags do not fly home.** They stay in Madrid with Emily and get loaded up in December. That changes what goes in them — see [The Madrid Bags](#-the-madrid-bags--emilys-two).
+> **The 2 checked bags do not fly home.** They stay in Madrid with Emily and get loaded up in December. That changes what goes in them — see [Largest Items](#-largest-items).
 
 ---
 
-## 🧳 The Bags
+## 📋 Section 1 — Main Packing List
+
+> **Design principle:** one item might cover all four (shared); some items need individual (one per person). Items are tagged accordingly.
+
+### 🤝 Shared — One Item Covers All Four
+
+#### Documents & Money — carry-on only, never checked
+
+- [ ] 4 × passports — **valid until at least Dec 5, 2026** (Schengen wants 3 months past departure) and issued within the last 10 years
+- [ ] Photocopies of all 4 passports — one printed set, one photo on each phone
+- [ ] Printed confirmations: TAP `Z5SCJS` · AVE `WJXSCF` + `4U5NZV` · hotels · Sagrada `103719876` · Park Güell `700328431455`
+- [ ] **Checked-bag receipts for all 3 TAP segments** — bag-drop disputes go faster with the paid receipt
+- [ ] Madrid hotel PIN **7526**
+- [x] Zaragoza guest registration form completed — lockbox code released
+- [ ] ⚠️ **Zaragoza lockbox code saved offline on two phones** — screenshot or notes app, not buried in an email. There's no reception desk in Zaragoza; the lockbox is the only way in, and you arrive 16:00 Monday
+- [ ] 2 credit cards + 1 debit card, travel notifications set
+- [ ] ⚠️ **Barcelona deposit card** — AB Sagrada Família Bofill takes a **pre-auth hold at check-in (Aug 26, ~22:45)**. Must be a **physical credit card in the lead guest's name**; debit and phone wallets are usually refused. **Keep it on your person, not in a checked bag**, and make it the card you're *not* relying on for Zaragoza/Madrid — the hold ties up part of the limit until after check-out
+- [ ] **€80–100 cash** on arrival (La Cova Fumada, El Xampanyet, Casa Dani, Cantarinha are cash-only)
+- [ ] Travel insurance details, saved offline
+- [ ] Driver's licences (backup photo ID)
+
+> ⚠️ **EU border check has changed.** The Entry/Exit System takes fingerprints and a photo on first Schengen entry — **OPO on Aug 20**. Budget extra time, and you now have a baggage carousel on top of it. Confirm whether **ETIAS** applies by August 2026 at [travel-europe.europa.eu/etias](https://travel-europe.europa.eu/etias_en).
+
+#### Medical Kit — shared OTC stock (personal prescriptions live in [Individual → Personal Items](#-individual--one-per-person))
+
+- [ ] Ibuprofen + paracetamol
+- [ ] Antihistamine (general stock — see Nicole's personal Zirtec below)
+- [ ] **Eye drops** — one bottle covers all four
+- [ ] Anti-diarrhoeal + rehydration sachets
+- [ ] **Blister plasters (Compeed)** — Porto's hills and Lisbon's cobbles will produce blisters
+- [ ] Motion sickness tablets — **the Aug 21 sunset sailboat and the Montserrat cable car**
+- [ ] Plasters, antiseptic wipes, tweezers
+- [ ] Anti-chafe balm
+
+#### Electronics
+
+- [ ] 4 × **EU plug adapters (type C/F)** — Portugal and Spain are the same, 230 V
+- [ ] 2 × multi-port USB chargers (4 phones off one socket)
+- [ ] Cables — 1 per phone + 2 spares
+- [ ] 2 × power banks — **cabin bag only, never checked, under 100 Wh**
+- [ ] 2 × AirTags for the checked bags
+- [ ] Offline Google Maps for all 6 cities, downloaded **before leaving**
+- [ ] eSIM installed or roaming plan confirmed
+- [ ] Apps: **Bolt**, Google Maps, Renfe, TAP, Google Translate (Portuguese + Spanish offline packs)
+
+> ⚡ **Leave US-only 120 V appliances at home.** A single-voltage hair dryer or straightener plugged into 230 V dies instantly. Apartments have dryers.
+
+#### Laundry Kit
+
+- [ ] 20 × detergent sheets or pods
+- [ ] Universal sink stopper
+- [ ] Travel clothesline + 6 clothespins
+- [ ] 2 × mesh laundry bags
+
+**The plan:**
+
+- [ ] **Wash #1 — Barcelona, Aug 28 or 29** (5 nights, the longest stay)
+- [ ] **Wash #2 — Madrid, Sep 2 or 3** (4 nights)
+- [ ] ⚠️ **Confirm a washing machine with each host** before Aug 19. If Barcelona has none, there's a *lavandería* on nearly every Eixample block
+
+#### Checked Bag A — Trip Bulk
+
+Everything heavy, liquid, or only needed once. Lives at the apartment, not on your back.
+
+- [ ] Full-size shampoo, conditioner, body wash, toothpaste (refill the carry-on bottles as you go)
+- [ ] 1 large sunscreen SPF 50 to cover the first days — **buy the rest in Porto, it's cheaper there**
+- [ ] Aftersun / aloe
+- [ ] 4 × microfiber towels (beach + backup; apartments provide bath towels)
+- [ ] 1 spare pair of shoes per person — sandals or flip-flops
+- [ ] Beach kit: dry bag, ziplocs, beach mat
+- [ ] The full medical kit (above), **except each person's own prescriptions**
+- [ ] Laundry kit (above)
+- [ ] Spare tops and underwear — the buffer that makes a missed wash day a non-event
+- [ ] Foldable tote × 2 — market runs at Bolhão and Mercadona
+- [ ] Anything for Emily
+
+#### Checked Bag B — December Freight
+
+Start it near-empty. It fills with everything bought between Porto and Madrid.
+
+- [ ] Bubble wrap or a roll of packing tape, a few sturdy ziplocs
+- [ ] Whatever you're leaving in Madrid from the start
+- [ ] Leave **at least half the volume empty** on Aug 19 — Bolhão, the Douro, Mercadona and the Madrid markets all get bought in this bag
+
+#### Bags & Odds
+
+- [ ] Compression packing cubes — 4 for the carry-ons
+- [ ] 1 L clear liquids bag × 4
+- [ ] Assorted ziplocs
+- [ ] Luggage tags on all 6 bags
+- [ ] Small padlocks for the checked bags — **TSA-approved** for the EWR leg
+
+### 👤 Individual — One Per Person
+
+> Print 4 copies of the carry-on list, one per person. Identical for everyone. Still 6 days of clothes and **two laundry cycles** — the checked bags are freight, not an excuse to haul 18 days of outfits up five flights of stairs.
+
+#### Per Person — Carry-On, The Living-Out-Of Bag
+
+- [ ] 6 × underwear
+- [ ] 4 × socks (low-cut; sandals cover the rest)
+- [ ] 5 × tops — cotton/linen tees or light blouses, **quick-drying**
+- [ ] 1 × shorts
+- [ ] 1 × lightweight trousers or long skirt — **doubles as church-legal and mosquito cover**
+- [ ] 1 × second bottom (shorts or skirt, your call)
+- [ ] 1 × light layer — cardigan, overshirt or thin fleece. **Non-negotiable.**
+- [ ] 1 × smart-casual outfit for the good dinners (Gruta/Escama in Porto, Botín in Madrid, fado house in Lisbon)
+- [ ] 1 × sleepwear, light
+- [ ] 1 × swimsuit
+- [ ] **Walking shoes — worn on the plane, never packed.** Broken in. Grippy soles for Lisbon/Porto cobbles
+- [ ] Sunglasses
+- [ ] Sun hat or cap
+- [ ] Reusable water bottle (empty through security, refill everywhere)
+- [ ] 3 days of toiletries in a 1 L clear bag, **100 ml containers** — the full-size stock rides in the checked bags
+- [ ] Small daypack for the day out
+- [ ] Phone + charger + cable
+- [ ] Own prescriptions — **full trip supply, original labelled packaging, in the carry-on**, plus a photo of each script
+
+> ⚠️ **Assume for one night that the checked bags didn't arrive.** All three TAP flights are direct so the risk is low, but a change of clothes, all medication, chargers and every document live in the carry-ons — never in the hold.
+
+#### Personal Items
+
+**Seva**
+
+- [ ] Passport + copies
+- [ ] Main credit card + backup card
+- [ ] Anti-theft crossbody bag — **carries passports, cash and tickets in Barcelona**
+- [ ] Universal EU adapter #1
+
+**Yevheniya**
+
+- [ ] Passport
+- [ ] Light scarf or shawl — **shoulders covered for Sagrada Família, Montserrat, all cathedrals**
+- [ ] Backup card
+- [ ] Makeup, decanted to under 100 ml (or full-size in a checked bag)
+- [ ] Universal EU adapter #2
+
+**Emily (18)**
+
+- [ ] Passport — **required at ticket gates for the 13–24/13–25 youth rates and for the nominative Sagrada Família ticket**
+- [ ] Light scarf or shawl for churches
+- [ ] Phone + charger
+- [ ] Headphones (overnight flight)
+
+**Nicole (16)**
+
+- [ ] Passport — same, youth-rate ID checks at Jerónimos, Belém Tower, Castelo de São Jorge
+- [ ] Light scarf or shawl for churches
+- [ ] Phone + charger
+- [ ] Headphones (overnight flight)
+- [ ] **Zirtec (cetirizine)** — personal antihistamine
+
+> ⛪ **Church dress code is real.** Sagrada Família, Montserrat basilica and most cathedrals turn away bare shoulders and above-the-knee shorts. On Aug 27 (Sagrada), Aug 28 (Montserrat) and Aug 29 (three Old City churches), everyone wears the longer bottom and carries a scarf.
+
+---
+
+## 🧳 Largest Items
+
+### The Bags
 
 **Checked — 2 bags, on the 3 TAP flights only:**
 
@@ -32,13 +189,11 @@ Porto → Lisbon → Barcelona → Zaragoza → Madrid (~~→ Segovia~~ dropped 
 
 > 💡 **Carry-on bag choice still matters.** A hard-shell spinner weighs 2.5–3 kg empty — a third of the 8 kg gone before a single sock. Soft carry-on or travel backpack, under 1.5 kg.
 
----
-
-## 📦 The Madrid Bags — Emily's Two
+### The Madrid Bags — Emily's Two
 
 These two suitcases end their trip in Madrid on Sep 5 and are not seen again until **December**. Pack them on that assumption.
 
-### Goes in — safe for 3+ months in a flat
+#### Goes in — safe for 3+ months in a flat
 
 - [ ] Port, madeira, vermouth, olive oil, vinegar — **fortified and sealed keeps fine**
 - [ ] Tinned fish, jarred goods, tinned *pimentón*, saffron, sealed dry goods
@@ -47,14 +202,14 @@ These two suitcases end their trip in Madrid on Sep 5 and are not seen again unt
 - [ ] Anything you're delivering to Emily
 - [ ] Bulk toiletry refills bought in Porto that survive the trip
 
-### Never goes in
+#### Never goes in
 
 - [ ] ❌ **Anything perishable** — cheese, presunto, jamón, pastries, **chocolate** (a Madrid flat in September will melt it)
 - [ ] ❌ Prescriptions, documents, backup glasses, daily chargers — anything you need before December
 - [ ] ❌ Delicate white or rosé wine — a warm flat for three months will cook it. Fortified only
 - [ ] ❌ Valuables, cash, electronics — no insurance covers a suitcase in someone else's hallway
 
-### Handoff prep
+#### Handoff prep
 
 - [ ] Double-bag every bottle, tape the caps, wrap in clothes, pack upright and centred
 - [ ] Written inventory inside each bag **+ photo of it on your phone**
@@ -65,7 +220,9 @@ These two suitcases end their trip in Madrid on Sep 5 and are not seen again unt
 
 ---
 
-## 🌡️ What the Weather Actually Requires
+## 📝 Other Info
+
+### 🌡️ What the Weather Actually Requires
 
 - **Porto** Aug 20–23 — 25–28 °C, Atlantic breeze, **cool evenings (18–20 °C)**, the Aug 21 sailboat is windy on the water, small chance of drizzle
 - **Lisbon** Aug 23–26 — 28–32 °C, hilly, slippery *calçada* cobbles
@@ -77,162 +234,7 @@ These two suitcases end their trip in Madrid on Sep 5 and are not seen again unt
 
 **Translation:** hot days everywhere, but **every person needs one real layer** for Porto evenings, Montserrat, and Madrid nights.
 
----
-
-## 👕 Per Person — Carry-On, The Living-Out-Of Bag
-
-> Print 4 copies of this section, one per person. Identical for everyone. Still 6 days of clothes and **two laundry cycles** — the checked bags are freight, not an excuse to haul 18 days of outfits up five flights of stairs.
-
-- [ ] 6 × underwear
-- [ ] 4 × socks (low-cut; sandals cover the rest)
-- [ ] 5 × tops — cotton/linen tees or light blouses, **quick-drying**
-- [ ] 1 × shorts
-- [ ] 1 × lightweight trousers or long skirt — **doubles as church-legal and mosquito cover**
-- [ ] 1 × second bottom (shorts or skirt, your call)
-- [ ] 1 × light layer — cardigan, overshirt or thin fleece. **Non-negotiable.**
-- [ ] 1 × smart-casual outfit for the good dinners (Gruta/Escama in Porto, Botín in Madrid, fado house in Lisbon)
-- [ ] 1 × sleepwear, light
-- [ ] 1 × swimsuit
-- [ ] **Walking shoes — worn on the plane, never packed.** Broken in. Grippy soles for Lisbon/Porto cobbles
-- [ ] Sunglasses
-- [ ] Sun hat or cap
-- [ ] Reusable water bottle (empty through security, refill everywhere)
-- [ ] 3 days of toiletries in a 1 L clear bag, **100 ml containers** — the full-size stock rides in the checked bags
-- [ ] Small daypack for the day out
-- [ ] Phone + charger + cable
-
-> ⚠️ **Assume for one night that the checked bags didn't arrive.** All three TAP flights are direct so the risk is low, but a change of clothes, all medication, chargers and every document live in the carry-ons — never in the hold.
-
----
-
-## 🙋 Per-Person Add-Ons
-
-### Seva
-
-- [ ] Passport + copies
-- [ ] Main credit card + backup card
-- [ ] Anti-theft crossbody bag — **carries passports, cash and tickets in Barcelona**
-- [ ] Universal EU adapter #1
-
-### Yevheniya
-
-- [ ] Passport
-- [ ] Light scarf or shawl — **shoulders covered for Sagrada Família, Montserrat, all cathedrals**
-- [ ] Backup card
-- [ ] Makeup, decanted to under 100 ml (or full-size in a checked bag)
-- [ ] Universal EU adapter #2
-
-### Emily (18)
-
-- [ ] Passport — **required at ticket gates for the 13–24/13–25 youth rates and for the nominative Sagrada Família ticket**
-- [ ] Light scarf or shawl for churches
-- [ ] Phone + charger
-- [ ] Headphones (overnight flight)
-
-### Nicole (16)
-
-- [ ] Passport — same, youth-rate ID checks at Jerónimos, Belém Tower, Castelo de São Jorge
-- [ ] Light scarf or shawl for churches
-- [ ] Phone + charger
-- [ ] Headphones (overnight flight)
-
-> ⛪ **Church dress code is real.** Sagrada Família, Montserrat basilica and most cathedrals turn away bare shoulders and above-the-knee shorts. On Aug 27 (Sagrada), Aug 28 (Montserrat) and Aug 29 (three Old City churches), everyone wears the longer bottom and carries a scarf.
-
----
-
-## 📥 Checked Bag A — Trip Bulk
-
-Everything heavy, liquid, or only needed once. Lives at the apartment, not on your back.
-
-- [ ] Full-size shampoo, conditioner, body wash, toothpaste (refill the carry-on bottles as you go)
-- [ ] 1 large sunscreen SPF 50 to cover the first days — **buy the rest in Porto, it's cheaper there**
-- [ ] Aftersun / aloe
-- [ ] 4 × microfiber towels (beach + backup; apartments provide bath towels)
-- [ ] 1 spare pair of shoes per person — sandals or flip-flops
-- [ ] Beach kit: dry bag, ziplocs, beach mat
-- [ ] The full medical kit (below), **except each person's own prescriptions**
-- [ ] Laundry kit (below)
-- [ ] Spare tops and underwear — the buffer that makes a missed wash day a non-event
-- [ ] Foldable tote × 2 — market runs at Bolhão and Mercadona
-- [ ] Anything for Emily
-
-## 📥 Checked Bag B — December Freight
-
-Start it near-empty. It fills with everything bought between Porto and Madrid.
-
-- [ ] Bubble wrap or a roll of packing tape, a few sturdy ziplocs
-- [ ] Whatever you're leaving in Madrid from the start
-- [ ] Leave **at least half the volume empty** on Aug 19 — Bolhão, the Douro, Mercadona and the Madrid markets all get bought in this bag
-
----
-
-## 👨‍👩‍👧‍👦 Family — One Set For All Four
-
-### Documents & Money — carry-on only, never checked
-
-- [ ] 4 × passports — **valid until at least Dec 5, 2026** (Schengen wants 3 months past departure) and issued within the last 10 years
-- [ ] Photocopies of all 4 passports — one printed set, one photo on each phone
-- [ ] Printed confirmations: TAP `Z5SCJS` · AVE `WJXSCF` + `4U5NZV` · hotels · Sagrada `103719876` · Park Güell `700328431455`
-- [ ] **Checked-bag receipts for all 3 TAP segments** — bag-drop disputes go faster with the paid receipt
-- [ ] Madrid hotel PIN **7526**
-- [x] Zaragoza guest registration form completed — lockbox code released
-- [ ] ⚠️ **Zaragoza lockbox code saved offline on two phones** — screenshot or notes app, not buried in an email. There's no reception desk in Zaragoza; the lockbox is the only way in, and you arrive 16:00 Monday
-- [ ] 2 credit cards + 1 debit card, travel notifications set
-- [ ] ⚠️ **Barcelona deposit card** — AB Sagrada Família Bofill takes a **pre-auth hold at check-in (Aug 26, ~22:45)**. Must be a **physical credit card in the lead guest's name**; debit and phone wallets are usually refused. **Keep it on your person, not in a checked bag**, and make it the card you're *not* relying on for Zaragoza/Madrid — the hold ties up part of the limit until after check-out
-- [ ] **€80–100 cash** on arrival (La Cova Fumada, El Xampanyet, Casa Dani, Cantarinha are cash-only)
-- [ ] Travel insurance details, saved offline
-- [ ] Driver's licences (backup photo ID)
-
-> ⚠️ **EU border check has changed.** The Entry/Exit System takes fingerprints and a photo on first Schengen entry — **OPO on Aug 20**. Budget extra time, and you now have a baggage carousel on top of it. Confirm whether **ETIAS** applies by August 2026 at [travel-europe.europa.eu/etias](https://travel-europe.europa.eu/etias_en).
-
-### Medical Kit
-
-- [ ] All prescriptions — **full trip supply, original labelled packaging, in the carry-on**, plus a photo of each script
-- [ ] Ibuprofen + paracetamol
-- [ ] Antihistamine
-- [ ] Anti-diarrhoeal + rehydration sachets
-- [ ] **Blister plasters (Compeed)** — Porto's hills and Lisbon's cobbles will produce blisters
-- [ ] Motion sickness tablets — **the Aug 21 sunset sailboat and the Montserrat cable car**
-- [ ] Plasters, antiseptic wipes, tweezers
-- [ ] Anti-chafe balm
-
-### Electronics
-
-- [ ] 4 × **EU plug adapters (type C/F)** — Portugal and Spain are the same, 230 V
-- [ ] 2 × multi-port USB chargers (4 phones off one socket)
-- [ ] Cables — 1 per phone + 2 spares
-- [ ] 2 × power banks — **cabin bag only, never checked, under 100 Wh**
-- [ ] 2 × AirTags for the checked bags
-- [ ] Offline Google Maps for all 6 cities, downloaded **before leaving**
-- [ ] eSIM installed or roaming plan confirmed
-- [ ] Apps: **Bolt**, Google Maps, Renfe, TAP, Google Translate (Portuguese + Spanish offline packs)
-
-> ⚡ **Leave US-only 120 V appliances at home.** A single-voltage hair dryer or straightener plugged into 230 V dies instantly. Apartments have dryers.
-
-### Laundry Kit
-
-- [ ] 20 × detergent sheets or pods
-- [ ] Universal sink stopper
-- [ ] Travel clothesline + 6 clothespins
-- [ ] 2 × mesh laundry bags
-
-**The plan:**
-
-- [ ] **Wash #1 — Barcelona, Aug 28 or 29** (5 nights, the longest stay)
-- [ ] **Wash #2 — Madrid, Sep 2 or 3** (4 nights)
-- [ ] ⚠️ **Confirm a washing machine with each host** before Aug 19. If Barcelona has none, there's a *lavandería* on nearly every Eixample block
-
-### Bags & Odds
-
-- [ ] Compression packing cubes — 4 for the carry-ons
-- [ ] 1 L clear liquids bag × 4
-- [ ] Assorted ziplocs
-- [ ] Luggage tags on all 6 bags
-- [ ] Small padlocks for the checked bags — **TSA-approved** for the EWR leg
-
----
-
-## 🚉 Aug 31 – Sep 1 — The Two Train Days
+### 🚉 Aug 31 – Sep 1 — The Two Train Days
 
 **This is the hard part of the trip, not the packing.** After Barcelona there are no more flights: 4 people move 4 carry-ons and 2 full-size suitcases through two AVE trains, two apartments and two locker runs.
 
@@ -248,9 +250,7 @@ Start it near-empty. It fills with everything bought between Porto and Madrid.
 
 > ⚠️ **Check the Lisbon apartment before Aug 23.** It's **64 Rua da Bempostinha, 5º direito — fifth floor** [📍](https://maps.google.com/?q=Rua+da+Bempostinha+64+1150-099+Lisboa+Portugal). Ask the host directly whether there is a lift. If not, that's two full suitcases up five flights of Lisbon stairs, and it changes what you put in them.
 
----
-
-## 🛒 Buy On Arrival
+### 🛒 Buy On Arrival
 
 Less critical now that liquids can ride in the hold, but still cheaper and lighter to buy there. First supermarket run, Porto, Aug 20 (Pingo Doce or Continente near Bolhão; Mercadona once in Spain):
 
@@ -263,9 +263,7 @@ Less critical now that liquids can ride in the hold, but still cheaper and light
 
 Pharmacies (*farmácia* / *farmacia*, green cross) are everywhere and staffed by people who hand you exactly what you need. Do not pack a pharmacy.
 
----
-
-## 🚫 Leave At Home
+### 🚫 Leave At Home
 
 - [ ] ❌ A third pair of shoes per person
 - [ ] ❌ Jeans — hot, heavy, two days to dry
@@ -276,9 +274,7 @@ Pharmacies (*farmácia* / *farmacia*, green cross) are everywhere and staffed by
 - [ ] ❌ Valuables and jewellery — **Barcelona pickpockets are the trip's #1 hazard** (Las Ramblas, Gothic Quarter, L3 Metro, the Sagrada exit, the beach)
 - [ ] ❌ Filling the checked bags to 23 kg on the way out. You have to carry them, and Bag B needs the room
 
----
-
-## ✈️ Aug 19 — Departure Day
+### ✈️ Aug 19 — Departure Day
 
 EWR 23:10 → OPO 10:55. Overnight, so wear the bulk and sleep.
 
@@ -289,9 +285,7 @@ EWR 23:10 → OPO 10:55. Overnight, so wear the bulk and sleep.
 - [ ] ⚠️ **Aug 23, OPO → LIS:** 09:00 flight, **be at OPO by 07:15**. Bag drop, not just security. Aug 20's arrival plan and the Lisbon "straight to the Metro by 10:30" note both assumed no checked bags — **add ~30 min at LIS for the carousel**
 - [ ] ⚠️ **Aug 26, LIS → BCN:** lands 21:50, plus carousel. Budget arriving at the Barcelona apartment closer to **23:00**
 
----
-
-## ✅ Final Sweep — Night of Aug 18
+### ✅ Final Sweep — Night of Aug 18
 
 - [ ] All 6 bags weighed — 23 kg checked, **8 kg carry-on, no exceptions**
 - [ ] AirTags in the checked bags, paired and tested
@@ -304,9 +298,7 @@ EWR 23:10 → OPO 10:55. Overnight, so wear the bulk and sleep.
 - [ ] Home: mail held, thermostat set, trash out, plants sorted
 - [ ] Photo of every packed bag's contents — makes an insurance claim trivial
 
----
-
-## 🏠 Sep 5 — Flying Home On Carry-Ons Only
+### 🏠 Sep 5 — Flying Home On Carry-Ons Only
 
 The 2 checked bags stay in Madrid. **AA95 MAD → JFK 10:25 with 4 carry-ons and 4 personal items.**
 
