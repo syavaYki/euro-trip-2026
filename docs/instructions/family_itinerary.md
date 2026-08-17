@@ -106,7 +106,7 @@
 | **Address** | Rua da Bempostinha 64, 5º dto, Arroios, 1150-099 Lisboa, Portugal |
 | **Map** | [📍 Open in Google Maps](https://maps.google.com/?q=Rua+da+Bempostinha+64+1150-099+Lisboa+Portugal) |
 | **Confirmation** | Booking.com — paid in full |
-| **Phone** | **+351 925 360 038** |
+| **Phone** | **+351 925 360 038** — concierge service, staffed 24/7 for emergencies |
 
 ### 3 · Barcelona — Wed Aug 26 → Mon Aug 31
 

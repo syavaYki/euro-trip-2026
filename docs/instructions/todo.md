@@ -18,6 +18,8 @@
 - [x] 🔴 **Barcelona · AB Sagrada Família Bofill — credit card still needed for the deposit.** Registration is done, but a **physical credit card** must be presented at check-in for a pre-auth hold. **Ask Booking.com chat for the amount** before it eats a card limit at 22:45 — and ask whether the **tourist tax** (~€120–140, not prepaid) can go on the card too. _Before Aug 26._
 - [ ] 🔴 **Porto · Aposentus — the tourist/check-in form still hasn't arrived.** Host only sends the check-in link **2 days before arrival** (~Aug 18), and it carries the entry instructions. **Chase it on Booking.com chat if nothing lands by Aug 18.** Ref 5732321948 · bags from 12:00.
 - [x] **Zaragoza · message Isabel about an early bag drop** — arrive 12:28, check-in 16:00. Airbnb chat. Fallback: Delicias consigna, 08:00–21:00, €4–6/bag. _By ~Aug 26._
+- [ ] 🔴 **Lisbon · who actually hands over the keys on Aug 23?** The transfer confirmation says **the driver hands them over at the end of the journey** (arrive ~11:10); Isabelly separately confirmed a **12:00** personal welcome. Ask on Booking.com chat which it is — it decides whether Day 1 Belém starts ~45 min earlier. _Before Aug 23._
+- [ ] **Save the Lisbon transfer driver's number offline on two phones — +351 918 672 706** (plus concierge **+351 925 360 038**). You'll need it in arrivals before any eSIM is sorted.
 - [ ] **Verify the Jerónimos slot time** (order 38185413) — the 12:00 Lisbon handover shifts Belém ~45 min later; if the slot is ≤12:30 it clashes. Slot time is on the **PDF**, not the receipt. If it clashes, ask Isabelly for 11:30 instead. _Before Aug 23._
 
 ---
