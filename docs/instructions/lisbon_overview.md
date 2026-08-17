@@ -11,9 +11,11 @@
 |---|---|
 | **Apartment** | **Castle View Hideaway** — 64 Rua da Bempostinha 5º direito, Arroios, 1150-099 Lisbon [📍](https://maps.google.com/?q=Rua+da+Bempostinha+64+1150-099+Lisboa+Portugal) |
 | **Host** | **Isabelly** — receives you in person at 12:00 |
-| **Check-in** | Sun Aug 23 · ✅ **12:00 confirmed with Isabelly** (standard window 16:00–22:00 — this is an agreed early arrival). ✅ Online check-in **and guest registration form** both submitted Aug 12 — no paperwork on arrival. Flight lands 09:55, so bags go straight to the apartment — **no locker, no LUGGit** |
+| **Airport transfer** | ✅ **Confirmed — [Lisbon Transfers](https://lisbon.at/lisbontransfers), LIS arrivals → the apartment door.** Driver waits in **arrivals holding a sign with your name** and **hands over the keys at the end of the journey**. Delays / can't find him: **+351 918 672 706** |
+| **Check-in** | Sun Aug 23 · ✅ **12:00 confirmed with Isabelly** (standard window 16:00–22:00 — this is an agreed early arrival). ✅ Online check-in **and guest registration form** both submitted Aug 12 — no paperwork on arrival. Flight lands 09:55, transfer drives you door-to-door — **no locker, no LUGGit**. ⚠️ **Two key handovers on record** (driver vs. Isabelly at 12:00) — confirm which before Aug 23 |
 | **Check-out** | Thu Aug 27 by 10:00 — but **physically depart Wed Aug 26 evening** (apt paid through Aug 27, so bags stay there on departure day) |
-| **Phone** | +351 925 360 038 |
+| **Wi-Fi** | **MEO-A687C0** · password **c5702d610e** |
+| **Phone** | Concierge, 24/7 emergencies: **+351 925 360 038** · transfer driver: **+351 918 672 706** |
 | **Booking** | ✅ Booking.com · Non-refundable · €579.50 paid |
 | **Flight in** | TP1921: OPO → LIS, Aug 23 09:00 → 09:55 |
 | **Flight out** | TP1038: LIS → BCN, Aug 26 18:55 → 21:50 (Terminal 1). Be at LIS by ~16:45. |
@@ -33,7 +35,8 @@ No car. Metro + CP trains + Bolt do everything; Lisbon is big and hilly.
 
 | Need | How |
 |------|-----|
-| Airport → city/Arroios | Metro Red → Alameda → Green → Anjos/Arroios (~25–30 min); or Bolt ~€10–14 with bags |
+| Airport → apartment (Day 1) | ✅ **Pre-booked transfer** — driver in arrivals with a name sign, direct to the door, keys on arrival. Backup: Bolt ~€10–14 |
+| Airport → city (otherwise) | Metro Red → Alameda → Green → Anjos/Arroios (~25–30 min); or Bolt ~€10–14 with bags |
 | To Belém | Green Line to Cais do Sodré + Cascais-line train (~7 min) — beats Tram 15E |
 | Alfama / Castle | Walk down, Bolt/tuk-tuk up (it's steep) |
 | Sintra (Day 2) | Train from **Rossio** (~40 min, €2.30); then **taxi/Bolt up to Pena (~€10–15 total)** — the 434 bus is €13.50/person (€54 for four). Park shuttle gate→palace already paid |
@@ -49,7 +52,7 @@ No car. Metro + CP trains + Bolt do everything; Lisbon is big and hilly.
 
 | Day | Theme | Key Activities |
 |-----|-------|---------------|
-| **Day 1** (Sun Aug 23) | Arrival + Belém (bags-light) | Land 09:55 → bags to Anjos/host → Pastéis de Belém → Jerónimos cloister ✅ → free church 14:00 → Padrão → **Torre de Belém 16:00 ✅** → check-in → Baixa golden hour → Ramiro dinner (Time Out as fallback) |
+| **Day 1** (Sun Aug 23) | Arrival + Belém (bags-light) | Land 09:55 → **transfer driver in arrivals** → bags + keys at the apartment → Pastéis de Belém → Jerónimos cloister ✅ → free church 14:00 → Padrão → **Torre de Belém 16:00 ✅** → check-in → Baixa golden hour → Ramiro dinner (Time Out as fallback) |
 | **Day 2** (Mon Aug 24) | **Sintra** ⭐⭐ | 08:11 train → taxi up → **Pena 10:00 ✅** → Moorish Castle (untimed) → **Tascantiga lunch 13:25 ✅** + Piriquita → **Regaleira 14:30 ✅** → Sintra old town → 17:00 train home → easy Lisbon evening (Príncipe do Calhariz). (Monday = most Lisbon museums shut, so Sintra today is deliberate. Coastal leg to Cabo da Roca/Cascais was cut) |
 | **Day 3** (Tue Aug 25) | Alfama, Castle & Churches ⭐⭐ | Castelo 09:00 ✅ → miradouros → **São Vicente ✅** → Feira da Ladra (Tue!) → Panteão → Alfama descent → Sé → tasca lunch → São Roque + Prazeres *or* Museu do Fado → **fado dinner at Parreirinha 🔴 book** |
 | **Day 4** (Wed Aug 26) | Slow morning + Oceanário + depart | Manteigaria → Convento do Carmo → Metro to Oriente → **Oceanário 12:00 🔴 book/decide** → food-court lunch → bags from apartment → LIS T1 by ~16:45 → TP1038 18:55 |
@@ -108,7 +111,9 @@ No car. Metro + CP trains + Bolt do everything; Lisbon is big and hilly.
 |------|----------|-------|
 | **Fado dinner — Parreirinha de Alfama (Day 3, ~20:00)** | 🔴 **book this week** — fills 1–2 weeks out | parreirinhadealfama.com / +351 218 868 209 |
 | **Oceanário (Day 4, 12:00 band)** | 🔴 **decide & book by ~Aug 10** — €27 × 4, or consciously drop | oceanario.pt |
-| **Host: early bag drop Aug 23** | 🕐 message by ~Aug 20 | Booking.com chat |
+| ~~**Host: early bag drop Aug 23**~~ | ✅ Done — Isabelly receives 12:00 | Booking.com chat |
+| ~~**LIS airport transfer**~~ | ✅ Confirmed — Lisbon Transfers, driver + name sign in arrivals, keys at the door · **+351 918 672 706** | lisbon.at/lisbontransfers |
+| **Confirm who hands over the keys** | 🔲 Before Aug 23 — driver (arrive ~11:10) or Isabelly at 12:00? | Booking.com chat |
 | **Viva Viagem cards** | On arrival, Aug 23 — €0.50 each + zapping credit | any Metro machine |
 | ~~**Palácio da Pena (Day 2)**~~ | ✅ Booked & paid — Essential Visit, €20 adult, 10:00 slot | — |
 | ~~**Quinta da Regaleira (Day 2)**~~ | ✅ Booked & paid — 38339594, €80.54 incl. 6% fee · entry window **14:30–15:00**. ⚠️ download the ticket PDFs, the email is not entry | MEO Blueticket |
