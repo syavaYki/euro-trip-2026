@@ -73,7 +73,7 @@
 | Property                                                                                               | City      | Check-in             | Check-out         | Nights | Confirmation                        | Status                                                                         |
 | ------------------------------------------------------------------------------------------------------ | --------- | -------------------- | ----------------- | ------ | ----------------------------------- | ------------------------------------------------------------------------------ |
 | Aposentus – Poveiros Terrace View [📍](https://maps.google.com/?q=Rua+de+Santo+Ildefonso+200+4000-507+Porto+Portugal) — Rua de Santo Ildefonso 200, 1º Traseiras, 4000-507 Porto | Porto     | Aug 20               | Aug 23            | 3      | 5732321948                          | ✅ Booked · 🔲 Online check-in link arrives **~Aug 18** (2 days before arrival) · **Luggage accepted from 12:00** |
-| Castle View Hideaway (host **Isabelly**) [📍](https://maps.google.com/?q=Rua+da+Bempostinha+64+1150-099+Lisboa+Portugal) — 64 Rua da Bempostinha 5º dto, Arroios, 1150-099 Lisbon | Lisbon    | **Aug 23 — host receives 12:00** | Aug 27 (by 10AM)  | 4      | Booking.com                         | ✅ Booked · €579.50 paid · ✅ **Online check-in + guest registration form both submitted (Aug 12)** · ✅ **Isabelly confirmed 12:00 arrival** (no locker needed) · Depart Aug 26 evening (apt runs through Aug 27) |
+| Castle View Hideaway (host **Isabelly**) [📍](https://maps.google.com/?q=Rua+da+Bempostinha+64+1150-099+Lisboa+Portugal) — 64 Rua da Bempostinha 5º dto, Arroios, 1150-099 Lisbon | Lisbon    | **Aug 23 — host receives 12:00** | Aug 27 (by 10AM)  | 4      | Booking.com                         | ✅ Booked · €579.50 paid · ✅ **Online check-in + guest registration form both submitted (Aug 12)** · ✅ **Isabelly confirmed 12:00 arrival** (no locker needed) · ✅ **Airport transfer confirmed — driver meets you in LIS arrivals with a name sign and hands over the keys at the door** (+351 918 672 706) · Wi-Fi **MEO-A687C0** / **c5702d610e** · Depart Aug 26 evening (apt runs through Aug 27) |
 | AB Sagrada Família Bofill [📍](https://maps.google.com/?q=Carrer+de+la+Marina+240+08013+Barcelona+Spain) — Carrer de la Marina 240, Eixample, 08013 Barcelona | Barcelona | Aug 26 (15:00)       | Aug 31 (by 11:00) | 5      | Booking.com                         | ✅ Booked · ✅ Registration done · ⚠️ **Bring a physical credit card — security deposit is pre-authorised at check-in** · ⚠️ **Catalan tourist tax also payable at the property** (neither is in the €paid) |
 | Apartamento Centro 5 PSN Wifi (host: Isabel) [📍](https://maps.google.com/?q=Calle+del+Dr.+Alejandro+Palomar+38+50002+Zaragoza+Spain) — C. del Dr. Alejandro Palomar 38, 2º Izda, 50002 Zaragoza | Zaragoza  | Aug 31 (after 16:00) | Sep 1 (by 12:00)  | 1      | Airbnb                              | ✅ Booked · $93.93 (PayPal, scheduled Aug 18) · ✅ **Registration form done — lockbox code released** · Free cancel until 16:00 Aug 26 |
 | Plenora Alejandro Dumas [📍](https://maps.google.com/?q=Calle+de+Alejandro+Dumas+30+28005+Madrid+Spain) — C. de Alejandro Dumas 30, Arganzuela, Madrid 28005 | Madrid    | Sep 1 (from 15:00)   | Sep 5 (by 11:00)  | 4      | 5149971517 (Booking.com) · PIN 7526 | ✅ Booked · €671.73 paid · ✅ **Online check-in completed** · Free cancel until Aug 26 |
@@ -635,7 +635,7 @@ Per person · 3 full days · excl. accommodation:
 
 ## 🇵🇹 Lisbon — Aug 23–26 (3 nights · apartment paid through Aug 27)
 
-> Three days plus a Sintra day trip. Arrive **Sun Aug 23, 09:55** (⚠️ carousel wait for the 2 checked bags) — **Isabelly receives you at the apartment at 12:00**, so bags go straight home and Day 1 runs bags-light through Belém from lunchtime. Depart **Wed Aug 26 evening** on TP1038 to Barcelona. Shape: **[Belém](https://maps.google.com/?q=Belem+Lisbon+Portugal) + Baixa → Sintra → Alfama & the churches → Oceanário + relaxed departure.** Lisbon is hilly like Porto but much bigger — lean on the Metro, trains, and Bolt for the climbs. Sunset slides from **~20:20 (Aug 23) to ~20:15 (Aug 26)** — the golden-hour blocks below are timed to it.
+> Three days plus a Sintra day trip. Arrive **Sun Aug 23, 09:55** (⚠️ carousel wait for the 2 checked bags) — a **confirmed private transfer** meets you in arrivals with a name sign and drives you door-to-door to the apartment, where **the driver hands over the keys**, so bags go straight home and Day 1 runs bags-light through Belém from lunchtime. Depart **Wed Aug 26 evening** on TP1038 to Barcelona. Shape: **[Belém](https://maps.google.com/?q=Belem+Lisbon+Portugal) + Baixa → Sintra → Alfama & the churches → Oceanário + relaxed departure.** Lisbon is hilly like Porto but much bigger — lean on the Metro, trains, and Bolt for the climbs. Sunset slides from **~20:20 (Aug 23) to ~20:15 (Aug 26)** — the golden-hour blocks below are timed to it.
 
 ### Logistics
 
@@ -643,9 +643,11 @@ Per person · 3 full days · excl. accommodation:
 | -------------- | ------------------------------------------------------------------------------------------------- |
 | **Apartment**  | **Castle View Hideaway** — 64 Rua da Bempostinha 5º direito, Arroios, 1150-099 Lisbon [📍](https://maps.google.com/?q=Rua+da+Bempostinha+64+1150-099+Lisboa+Portugal) |
 | **Host**       | **Isabelly** — she receives you personally at 12:00                                              |
-| **Check-in**   | Sun Aug 23 · ✅ **Isabelly confirmed 12:00** (standard window is 16:00–22:00 — this is an agreed early arrival). ✅ **Online check-in done + guest registration form submitted, Aug 12** — nothing left to fill in, arrival is keys and bags. |
+| **Airport transfer** | ✅ **Confirmed — private transfer by [Lisbon Transfers](https://lisbon.at/lisbontransfers), LIS arrivals → the apartment door.** Driver waits in the **arrivals area holding a sign with your name**, drives you straight to Rua da Bempostinha, and **hands over the keys at the end of the journey**. **Driver / delays: +351 918 672 706** |
+| **Check-in**   | Sun Aug 23 · ✅ **Isabelly confirmed 12:00** (standard window is 16:00–22:00 — this is an agreed early arrival). ✅ **Online check-in done + guest registration form submitted, Aug 12** — nothing left to fill in, arrival is keys and bags. ⚠️ The transfer message says **the driver hands over the keys**, which would land you inside well before 12:00 — see the Day 1 note |
 | **Check-out**  | Thu Aug 27 · by 10:00 — but you physically **leave Wed Aug 26 evening** (apt paid through Aug 27, so bags stay there all of Day 4 — no left-luggage needed on departure day) |
-| **Phone**      | +351 925 360 038                                                                                  |
+| **Wi-Fi**      | Network **MEO-A687C0** · password **c5702d610e**                                                  |
+| **Phone**      | Concierge service, 24/7 emergencies: **+351 925 360 038** · transfer driver: **+351 918 672 706** |
 | **Booking**    | ✅ Booking.com · Non-refundable · €579.50 paid in full                                            |
 | **Flight in**  | TP1921: OPO → LIS, Aug 23 09:00 → 09:55                                                           |
 | **Flight out** | TP1038: LIS → BCN, Aug 26 18:55 → 21:50 (**Terminal 1** both ends). Be at LIS by ~16:45.          |
@@ -661,7 +663,8 @@ Lisbon is bigger and hillier than Porto. No car. Metro + trains + Bolt do everyt
 
 > ❌ **No city pass on this trip — the Lisboa Card was researched and dropped.** The money worked (~+€32 per adult) but you can't pre-book with it: the online purchase gives a voucher, the booking code is printed on the physical card, and the mandatory Jerónimos/Belém Tower slots could only be reserved *after* collecting it in Lisbon. Not worth the arrival-day scramble — everything is now booked direct instead. Full record in **Lisbon Tickets & Transport** at the end of Lisbon; don't re-litigate.
 
-- **Airport → apartment/city:** Metro **Red Line** (Aeroporto) → **Alameda** → change to **Green Line** → **Anjos / Arroios** (your neighbourhood) or on to **Baixa-Chiado**. ~25–30 min, €1.90 + card. A Bolt to Arroios is ~€10–14 and easier with bags.
+- **Airport → apartment (arrival day):** ✅ **pre-booked private transfer** — meet the driver in arrivals, name sign, direct to the door. Nothing to buy, nothing to carry down an escalator. Backups below only if he doesn't show.
+- **Airport → city (general):** Metro **Red Line** (Aeroporto) → **Alameda** → change to **Green Line** → **Anjos / Arroios** (your neighbourhood) or on to **Baixa-Chiado**. ~25–30 min, €1.90 + card. A Bolt to Arroios is ~€10–14 and easier with bags.
 - **To [Belém](https://maps.google.com/?q=Belem+Lisbon+Portugal):** the **Cascais-line train from Cais do Sodré** (~7 min, ~€1.6 zapping) beats **Tram 15E** (~30 min, scenic but jammed midday).
 - **Trams 28 & 12:** the famous ones through Alfama — **pickpocket magnets and sardine-packed in August**. Ride before 09:30 or treat the route as a walk.
 - **Funiculars / [Elevador de Santa Justa](https://maps.google.com/?q=Elevador+de+Santa+Justa+Lisbon+Portugal) [🌐](https://www.carris.pt/en/elevadores/):** ⚠️ mostly out of action (verified Aug 2026). After the fatal **Glória derailment (3 Sep 2025)**: Glória closed for rebuild, **Bica & Lavra still suspended**, only **Graça reopened (30 Apr 2026)**. **Santa Justa is separately closed for maintenance** — admire the ironwork from below or from the Carmo side. **Walk or Bolt the hills.**
@@ -683,22 +686,27 @@ Lisbon is bigger and hillier than Porto. No car. Metro + trains + Bolt do everyt
 
 ### Day 1 — Sunday Aug 23 · Arrival + Belém + Baixa (bags-light)
 
-> Land, go straight to the apartment for Isabelly's 12:00 handover, dump every bag, then head out to Belém — Lisbon's monumental riverfront — and ease into the Baixa for golden hour. Low-stress first day, no hills until you choose them.
+> Land, meet the transfer driver in arrivals, ride straight to the apartment, dump every bag, then head out to Belém — Lisbon's monumental riverfront — and ease into the Baixa for golden hour. Low-stress first day, no hills until you choose them.
 
-**09:55 — Land at LIS (Terminal 1).** ⚠️ **2 checked bags** — allow ~25–30 min at the carousel. Aim to be at the Metro by ~10:45.
+**09:55 — Land at LIS (Terminal 1).** ⚠️ **2 checked bags** — allow ~25–30 min at the carousel. Out into arrivals by ~10:40.
 
-**10:45 — Metro straight to the apartment.** Down to the **Aeroporto** station (Red Line), ride to **Alameda**, change to the **Green Line**, off at **Anjos** — ~25–30 min, then a 3–5 min walk to Rua da Bempostinha. You'll be at the door ~11:20. **A Bolt is €10–14 and worth it with six bags** — same arrival time, none of the escalators.
+**~10:40 — Meet the driver in arrivals.** ✅ **Transfer confirmed — [Lisbon Transfers](https://lisbon.at/lisbontransfers).** He waits in the **arrivals area holding a sign with your name**, takes the bags, and drives you **directly to the apartment**. No Metro, no Bolt app, no escalators with six bags. **Don't leave the arrivals hall to look for him** — that sign is the whole rendezvous.
 
-> 🎟️ **First job on landing: four green Viva Viagem cards** (€0.50 each, one-off) from any Metro vending machine — load each with ~€10 of **zapping** credit and top up as you go. No pass, no activation clock, no expiry to plan around.
+> 📞 **Driver: +351 918 672 706.** Call or WhatsApp him if the flight slips, the carousel drags, or you can't spot the sign — that's exactly what the number is for. ⚠️ **Have it saved offline on two phones before you fly** (Emily's eSIM may not be live the second you land).
 
-**12:00 — Meet Isabelly · Castle View Hideaway, 64 Rua da Bempostinha 5º dto** [📍](https://maps.google.com/?q=Rua+da+Bempostinha+64+1150-099+Lisboa+Portugal) ✅ **Confirmed early arrival.** Online check-in and the guest registration form are both already submitted, so there's no paperwork at the door — this is keys, the walk-through, and dropping all six bags. **Have the four passports to hand anyway** in case she wants to eyeball them against the form. ⚠️ **You'll likely arrive ~11:20 — 40 min early.** Don't loiter on the landing: there are cafés on Rua da Bempostinha and around Largo do Intendente for a first galão, and 40 minutes is exactly one coffee after a red-eye.
+**~11:10 — At the door · Castle View Hideaway, 64 Rua da Bempostinha 5º dto** [📍](https://maps.google.com/?q=Rua+da+Bempostinha+64+1150-099+Lisboa+Portugal). **The driver hands over the keys at the end of the journey** — so you're inside as soon as the car pulls up, roughly 20–30 min door-to-door from LIS. Online check-in and the guest registration form are both already submitted, so there's no paperwork; **have the four passports to hand anyway**. Drop all six bags (including the two 23 kg cases) and leave for Belém unencumbered.
 
-> 📞 **Apartment phone +351 925 360 038.** If the flight slips or the carousel drags, message Isabelly from the plane's wifi or the moment you land — a 12:00 personal handover is a favour, not a front desk, and she's arranging her Sunday around it.
+> ⚠️ **Two handovers are on record for the same arrival** — Isabelly's confirmed **12:00** personal welcome, and the transfer company's "driver hands over the keys." They're probably the same key arriving by a different route, but **message Isabelly on Booking.com before Aug 23 and ask which it is.** If it's the driver, you're in by ~11:10 and Belém starts ~45 min earlier than planned; if she still wants to meet you at 12:00, budget the wait — cafés on Rua da Bempostinha and around Largo do Intendente do a fine first galão. Either way message her **+351 925 360 038** (concierge, 24/7) if the flight slips.
 
-**If Isabelly has to reschedule on the day** — the old fallbacks, kept only for that case:
+> 🛜 **Wi-Fi is already known — connect the moment you're in:** network **MEO-A687C0**, password **c5702d610e**.
+
+> 🎟️ **First Metro job (not at the airport any more — the transfer skips it): four green Viva Viagem cards** (€0.50 each, one-off) from the machine at **Anjos** or **Cais do Sodré** on the way to Belém — load each with ~€10 of **zapping** credit and top up as you go. No pass, no activation clock, no expiry to plan around.
+
+**If the transfer or Isabelly falls through on the day** — the old fallbacks, kept only for that case:
 
 | Option | Details | Cost |
 | --- | --- | --- |
+| **No driver in arrivals** | Call **+351 918 672 706** first — give it 15 min before giving up. Then: **Bolt** from the T1 kerb to Arroios, or **Metro** Red Line (Aeroporto) → Alameda → Green Line → Anjos + a 3–5 min walk (~25–30 min) | Bolt ~€10–14 · Metro €1.90/pp |
 | **Locker at Anjos** (Radical Storage / LuggageHero) | On the Green-Line route + 3–5 min from the apartment — drop on the way in, collect on the way home. ⚠️ Confirm they take full-size cases | ~€5/bag/day |
 | **LUGGit door-to-door** | A "Keeper" collects your bags and delivers them to the apartment — never touch them after landing | ~€5/bag (~€30 for six) |
 
@@ -713,7 +721,7 @@ Lisbon is bigger and hillier than Porto. No car. Metro + trains + Bolt do everyt
 
 **13:00 — [Mosteiro dos Jerónimos](https://maps.google.com/?q=Mosteiro+dos+Jer%C3%B3nimos+Lisbon+Portugal) [🌐](https://patrimoniocultural.gov.pt/en/museus-e-monumentos/mosteiro-dos-jeronimos/), the cloister** ⭐⭐ ✅ **Booked — order 38185413, paid.**
 
-> ⚠️ **Check the actual slot time on order 38185413 now, before Aug 23** — the purchase email only lists the items and the €57.32 total, **no date or time**, so **download the ticket PDFs from the Blueticket client area** and read the slot off them. The 12:00 apartment handover pushes Belém back ~45 min versus the original plan, and this is the only fixed point in the morning. **If your slot is 12:30 or earlier, ask Isabelly for 11:30 instead** — she's already flexible, and the cloister slot is the thing that can't move. Pastéis de Belém has been shifted to the lunch block below to buy back the time either way.
+> ⚠️ **Check the actual slot time on order 38185413 now, before Aug 23** — the purchase email only lists the items and the €57.32 total, **no date or time**, so **download the ticket PDFs from the Blueticket client area** and read the slot off them. The apartment handover pushes Belém back ~45 min versus the original plan, and this is the only fixed point in the morning. **If your slot is 12:30 or earlier, ask Isabelly for 11:30 instead** — she's already flexible, and the cloister slot is the thing that can't move. (If the **driver** is the one handing over keys, you're in by ~11:10 and this pressure largely disappears — another reason to settle that question before you fly.) Pastéis de Belém has been shifted to the lunch block below to buy back the time either way.
 
 2 minutes across the gardens from the pastelaria (**closed Mondays** — the reason Belém is Day 1; open Tue–Sun 09:30–18:30 in summer). Portugal's greatest Manueline building, begun in 1501 on the wealth of the spice route and carved for a century in soft golden limestone. Inside are the tombs of Vasco da Gama and the poet Camões; the two-storey cloister is the thing people cross the country to see — stone carved into ropes, coral, armillary spheres, and sea monsters. Be at the door ~10 min before the slot time on the order confirmation.
 
@@ -999,6 +1007,8 @@ As everywhere on this trip, tourist access to a church closes while the liturgy 
 | **Fado dinner — [Parreirinha de Alfama](https://maps.google.com/?q=Parreirinha+de+Alfama+Lisbon+Portugal) [🌐](https://parreirinhadealfama.com), ~20:00 Tue Aug 25** | 🔴 **book THIS WEEK** — houses fill 1–2 weeks out | parreirinhadealfama.com / +351 218 868 209 (Clube de Fado as backup) |
 | **Oceanário — 12:00 band, Aug 26**          | 🔴 **decide & book by ~Aug 10** — €27 × 4 = €108, or consciously drop it | oceanario.pt |
 | ~~**Message apartment host re: early bag drop**~~ | ✅ **Done — Isabelly receives at 12:00** (online check-in + guest registration form both submitted Aug 12) | Booking.com chat |
+| ~~**LIS airport → apartment transfer**~~    | ✅ **Confirmed — Lisbon Transfers.** Driver in arrivals with a name sign, direct to the door, **keys handed over at the end of the journey** · driver **+351 918 672 706** | lisbon.at/lisbontransfers |
+| ⚠️ **Confirm who hands over the keys — driver or Isabelly at 12:00?** | 🔲 Before Aug 23 — decides whether Day 1 starts ~11:10 or 12:00 | Booking.com chat / concierge +351 925 360 038 |
 | ⚠️ **Verify the Jerónimos slot time on order 38185413** | 🔲 Before Aug 23 — if it's ≤12:30, ask Isabelly for 11:30 instead | **Ticket PDFs in the client area** — the purchase email shows no date/time |
 | ~~**[Torre de Belém](https://maps.google.com/?q=Torre+de+Bel%C3%A9m+Lisbon+Portugal) (Day 1, 16:00)**~~       | ✅ Booked — order **38185394**, paid | — |
 | ~~**Jerónimos cloister (Day 1)**~~          | ✅ Booked — order **38185413**, paid | — |
@@ -2887,7 +2897,7 @@ _Re-sorted by urgency on **Aug 5** (T-14 days). Work the 🔴 table top to botto
 | **Taberna dos Mercadores** dinner                | Thu Aug 20           | **Phone +351 222 010 510, 10:30–11:30 only** — or the form on tabernadosmercadores.com (24h reply). **8 tables**, books months out |
 | **Gruta** farewell dinner                        | Sat Aug 22           | grutaporto.com — small room, book early                                                                                         |
 | ~~**Zaragoza guest registration form**~~ ✅        | Done                 | Lockbox code released. **Remaining: save the code offline on two phones** |
-| **Message Lisbon host: early bag drop**          | By Thu Aug 20        | Booking.com chat — land 09:55, apartment opens 16:00; fallback lockers at Anjos (~€5/bag)                                      |
+| ~~**Message Lisbon host: early bag drop**~~ ✅     | Done                 | Isabelly receives 12:00 · **airport transfer also confirmed** (driver meets you in arrivals, hands over the keys at the door). **Remaining: ask her whether the driver's keys replace the 12:00 meeting** |
 | **Message Zaragoza host (Isabel): early drop**   | By ~Aug 26           | Airbnb chat — arrive 12:28, check-in 16:00; fallback Delicias consigna 08:00–21:00, €4–6/bag                                   |
 
 ### 🟠 Next window (each has its own deadline)
