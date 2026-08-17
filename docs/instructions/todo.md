@@ -10,6 +10,7 @@
 - [ ] Backup All Phones
 - [ ] Acticate Emily ESim
 - [ ] Pickup Cash
+- [ ] Drain Jackuzzy
 
 ---
 
@@ -28,6 +29,6 @@
 - [ ] **Museo del Prado** — Thu Sep 3, 10:00 slot (the one that makes the day work). [museodelprado.es](https://www.museodelprado.es/en) — €15 adult, under-18 free. **~€30–45.**
 - [ ] **Picasso Museum** — Sat Aug 29, 14:00. Summer Saturdays sell out. [museupicassobcn.cat](https://www.museupicassobcn.cat/) — under-18 free. **~€25–40.**
 - [ ] **Girona train** — Sun Aug 30, ~09:15 fast service from Sants (~38 min). Fares climb as the date nears. ⚠️ **Promo fares are non-refundable; Flexible cancels free.** renfe.com. **~€100–160.**
-- [ ] **Train to Valencia**
+- [ ] **Train to Valencia or Car rental**
 
 ---
