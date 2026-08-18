@@ -93,9 +93,12 @@
 | | |
 | --- | --- |
 | **Property** | Aposentus – Poveiros Terrace View |
-| **Address** | Rua de Santo Ildefonso 200, 1º Traseiras, 4000-507 Porto, Portugal |
+| **Address** | Rua de Santo Ildefonso 200, **1º direito**, 4000-507 Porto, Portugal |
 | **Map** | [📍 Open in Google Maps](https://maps.google.com/?q=Rua+de+Santo+Ildefonso+200+4000-507+Porto+Portugal) |
 | **Confirmation** | 5732321948 (Booking.com) |
+| **🔑 Getting in** | **No reception — you let yourselves in.** Building door code **`#1111`** → staircase → **1st floor, first door on your right** → **lockbox by the door, code `9391`**. Scramble the dials after closing it |
+| **Times** | Apartment opens **16:00** (bags from 12:00 — being confirmed) · check-out **by 11:00**, key back in the lockbox |
+| **Wi-Fi** | **Vodafone-38EA1F** / **BXUMQx48Wx** |
 | **Contact** | Through Booking.com messages — no direct desk line |
 
 ### 2 · Lisbon — Sun Aug 23 → Wed Aug 26

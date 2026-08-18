@@ -22,6 +22,9 @@ Porto → Lisbon → Barcelona → Zaragoza → Madrid (~~→ Segovia~~ dropped 
 - [ ] Printed confirmations: TAP `Z5SCJS` · AVE `WJXSCF` + `4U5NZV` · hotels · Sagrada `103719876` · Park Güell `700328431455`
 - [ ] **Checked-bag receipts for all 3 TAP segments** — bag-drop disputes go faster with the paid receipt
 - [ ] Madrid hotel PIN **7526**
+- [ ] ⚠️ **Porto entry codes saved offline on two phones** — building door `#1111`, lockbox `9391` (1st floor, first door on the right). Self check-in, no reception; you land at 10:55 with no eSIM guaranteed
+- [ ] Porto Wi-Fi **Vodafone-38EA1F** / **BXUMQx48Wx**
+- [ ] 🔴 **Porto SEF guest-details form submitted for all four** — [app.talkguest.com/…/BD3E01F](https://app.talkguest.com/GuestData/1190/5732321948/BD3E01F)
 - [x] Zaragoza guest registration form completed — lockbox code released
 - [ ] ⚠️ **Zaragoza lockbox code saved offline on two phones** — screenshot or notes app, not buried in an email. There's no reception desk in Zaragoza; the lockbox is the only way in, and you arrive 16:00 Monday
 - [ ] 2 credit cards + 1 debit card, travel notifications set

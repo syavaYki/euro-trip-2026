@@ -72,7 +72,7 @@
 
 | Property                                                                                               | City      | Check-in             | Check-out         | Nights | Confirmation                        | Status                                                                         |
 | ------------------------------------------------------------------------------------------------------ | --------- | -------------------- | ----------------- | ------ | ----------------------------------- | ------------------------------------------------------------------------------ |
-| Aposentus – Poveiros Terrace View [📍](https://maps.google.com/?q=Rua+de+Santo+Ildefonso+200+4000-507+Porto+Portugal) — Rua de Santo Ildefonso 200, 1º Traseiras, 4000-507 Porto | Porto     | Aug 20               | Aug 23            | 3      | 5732321948                          | ✅ Booked · 🔲 Online check-in link arrives **~Aug 18** (2 days before arrival) · **Luggage accepted from 12:00** |
+| Aposentus – Poveiros Terrace View [📍](https://maps.google.com/?q=Rua+de+Santo+Ildefonso+200+4000-507+Porto+Portugal) — Rua de Santo Ildefonso 200, **1º direito**, 4000-507 Porto | Porto     | Aug 20 (**16:00**)   | Aug 23 (by 11:00) | 3      | 5732321948                          | ✅ Booked · ✅ **Check-in instructions received Aug 18** · **self check-in:** street door **#1111** → 1st floor, first door on the right → **lockbox 9391** (scramble the dials after closing) · **Luggage accepted from 12:00** · Wi-Fi **Vodafone-38EA1F** / **BXUMQx48Wx** · 🔴 **SEF guest form outstanding** · key back in the lockbox at check-out |
 | Castle View Hideaway (host **Isabelly**) [📍](https://maps.google.com/?q=Rua+da+Bempostinha+64+1150-099+Lisboa+Portugal) — 64 Rua da Bempostinha 5º dto, Arroios, 1150-099 Lisbon | Lisbon    | **Aug 23 — host receives 12:00** | Aug 27 (by 10AM)  | 4      | Booking.com                         | ✅ Booked · €579.50 paid · ✅ **Online check-in + guest registration form both submitted (Aug 12)** · ✅ **Isabelly confirmed 12:00 arrival** (no locker needed) · ✅ **Airport transfer confirmed — driver meets you in LIS arrivals with a name sign and hands over the keys at the door** (+351 918 672 706) · Wi-Fi **MEO-A687C0** / **c5702d610e** · Depart Aug 26 evening (apt runs through Aug 27) |
 | AB Sagrada Família Bofill [📍](https://maps.google.com/?q=Carrer+de+la+Marina+240+08013+Barcelona+Spain) — Carrer de la Marina 240, Eixample, 08013 Barcelona | Barcelona | Aug 26 (15:00)       | Aug 31 (by 11:00) | 5      | Booking.com                         | ✅ Booked · ✅ Registration done · ⚠️ **Bring a physical credit card — security deposit is pre-authorised at check-in** · ⚠️ **Catalan tourist tax also payable at the property** (neither is in the €paid) |
 | Apartamento Centro 5 PSN Wifi (host: Isabel) [📍](https://maps.google.com/?q=Calle+del+Dr.+Alejandro+Palomar+38+50002+Zaragoza+Spain) — C. del Dr. Alejandro Palomar 38, 2º Izda, 50002 Zaragoza | Zaragoza  | Aug 31 (after 16:00) | Sep 1 (by 12:00)  | 1      | Airbnb                              | ✅ Booked · $93.93 (PayPal, scheduled Aug 18) · ✅ **Registration form done — lockbox code released** · Free cancel until 16:00 Aug 26 |
@@ -86,11 +86,14 @@
 
 |                  |                                                              |
 | ---------------- | ------------------------------------------------------------ |
-| **Hotel**        | Aposentus – Poveiros Terrace View [📍](https://maps.google.com/?q=Rua+de+Santo+Ildefonso+200+4000-507+Porto+Portugal) — Rua de Santo Ildefonso 200, 1º Traseiras, 4000-507 Porto |
+| **Hotel**        | Aposentus – Poveiros Terrace View [📍](https://maps.google.com/?q=Rua+de+Santo+Ildefonso+200+4000-507+Porto+Portugal) — Rua de Santo Ildefonso 200, **1º direito**, 4000-507 Porto |
 | **Confirmation** | 5732321948                                                   |
-| **Check-in**     | Thu Aug 20 (arrival ~11:00). ⚠️ **The host sends the check-in link 2 days before arrival — expect it ~Aug 18. Complete it the moment it lands; it carries the door/key instructions.** |
-| **Luggage**      | ✅ **Bags accepted at the apartment from 12:00 (noon)** even if the room isn't ready — no lockers needed on arrival day |
-| **Check-out**    | Sun Aug 23 — early, flight at 09:00                          |
+| **🔑 Getting in**  | **Self check-in — there is no reception and nobody meets you.** Street-door keypad **`#1111`** → through the door you'll see a staircase → **1st floor, first door on your right** → **lockbox beside the door, code `9391`** → keys inside. **Scramble the lockbox dials every time you close it.** |
+| **Check-in**     | Thu Aug 20 — ⚠️ **the host's written instructions say the apartment can be entered at 16:00 or later**, and ask you to **send an estimated arrival time**. Bags are a separate arrangement (below). |
+| **Luggage**      | ✅ **Bags accepted at the apartment from 12:00 (noon)** — confirmed earlier on Booking.com chat. ⚠️ **But the check-in message says 16:00 and there's no desk to leave them at** — message the host to confirm the lockbox is live from 12:00, or Day 1 loses its bag-drop. |
+| **Check-out**    | Sun Aug 23 — **latest 11:00**, but you leave at 06:15 for the 09:00 flight. **Leave the key in the same lockbox and scramble the dials.** |
+| **Wi-Fi**        | **Vodafone-38EA1F** / **BXUMQx48Wx**                          |
+| **🔴 SEF form**   | Portuguese law (Foreigners & Borders Service) — personal details for **all four** guests: [app.talkguest.com/GuestData/1190/5732321948/BD3E01F](https://app.talkguest.com/GuestData/1190/5732321948/BD3E01F) |
 | **Flight in**    | TP212: EWR → OPO, departs Aug 19 23:10, arrives Aug 20 10:55 |
 | **Flight out**   | TP1921: OPO → LIS, Aug 23 09:00. **Be at OPO by 07:15.**     |
 | **Baggage**      | 4 carry-ons (8 kg) + 2 checked bags (23 kg) on all TAP legs  |
@@ -140,9 +143,11 @@ Porto is hilly — uphill return walks feel longer. Uber for €4–6 is fine wh
 | **Metro Line E** (recommended) | Arrivals hall → buy Andante cards → Line E → Bolhão → 5 min walk to hotel. 35–40 min total | €2.85/person (€0.60 card + Z4 €2.25) |
 | **Uber / Bolt**                | Faster (25 min), easier with bags, no navigation on arrival                                | €15–22 for the group |
 
-**12:00 — Check-in + First Coffee**
+**12:00 — Bag drop + First Coffee**
 
-⚠️ **12:00 is the earliest the apartment takes bags** — the host confirmed luggage from noon onwards, so don't turn up at 11:30 expecting the door to open. If the Metro puts you there early, kill the gap at Confeitaria do Bolhão (2 min away) and come back at 12:00.
+> 🔑 **How you get in — nobody meets you.** Street door keypad **`#1111`** → staircase straight ahead → **1st floor, first door on your right** → **lockbox next to the door, code `9391`**, keys inside. **Scramble the dials after every close.** (Booking.com lists the flat as *1º Traseiras*; the host's own instructions say *1º direito* — go by the host: first door on the right.)
+
+⚠️ **The two check-in times don't agree — settle this before you fly.** Booking.com chat confirmed **bags from 12:00**; the host's written instructions say **"you can enter the apartment at 16:00 or later."** With a lockbox and no desk, there's no third party to hand bags to — either the code works at noon or it doesn't. **Message the host with your ETA (~12:00, TP212 lands 10:55) and ask them to confirm the 12:00 drop in writing.** If they hold at 16:00, the fallback is the **[Bag Bank / Bounce points around Bolhão and São Bento](https://maps.google.com/?q=luggage+storage+S%C3%A3o+Bento+Porto)** (~€5–6/bag/day) — and Day 1 runs bags-light exactly as planned, with the real drop at 16:00 before dinner.
 
 Drop bags; grab your first pastel de nata:
 
@@ -537,6 +542,8 @@ Walk back through Cais da Ribeira one final time — the illuminated night versi
 | Breakfast airside | 08:00–08:30                |
 | TP1921 departs    | **09:00**                  |
 
+> 🔑 **Locking up.** Check-out is nominally **11:00**, but you're gone by 06:15 and nobody comes to meet you. **Leave the apartment key in the same lockbox by the door (code `9391`), close it, and scramble the dials.** That's the whole check-out — no keys to hand over, no waiting.
+
 TAP closes check-in 90 min before departure = **07:30**. Bolt backup: ~€18, 25–30 min — book at 06:00 if concerned.
 
 **06:25 — Metro Line E** from Bolhão → Aeroporto: **Z4 €2.25/person** (your Andante cards from Day 1 reload at the machine), ~40 min. Metro runs from ~06:00 on Sundays too, but ⚠️ **early-Sunday frequency is 20–30 min** — if the platform board shows the next airport train more than 15 min out, switch straight to the Bolt.
@@ -601,7 +608,9 @@ TAP closes check-in 90 min before departure = **07:30**. Bolt backup: ~€18, 25
 | ------------------------------------------ | ----------------------------- | -------------------------- |
 | ~~Livraria Lello tickets~~                 | **CANCELLED**                 | —                           |
 | ~~Message hotel re: early bag drop~~       | ✅ **Answered — bags accepted from 12:00** | Booking.com chat            |
-| **Complete the Aposentus check-in link**   | 🔲 Link arrives **~Aug 18** (2 days pre-arrival) — do it same day | Host email / Booking.com chat |
+| ~~**Aposentus check-in instructions**~~    | ✅ **Arrived Aug 18** — door `#1111`, lockbox `9391`, Wi-Fi **Vodafone-38EA1F** / **BXUMQx48Wx** | Host message |
+| **🔴 SEF guest-details form (all 4)**      | **Now** — legally required, submitted to Foreigners & Borders Service | [app.talkguest.com/…/BD3E01F](https://app.talkguest.com/GuestData/1190/5732321948/BD3E01F) |
+| **🔴 Send the host your ETA + confirm the 12:00 bag drop** | **Now** — instructions say entry **16:00**; chat previously said bags from **12:00**. Get it in writing | Booking.com chat |
 | **Taberna dos Mercadores (Day 1 dinner)** ✅ chosen | 🔴 **Phone tomorrow 10:30–11:30** | **+351 222 010 510** (1-hr daily window) · form on tabernadosmercadores.com · 8 tables only |
 | ~~7 Bridges Sunset Cruise (Day 2, 18:45)~~ ✅ Booked | — | ref **GYG7VKRQ9BVG** · Leçaodouro · meet 430 Rua da Praia, Gaia (door C) |
 | Cálem port lodge (optional Day 1 swap)     | By ~Fri Aug 14 — timed slots  | tour.calem.pt              |

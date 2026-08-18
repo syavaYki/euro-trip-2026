@@ -9,11 +9,14 @@
 
 | | |
 |---|---|
-| **Hotel** | Aposentus – Poveiros Terrace View [📍](https://maps.google.com/?q=Rua+de+Santo+Ildefonso+200+4000-507+Porto+Portugal) — Rua de Santo Ildefonso 200, 1º Traseiras, 4000-507 Porto |
+| **Hotel** | Aposentus – Poveiros Terrace View [📍](https://maps.google.com/?q=Rua+de+Santo+Ildefonso+200+4000-507+Porto+Portugal) — Rua de Santo Ildefonso 200, **1º direito**, 4000-507 Porto |
 | **Confirmation** | 5732321948 |
-| **Check-in** | Thu Aug 20 (arrival ~11:00). ⚠️ **Check-in link arrives ~Aug 18** — the host sends it 2 days before arrival; complete it that day |
-| **Luggage** | ✅ **Bags accepted from 12:00 (noon)** even before the room is ready — no lockers needed |
-| **Check-out** | Sun Aug 23 — early, flight at 09:00 |
+| **🔑 Getting in** | **Self check-in, no reception.** Street door keypad **#1111** → staircase → **1st floor, first door on your right** → **lockbox code 9391**. Scramble the lockbox dials after closing it |
+| **Check-in** | Thu Aug 20 — ⚠️ **host says the apartment opens at 16:00 or later** (bags were separately confirmed from 12:00 — see Luggage). **Message the host your ETA** |
+| **Luggage** | ✅ Bags accepted from 12:00 (noon) — ⚠️ but there's **no desk**, so confirm on Booking.com chat whether the lockbox works from noon or someone meets you |
+| **Check-out** | Sun Aug 23 — **by 11:00**; you leave 06:15 for a 09:00 flight. **Key goes back in the same lockbox**, then scramble the dials |
+| **Wi-Fi** | **Vodafone-38EA1F** / **BXUMQx48Wx** |
+| **🔴 SEF form** | Portuguese law — all four guests: [app.talkguest.com/GuestData/1190/5732321948/BD3E01F](https://app.talkguest.com/GuestData/1190/5732321948/BD3E01F) |
 | **Flight in** | TP212: EWR → OPO, departs Aug 19 23:10, arrives Aug 20 10:55 |
 | **Flight out** | TP1921: OPO → LIS, Aug 23 09:00. **Be at OPO by 07:15.** |
 | **Baggage** | 4 carry-ons (8 kg) + 2 checked bags (23 kg) on all TAP segments |
