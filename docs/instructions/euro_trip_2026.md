@@ -462,13 +462,15 @@ Everything below sits in a 15-minute radius of the tram terminus, so the order i
 
 The reason the day is built around the coast at all. Running since 1872, open wooden carriages, rattling back along the water — and it drops you at the museum door. **€6 single** (ages 4–12 €3.50) — **€24 for four**, buy on board, cash easiest. ~20–25 min to Massarelos, departures every 20–30 min.
 
+> 🎟️ **Keep the tram tickets — confirmed on the day (Sat Aug 22).** Showing the Tram 1 tickets at the Tram Museum desk takes **30% off museum entry**. Nobody advertises it and nobody asks for them: hand them over unprompted. **Don't leave them on the seat.**
+
 > _"Take it for the experience, not the speed. The carriages are over a hundred years old and feel like it."_ — r/porto
 
 **15:30 — [Museu do Carro Eléctrico](https://maps.google.com/?q=Museu+do+Carro+El%C3%A9ctrico+Porto+Portugal) (Tram Museum)** 🚋⭐
 
-Get off at Massarelos; the museum is at the stop. 25 historic trams in a 1915 thermoelectric power station on the river — **Porto ran the first electric trams in the world (1895)**. Warm, indoors, benches, and the first proper sit of the day. **€8 adult / €4 ages 6–25 & 65+** (both girls qualify) → **€24 for four**. Sat **10:00–18:00, last entry 17:30**. Allow 45–60 min.
+Get off at Massarelos; the museum is at the stop. 25 historic trams in a 1915 thermoelectric power station on the river — **Porto ran the first electric trams in the world (1895)**. Warm, indoors, benches, and the first proper sit of the day. **€8 adult / €4 ages 6–25 & 65+** (both girls qualify) = €24 for four — **less 30% for arriving on Tram 1 → ~€16.80** ✅ *(confirmed at the desk, Aug 22)*. Sat **10:00–18:00, last entry 17:30**. Allow 45–60 min.
 
-> 💡 **Bank the free ride.** The ticket includes **one free tram/metro/bus journey within 4 hrs** (so, until ~19:30). Today's walk home is on foot by design — keep the voucher in a pocket and spend it on a bus or Metro hop only if somebody's legs give out.
+> 💡 **Bank the free ride.** The deal runs both ways: the tram ticket discounts the museum on the way in, and **the museum ticket includes one free tram/metro/bus journey within 4 hrs** on the way out (so, until ~19:30). Today's walk home is on foot by design — keep the voucher in a pocket and spend it on a bus or Metro hop only if somebody's legs give out.
 
 **16:35 — [Jardim do Palácio de Cristal](https://maps.google.com/?q=Jardim+do+Pal%C3%A1cio+de+Cristal+Porto+Portugal) + peacocks** 🦚⭐ _— the view stop_
 
@@ -502,7 +504,7 @@ You're 3 minutes from the door. If Carmo fell through — or if what everyone wa
 
 Then shower, change, and walk down for 20:00 — Escama is **15 minutes downhill** from the hotel.
 
-> 💶 **Option B costs about €80–90 for four** before food: tram €24 + museum €24 + Carmo ~€28 + buses ~€6. Drop Carmo and it's ~€60.
+> 💶 **Option B costs about €75–80 for four** before food: tram €24 + museum ~€17 (after the 30% tram discount) + Carmo ~€28 + buses ~€6. Drop Carmo and it's ~€50.
 
 #### Option A — Beach morning + hidden-gems loop *(the original, kept for a sunny turn)*
 

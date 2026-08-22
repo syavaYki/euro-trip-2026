@@ -87,8 +87,8 @@ Walkable city — Metro + Uber/Bolt for longer hops. No car.
 | Cais da Ribeira / Dom Luís I Bridge | Free | ❌ | Any time, best at night |
 | ~~Matosinhos Beach~~ | Free | ❌ | Day 3 morning — **dropped, too cold** |
 | **Foz Velha walk** — São Miguel-o-Anjo (1527 chapel-lighthouse) · Igreja de São João da Foz · Farol das Felgueiras · Pérgola | Free | ❌ | Day 3, 14:00 · ⚠️ breakwater unsafe in swell |
-| Tram 1 (Passeio Alegre → Massarelos) | €6 (ages 4–12 €3.50) = **€24 for four** | ❌ | Day 3, 15:00 · last out of Foz 20:10 |
-| Museu do Carro Eléctrico | €8 · €4 ages 6–25 & 65+ = **€24 for four** | ❌ | Day 3, 15:30 · Sat 10–18, last entry 17:30 |
+| Tram 1 (Passeio Alegre → Massarelos) | €6 (ages 4–12 €3.50) = **€24 for four** | ❌ | Day 3, 15:00 · last out of Foz 20:10 · **keep the tickets — 30% off the Tram Museum** |
+| Museu do Carro Eléctrico | €8 · €4 ages 6–25 & 65+ = €24 — **less 30% with Tram 1 tickets → ~€16.80** ✅ | ❌ | Day 3, 15:30 · Sat 10–18, last entry 17:30 |
 | Jardim do Palácio de Cristal (peacocks + western belvederes) | Free | ❌ | Day 3, 16:35 · daily 08:00–21:00 |
 | **Igreja do Carmo — paid circuit** (catacombs + sacristy + Casa Escondida) | ~€7/person, ⚠️ confirm at door | ❌ | Day 3, 17:20 · **closes 18:00**, shuts for Mass |
 | Igreja de São Martinho de Cedofeita (oldest church in Porto) | Free | ❌ | Day 3, 18:10 · ⚠️ interior Tue–Fri 16–19 only, exterior today |
