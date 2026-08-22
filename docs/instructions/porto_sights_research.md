@@ -13,7 +13,7 @@ Prices and hours re-verified Aug 5, 2026 for our dates (Thu Aug 20 – Sun Aug 2
 | **Torre dos Clérigos** [📍](https://maps.google.com/?q=Torre+dos+Cl%C3%A9rigos+Porto+Portugal) ⭐ | 75 m Baroque bell tower — the only true 360° view of Porto. 240-step narrow spiral | **Day €10** (tower + museum; students €7, under 10 free) · **night €5 flat** | Daily 09:00–19:00; **summer night sessions 19:00–23:00** (last entry 22:30; 2026 night season 3 Jul–11 Oct) | ❌ buy at door | **Our slot: Day 1 ~21:00 night climb** — €20 for four, city fully lit (sunset ~20:27), no August-afternoon oven on the stairs |
 | **São Bento Station** [📍](https://maps.google.com/?q=S%C3%A3o+Bento+Station+Porto+Portugal) | Working station whose hall carries 20,000+ azulejo panels of Portuguese history | Free | Daily ~06:00–00:00 | ❌ | Day 2, 09:15 — before the tour groups. Look at the upper register; most visitors miss the top half |
 | **Porto Cathedral (Sé)** [📍](https://maps.google.com/?q=Porto+Cathedral+%28S%C3%A9%29+Porto+Portugal) | 12th-century fortress-Romanesque cathedral + Gothic azulejo cloister | Nave free · cloister + sacristy €3, under 10 free | Apr–Oct daily 09:00–18:30 | ❌ | Pay the €3 — the 14th-century cloister azulejos depict the Song of Songs; sacristy stairs reveal a Baroque room most skip |
-| **Igreja do Carmo + Casa Escondida** [📍](https://maps.google.com/?q=Igreja+do+Carmo+%2B+Casa+Escondida+Porto+Portugal) | Twin Baroque churches; the famous 1912 azulejo side wall | Church free; full house + catacombs ~€5–7 | Daily ~09:00–18:00 | ❌ | Stand well back for the full tiled flank. The 1-metre "sliver house" between the churches is the kids' favourite absurdity |
+| **Igreja do Carmo + Casa Escondida** [📍](https://maps.google.com/?q=Igreja+do+Carmo+%2B+Casa+Escondida+Porto+Portugal) | Twin Baroque churches; the famous 1912 azulejo side wall — and a **paid visitors' circuit inside**: catacombs, decorated halls, sacristy, and the interior of the sliver house | Church free · **circuit ~€7/person** (Casa Escondida alone ~€2) · ⚠️ confirm at the door, published figures drift €5–7 | Summer (Apr–Oct) daily **09:30–18:00** | ❌ | Day 1 exterior, **Day 3 Option B 17:20 for the circuit**. ⚠️ Working parish — **Mass closes the circuit without notice**, most likely Saturday evening. Stand well back for the full tiled flank |
 | **Cais da Ribeira** [📍](https://maps.google.com/?q=Cais+da+Ribeira+Porto+Portugal) | UNESCO waterfront — coloured houses, rabelo boats | Free (cruises €15–45) | Always open | ❌ | 07:00–09:00 for golden-light photos without crowds; magical again at night. Middays are the crush |
 | **Dom Luís I Bridge** [📍](https://maps.google.com/?q=Dom+Lu%C3%ADs+I+Bridge+Porto+Portugal) | 1886 double-decker iron icon; upper deck 60 m over the river | Free | 24/7 | ❌ | Do it as the Day-1 triangle: lower deck over, cable car up, upper deck back. Open grating up top — hold small kids close |
 | **Mercado do Bolhão** [📍](https://maps.google.com/?q=Mercado+do+Bolh%C3%A3o+Porto+Portugal) | Historic 1914 market, gorgeously restored 2022 — 2 min from the hotel | Free entry | Mon–Fri 08:00–20:00, Sat 08:00–18:00, **closed Sun** | ❌ | Before 10:00 = vendors + locals + flower stalls. Friday is the stock-up day: sardine tins, queijo da Serra, Sunday's travel fruit |
@@ -59,6 +59,18 @@ Prices and hours re-verified Aug 5, 2026 for our dates (Thu Aug 20 – Sun Aug 2
 | **Afurada Fishing Village** [📍](https://maps.google.com/?q=Afurada+Fishing+Village+Porto+Portugal) | Working fishing village on the Gaia bank — dockside charcoal grills | Free / cheap eats | Take the tiny ferry from Ribeira — the crossing is half the fun. Free boat-heritage museum |
 | **Praia de Miramar + Capela do Senhor da Pedra** [📍](https://maps.google.com/?q=Praia+de+Miramar+%2B+Capela+do+Senhor+da+Pedra+Porto+Portugal) | 17th-century chapel standing on a rock in the Atlantic | Free | 20 min by Aveiro-line train. Go at low tide to walk right up to the chapel; rock pools for kids |
 | **Farol das Felgueiras** [📍](https://maps.google.com/?q=Farol+das+Felgueiras+%28Felgueiras+Lighthouse%29+Porto+Portugal) ⭐ | 300 m breakwater walk to the red lighthouse where the Douro meets the Atlantic | Free | Douro one side, ocean the other — Porto's most dramatic free walk. Wet rocks are slippery; watch the kids |
+
+### 2B-bis — Foz Velha on foot (Day 3 Option B)
+
+Everything here sits within 15 min of the Tram 1 terminus at Passeio Alegre. All free, all better in wind than in sun.
+
+| Name | What | Cost | Tip |
+|------|------|------|-----|
+| **Jardim do Passeio Alegre** [📍](https://maps.google.com/?q=Jardim+do+Passeio+Alegre+Porto+Portugal) | 19th-century promenade garden at the river mouth — palms, obelisks, bandstand, chess tables | Free | The Tram 1 terminus is here, so it's both the arrival and the departure lounge of the afternoon |
+| **Capela de São Miguel-o-Anjo** [📍](https://maps.google.com/?q=Capela+de+S%C3%A3o+Miguel-o-Anjo+Foz+do+Douro+Porto+Portugal) ⭐ | **1527 chapel and lighthouse in one building — the oldest lighthouse in Portugal**, raised by Bishop Dom Miguel da Silva to guide ships over the Douro bar | Free (exterior) | National Monument the size of a garage, beside the Passeio Alegre garden. Almost nobody stops |
+| **Igreja de São João Baptista da Foz** [📍](https://maps.google.com/?q=Igreja+de+S%C3%A3o+Jo%C3%A3o+Baptista+da+Foz+Porto+Portugal) ⛪ | Foz's mid-1600s parish church — plain outside, and inside **one of the best Johannine gilded altarpieces in Porto** plus eight side altars of talha dourada | Free | The Santa Clara effect at village scale, with no ticket and no queue. 2 min from the garden |
+| **Pérgola da Foz** [📍](https://maps.google.com/?q=P%C3%A9rgola+da+Foz+Porto+Portugal) | The 1930s seafront colonnade a Porto mayor's wife brought back from Nice | Free | Walk it north as far as the legs want and turn back — there's no wrong turnaround point |
+| **Mercado da Foz** [📍](https://maps.google.com/?q=Mercado+da+Foz+Porto+Portugal) | Small covered market turned food-and-shops courtyard (Rua de Diu 365) | Free entry | The warm, indoor bail-out if the wind wins. Pão – Padaria Artesanal is the counter to find |
 
 ### 2C — Street Art & Tile Heritage
 
@@ -107,6 +119,8 @@ The family's thread through Porto. The three paid interiors are genuinely differ
 | **Igreja dos Congregados** | Colaço azulejo façade opposite São Bento | Free | Day 2 walk-by | Exterior is the point; don't detour inside |
 | **Igreja dos Grilos (São Lourenço)** | 1577–1622 Jesuit Mannerist façade below the Sé; houses the MASA museum | MASA hours/price unconfirmed | Day 2 walk-by | Treat the interior as a bonus, the façade as the visit |
 | **Mosteiro de São Bento da Vitória** | Vast 17th-century Benedictine monastery on the old Jewish quarter | Free outside | Day 2 walk-by | Not a walk-in church — Teatro Nacional São João opens it for shows/tours only. Miradouro da Vitória is 2 min on |
+| **Igreja de São João Baptista da Foz** | Mid-1600s Foz parish church — one of the best Johannine gilded altarpieces in the city | Free | **Day 3 Option B, ~14:20** | Two minutes from the tram terminus. Plain façade, no crowd, full talha dourada inside |
+| **Igreja de São Martinho de Cedofeita** | **The oldest church in Porto** — Romanesque rebuild of the 1100s on a 6th-century Suevi foundation (*Cito Facta*, "made quickly", gave the quarter its name) | Free | **Day 3 Option B, ~18:10 (exterior)** | ⚠️ Interior opens **Tue–Fri 16:00–19:00 only** — Saturday is a façade-and-doorway visit. Largo do Priorado |
 | **Mosteiro da Serra do Pilar** | Portugal's only circular church AND circular cloister, over the bridge | — | **DO NOT PLAN** | ⚠️ **Still closed for €1.86 M works** — official ticket office lists it "temporarily closed" as of Aug 5, 2026, no reopening date. Jardim do Morro delivers the same panorama |
 
 ---
@@ -164,7 +178,7 @@ All by public transport — no car needed. (The Douro by train + boat was weighe
 
 ## 📋 Quick-Pick by Category
 
-**Best free sights:** São Bento Station · Cais da Ribeira · Dom Luís I Bridge · Mercado do Bolhão · Jardim do Morro · Crystal Palace Gardens · Parque da Cidade · Rua das Flores · Miradouro da Vitória · Passeio + Jardim das Virtudes · Capela das Almas (exterior) · Cemitério de Agramonte · Half Rabbit · Farol das Felgueiras breakwater · Centro Português de Fotografia
+**Best free sights:** São Bento Station · Cais da Ribeira · Dom Luís I Bridge · Mercado do Bolhão · Jardim do Morro · Crystal Palace Gardens · Parque da Cidade · Rua das Flores · Miradouro da Vitória · Passeio + Jardim das Virtudes · Capela das Almas (exterior) · Cemitério de Agramonte · Half Rabbit · Farol das Felgueiras breakwater · Centro Português de Fotografia · Jardim do Passeio Alegre · Capela de São Miguel-o-Anjo · Igreja de São João da Foz · Pérgola da Foz · Igreja de São Martinho de Cedofeita
 
 **Best for kids/teens:** Serralves Park (animals + treetop walk) · Crystal Palace peacocks · Matosinhos Beach · Tram Museum (free ride included) · Piscina das Marés · CPF spy cameras · Funicular + cable car rides · Half Rabbit · São Francisco catacombs · Clérigos night climb
 

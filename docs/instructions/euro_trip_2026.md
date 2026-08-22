@@ -415,9 +415,98 @@ A walk along **[Avenida dos Aliados](https://maps.google.com/?q=Avenida+dos+Alia
 
 ---
 
-### Day 3 — Saturday Aug 22 · Beach Morning + Hidden Gems Loop + Farewell Dinner
+### Day 3 — Saturday Aug 22 · Beach *or* Foz — Tram 1 Loop + Farewell Dinner
 
-> ✅ **Locked.** Cool off at the beach, ride a century-old tram, celebrate with a proper dinner. (The Douro Valley alternative was considered and dropped — it's a ~10-hour day at 35–40 °C inland, on the third straight day on your feet, before a 05:45 wake-up. The valley deserves its own overnight in Pinhão on a future trip. Nothing to book, nothing to decide.)
+> 🔄 **Changed on the day (Sat Aug 22).** It turned chilly and the morning went to the apartment, so **Matosinhos is off** — no beach in this weather. **Option B is the live plan:** pick the day up in **Foz do Douro**, ride **Tram 1** back down the river, do the **Tram Museum**, then walk home through viewpoints and churches. Option A is kept underneath, unedited, in case the sun comes back. **The evening is unchanged either way — Escama at 20:00.** (The Douro Valley alternative was considered and dropped back in August — a ~10-hour day at 35–40 °C inland before a 05:45 wake-up. The valley deserves its own overnight in Pinhão on a future trip.)
+
+#### Option B — Foz, Tram 1 and the long way home ⭐ ✅ **the live plan**
+
+> 🧭 **The shape of it.** Out to the coast by bus, back down the river by tram, one museum that is really a tram shed, then a slow uphill home through a garden, two churches and a viewpoint. **No galleries, no art museums.** Roughly 5–6 km of walking, most of it flat or downhill except the climb out of Massarelos.
+
+> ⏱️ **Three hard edges, everything else slides.** The **Tram Museum closes 18:00 (last entry 17:30)** · **Igreja do Carmo's paid circuit closes 18:00** · **Escama is 20:00**. Out the door by **~12:00** keeps both interiors in play. Leave at 13:00 and you drop Carmo, not the tram. ⚠️ **Last Tram 1 out of Passeio Alegre is 20:10** — not a risk today, but don't dawdle past 19:00 in Foz.
+
+**12:00 — Out to [Foz do Douro](https://maps.google.com/?q=Foz+do+Douro+Porto+Portugal)** 🌊
+
+| Route                   | What                                                                                                                                             | Cost                      |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------- |
+| **Bus 500** 🥇          | **[Praça da Liberdade](https://maps.google.com/?q=Pra%C3%A7a+da+Liberdade+Porto+Portugal) / São Bento → Passeio Alegre**, ~25–30 min, every ~20 min. It runs the riverside road the whole way, so the ride *is* the scenic introduction — and it costs a fraction of the tram | Z2 **€1.40**/person on the Andante cards (~€2.50–3 cash on board) |
+| **Uber / Bolt**         | Door to Passeio Alegre in ~15–20 min. Worth it if you leave after 12:30                                                                          | €10–14 for the four       |
+| ~~Tram 1 outbound~~     | Don't — you want the tram as the ride **back**, and the museum is on that return leg                                                             | —                         |
+
+**12:35 — Lunch in [Foz Velha](https://maps.google.com/?q=Foz+Velha+Porto+Portugal)** 🐟
+
+| Option                                    | Vibe                                                                                                                     | Price          | Notes                                   |
+| ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | -------------- | --------------------------------------- |
+| **[Casa de Pasto da Palmeira](https://maps.google.com/?q=Casa+de+Pasto+da+Palmeira+Rua+do+Passeio+Alegre+Porto+Portugal)** 🥇 (R. do Passeio Alegre) | **The pick.** Old Foz dining room two minutes from the tram terminus — Portuguese cooking with a lighter hand, warm room, no seafront mark-up. Puts you exactly where the afternoon starts | ~€25/person    | Tue–Sat **12:00–24:00** · phone **+351 226 168 244**. ⚠️ Listings split between nº 294 and nº 450 — it's the one on the garden side |
+| **[Mercado da Foz](https://maps.google.com/?q=Mercado+da+Foz+Porto+Portugal)** — **[Pão – Padaria Artesanal](https://maps.google.com/?q=P%C3%A3o+Padaria+Artesanal+Porto+Portugal)** and the stalls | The low-commitment version: sourdough, canned-fish toasts, a counter each and nobody waits. Rua de Diu 365, indoors and warm | €8–15/person   | Walk-in                                 |
+| **[Tavi – Confeitaria da Foz](https://maps.google.com/?q=Tavi+Confeitaria+da+Foz+Rua+da+Senhora+da+Luz+363+Porto+Portugal)** [🌐](https://www.tavi.pt/en/) ⭐ (R. da Senhora da Luz 363) | **Confeitaria since 1935 with a glassed terrace straight out over the Atlantic** — savoury plates, crêpes, and the pastry counter Porto families drive out for. The single best chilly-day room in Foz | €10–20/person  | **Daily 07:30–20:00** — also the fallback coffee stop at 15:00 |
+| **Seafront terraces** at [Praia dos Ingleses](https://maps.google.com/?q=Praia+dos+Ingleses+Porto+Portugal) / the Pérgola | Glass-fronted rooms facing the swell. You're paying for the window, and today the window is the point                    | €15–30/person  | Walk-in                                 |
+
+**14:00 — Foz Velha on foot** ⛪🌊 _— the cold-and-windy version is the good version_
+
+Everything below sits in a 15-minute radius of the tram terminus, so the order is yours:
+
+| Stop                          | What                                                                                                                                    | Cost |
+| ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ---- |
+| **[Jardim do Passeio Alegre](https://maps.google.com/?q=Jardim+do+Passeio+Alegre+Porto+Portugal)** | The 19th-century promenade garden where the tram turns around — palms, obelisks, a bandstand, chess tables. Start and finish here      | Free |
+| **[Capela de São Miguel-o-Anjo](https://maps.google.com/?q=Capela+de+S%C3%A3o+Miguel-o-Anjo+Foz+do+Douro+Porto+Portugal)** ⭐ | **1527 chapel *and* lighthouse in one building**, raised by Bishop Dom Miguel da Silva to guide ships over the Douro bar — usually called **Portugal's oldest lighthouse**. A National Monument the size of a garage, and almost nobody stops | Free (exterior) |
+| **[Igreja de São João Baptista da Foz](https://maps.google.com/?q=Igreja+de+S%C3%A3o+Jo%C3%A3o+Baptista+da+Foz+Porto+Portugal)** ⛪ | The parish church of Foz, mid-1600s. Behind the plain front is **one of the best Johannine gilded altarpieces in Porto**, plus eight side altars of *talha dourada* — the Santa Clara treatment at village scale, with no ticket and no queue | Free |
+| **[Farol das Felgueiras](https://maps.google.com/?q=Farol+das+Felgueiras+%28Felgueiras+Lighthouse%29+Porto+Portugal)** ⭐⭐ | The 300 m breakwater out to the hexagonal red lighthouse — Douro on one side, open Atlantic on the other. **In a swell this is the most dramatic free thing in Porto** | Free |
+| **[Pérgola da Foz](https://maps.google.com/?q=P%C3%A9rgola+da+Foz+Porto+Portugal)** | The colonnade promenade a Porto mayor's wife copied from Nice in the 1930s. Walk it north as far as the legs want, turn back at any point | Free |
+
+> ⚠️ **The breakwater, honestly.** Wet granite, no railing, and Atlantic swell breaks over it — that's exactly why it's worth walking today, and exactly why you turn back at the first wave that reaches your feet. **Do not let anyone go out onto it if water is washing across the blocks.**
+
+> 💡 **Dress for it.** Foz is 8–10 °C cooler than Bolhão with the wind off the water. Windbreakers, and something for the spray on the lens.
+
+**15:00 — [Tram 1](https://maps.google.com/?q=Passeio+Alegre+tram+stop+Porto+Portugal): Passeio Alegre → Massarelos** 🚋
+
+The reason the day is built around the coast at all. Running since 1872, open wooden carriages, rattling back along the water — and it drops you at the museum door. **€6 single** (ages 4–12 €3.50) — **€24 for four**, buy on board, cash easiest. ~20–25 min to Massarelos, departures every 20–30 min.
+
+> _"Take it for the experience, not the speed. The carriages are over a hundred years old and feel like it."_ — r/porto
+
+**15:30 — [Museu do Carro Eléctrico](https://maps.google.com/?q=Museu+do+Carro+El%C3%A9ctrico+Porto+Portugal) (Tram Museum)** 🚋⭐
+
+Get off at Massarelos; the museum is at the stop. 25 historic trams in a 1915 thermoelectric power station on the river — **Porto ran the first electric trams in the world (1895)**. Warm, indoors, benches, and the first proper sit of the day. **€8 adult / €4 ages 6–25 & 65+** (both girls qualify) → **€24 for four**. Sat **10:00–18:00, last entry 17:30**. Allow 45–60 min.
+
+> 💡 **Bank the free ride.** The ticket includes **one free tram/metro/bus journey within 4 hrs** (so, until ~19:30). Today's walk home is on foot by design — keep the voucher in a pocket and spend it on a bus or Metro hop only if somebody's legs give out.
+
+**16:35 — [Jardim do Palácio de Cristal](https://maps.google.com/?q=Jardim+do+Pal%C3%A1cio+de+Cristal+Porto+Portugal) + peacocks** 🦚⭐ _— the view stop_
+
+10 min uphill from the museum. **Free**, daily 08:00–21:00 in summer. Formal gardens, exotic trees, the arena dome — and **free-roaming peacocks** that walk right up to people.
+
+Go straight to the **western edge**: the belvederes there give a clean sweep down the Douro toward Foz — where you were two hours ago — and most visitors never walk that far. **Skip the Museu Romântico** next door; today isn't a museum day.
+
+> _"The western viewpoints offer some of Porto's finest Douro views — most visitors miss them."_ — Porto sights research
+
+**17:20 — [Igreja do Carmo](https://maps.google.com/?q=Igreja+do+Carmo+Porto+Portugal): the full circuit** ⛪🎟️ _— the one paid stop of the walk home_
+
+12 min east along Rua de Dom Manuel II, past the [Jardim da Cordoaria](https://maps.google.com/?q=Jardim+da+Cordoaria+Porto+Portugal). On Day 1 you only stood outside and looked at the 1912 tiled flank — **there is a paid visitors' circuit inside**, and it's the right kind of stop for tired legs: indoor, slow, and about 40 minutes.
+
+- **~€7/person** (≈€28 for four — ask at the desk about a youth rate; the **Casa Escondida alone is ~€2**). ⚠️ **Confirm the price at the door** — published figures drift €5–7
+- The circuit covers the **catacombs**, the decorated halls and sacristy, and the interior of the **1-metre-wide [Casa Escondida](https://maps.google.com/?q=Casa+Escondida+Porto+Portugal)** wedged between Carmo and Carmelitas so monks and nuns couldn't share a wall
+- Summer hours **09:30–18:00 (Apr–Oct)**. ⚠️ **Working parish — Mass closes the circuit without notice**, and Saturday evening is exactly when that happens. **If the desk is shut, don't fight it:** walk on and take the Majestic below as the sit-down instead
+
+**18:10 — Home the slow way: [Cedofeita](https://maps.google.com/?q=Cedofeita+Porto+Portugal) → Aliados → Bolhão** 🚶
+
+~25 min on foot with stops, all of it new ground:
+
+- **[Igreja de São Martinho de Cedofeita](https://maps.google.com/?q=Igreja+de+S%C3%A3o+Martinho+de+Cedofeita+Porto+Portugal)** ⛪ (Largo do Priorado) — **the oldest church in Porto.** A squat Romanesque box rebuilt in the 1100s on a 6th-century Suevi foundation: legend says King Theodomir built it after a relic of St Martin healed his son, and *Cito Facta* — "made quickly" — became *Cedofeita*. ⚠️ **Interior hours are Tue–Fri 16:00–19:00 only, so today it's an exterior visit** — which is fine, the point is the stonework and the doorway
+- **[Rua de Cedofeita](https://maps.google.com/?q=Rua+de+Cedofeita+Porto+Portugal)** — the pedestrian spine of the quarter, Saturday-evening busy, actual Porto shops. (**Skip Miguel Bombarda** — galleries, and you said no more of those)
+- **[Avenida dos Aliados](https://maps.google.com/?q=Avenida+dos+Aliados+Porto+Portugal)** — cut across the top of it and drop down past Bolhão to the flat
+
+**18:40 — Hotel, or the sit-down you actually wanted**
+
+You're 3 minutes from the door. If Carmo fell through — or if what everyone wants is a chair, not another interior:
+
+> ☕ **[Café Majestic](https://maps.google.com/?q=Caf%C3%A9+Majestic+Porto+Portugal) [🌐](https://www.cafemajestic.com/)** — **R. de Santa Catarina 112, Sat 09:00–23:00.** The 1921 Belle Époque room: gilded mirrors, carved mahogany, white-jacketed waiters. Coffee runs **€5–7** and yes that's the tourist premium — **pay it once, sit inside for 45 minutes and let the room do the work.** It's the one paid rest on this route with no closing-time risk, and it's on the way to your own front door.
+
+Then shower, change, and walk down for 20:00 — Escama is **15 minutes downhill** from the hotel.
+
+> 💶 **Option B costs about €80–90 for four** before food: tram €24 + museum €24 + Carmo ~€28 + buses ~€6. Drop Carmo and it's ~€60.
+
+#### Option A — Beach morning + hidden-gems loop *(the original, kept for a sunny turn)*
+
+> ✅ **The pre-trip plan, unedited** — Matosinhos sand before 10:30, grilled fish on Rua Heróis de França, then the same Tram 1 loop home. If the weather flips, it still works exactly as written.
 
 **08:45 — Breakfast**
 
@@ -488,6 +577,8 @@ _Alternative afternoons (if you'd rather skip the loop):_
 | **[Rua Miguel Bombarda Arts District](https://maps.google.com/?q=Rua+Miguel+Bombarda+Arts+District+Porto+Portugal)** | Porto's bohemian gallery quarter — 20+ galleries, the 130 m² Don Quixote mural, independent shops | Uber to Cedofeita ~€7     |
 | **[Casa da Música](https://maps.google.com/?q=Casa+da+Musica+Porto+Portugal) [🌐](https://www.casadamusica.com)**                    | Rem Koolhaas concert hall — striking exterior, guided tour at 16:00 (€12)                         | Uber from Foz ~€8, 12 min |
 | **Rest at hotel**                     | Recharge before dinner                                                                            | Uber from Foz ~€8         |
+
+#### The evening — both options
 
 **18:30 — Pre-Dinner Drinks**
 

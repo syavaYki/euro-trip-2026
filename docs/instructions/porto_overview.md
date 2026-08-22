@@ -1,7 +1,7 @@
 # Porto — City Overview
 ## Aug 20–23 (3 nights) · Euro Trip 2026
 
-> Three nights in the granite, gold-leaf, port-wine city on the Douro. Hotel sits 2 min from Bolhão market; the sunset sailboat cruise (Fri 18:45) is booked; everything else is walk-up or a quick reservation. Day 3 is the beach + tram loop, locked.
+> Three nights in the granite, gold-leaf, port-wine city on the Douro. Hotel sits 2 min from Bolhão market; the sunset sailboat cruise (Fri 18:45) is booked; everything else is walk-up or a quick reservation. Day 3 turned chilly, so the beach was dropped for the **Foz + Tram 1 loop** (Option B).
 
 ---
 
@@ -36,7 +36,9 @@ Walkable city — Metro + Uber/Bolt for longer hops. No car.
 | **A (Red)** | City centre ↔ Matosinhos-Sul | Beach day, ~20–25 min from Trindade |
 | **D** | São Bento ↔ Jardim do Morro (Gaia) | Cross to Gaia, 1 stop |
 
-**Tram 1** — Ribeira → Foz along the river. €6 single (ages 4–12 €3.50), buy on board. Scenic, not fast.
+**Tram 1** — Ribeira (Infante) ↔ Foz (Passeio Alegre) along the river, via Massarelos. €6 single (ages 4–12 €3.50), buy on board. Scenic, not fast. First from Infante 09:00, **last complete run out of Passeio Alegre 20:10**.
+
+**Bus 500** — Praça da Liberdade / São Bento → Passeio Alegre → Matosinhos along the riverside road, every ~20 min. Z2 €1.40 on the Andante (~€2.50–3 cash on board) — the cheap, scenic way out to Foz.
 
 **Hotel walkability** (Rua de Santo Ildefonso 200 is extremely central; Praça dos Poveiros is at the corner):
 
@@ -58,7 +60,7 @@ Walkable city — Metro + Uber/Bolt for longer hops. No car.
 |-----|-------|---------------|
 | **Day 1** (Thu Aug 20) | Arrival + Ribeira | ~~Livraria Lello~~ **Museu Soares dos Reis** → Igreja do Carmo → Ribeira → **Gaia loop** (lower deck → cable car → upper deck) → São Francisco → Taberna dos Mercadores → **Clérigos night climb ~21:00** |
 | **Day 2** (Fri Aug 21) | Historic Core + Sunset Cruise | São Bento → Sé → **Santa Clara** → francesinha at Café Santiago → Capela das Almas → Bolhão → **MMIPO** → Photography Centre → Virtudes → **7 Bridges Sunset Cruise 18:45** ✅ Booked |
-| **Day 3** (Sat Aug 22) | Beach + Tram Loop ✅ locked | Matosinhos → Foz → Tram 1 → Tram Museum → Crystal Palace peacocks → farewell dinner. (Douro Valley alternative dropped — 10-hr day, 35–40 °C inland, before a 05:45 wake-up) |
+| **Day 3** (Sat Aug 22) | **Foz + Tram Loop** 🔄 Option B | Chilly, no beach: bus 500 → **Foz Velha** (São Miguel-o-Anjo chapel-lighthouse, São João da Foz, Felgueiras breakwater, Pérgola) → **Tram 1** → **Tram Museum** → Crystal Palace peacocks → **Igreja do Carmo circuit** → Cedofeita → farewell dinner. (Option A — Matosinhos beach + grill street — kept in the master if the sun returns) |
 | **Day 4** (Sun Aug 23) | Departure | Wake 05:45 → leave 06:15 → Metro 06:25 → OPO ~07:05 → breakfast airside → TP1921 09:00 |
 
 ---
@@ -83,10 +85,14 @@ Walkable city — Metro + Uber/Bolt for longer hops. No car.
 | 7 Bridges Sunset Cruise | €35–45/person | ✅ Booked — GYG7VKRQ9BVG | Day 2, 18:45 |
 | Mosteiro da Serra do Pilar | **CLOSED for works** (confirmed Aug 5, no reopening date) | — | Do not plan — Jardim do Morro has the view |
 | Cais da Ribeira / Dom Luís I Bridge | Free | ❌ | Any time, best at night |
-| Matosinhos Beach | Free | ❌ | Day 3 morning |
-| Tram 1 (Foz → Massarelos) | €6 (ages 4–12 €3.50) | ❌ | Day 3, 15:30 |
-| Museu do Carro Eléctrico | €8 · €4 ages 6–25 & 65+ | ❌ | Day 3, 16:00 · Sat 10–18 |
-| Jardim do Palácio de Cristal (peacocks) | Free | ❌ | Day 3, 17:00 |
+| ~~Matosinhos Beach~~ | Free | ❌ | Day 3 morning — **dropped, too cold** |
+| **Foz Velha walk** — São Miguel-o-Anjo (1527 chapel-lighthouse) · Igreja de São João da Foz · Farol das Felgueiras · Pérgola | Free | ❌ | Day 3, 14:00 · ⚠️ breakwater unsafe in swell |
+| Tram 1 (Passeio Alegre → Massarelos) | €6 (ages 4–12 €3.50) = **€24 for four** | ❌ | Day 3, 15:00 · last out of Foz 20:10 |
+| Museu do Carro Eléctrico | €8 · €4 ages 6–25 & 65+ = **€24 for four** | ❌ | Day 3, 15:30 · Sat 10–18, last entry 17:30 |
+| Jardim do Palácio de Cristal (peacocks + western belvederes) | Free | ❌ | Day 3, 16:35 · daily 08:00–21:00 |
+| **Igreja do Carmo — paid circuit** (catacombs + sacristy + Casa Escondida) | ~€7/person, ⚠️ confirm at door | ❌ | Day 3, 17:20 · **closes 18:00**, shuts for Mass |
+| Igreja de São Martinho de Cedofeita (oldest church in Porto) | Free | ❌ | Day 3, 18:10 · ⚠️ interior Tue–Fri 16–19 only, exterior today |
+| Café Majestic (the paid sit-down with no closing risk) | €5–7 coffee | ❌ | Day 3, 18:40 · Mon–Sat 09:00–23:00 |
 | ~~Douro Valley~~ | — | — | ❌ **Dropped** — nothing to book |
 
 ---
@@ -105,7 +111,7 @@ Walkable city — Metro + Uber/Bolt for longer hops. No car.
 |-----|-----------|-------|--------|
 | Day 1 | Confeitaria do Bolhão | **A Tasquinha** / Casa Guedes / Bolhão stalls | **Taberna dos Mercadores** ✅ 🔴 book — Adega São Nicolau ⭐ if full |
 | Day 2 | Época or Hakko | Café Santiago or **Cantarinha** (francesinha) | **Antunes** ✅ ⭐ (closes 22:00 — phone ahead) / **Gazela** walk-in till 22:30 |
-| Day 3 | SO Coffee Roasters | **Salta o Muro / Tito**, R. Heróis de França ⭐ | **Escama** ✅ 🔴 book — Casa Expresso ⭐ / O Rápido if full |
+| Day 3 | (late start — no breakfast run) | **Casa de Pasto da Palmeira**, R. do Passeio Alegre ⭐ · **Tavi** (Sr. da Luz 363) for the Atlantic terrace · Mercado da Foz for the quick version | **Escama** ✅ 🔴 book — Casa Expresso ⭐ / O Rápido if full |
 | Day 4 | OPO airside — coffee + pastry at Costa / First Class Café (Bolhão & confeitaria closed Sun) | — | — |
 
 > ⚠️ **Struck from the plan as unverifiable:** Eleit, Taberna de São Miguel, Tabuleta, Cobre, O Rafael — no address, no listing, no reviews anywhere. Replacements above are all documented, family-run, cheaper.
