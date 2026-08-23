@@ -52,9 +52,9 @@ No car. Metro + CP trains + Bolt do everything; Lisbon is big and hilly.
 
 | Day | Theme | Key Activities |
 |-----|-------|---------------|
-| **Day 1** (Sun Aug 23) | Arrival + Belém (bags-light) | Land 09:55 → **transfer driver in arrivals** → bags + keys at the apartment → Pastéis de Belém → Jerónimos cloister ✅ → free church 14:00 → Padrão → **Torre de Belém 16:00 ✅** → check-in → Baixa golden hour → Ramiro dinner (Time Out as fallback) |
+| **Day 1** (Sun Aug 23) | Arrival + Belém (bags-light) | Land 09:55 → **transfer driver in arrivals** → bags + keys at the apartment → **Museu dos Coches** → Pastéis de Belém → free church 14:00 (**cloister moved to Tue 15:30**) → Padrão → **Torre de Belém 16:00 ✅** → check-in → Baixa golden hour → Ramiro dinner (Time Out as fallback) |
 | **Day 2** (Mon Aug 24) | **Sintra** ⭐⭐ | 08:11 train → taxi up → **Pena 10:00 ✅** → Moorish Castle (untimed) → **Tascantiga lunch 13:25 ✅** + Piriquita → **Regaleira 14:30 ✅** → Sintra old town → 17:00 train home → easy Lisbon evening (Príncipe do Calhariz). (Monday = most Lisbon museums shut, so Sintra today is deliberate. Coastal leg to Cabo da Roca/Cascais was cut) |
-| **Day 3** (Tue Aug 25) | Alfama, Castle & Churches ⭐⭐ | Castelo 09:00 ✅ → miradouros → **São Vicente ✅** → Feira da Ladra (Tue!) → Panteão → Alfama descent → Sé → tasca lunch → São Roque + Prazeres *or* Museu do Fado → **fado dinner at Parreirinha 🔴 book** |
+| **Day 3** (Tue Aug 25) | Alfama, Castle & Churches ⭐⭐ | Castelo 09:00 ✅ → miradouros → **São Vicente ✅** → Feira da Ladra (Tue!) → Panteão → Alfama descent → Sé → tasca lunch 13:30 → cross to Belém → **Jerónimos cloister 15:30 ✅** → **fado dinner at Parreirinha 20:00 🔴 book** |
 | **Day 4** (Wed Aug 26) | Slow morning + Oceanário + depart | Manteigaria → Convento do Carmo → Metro to Oriente → **Oceanário 12:00 🔴 book/decide** → food-court lunch → bags from apartment → LIS T1 by ~16:45 → TP1038 18:55 |
 
 ---
@@ -63,7 +63,7 @@ No car. Metro + CP trains + Bolt do everything; Lisbon is big and hilly.
 
 | Sight | Adult | Youth (Emily 18 & Nicole 16) | Book? | When (our day) |
 |-------|------|-------------------|-------|-----------|
-| Mosteiro dos Jerónimos (cloister) | €18 (church free) | ~€9 (13–24, ID) | 💳 Paid — order 38185413, but held as an **open voucher**: 🔲 schedule the slot online first | Day 1 — **closed Mon**; Sun church 14:00–17:00 |
+| Mosteiro dos Jerónimos (cloister) | €18 (church free) | ~€9 (13–24, ID) | ✅ **Booked & paid — Tue Aug 25, 15:30** (order 38185413) | **Day 3** — cloister 15:30; free church done Day 1 (Sun 14:00) |
 | Padrão dos Descobrimentos | €10 | ~€5 _(unverified)_ | ❌ | Day 1 — daily |
 | Torre de Belém (reopened 26 May 2026, timed entry) | €15 | **€7.50** (13–24, ID) | ✅ **Booked — order 38185394, 16:00** | Day 1 — closed Mon |
 | **Palácio da Pena (Sintra)** | €20 | reduced band — check | ✅ **Booked & paid — 10:00** | Day 2 |
@@ -98,7 +98,7 @@ No car. Metro + CP trains + Bolt do everything; Lisbon is big and hilly.
 |-----|-----------|-------|--------|
 | Day 1 (Sun) | (travel) | **O Prado** ⭐ (Belém, 1 street back) or kiosks + pastéis | **Cervejaria Ramiro** ⭐ (Sunday-open 12:00–23:00) — Time Out / Príncipe do Calhariz as fallback |
 | Day 2 (Mon) | Rossio takeaway | **Tascantiga** ✅ 🔴 book (Apeadeiro ⭐ / Tasca do Manel ~€8 as backups); Piriquita = pastry stop | **Príncipe do Calhariz** (€12–20, open Mondays 12:00–15:00 & 19:00–22:30) — or **O Cartaxinho / Esquina da Fé / Forninho Saloio** ⭐ (€10–15, 10–14 min from the flat) |
-| Day 3 (Tue) | Copenhagen Coffee Lab | **Zé dos Cornos** ✅ (cash only, no bookings, lunch service only) — O Trigueirinho / Páteo 13 as backups | Fado — call **A Baiuca** first (€25), else **Parreirinha** 🔴 book |
+| Day 3 (Tue) | Copenhagen Coffee Lab | **Zé dos Cornos 13:30** ✅ (cash only, no bookings, lunch service only — earlier now, Belém at 15:30) — O Trigueirinho / Páteo 13 as backups | Fado **20:00–20:30** — call **A Baiuca** first (€25), else **Parreirinha** 🔴 book |
 | Day 4 (Wed) | Manteigaria + Fabrica | Vasco da Gama food court | (plane / BCN) |
 
 > 🏠 **Arroios, near the apartment** (for any night that collapses): **O Cartaxinho** (R. de Santa Marta 20B) · **Esquina da Fé** (R. da Fé 60) · **Forninho Saloio** (Tv. das Parreiras 39) — plain *prato do dia* rooms, 10–14 min on foot, €10–15/pp.
@@ -109,7 +109,7 @@ No car. Metro + CP trains + Bolt do everything; Lisbon is big and hilly.
 
 | Item | Status / deadline as of Aug 5 | Where |
 |------|----------|-------|
-| **Fado dinner — Parreirinha de Alfama (Day 3, ~20:00)** | 🔴 **book this week** — fills 1–2 weeks out | parreirinhadealfama.com / +351 218 868 209 |
+| **Fado dinner — Parreirinha de Alfama (Day 3, 20:00–20:30)** | 🔴 **book now** — fills 1–2 weeks out; keep it at 20:00+ , you're back from Belém | parreirinhadealfama.com / +351 218 868 209 |
 | **Oceanário (Day 4, 12:00 band)** | 🔴 **decide & book by ~Aug 10** — €27 × 4, or consciously drop | oceanario.pt |
 | ~~**Host: early bag drop Aug 23**~~ | ✅ Done — Isabelly receives 12:00 | Booking.com chat |
 | ~~**LIS airport transfer**~~ | ✅ Confirmed — Lisbon Transfers, driver + name sign in arrivals, keys at the door · **+351 918 672 706** | lisbon.at/lisbontransfers |
@@ -118,7 +118,7 @@ No car. Metro + CP trains + Bolt do everything; Lisbon is big and hilly.
 | ~~**Palácio da Pena (Day 2)**~~ | ✅ Booked & paid — Essential Visit, €20 adult, 10:00 slot | — |
 | ~~**Quinta da Regaleira (Day 2)**~~ | ✅ Booked & paid — 38339594, €80.54 incl. 6% fee · entry window **14:30–15:00**. ⚠️ download the ticket PDFs, the email is not entry | MEO Blueticket |
 | ~~**Torre de Belém (Day 1, 16:00)**~~ | ✅ Booked — order **38185394**, paid | — |
-| 🔴 **Jerónimos (Day 1) — voucher not yet scheduled** | 💳 Paid (order **38185413**) but the PDFs are open-dated vouchers, *not* tickets. Blueticket account → **Tickets** tab → the *4 Vouchers* card → **"Schedule"** → pick the slot → ticket by email (not the "Schedule a Visit" tab) | MEO Blueticket — valid to 30/01/2027 |
+| ~~**Jerónimos cloister (Day 3, 15:30)**~~ | ✅ Booked & paid — order **38185413** · **Tue 25 Aug, 15:30** · redeemed 23 Aug at mmp.bymeoblueticket.pt · ⚠️ ID for the two youth tickets; old voucher PDFs void | — |
 | ~~**Castelo de São Jorge (Day 3)**~~ | ✅ Booked & paid — open ticket valid until 1 Nov 2026 | — |
 | ~~**São Vicente de Fora (Day 3)**~~ | ✅ Booked — ref **980497008** (2 adult + 2 youth) · ⚠️ download the PDF tickets · free cancel to 23:59 Aug 24 | — |
 | ~~Lisbon apartment~~ | ✅ Booked — €579.50 paid | — |
