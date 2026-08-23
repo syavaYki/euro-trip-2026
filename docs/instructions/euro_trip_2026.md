@@ -821,17 +821,30 @@ Lisbon is bigger and hillier than Porto. No car. Metro + trains + Bolt do everyt
 | **[Cascais](https://maps.google.com/?q=Cascais+Lisbon+Portugal)-line train** (Cais do Sodré → Belém) ⭐ | Fastest — ~7 min, air-conditioned | ~€1.6/pp zapping |
 | **Tram 15E** | Scenic riverside roll, but slow and jammed midday | €1.90 on card / more on board |
 
-**13:00 — [Mosteiro dos Jerónimos](https://maps.google.com/?q=Mosteiro+dos+Jer%C3%B3nimos+Lisbon+Portugal) [🌐](https://patrimoniocultural.gov.pt/en/museus-e-monumentos/mosteiro-dos-jeronimos/), the cloister** ⭐⭐ ✅ **Booked — order 38185413, paid.**
+**13:00 — [Mosteiro dos Jerónimos](https://maps.google.com/?q=Mosteiro+dos+Jer%C3%B3nimos+Lisbon+Portugal) [🌐](https://patrimoniocultural.gov.pt/en/museus-e-monumentos/mosteiro-dos-jeronimos/), the cloister** ⭐⭐ 💳 **Paid — order 38185413 — 🔴 but the slot still has to be scheduled (see below).**
 
-> ⚠️ **Check the actual slot time on order 38185413 now, before Aug 23** — the purchase email only lists the items and the €57.32 total, **no date or time**, so **download the ticket PDFs from the Blueticket client area** and read the slot off them. The apartment handover pushes Belém back ~45 min versus the original plan, and this is the only fixed point in the morning. **If your slot is 12:30 or earlier, ask Isabelly for 11:30 instead** — she's already flexible, and the cloister slot is the thing that can't move. (If the **driver** is the one handing over keys, you're in by ~11:10 and this pressure largely disappears — another reason to settle that question before you fly.) Pastéis de Belém has been shifted to the lunch block below to buy back the time either way.
+> 🔴 **What you hold is a VOUCHER, not a ticket — it must be scheduled online before it lets anyone in.** The four PDFs say it in capitals: *"THIS IS NOT A TICKET · THIS VOUCHER DOES NOT GRANT ENTRY."* There is **no date and no time on them** — they are open-dated, **valid until 30/01/2027**. Nothing was ever booked for a particular slot, so there is no slot to verify and nothing to clash with the handover.
+>
+> **Redeem it (5 minutes, do it before you leave for Belém):**
+> 1. Go to the site the voucher was bought from — **MEO Blueticket / Museus e Monumentos** ([blueticket.pt](https://blueticket.meo.pt/)).
+> 2. Open the **Scheduling / *Agendamento*** menu.
+> 3. Enter **Código de Reserva `38185413`** and **PIN `1CT468`** (or the purchase email address).
+> 4. Pick the **date and time** — Sun Aug 23, a slot from **13:00** on, comfortably clear of the 12:00 handover.
+> 5. The real **entry ticket arrives by email** — save the PDFs offline / in the MEO Blueticket app. *That* is what the door scans.
+>
+> ⚠️ **Do not turn up with the voucher PDFs** — the gate will not accept them. If the scheduling page misbehaves, call Blueticket on **+351 218 918 506** (weekdays 10:00–18:00, `info@blueticket.pt`) — but on a Sunday the line is closed, so leave time to sort it online.
+>
+> The four vouchers: **2 × ADULTO €18** (`0001276089799`, `0001276089805`) + **2 × JOVEM 13–24 €9** (`0001276089836`, `0001276089843`) = €54, €57.32 with the 5% fee. Bring **ID for the two youth tickets**. Bonus on the same voucher: **5% off at the Museu de Arte Popular shop**.
 
-2 minutes across the gardens from the pastelaria (**closed Mondays** — the reason Belém is Day 1; open Tue–Sun 09:30–18:30 in summer). Portugal's greatest Manueline building, begun in 1501 on the wealth of the spice route and carved for a century in soft golden limestone. Inside are the tombs of Vasco da Gama and the poet Camões; the two-storey cloister is the thing people cross the country to see — stone carved into ropes, coral, armillary spheres, and sea monsters. Be at the door ~10 min before the slot time on the order confirmation.
+Pastéis de Belém has been shifted to the lunch block below to buy back time after the handover either way.
+
+2 minutes across the gardens from the pastelaria (**closed Mondays** — the reason Belém is Day 1; open Tue–Sun 09:30–18:30 in summer). Portugal's greatest Manueline building, begun in 1501 on the wealth of the spice route and carved for a century in soft golden limestone. Inside are the tombs of Vasco da Gama and the poet Camões; the two-storey cloister is the thing people cross the country to see — stone carved into ropes, coral, armillary spheres, and sea monsters. Be at the door ~10 min before the slot you pick when you redeem the voucher.
 
 ⚠️ **The free church (Santa Maria) is closed at this hour on a Sunday** — Sunday mornings belong to Mass, and tourist visits only run **14:00–17:00** on Sundays (vs. ~10:30–18:00 Tue–Sat). At 12:45 only the **cloister** is open. Do the cloister now, then swing back into the free church right at 14:00 on your way to lunch — it's the same 2-minute walk.
 
 |                                                  |                                                                                                                                                                                                             |
 | ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **The cloister** — €18 adult / **€9** youth (13–24, **bring ID**) → **€54 for four, €57.32 with the 5% fee** | The masterpiece — two storeys of carved stone lace. Mandatory pre-booked timed slot — ✅ done (order 38185413) |
+| **The cloister** — €18 adult / **€9** youth (13–24, **bring ID**) → **€54 for four, €57.32 with the 5% fee** | The masterpiece — two storeys of carved stone lace. Paid ✅ (order 38185413) — but held as an **open voucher**: 🔲 **schedule the timed slot online first** (code 38185413 · PIN 1CT468), then show the emailed ticket |
 | **14:00 — The free church** (Santa Maria)        | No ticket, always free — enter from the west door once it opens. Soaring palm-like columns, Vasco da Gama's tomb just inside the entrance. ~15–20 min                                                                  |
 
 **14:20 — Lunch in Belém + [Pastéis de Belém](https://maps.google.com/?q=Past%C3%A9is+de+Bel%C3%A9m+Lisbon+Portugal) [🌐](https://pasteisdebelem.pt)** ⭐ [📍](https://maps.google.com/?q=Pasteis+de+Belem+Lisbon+Portugal) — the yellow-fronted pastelaria on Rua de Belém is 3 minutes from Jerónimos and is where the pastel de nata was invented (1837), still made to the monastery recipe only three people know.
@@ -1111,7 +1124,7 @@ As everywhere on this trip, tourist access to a church closes while the liturgy 
 | ~~**Message apartment host re: early bag drop**~~ | ✅ **Done — Isabelly receives at 12:00** (online check-in + guest registration form both submitted Aug 12) | Booking.com chat |
 | ~~**LIS airport → apartment transfer**~~    | ✅ **Confirmed — Lisbon Transfers.** Driver in arrivals with a name sign, direct to the door, **keys handed over at the end of the journey** · driver **+351 918 672 706** | lisbon.at/lisbontransfers |
 | ⚠️ **Confirm who hands over the keys — driver or Isabelly at 12:00?** | 🔲 Before Aug 23 — decides whether Day 1 starts ~11:10 or 12:00 | Booking.com chat / concierge +351 925 360 038 |
-| ⚠️ **Verify the Jerónimos slot time on order 38185413** | 🔲 Before Aug 23 — if it's ≤12:30, ask Isabelly for 11:30 instead | **Ticket PDFs in the client area** — the purchase email shows no date/time |
+| 🔴 **Schedule the Jerónimos voucher into a real slot** | 🔲 **Before you go** — the PDFs are open-dated vouchers (*"THIS IS NOT A TICKET"*), valid to 30/01/2027, **no slot booked**. Blueticket → *Agendamento* → code **38185413** + PIN **1CT468** → pick Aug 23, 13:00-ish → entry ticket comes **by email** | blueticket.meo.pt · +351 218 918 506 (weekdays only) |
 | ~~**[Torre de Belém](https://maps.google.com/?q=Torre+de+Bel%C3%A9m+Lisbon+Portugal) (Day 1, 16:00)**~~       | ✅ Booked — order **38185394**, paid | — |
 | ~~**Jerónimos cloister (Day 1)**~~          | ✅ Booked — order **38185413**, paid | — |
 | ~~**[Palácio da Pena](https://maps.google.com/?q=Pal%C3%A1cio+da+Pena+Lisbon+Portugal) [🌐](https://www.parquesdesintra.pt) (Day 2, 10:00)**~~      | ✅ Booked & paid — Essential Visit, €20 adult | — |
@@ -3032,7 +3045,7 @@ _Re-sorted by urgency on **Aug 5** (T-14 days). Work the 🔴 table top to botto
 | Park Güell                          | Aug 27 · 09:30 · 4 × €18 · locator **700328431455**                                     |
 | Pena Palace (Sintra)                | Aug 24 · 10:00 palace slot · Essential Visit · paid (+ 4 park-shuttle tickets, undated) |
 | Quinta da Regaleira (Sintra)        | Aug 24 · **entry window 14:30–15:00** · VISITAS LIVRES self-guided · MEO Blueticket **38339594** · €80.54 paid · ⚠️ the email is not a ticket — download the PDFs |
-| Jerónimos cloister                  | Aug 23 · purchase **38185413** (03-08-2026, Visa/Mastercard) · 2 × ADULTO €18 + 2 × JOVEM 13-24 €9 = €54 + 5% fee €3.32 → **€57.32 paid** · ⚠️ **the email is not a ticket — download the PDFs from the client area** · 🔲 slot time not on the receipt, read it off the PDF |
+| Jerónimos cloister                  | Aug 23 · purchase **38185413** (03-08-2026, Visa/Mastercard) · 2 × ADULTO €18 + 2 × JOVEM 13-24 €9 = €54 + 5% fee €3.32 → **€57.32 paid** · 🔴 **held as an OPEN VOUCHER — not a ticket, no slot.** Schedule at blueticket.meo.pt → *Agendamento* → code **38185413** · PIN **1CT468** → entry ticket by email. Voucher valid to 30/01/2027 |
 | Torre de Belém                      | Aug 23 · 16:00 slot · order **38185394** · paid                                         |
 | São Vicente de Fora                 | Tue Aug 25 · ref **980497008** (2 × adult + 2 × youth) · entry at Largo de São Vicente · ⚠️ **download the PDF tickets** — show the phone at the ticket office · free cancel/reschedule until **23:59 Aug 24** |
 | Castelo de São Jorge                | Open ticket to 1 Nov 2026 · entry from 09:00 · paid                                     |

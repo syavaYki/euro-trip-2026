@@ -25,7 +25,7 @@
 - [x] **Zaragoza · message Isabel about an early bag drop** — arrive 12:28, check-in 16:00. Airbnb chat. Fallback: Delicias consigna, 08:00–21:00, €4–6/bag. _By ~Aug 26._
 - [ X] 🔴 **Lisbon · who actually hands over the keys on Aug 23?** The transfer confirmation says **the driver hands them over at the end of the journey** (arrive ~11:10); Isabelly separately confirmed a **12:00** personal welcome. Ask on Booking.com chat which it is — it decides whether Day 1 Belém starts ~45 min earlier. _Before Aug 23._
 - [x] **Save the Lisbon transfer driver's number offline on two phones — +351 918 672 706** (plus concierge **+351 925 360 038**). You'll need it in arrivals before any eSIM is sorted.
-- [ ] **Verify the Jerónimos slot time** (order 38185413) — the 12:00 Lisbon handover shifts Belém ~45 min later; if the slot is ≤12:30 it clashes. Slot time is on the **PDF**, not the receipt. If it clashes, ask Isabelly for 11:30 instead. _Before Aug 23._
+- [ ] 🔴 **Lisbon · redeem the Jerónimos voucher — it is NOT a ticket yet.** The four PDFs say *"THIS IS NOT A TICKET · THIS VOUCHER DOES NOT GRANT ENTRY"*: open-dated, valid to **30/01/2027**, **no slot booked**. Go to **blueticket.meo.pt → Scheduling / *Agendamento*** → **Código de Reserva 38185413** + **PIN 1CT468** → pick **Sun Aug 23, ~13:00** (clear of the 12:00 handover) → the **entry ticket arrives by email**; save it offline. The gate will not scan the voucher. _Today, before Belém._
 
 ---
 

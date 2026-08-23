@@ -63,7 +63,7 @@ No car. Metro + CP trains + Bolt do everything; Lisbon is big and hilly.
 
 | Sight | Adult | Youth (Emily 18 & Nicole 16) | Book? | When (our day) |
 |-------|------|-------------------|-------|-----------|
-| Mosteiro dos Jerónimos (cloister) | €18 (church free) | ~€9 (13–24, ID) | ✅ **Booked — order 38185413** | Day 1 — **closed Mon**; Sun church 14:00–17:00 |
+| Mosteiro dos Jerónimos (cloister) | €18 (church free) | ~€9 (13–24, ID) | 💳 Paid — order 38185413, but held as an **open voucher**: 🔲 schedule the slot online first | Day 1 — **closed Mon**; Sun church 14:00–17:00 |
 | Padrão dos Descobrimentos | €10 | ~€5 _(unverified)_ | ❌ | Day 1 — daily |
 | Torre de Belém (reopened 26 May 2026, timed entry) | €15 | **€7.50** (13–24, ID) | ✅ **Booked — order 38185394, 16:00** | Day 1 — closed Mon |
 | **Palácio da Pena (Sintra)** | €20 | reduced band — check | ✅ **Booked & paid — 10:00** | Day 2 |
@@ -118,7 +118,7 @@ No car. Metro + CP trains + Bolt do everything; Lisbon is big and hilly.
 | ~~**Palácio da Pena (Day 2)**~~ | ✅ Booked & paid — Essential Visit, €20 adult, 10:00 slot | — |
 | ~~**Quinta da Regaleira (Day 2)**~~ | ✅ Booked & paid — 38339594, €80.54 incl. 6% fee · entry window **14:30–15:00**. ⚠️ download the ticket PDFs, the email is not entry | MEO Blueticket |
 | ~~**Torre de Belém (Day 1, 16:00)**~~ | ✅ Booked — order **38185394**, paid | — |
-| ~~**Jerónimos (Day 1)**~~ | ✅ Booked — order **38185413**, paid | — |
+| 🔴 **Jerónimos (Day 1) — voucher not yet scheduled** | 💳 Paid (order **38185413**) but the PDFs are open-dated vouchers, *not* tickets. Blueticket → *Agendamento* → code **38185413** + PIN **1CT468** → pick the slot → ticket by email | MEO Blueticket — valid to 30/01/2027 |
 | ~~**Castelo de São Jorge (Day 3)**~~ | ✅ Booked & paid — open ticket valid until 1 Nov 2026 | — |
 | ~~**São Vicente de Fora (Day 3)**~~ | ✅ Booked — ref **980497008** (2 adult + 2 youth) · ⚠️ download the PDF tickets · free cancel to 23:59 Aug 24 | — |
 | ~~Lisbon apartment~~ | ✅ Booked — €579.50 paid | — |
