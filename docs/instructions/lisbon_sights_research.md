@@ -19,7 +19,7 @@
 
 | Name | What / why | Area | Cost (adult / youth — Emily 18 & Nicole 16) | Hours for Aug 23–26 | Book? | Tip |
 |------|------------|------|------|-------|-------|-----|
-| **Jerónimos Monastery** ⭐ [📍](https://maps.google.com/?q=Jer%C3%B3nimos+Monastery+Lisbon+Portugal) | Portugal's greatest Manueline building (1501) — spice-route wealth carved into stone lace; tombs of Vasco da Gama & Camões | Belém | €18 / ~€9 (13–24, ID) | Cloister Tue–Sun 09:30–18:30, **closed Mon**. Free church: Tue–Sat ~10:30–18:00, **Sun only 14:00–17:00** (Mass mornings) | ✅ **Booked — order 38185413, paid** (Day 1) | Two-storey cloister is the headline; the free church needs no ticket ever — Sunday plan: cloister 12:45, church at 14:00 |
+| **Jerónimos Monastery** ⭐ [📍](https://maps.google.com/?q=Jer%C3%B3nimos+Monastery+Lisbon+Portugal) | Portugal's greatest Manueline building (1501) — spice-route wealth carved into stone lace; tombs of Vasco da Gama & Camões | Belém | €18 / ~€9 (13–24, ID) | Cloister Tue–Sun 09:30–18:30, **closed Mon**. Free church: Tue–Sat ~10:30–18:00, **Sun only 14:00–17:00** (Mass mornings) | ✅ **Booked & paid — order 38185413 · Tue Aug 25, 15:30** (Day 3; free church done Day 1) | Two-storey cloister is the headline; the free church needs no ticket ever — Sunday plan: cloister 12:45, church at 14:00 |
 | **Torre de Belém** ⭐ [📍](https://maps.google.com/?q=Bel%C3%A9m+Tower+Lisbon+Portugal) | The 16th-c fortified gateway to the harbour — **reopened 26 May 2026 after 13-month restoration**; find the stone rhinoceros on the north bastion | Belém | €15 / €7.50 (13–24, ID) | Tue–Sun 09:30–18:00, **closed Mon**; timed slots, 60 per half-hour | ✅ **Booked — order 38185394, Aug 23 16:00, paid** | Be at the gate 15:55 — the spiral stair runs a traffic-light system, and late = forfeit |
 | **Padrão dos Descobrimentos** ⭐ [📍](https://maps.google.com/?q=Monument+to+the+Discoveries+Lisbon+Portugal) | 52 m limestone prow (1960) with Henry the Navigator leading 32 figures; lift to the roof = best single view in Belém | Belém | €10 / youth rate ~€5 ⚠️ unverified — ask | Daily 10:00–19:00 (Mar–Sep) | ❌ walk-up | Look down from the roof at the giant compass-rose mosaic; skip the lift if the Day 1 clock is tight |
 | **Castelo de São Jorge** ⭐ [📍](https://maps.google.com/?q=S%C3%A3o+Jorge+Castle+Lisbon+Portugal) | Moorish hilltop fortress over Roman and Iron-Age layers — ramparts, peacocks, the city's best all-round view | Alfama/Castelo | €17 / €8.50 (13–25, ID); under 12 free | Daily 09:00–21:00 (summer) | ✅ **Booked & paid — open ticket valid until 1 Nov 2026, entry from 09:00** (Day 3) | Enter at 09:00 before cruise crowds; ask a guide for the next **camera obscura** showing in the Tower of Ulysses |
@@ -192,11 +192,11 @@
 
 *(The master on the Overview tab is the source of truth — this is the sights-only skeleton.)*
 
-**Day 1 · Sun Aug 23 — Belém + Baixa (bags-light arrival):** Land 09:55 → bags to Anjos/host → Pastéis de Belém → **Jerónimos cloister ✅ (order 38185413)** → free church at 14:00 (Sunday hours) → Padrão dos Descobrimentos → **Torre de Belém 16:00 ✅ (order 38185394)** → MAAT rooftop → check-in 17:45 → Rua Augusta + Arco at golden hour → Praça do Comércio sunset (~20:20) → Time Out Market → Santini → São Pedro de Alcântara night view.
+**Day 1 · Sun Aug 23 — Belém + Baixa (bags-light arrival):** Land 09:55 → bags to Anjos/host → **Museu Nacional dos Coches** → Pastéis de Belém → free church at 14:00 (Sunday hours; **cloister moved to Tue 15:30**) → Padrão dos Descobrimentos → **Torre de Belém 16:00 ✅ (order 38185394)** → MAAT rooftop → check-in 17:45 → Rua Augusta + Arco at golden hour → Praça do Comércio sunset (~20:20) → Time Out Market → Santini → São Pedro de Alcântara night view.
 
 **Day 2 · Mon Aug 24 — Sintra ⭐⭐:** the playbook above. **Monday is deliberate** — Jerónimos, Belém Tower, Panteão, São Roque and most Lisbon museums close Mondays; Sintra's palaces run daily.
 
-**Day 3 · Tue Aug 25 — Alfama, Castle & Churches ⭐⭐:** **Castelo 09:00 ✅ (open ticket)** → Portas do Sol + Santa Luzia → **São Vicente de Fora ✅ (ref 980497008)** → Feira da Ladra (Tue!) → **Panteão Nacional (€10/€5)** → Alfama descent → Sé (€5, cloister shut — optional) → tasca lunch → **A:** São Roque + Prazeres cemetery / **B:** Museu do Fado a/c loop → **fado dinner at Parreirinha de Alfama 🔴 book** (sunset alt: Senhora do Monte ~20:19).
+**Day 3 · Tue Aug 25 — Alfama, Castle & Churches ⭐⭐:** **Castelo 09:00 ✅ (open ticket)** → Portas do Sol + Santa Luzia → **São Vicente de Fora ✅ (ref 980497008)** → Feira da Ladra (Tue!) → **Panteão Nacional (€10/€5)** → Alfama descent → Sé (€5, cloister shut — optional) → tasca lunch 13:30 → train to Belém → **Jerónimos cloister 15:30 ✅ (order 38185413)** → back east → **fado dinner at Parreirinha de Alfama 🔴 book** (sunset alt: Senhora do Monte ~20:19).
 
 **Day 4 · Wed Aug 26 — Slow morning + Oceanário + fly:** Manteigaria + Fabrica breakfast → **Convento do Carmo** 10:00 (Santa Justa viewed free from above — it's closed) → Metro to Oriente → **Oceanário 12:00 band 🔴 book/decide (€27 × 4)** → Vasco da Gama food-court lunch → bags from the apartment (paid through Aug 27) → LIS T1 by ~16:45 → **TP1038 18:55 ✅**. Fallback morning if Oceanário is dropped: Príncipe Real or LX Factory + Time Out lunch.
 
@@ -237,7 +237,7 @@
 
 | Item | Status | Action |
 |------|--------|--------|
-| Jerónimos cloister (Day 1) | ✅ Booked & paid — **order 38185413** | Be at the door ~10 min before the slot on the confirmation |
+| Jerónimos cloister (Day 3) | ✅ Booked & paid — **order 38185413 · Tue Aug 25, 15:30** | Be at the door 15:20. Bring **ID for the two youth tickets**; show the dated PDFs, not the old vouchers |
 | Torre de Belém 16:00 (Day 1) | ✅ Booked & paid — **order 38185394** | At the gate 15:55; 60-per-half-hour cap is strict |
 | Palácio da Pena 10:00 (Day 2) | ✅ Booked & paid — **Essential Visit, €20 adult** (+ 4 park-shuttle tickets, undated) | Palace door within ~30 min of 10:00; taxi up, not the 434 |
 | **Quinta da Regaleira 14:30 (Day 2)** | ✅ **Booked & paid** — 38339594 | VISITAS LIVRES (self-guided); €75 + €5.54 fee = €80.54. Entry window **14:30–15:00** |
