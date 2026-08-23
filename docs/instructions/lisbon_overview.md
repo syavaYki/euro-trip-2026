@@ -54,8 +54,8 @@ No car. Metro + CP trains + Bolt do everything; Lisbon is big and hilly.
 |-----|-------|---------------|
 | **Day 1** (Sun Aug 23) | Arrival + Belém (bags-light) | Land 09:55 → **transfer driver in arrivals** → bags + keys at the apartment → **Museu dos Coches** → Pastéis de Belém → free church 14:00 (**cloister moved to Tue 15:30**) → Padrão → **Torre de Belém 16:00 ✅** → check-in → Baixa golden hour → Ramiro dinner (Time Out as fallback) |
 | **Day 2** (Mon Aug 24) | **Sintra** ⭐⭐ | 08:11 train → taxi up → **Pena 10:00 ✅** → Moorish Castle (untimed) → **Tascantiga lunch 13:25 ✅** + Piriquita → **Regaleira 14:30 ✅** → Sintra old town → 17:00 train home → easy Lisbon evening (Príncipe do Calhariz). (Monday = most Lisbon museums shut, so Sintra today is deliberate. Coastal leg to Cabo da Roca/Cascais was cut) |
-| **Day 3** (Tue Aug 25) | Alfama, Castle & Churches ⭐⭐ | Castelo 09:00 ✅ → miradouros → **São Vicente ✅** → Feira da Ladra (Tue!) → Panteão → Alfama descent → Sé → tasca lunch 13:30 → cross to Belém → **Jerónimos cloister 15:30 ✅** → **fado dinner at Parreirinha 20:00 🔴 book** |
-| **Day 4** (Wed Aug 26) | Slow morning + Oceanário + depart | Manteigaria → Convento do Carmo → Metro to Oriente → **Oceanário 12:00 🔴 book/decide** → food-court lunch → bags from apartment → LIS T1 by ~16:45 → TP1038 18:55 |
+| **Day 3** (Tue Aug 25) | Alfama, Castle & Churches ⭐⭐ 🔀 *(evening Option B: Cristo Rei + Cacilhas dinner instead of fado)* | Castelo 09:00 ✅ → miradouros → **São Vicente ✅** → Feira da Ladra (Tue!) → Panteão → Alfama descent → Sé → tasca lunch 13:30 → cross to Belém → **Jerónimos cloister 15:30 ✅** → **fado dinner at Parreirinha 20:00 🔴 book** |
+| **Day 4** (Wed Aug 26) | Slow morning + Oceanário + depart | Manteigaria → Convento do Carmo → Metro to Oriente → **Oceanário 12:00 🔴 book/decide** → food-court lunch → bags from apartment → LIS T1 by ~16:45 → TP1038 18:55. 🔀 *Option B: ferry to **Cristo Rei** + Cacilhas lunch instead of the Oceanário — saves ~€108, hard cut-off back on a 15:00 ferry* |
 
 ---
 

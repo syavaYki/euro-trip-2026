@@ -999,6 +999,42 @@ Portugal's greatest Manueline building, begun in 1501 on the wealth of the spice
 
 ---
 
+#### 🔀 Evening Option B — [Cristo Rei](https://maps.google.com/?q=Santu%C3%A1rio+de+Cristo+Rei+Almada+Portugal) + a Cacilhas sunset dinner ⭐ *(alternative to fado — the fado plan above stays the default)*
+
+Cross the river instead of going back east. The **[Santuário de Cristo Rei](https://maps.google.com/?q=Santu%C3%A1rio+de+Cristo+Rei+Almada+Portugal) [🌐](https://cristorei.pt/en/)** stands on the Almada cliff at the south foot of the 25 de Abril bridge — a 28 m Christ with arms open over the Tagus, raised on an 82 m portico and opened in **1959** as thanks for Portugal being spared the Second World War. Rio's Christ the Redeemer was the model; the Cardinal Patriarch had seen it in 1934 and came home determined. A **lift runs up the inside of the pedestal** to an open platform where the whole city lies out in front of you — the bridge running away at your feet, Belém and Jerónimos downriver, the castle and Alfama piled up opposite.
+
+**The geography is the point on a Tuesday:** you finish the cloister in **Belém at ~16:30**, and Belém sits at the *north* foot of the same bridge. A Bolt straight across is **10–15 min** — far quicker than the ferry route from the city.
+
+| Time | What |
+| --- | --- |
+| **16:30** | Out of the cloister → **Bolt across the bridge** (~10–15 min, ~€12–18 for four) |
+| **16:50** | **Cristo Rei** — lift up, platform, the church below. ~1 hr–1 hr 15 |
+| **18:15** | Down to **[Cacilhas](https://maps.google.com/?q=Cacilhas+Almada+Portugal)** on the waterfront (Bolt ~10 min — see the bus warning below) |
+| **19:30** | **Dinner on the dock**, watching Lisbon light up across the water. Sunset **~20:15** |
+| **~21:30** | **Ferry Cacilhas → Cais do Sodré** (~8–10 min, runs late) then Metro/Bolt home |
+
+| | |
+| --- | --- |
+| **Hours (Apr–Sep)** | **Daily 10:00–19:00.** ⚠️ **Last ascent is 20 min before closing — 18:40.** |
+| **Lift tickets** | **13+ €10 · 8–12 €3 · under 8 free** → **€40 for the four of you** (Nicole is 16 and Emily 18, so everyone pays full) |
+| **Phone** | +351 212 751 000 |
+
+> ⚠️ **Two things that decide this option — read before committing:**
+> 1. **It closes at 19:00, so you will not see sunset from the platform.** The view is a daylight view. The sunset belongs to the Cacilhas waterfront afterwards, looking back at the city — which is arguably the better half anyway.
+> 2. **Bus 101** (Cacilhas terminal ↔ Cristo Rei, ~17 min) is the cheap way up and down, but published timetables have the **last departure around 18:17** — no use to you coming down at 18:15+. **Plan on a Bolt for the descent** and treat the bus as the daytime option (Wednesday's version below).
+
+**Where to eat in Cacilhas** — both sit on the water a short walk west of the ferry, facing Lisbon:
+
+| Option | Why | Book |
+| --- | --- | --- |
+| **[Atira-te ao Rio](https://maps.google.com/?q=Atira-te+ao+Rio+Cacilhas+Almada+Portugal)** ⭐ **← the pick** | Same dockside setting as its famous neighbour, reliably less busy, and **it takes reservations** — which is the whole argument on a peak-August Tuesday | Book ahead; listed daily 12:30–23:00 |
+| **[Ponto Final](https://maps.google.com/?q=Ponto+Final+Cacilhas+Almada+Portugal)** | The Instagram-famous one — a row of blue tables on the dock edge with nothing between you and the river | ⚠️ Booking is unreliable and queues are long. **Call before counting on it**, and check it's open Tuesday |
+
+> 💰 **The trade, honestly.** Fado at Parreirinha runs **€180–260 for four**; this evening is **€40 of lift tickets + ~€60–100 of dinner + ~€25 of Bolts**. But fado is the one thing you can only do *here*, and you'll have stood at Amália's tomb in the Panteão that same morning — the day is built to end at a fado table. **Cristo Rei is the better view; fado is the better Tuesday.** If you want both, Wednesday's Option B below gets you the statue without spending the evening.
+
+
+---
+
 ### Day 4 — Wednesday Aug 26 · Slow Morning + Oceanário + Fly to Barcelona
 
 > Flight TP1038 departs **18:55**; be at Terminal 1 by ~**16:45**. The apartment is paid through tomorrow, so the bags stay there all day — which unlocks a clean final loop: Chiado morning, then the **Oceanário at [Parque das Nações](https://maps.google.com/?q=Parque+das+Nacoes+Lisbon+Portugal) [🌐](https://www.portaldasnacoes.pt/en/), which sits on the airport side of town** (Oriente is 3 Metro stops from Aeroporto). One backtrack to collect bags, then out.
@@ -1030,6 +1066,31 @@ Portugal's greatest Manueline building, begun in 1501 on the wealth of the spice
 **16:20 — Terminal 1.** Security, screens for the gate, an Aloma nata airside if the tank has room.
 
 **18:55 — TP1038 departs → 21:50 land Barcelona (T1).**
+
+#### 🔀 Midday Option B — [Cristo Rei](https://maps.google.com/?q=Santu%C3%A1rio+de+Cristo+Rei+Almada+Portugal) instead of the Oceanário ⭐ *(the Oceanário plan above stays the default)*
+
+The **Oceanário is still unbooked**, so this swap costs nothing to make — and it frees the **~€108** the tickets would have taken. The two are in opposite directions (Oceanário is out at Parque das Nações on the airport side; Cristo Rei is across the river to the south-west), so it's genuinely one or the other. **[Convento do Carmo](https://maps.google.com/?q=Convento+do+Carmo+Lisbon+Portugal) stays in either way** — it's in Chiado, on the way down to the ferry.
+
+Full detail on the monument, tickets and the Cacilhas dockside restaurants is in **Day 3, Evening Option B** above. In daylight this version uses the **ferry + bus 101**, which is cheap and runs fine at this hour.
+
+| Time | What |
+| --- | --- |
+| **09:00** | Breakfast in Chiado — unchanged |
+| **10:00** | **Convento do Carmo** — unchanged, ~1 hr |
+| **11:05** | Walk down through Chiado to **[Cais do Sodré](https://maps.google.com/?q=Cais+do+Sodr%C3%A9+Lisbon+Portugal)** (~10 min, all downhill) |
+| **11:30** | **Ferry → [Cacilhas](https://maps.google.com/?q=Cacilhas+Almada+Portugal)** — ~8–10 min, departures ~every 15 min, **zapping on the Viva Viagem cards works** |
+| **11:50** | **Bus 101** from the terminal on your left as you step off the ferry → Almada Cristo Rei, ~17 min |
+| **12:10** | **Cristo Rei** — lift up, the platform, the church below. **13+ €10 · 8–12 €3 → €40 for four.** ~1 hr 15 |
+| **13:30** | Bus 101 or a Bolt back down to the Cacilhas waterfront |
+| **13:45** | **Lunch on the dock** — Atira-te ao Rio (books, daily 12:30–23:00) or Ponto Final. Lisbon laid out across the water |
+| **15:00** | ⛔ **Hard cut-off: be on a ferry back by 15:00.** Cais do Sodré 15:10 → Metro **Green line straight to Anjos** (~10 min, no changes) |
+| **15:30** | Bags at the apartment, repack |
+| **15:50** | To the airport — Metro Anjos → Alameda → Aeroporto (~20 min) or a Bolt (~€10) |
+| **16:45** | **Terminal 1.** TP1038 departs **18:55** |
+
+> ⚠️ **This is departure day and you'd be on the far side of the river.** That's the whole risk, and it's manageable if you respect one rule: **on a boat by 15:00, no exceptions** — not "one more photo". If anything slips, the emergency lane is a **Bolt straight back over the bridge to Anjos (~20 min)** rather than waiting on a ferry. Everything else about the day is unchanged: the bags never move from the apartment until you collect them.
+
+> 💡 **Why this one and not Tuesday's:** here the statue is a *daytime* stop that costs you an aquarium you haven't paid for, instead of an evening that costs you the fado. Cheaper, lower-regret, and the light at midday over the bridge is excellent — just hazier than late afternoon.
 
 **🔀 Fallback Day 4 (no Oceanário):** the slow-city version — pick ONE final neighbourhood off Chiado and don't zig-zag:
 
