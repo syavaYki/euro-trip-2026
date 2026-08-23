@@ -826,13 +826,14 @@ Lisbon is bigger and hillier than Porto. No car. Metro + trains + Bolt do everyt
 > 🔴 **What you hold is a VOUCHER, not a ticket — it must be scheduled online before it lets anyone in.** The four PDFs say it in capitals: *"THIS IS NOT A TICKET · THIS VOUCHER DOES NOT GRANT ENTRY."* There is **no date and no time on them** — they are open-dated, **valid until 30/01/2027**. Nothing was ever booked for a particular slot, so there is no slot to verify and nothing to clash with the handover.
 >
 > **Redeem it (5 minutes, do it before you leave for Belém):**
-> 1. Go to the site the voucher was bought from — **MEO Blueticket / Museus e Monumentos** ([blueticket.pt](https://blueticket.meo.pt/)).
-> 2. Open the **Scheduling / *Agendamento*** menu.
-> 3. Enter **Código de Reserva `38185413`** and **PIN `1CT468`** (or the purchase email address).
-> 4. Pick the **date and time** — Sun Aug 23, a slot from **13:00** on, comfortably clear of the 12:00 handover.
-> 5. The real **entry ticket arrives by email** — save the PDFs offline / in the MEO Blueticket app. *That* is what the door scans.
+> 1. Log in at **[blueticket.meo.pt](https://blueticket.meo.pt/)** and open the **Tickets** tab of your account.
+> 2. Find the **MOSTEIRO DOS JERÓNIMOS — CLAUSTRO** card. It reads **"4 Vouchers"** and its button says **"Schedule"** (the Quinta da Regaleira card above it says "4 Tickets / View Tickets" — that one is already a real ticket).
+> 3. Press **"Schedule"** on that card, then pick the **date and time** — Sun Aug 23, a slot from **13:00** on, comfortably clear of the 12:00 handover.
+> 4. The real **entry ticket arrives by email** — save the PDFs offline / in the MEO Blueticket app. *That* is what the door scans.
 >
-> ⚠️ **Do not turn up with the voucher PDFs** — the gate will not accept them. If the scheduling page misbehaves, call Blueticket on **+351 218 918 506** (weekdays 10:00–18:00, `info@blueticket.pt`) — but on a Sunday the line is closed, so leave time to sort it online.
+> ⚠️ **Not the "Schedule a Visit" tab** — that one is for *rescheduling tickets you already hold*, so with only vouchers in the account it answers *"You don't have tickets… you do not have tickets that can be rescheduled."* That message is not a problem; it's the wrong door. Go back to **Tickets** and use the card's own **Schedule** button.
+>
+> ⚠️ **Do not turn up with the voucher PDFs** — the gate will not accept them. If the flow won't budge from the account page, the vouchers also carry **Código de Reserva `38185413`** + **PIN `1CT468`** for the site's voucher-redemption form. Blueticket's phone (**+351 218 918 506**, `info@blueticket.pt`) is **weekdays 10:00–18:00** — closed today, so it has to be sorted online.
 >
 > The four vouchers: **2 × ADULTO €18** (`0001276089799`, `0001276089805`) + **2 × JOVEM 13–24 €9** (`0001276089836`, `0001276089843`) = €54, €57.32 with the 5% fee. Bring **ID for the two youth tickets**. Bonus on the same voucher: **5% off at the Museu de Arte Popular shop**.
 
@@ -1124,7 +1125,7 @@ As everywhere on this trip, tourist access to a church closes while the liturgy 
 | ~~**Message apartment host re: early bag drop**~~ | ✅ **Done — Isabelly receives at 12:00** (online check-in + guest registration form both submitted Aug 12) | Booking.com chat |
 | ~~**LIS airport → apartment transfer**~~    | ✅ **Confirmed — Lisbon Transfers.** Driver in arrivals with a name sign, direct to the door, **keys handed over at the end of the journey** · driver **+351 918 672 706** | lisbon.at/lisbontransfers |
 | ⚠️ **Confirm who hands over the keys — driver or Isabelly at 12:00?** | 🔲 Before Aug 23 — decides whether Day 1 starts ~11:10 or 12:00 | Booking.com chat / concierge +351 925 360 038 |
-| 🔴 **Schedule the Jerónimos voucher into a real slot** | 🔲 **Before you go** — the PDFs are open-dated vouchers (*"THIS IS NOT A TICKET"*), valid to 30/01/2027, **no slot booked**. Blueticket → *Agendamento* → code **38185413** + PIN **1CT468** → pick Aug 23, 13:00-ish → entry ticket comes **by email** | blueticket.meo.pt · +351 218 918 506 (weekdays only) |
+| 🔴 **Schedule the Jerónimos voucher into a real slot** | 🔲 **Before you go** — the PDFs are open-dated vouchers (*"THIS IS NOT A TICKET"*), valid to 30/01/2027, **no slot booked**. blueticket.meo.pt → **Tickets** tab → the *4 Vouchers* card → its **"Schedule"** button → pick Aug 23, 13:00-ish → entry ticket comes **by email**. ⚠️ *Not* the "Schedule a Visit" tab — that's for rescheduling issued tickets and shows an empty list | blueticket.meo.pt · +351 218 918 506 (weekdays only) |
 | ~~**[Torre de Belém](https://maps.google.com/?q=Torre+de+Bel%C3%A9m+Lisbon+Portugal) (Day 1, 16:00)**~~       | ✅ Booked — order **38185394**, paid | — |
 | ~~**Jerónimos cloister (Day 1)**~~          | ✅ Booked — order **38185413**, paid | — |
 | ~~**[Palácio da Pena](https://maps.google.com/?q=Pal%C3%A1cio+da+Pena+Lisbon+Portugal) [🌐](https://www.parquesdesintra.pt) (Day 2, 10:00)**~~      | ✅ Booked & paid — Essential Visit, €20 adult | — |
@@ -3045,7 +3046,7 @@ _Re-sorted by urgency on **Aug 5** (T-14 days). Work the 🔴 table top to botto
 | Park Güell                          | Aug 27 · 09:30 · 4 × €18 · locator **700328431455**                                     |
 | Pena Palace (Sintra)                | Aug 24 · 10:00 palace slot · Essential Visit · paid (+ 4 park-shuttle tickets, undated) |
 | Quinta da Regaleira (Sintra)        | Aug 24 · **entry window 14:30–15:00** · VISITAS LIVRES self-guided · MEO Blueticket **38339594** · €80.54 paid · ⚠️ the email is not a ticket — download the PDFs |
-| Jerónimos cloister                  | Aug 23 · purchase **38185413** (03-08-2026, Visa/Mastercard) · 2 × ADULTO €18 + 2 × JOVEM 13-24 €9 = €54 + 5% fee €3.32 → **€57.32 paid** · 🔴 **held as an OPEN VOUCHER — not a ticket, no slot.** Schedule at blueticket.meo.pt → *Agendamento* → code **38185413** · PIN **1CT468** → entry ticket by email. Voucher valid to 30/01/2027 |
+| Jerónimos cloister                  | Aug 23 · purchase **38185413** (03-08-2026, Visa/Mastercard) · 2 × ADULTO €18 + 2 × JOVEM 13-24 €9 = €54 + 5% fee €3.32 → **€57.32 paid** · 🔴 **held as an OPEN VOUCHER — not a ticket, no slot.** Schedule it in the Blueticket account → **Tickets** tab → the *4 Vouchers* card → **"Schedule"** → entry ticket by email (code **38185413** · PIN **1CT468** if asked). Voucher valid to 30/01/2027 |
 | Torre de Belém                      | Aug 23 · 16:00 slot · order **38185394** · paid                                         |
 | São Vicente de Fora                 | Tue Aug 25 · ref **980497008** (2 × adult + 2 × youth) · entry at Largo de São Vicente · ⚠️ **download the PDF tickets** — show the phone at the ticket office · free cancel/reschedule until **23:59 Aug 24** |
 | Castelo de São Jorge                | Open ticket to 1 Nov 2026 · entry from 09:00 · paid                                     |

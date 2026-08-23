@@ -118,7 +118,7 @@ No car. Metro + CP trains + Bolt do everything; Lisbon is big and hilly.
 | ~~**Palácio da Pena (Day 2)**~~ | ✅ Booked & paid — Essential Visit, €20 adult, 10:00 slot | — |
 | ~~**Quinta da Regaleira (Day 2)**~~ | ✅ Booked & paid — 38339594, €80.54 incl. 6% fee · entry window **14:30–15:00**. ⚠️ download the ticket PDFs, the email is not entry | MEO Blueticket |
 | ~~**Torre de Belém (Day 1, 16:00)**~~ | ✅ Booked — order **38185394**, paid | — |
-| 🔴 **Jerónimos (Day 1) — voucher not yet scheduled** | 💳 Paid (order **38185413**) but the PDFs are open-dated vouchers, *not* tickets. Blueticket → *Agendamento* → code **38185413** + PIN **1CT468** → pick the slot → ticket by email | MEO Blueticket — valid to 30/01/2027 |
+| 🔴 **Jerónimos (Day 1) — voucher not yet scheduled** | 💳 Paid (order **38185413**) but the PDFs are open-dated vouchers, *not* tickets. Blueticket account → **Tickets** tab → the *4 Vouchers* card → **"Schedule"** → pick the slot → ticket by email (not the "Schedule a Visit" tab) | MEO Blueticket — valid to 30/01/2027 |
 | ~~**Castelo de São Jorge (Day 3)**~~ | ✅ Booked & paid — open ticket valid until 1 Nov 2026 | — |
 | ~~**São Vicente de Fora (Day 3)**~~ | ✅ Booked — ref **980497008** (2 adult + 2 youth) · ⚠️ download the PDF tickets · free cancel to 23:59 Aug 24 | — |
 | ~~Lisbon apartment~~ | ✅ Booked — €579.50 paid | — |
