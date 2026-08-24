@@ -196,7 +196,7 @@
 
 **Day 1 · Sun Aug 23 — Belém + Baixa (bags-light arrival):** Land 09:55 → bags to Anjos/host → **Museu Nacional dos Coches** → Pastéis de Belém → free church at 14:00 (Sunday hours; **cloister moved to Tue 15:30**) → Padrão dos Descobrimentos → **Torre de Belém 16:00 ✅ (order 38185394)** → MAAT rooftop → check-in 17:45 → Rua Augusta + Arco at golden hour → Praça do Comércio sunset (~20:20) → Time Out Market → Santini → São Pedro de Alcântara night view.
 
-**Day 2 · Mon Aug 24 — Sintra ⭐⭐:** the playbook above. **Monday is deliberate** — Jerónimos, Belém Tower, Panteão, São Roque and most Lisbon museums close Mondays; Sintra's palaces run daily.
+**Day 2 · Mon Aug 24 — Sintra ⭐⭐:** the playbook above — **Pena 10:00 ✅ → Castelo dos Mouros 12:00–13:30 (extended, lunch dropped) → 🥾 Vila Sassetti path down to town → Regaleira 14:30 ✅ → old town + Piriquita → 17:30 train or Bolt home.** **Monday is deliberate** — Jerónimos, Belém Tower, Panteão, São Roque and most Lisbon museums close Mondays; Sintra's palaces run daily.
 
 **Day 3 · Tue Aug 25 — Alfama, Castle & Churches ⭐⭐:** **Castelo 09:00 ✅ (open ticket)** → Portas do Sol + Santa Luzia → **São Vicente de Fora ✅ (ref 980497008)** → Feira da Ladra (Tue!) → **Panteão Nacional (€10/€5)** → Alfama descent → Sé (€5, cloister shut — optional) → tasca lunch 13:30 → train to Belém → **Jerónimos cloister 15:30 ✅ (order 38185413)** → back east → 🔀 *evening Option B: Bolt over the bridge to **Cristo Rei** + a Cacilhas dockside sunset dinner, instead of fado* → **fado dinner at Parreirinha de Alfama 🔴 book** (sunset alt: Senhora do Monte ~20:19).
 

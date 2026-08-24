@@ -53,7 +53,7 @@ No car. Metro + CP trains + Bolt do everything; Lisbon is big and hilly.
 | Day | Theme | Key Activities |
 |-----|-------|---------------|
 | **Day 1** (Sun Aug 23) | Arrival + Belém (bags-light) | Land 09:55 → **transfer driver in arrivals** → bags + keys at the apartment → **Museu dos Coches** → Pastéis de Belém → free church 14:00 (**cloister moved to Tue 15:30**) → Padrão → **Torre de Belém 16:00 ✅** → check-in → Baixa golden hour → Ramiro dinner (Time Out as fallback) |
-| **Day 2** (Mon Aug 24) | **Sintra** ⭐⭐ | 08:11 train → taxi up → **Pena 10:00 ✅** → Moorish Castle (untimed) → **Tascantiga lunch 13:25 ✅** + Piriquita → **Regaleira 14:30 ✅** → Sintra old town → 17:00 train home → easy Lisbon evening (Príncipe do Calhariz). (Monday = most Lisbon museums shut, so Sintra today is deliberate. Coastal leg to Cabo da Roca/Cascais was cut) |
+| **Day 2** (Mon Aug 24) | **Sintra** ⭐⭐ | 08:11 train → taxi up → **Pena 10:00 ✅** → **Moorish Castle 12:00–13:30** (the long stop — no sit-down lunch, carry snacks) → 🥾 **Vila Sassetti walk down, 13:30–14:25** → **Regaleira 14:30 ✅** → Sintra old town + Piriquita → **17:30 train *or* Bolt home** → dinner near the apartment (Solar dos Presuntos / O Cartaxinho). (Monday = most Lisbon museums shut, so Sintra today is deliberate. Coastal leg to Cabo da Roca/Cascais was cut) |
 | **Day 3** (Tue Aug 25) | Alfama, Castle & Churches ⭐⭐ 🔀 *(evening Option B: Cristo Rei + Cacilhas dinner instead of fado)* | Castelo 09:00 ✅ → miradouros → **São Vicente ✅** → Feira da Ladra (Tue!) → Panteão → Alfama descent → Sé → tasca lunch 13:30 → cross to Belém → **Jerónimos cloister 15:30 ✅** → **fado dinner at Parreirinha 20:00 🔴 book** |
 | **Day 4** (Wed Aug 26) | Slow morning + Oceanário + depart | Manteigaria → Convento do Carmo → Metro to Oriente → **Oceanário 12:00 🔴 book/decide** → food-court lunch → bags from apartment → LIS T1 by ~16:45 → TP1038 18:55. 🔀 *Option B: ferry to **Cristo Rei** + Cacilhas lunch instead of the Oceanário — saves ~€108, hard cut-off back on a 15:00 ferry* |
 
@@ -97,7 +97,7 @@ No car. Metro + CP trains + Bolt do everything; Lisbon is big and hilly.
 | Day | Breakfast | Lunch | Dinner |
 |-----|-----------|-------|--------|
 | Day 1 (Sun) | (travel) | **O Prado** ⭐ (Belém, 1 street back) or kiosks + pastéis | **Cervejaria Ramiro** ⭐ (Sunday-open 12:00–23:00) — Time Out / Príncipe do Calhariz as fallback |
-| Day 2 (Mon) | Rossio takeaway | **Tascantiga** ✅ 🔴 book (Apeadeiro ⭐ / Tasca do Manel ~€8 as backups); Piriquita = pastry stop | **Príncipe do Calhariz** (€12–20, open Mondays 12:00–15:00 & 19:00–22:30) — or **O Cartaxinho / Esquina da Fé / Forninho Saloio** ⭐ (€10–15, 10–14 min from the flat) |
+| Day 2 (Mon) | Rossio takeaway | **No lunch — carry snacks up the hill.** Piriquita *travesseiros* at 16:15 is the reward; Tascantiga (Mon 12:15–16:15) only if the plan collapses | **Príncipe do Calhariz** (€12–20, open Mondays 12:00–15:00 & 19:00–22:30) — or **O Cartaxinho / Esquina da Fé / Forninho Saloio** ⭐ (€10–15, 10–14 min from the flat) |
 | Day 3 (Tue) | Copenhagen Coffee Lab | **Zé dos Cornos 13:30** ✅ (cash only, no bookings, lunch service only — earlier now, Belém at 15:30) — O Trigueirinho / Páteo 13 as backups | Fado **20:00–20:30** — call **A Baiuca** first (€25), else **Parreirinha** 🔴 book |
 | Day 4 (Wed) | Manteigaria + Fabrica | Vasco da Gama food court | (plane / BCN) |
 
