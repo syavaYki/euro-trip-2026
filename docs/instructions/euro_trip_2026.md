@@ -1058,24 +1058,31 @@ Portugal's greatest Manueline building, begun in 1501 on the wealth of the spice
 
 > 💡 **That castle ticket is what buys you the lie-in.** It's the biggest time-block of the original day (1.5 hrs plus the climb), it's already paid, and it expires **1 Nov 2026** — so dropping it tomorrow costs nothing but the chance to use it. See the note at the end for where it could go instead.
 
-**The shape: one neighbourhood in the morning, one in the afternoon, nothing in between.**
+**The shape: Alfama until mid-afternoon, Belém for the cloister, then out of Belém for the evening.** Late start, but not an empty day.
 
 | Time | What |
 | --- | --- |
 | **10:30** | **Sleep in, then a proper breakfast.** [Copenhagen Coffee Lab](https://maps.google.com/?q=Copenhagen+Coffee+Lab+Lisbon+Portugal) or [A Padaria Portuguesa](https://maps.google.com/?q=A+Padaria+Portuguesa+Lisbon+Portugal) near Arroios — no rush, no queue at this hour |
-| **11:30** | **Bolt or tram up to [São Vicente de Fora](https://maps.google.com/?q=Mosteiro+de+S%C3%A3o+Vicente+de+Fora+Lisbon+Portugal)** ✅ (ref 980497008). Ride up, don't climb. Azulejo cloisters, the **Bragança Royal Pantheon**, and the **rooftop terrace** over Alfama and the river — which gives you the paid-miradouro view without the castle climb. ~1 hr |
-| **12:45** | **[Feira da Ladra](https://maps.google.com/?q=Feira+da+Ladra+Lisbon+Portugal)** — Tuesdays only, and it spills across Campo de Santa Clara right beside the monastery, so it's zero detour. Antique azulejos and junk. 20–30 min, entirely optional |
-| **13:15** | **Lunch: [Zé dos Cornos](https://maps.google.com/?q=Z%C3%A9+dos+Cornos+Beco+dos+Surradores+5+Lisboa+Portugal)** ⭐⭐ (Beco dos Surradores 5, Mouraria) — oven ribs, ~€13 a rack and **a rack feeds two**. ⚠️ **Cash only, no reservations, Tuesday is lunch service only (~12:00–16:30).** Phone **+351 218 869 641** in the morning to check they're open |
-| **14:30** | **Cross to Belém** — Bolt (~20 min, €10–14) rather than the Cais do Sodré train change. On a slow day, pay the €10 |
+| **11:30** | **Bolt up to [São Vicente de Fora](https://maps.google.com/?q=Mosteiro+de+S%C3%A3o+Vicente+de+Fora+Lisbon+Portugal)** ✅ (ref 980497008). Ride up, don't climb. Azulejo cloisters, the **Bragança Royal Pantheon**, and the **rooftop terrace** over Alfama and the river — the miradouro view without the castle climb. ~1 hr |
+| **12:45** | **[Feira da Ladra](https://maps.google.com/?q=Feira+da+Ladra+Lisbon+Portugal)** — Tuesdays only, spilling across Campo de Santa Clara right beside the monastery. Zero detour. 20–25 min |
+| **13:15** | 🥪 **Quick, light lunch — not a sit-down.** The kiosks at **[Portas do Sol](https://maps.google.com/?q=Miradouro+das+Portas+do+Sol+Lisbon+Portugal)** and **[Santa Luzia](https://maps.google.com/?q=Miradouro+de+Santa+Luzia+Lisbon+Portugal)** do *bifanas*, *pastéis de bacalhau*, sandwiches and cold drinks on a terrace over the rooftops — 5 min from the Feira, ~€6–10 a head, and you're sitting in the view instead of queuing for it. **[Gelato Davvero](https://maps.google.com/?q=Gelato+Davvero+Lisbon+Portugal)** (R. de São Cristóvão, 4.9★) on the way out |
+| **13:55** | **[Panteão Nacional (Santa Engrácia)](https://maps.google.com/?q=Panteao+Nacional+%28Santa+Engracia%29+Lisbon+Portugal)** ⭐ — 3 min downhill from the Feira, so it costs you nothing in transit. The great white baroque dome that took 284 years to finish, tombs of Portuguese greats including **Amália Rodrigues**, and a **dome terrace with a 360° over the rooftops and river**. €10 adult / €5 youth 13–24 at the door. ~45 min |
+| **14:50** | 🚗 **Bolt to Belém** — ~20 min, €10–14. Order it from outside the Panteão |
 | **15:20** | At the Jerónimos door |
-| **15:30** | 🎟️ **[Jerónimos cloister](https://maps.google.com/?q=Mosteiro+dos+Jer%C3%B3nimos+Lisbon+Portugal)** ✅ — the only fixed point of the day. ~1 hr. **ID for the two youth tickets** |
-| **16:45** | **Belém, doing nothing much** — [Pastéis de Belém](https://maps.google.com/?q=Past%C3%A9is+de+Bel%C3%A9m+Lisbon+Portugal) again, the lawns of Jardim de Belém, the free **MAAT rooftop** at a quiet hour. Sit down. That's the point |
-| **18:00** | **Home to change** (~30 min). A real rest before dinner |
-| **20:00** | **Dinner** — fado if you've booked it, otherwise a neighbourhood table near the apartment |
+| **15:30–17:30** | 🎟️ **[Jerónimos cloister](https://maps.google.com/?q=Mosteiro+dos+Jer%C3%B3nimos+Lisbon+Portugal)** ✅ — **two full hours, deliberately.** Both storeys, twice round if you like: the rope-and-coral carving, the armillary spheres, the sea monsters in the corner capitals, the refectory tiles, the chapter house. **ID for the two youth tickets** |
+| **17:45** | 🚗 **Bolt out of Belém to [LX Factory](https://maps.google.com/?q=LX+Factory+Rua+Rodrigues+de+Faria+103+Lisboa+Portugal)** — ~10 min, €7–10, and it's on the way home |
+| **18:00–20:00** | **[LX Factory](https://maps.google.com/?q=LX+Factory+Rua+Rodrigues+de+Faria+103+Lisboa+Portugal)** (Alcântara, under the 25 de Abril bridge) — a 19th-century industrial complex turned into design shops, street art and terraces, with the bridge roaring overhead. **[Ler Devagar](https://maps.google.com/?q=Ler+Devagar+LX+Factory+Lisboa+Portugal)** — the bookshop with the flying-bicycle sculpture and two-storey walls of books — is the one to see. It's alive in the evening when Belém has gone dark, and nothing here needs a ticket |
+| **20:30** | **Dinner** — fado if you've booked it, LX Factory's own terraces if you'd rather not move, or home to Arroios |
 
-**What this drops from the full day:** the castle, the two Alfama miradouros, the Panteão (€10/€5, unbooked), the Sé (€5, unbooked), and the "pick your lane" afternoon. **Nothing paid is wasted except the castle ticket, which doesn't expire until November.**
+> 🚗 **Belém's problem in the evening:** you've already done the whole waterfront — Padrão, the Tower, MAAT, the church — and every Belém museum shuts by 18:30. That's why this version **leaves** after the cloister instead of lingering. LX Factory is 10 minutes away, open late, and free.
 
-> ✅ **The two things to actually verify tomorrow morning:** that Zé dos Cornos is open (phone), and that everyone has the Jerónimos PDFs *and* photo ID. Nothing else about this day can go wrong.
+> 🐴 **Option: the [Museu Nacional dos Coches](https://maps.google.com/?q=Museu+Nacional+dos+Coches+Lisbon+Portugal) — the one Belém thing you haven't done.** The world's finest collection of royal carriages, gilded past all reason and air-conditioned. **Tue–Sun 10:00–18:30, closed Mondays** — so tomorrow works. Prices are quoted variously (~€8 for the main hall, ~€15 for the combined ticket including the old Picadeiro; **13–24 half price, under 12 free**) — check at the desk.
+>
+> ⚠️ **It does not fit *after* a 17:30 cloister finish.** To include it, **swap the Alfama afternoon for an early Belém**: skip the Panteão, Bolt to Belém at **13:15**, light lunch on Rua de Belém (**[Pão Pão Queijo Queijo](https://maps.google.com/?q=P%C3%A3o+P%C3%A3o+Queijo+Queijo+Rua+de+Bel%C3%A9m+126+Lisboa+Portugal)**, €6–9) plus pastéis, then **Coches 14:00–15:10** — it's 5 minutes from the monastery — and walk straight to the cloister door. Everything from 15:30 stays identical.
+
+**What this drops from the full day:** the castle, the two Alfama miradouros (you get the same view from São Vicente's roof), the Sé (€5, unbooked), and the "pick your lane" afternoon. **Nothing paid is wasted except the castle ticket, which doesn't expire until November.**
+
+> ✅ **The only two things to check in the morning:** that everyone has the **Jerónimos PDFs and photo ID**, and — if you want the fado table at 20:30 — that it's actually booked.
 
 > 🏰 **Where the castle could go instead:** it opens **09:00 daily** and the ticket runs to 1 Nov. **Wednesday morning** is the only slot left — but Wednesday is departure day (Convento do Carmo 10:00, then the Oceanário *or* Cristo Rei, bags, and an 18:55 flight), so it would mean an early start and dropping something else. Honest answer: on a slow-day plan, **the €51 is probably spent** — decide whether that's worth an 08:45 alarm on your last morning.
 
