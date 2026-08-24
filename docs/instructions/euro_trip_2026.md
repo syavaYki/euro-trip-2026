@@ -977,7 +977,7 @@ Through the centre past the **[Palácio Nacional](https://maps.google.com/?q=Pal
 
 > 🧭 **Geography of the day:** start at the top (the castle) and spiral **downhill all morning** — miradouros → São Vicente → Feira da Ladra → Panteão → down through Alfama's lanes to the Sé at the bottom. No climb repeated, no backtrack. Ride **up** by Bolt/tuk-tuk, walk everything **down**.
 
-**09:00 — [Castelo de São Jorge](https://maps.google.com/?q=Castelo+de+S%C3%A3o+Jorge+Lisbon+Portugal) [🌐](https://castelodesaojorge.pt/en/)** ⭐ ✅ **Booked & paid — open ticket, valid until 1 Nov 2026, entry from 09:00.** (Daily 09:00–21:00 in summer; €17 adult / €8.50 youth 13–25 — **bring ID**, under 12 free.) Be at the gate at opening, before the cruise crowds and the heat — Bolt or tuk-tuk up, the climb from the Baixa is brutal in August. Moorish ramparts you can walk, an archaeological dig spanning the Iron Age to 1147, the resident **peacocks**, and the finest all-round view in Lisbon. Ask a guide for the next **camera obscura** showing in the Tower of Ulysses — a live 360° image of the city projected onto a dish. ~1.5 hrs.
+**09:00 — [Castelo de São Jorge](https://maps.google.com/?q=Castelo+de+S%C3%A3o+Jorge+Lisbon+Portugal) [🌐](https://castelodesaojorge.pt/en/)** ⭐ ✅ **Booked & paid — bilheteiraOnline, *"Validade até 1|Nov|2026, 09:00"*, entrada única. NO date, NO time slot** — 2 × Adulto €17 + 2 × Jovens (13–25) €8.50 = **€51**. (Daily 09:00–21:00 in summer — **bring ID**, under 12 free.) ⚠️ **One entry only, no re-entry.** Be at the gate at opening, before the cruise crowds and the heat — Bolt or tuk-tuk up, the climb from the Baixa is brutal in August. Moorish ramparts you can walk, an archaeological dig spanning the Iron Age to 1147, the resident **peacocks**, and the finest all-round view in Lisbon. Ask a guide for the next **camera obscura** showing in the Tower of Ulysses — a live 360° image of the city projected onto a dish. ~1.5 hrs.
 
 **10:45 — Alfama miradouros** — 5 min downhill from the castle gate to two viewpoints side by side: **[Portas do Sol](https://maps.google.com/?q=Miradouro+das+Portas+do+Sol+Lisbon+Portugal)** (the postcard sweep over Alfama's rooftops to the river and the Panteão's white dome) and, just below it, **[Miradouro de Santa Luzia](https://maps.google.com/?q=Miradouro+de+Santa+Luzia+Lisbon+Portugal)** (a rose-draped, tiled terrace with two azulejo panels of pre-earthquake Lisbon). Both turn into cruise-ship scrums by midday — you're catching them early.
 
@@ -1045,6 +1045,41 @@ Portugal's greatest Manueline building, begun in 1501 on the wealth of the spice
 > 💡 **If you're fado'd out instead:** **[Miradouro da Senhora do Monte](https://maps.google.com/?q=Miradouro+da+Senhora+do+Monte+Lisbon+Portugal)** — the highest, least-crowded viewpoint in Lisbon — for sunset (**~20:19**), then a tasca dinner and gelato on the walk home.
 
 ---
+
+#### 🐌 Day Option B — the slow day (late start) ⭐ *(after a hard Sintra day — the full plan above stays the default)*
+
+**Everything booked still gets used, and the day starts at 10:30 instead of 08:30.** That's possible because only *one* thing tomorrow is actually timed:
+
+| Booked item | Timed? | What that means |
+| --- | --- | --- |
+| **Jerónimos cloister** — order 38185413 | ⏰ **YES — 15:30, in Belém** | The single hard anchor. Be at the door 15:20 |
+| **São Vicente de Fora** — Tiqets ref **980497008** | 📅 **Date only — Aug 25, no time** | 2 × Adult + 2 × Youth on **one barcode**. Open daily 10:00–19:00, **last admission 18:00**, ~1 hr. Show the phone at the ticket office |
+| **Castelo de São Jorge** — bilheteiraOnline | ❌ **No date at all** | *"Validade até 1|Nov|2026, 09:00 · Entrada única"* — 2 × Adulto €17 + 2 × Jovens 13–25 €8.50 = **€51**. Valid for months, so it does **not** have to be tomorrow |
+
+> 💡 **That castle ticket is what buys you the lie-in.** It's the biggest time-block of the original day (1.5 hrs plus the climb), it's already paid, and it expires **1 Nov 2026** — so dropping it tomorrow costs nothing but the chance to use it. See the note at the end for where it could go instead.
+
+**The shape: one neighbourhood in the morning, one in the afternoon, nothing in between.**
+
+| Time | What |
+| --- | --- |
+| **10:30** | **Sleep in, then a proper breakfast.** [Copenhagen Coffee Lab](https://maps.google.com/?q=Copenhagen+Coffee+Lab+Lisbon+Portugal) or [A Padaria Portuguesa](https://maps.google.com/?q=A+Padaria+Portuguesa+Lisbon+Portugal) near Arroios — no rush, no queue at this hour |
+| **11:30** | **Bolt or tram up to [São Vicente de Fora](https://maps.google.com/?q=Mosteiro+de+S%C3%A3o+Vicente+de+Fora+Lisbon+Portugal)** ✅ (ref 980497008). Ride up, don't climb. Azulejo cloisters, the **Bragança Royal Pantheon**, and the **rooftop terrace** over Alfama and the river — which gives you the paid-miradouro view without the castle climb. ~1 hr |
+| **12:45** | **[Feira da Ladra](https://maps.google.com/?q=Feira+da+Ladra+Lisbon+Portugal)** — Tuesdays only, and it spills across Campo de Santa Clara right beside the monastery, so it's zero detour. Antique azulejos and junk. 20–30 min, entirely optional |
+| **13:15** | **Lunch: [Zé dos Cornos](https://maps.google.com/?q=Z%C3%A9+dos+Cornos+Beco+dos+Surradores+5+Lisboa+Portugal)** ⭐⭐ (Beco dos Surradores 5, Mouraria) — oven ribs, ~€13 a rack and **a rack feeds two**. ⚠️ **Cash only, no reservations, Tuesday is lunch service only (~12:00–16:30).** Phone **+351 218 869 641** in the morning to check they're open |
+| **14:30** | **Cross to Belém** — Bolt (~20 min, €10–14) rather than the Cais do Sodré train change. On a slow day, pay the €10 |
+| **15:20** | At the Jerónimos door |
+| **15:30** | 🎟️ **[Jerónimos cloister](https://maps.google.com/?q=Mosteiro+dos+Jer%C3%B3nimos+Lisbon+Portugal)** ✅ — the only fixed point of the day. ~1 hr. **ID for the two youth tickets** |
+| **16:45** | **Belém, doing nothing much** — [Pastéis de Belém](https://maps.google.com/?q=Past%C3%A9is+de+Bel%C3%A9m+Lisbon+Portugal) again, the lawns of Jardim de Belém, the free **MAAT rooftop** at a quiet hour. Sit down. That's the point |
+| **18:00** | **Home to change** (~30 min). A real rest before dinner |
+| **20:00** | **Dinner** — fado if you've booked it, otherwise a neighbourhood table near the apartment |
+
+**What this drops from the full day:** the castle, the two Alfama miradouros, the Panteão (€10/€5, unbooked), the Sé (€5, unbooked), and the "pick your lane" afternoon. **Nothing paid is wasted except the castle ticket, which doesn't expire until November.**
+
+> ✅ **The two things to actually verify tomorrow morning:** that Zé dos Cornos is open (phone), and that everyone has the Jerónimos PDFs *and* photo ID. Nothing else about this day can go wrong.
+
+> 🏰 **Where the castle could go instead:** it opens **09:00 daily** and the ticket runs to 1 Nov. **Wednesday morning** is the only slot left — but Wednesday is departure day (Convento do Carmo 10:00, then the Oceanário *or* Cristo Rei, bags, and an 18:55 flight), so it would mean an early start and dropping something else. Honest answer: on a slow-day plan, **the €51 is probably spent** — decide whether that's worth an 08:45 alarm on your last morning.
+
+> 🌉 **The Cristo Rei evening below still works with this version** — the cloister still finishes in Belém at ~16:30, and Belém is still at the north foot of the bridge. It just replaces the 18:00 rest rather than the fado.
 
 #### 🔀 Evening Option B — [Cristo Rei](https://maps.google.com/?q=Santu%C3%A1rio+de+Cristo+Rei+Almada+Portugal) + a Cacilhas sunset dinner ⭐ *(alternative to fado — the fado plan above stays the default)*
 
@@ -3148,8 +3183,8 @@ _Re-sorted by urgency on **Aug 5** (T-14 days). Work the 🔴 table top to botto
 | Quinta da Regaleira (Sintra)        | Aug 24 · **entry window 14:30–15:00** · VISITAS LIVRES self-guided · MEO Blueticket **38339594** · €80.54 paid · ⚠️ the email is not a ticket — download the PDFs |
 | Jerónimos cloister                  | **Tue Aug 25 · 15:30** · purchase **38185413** (03-08-2026, Visa/Mastercard) · 2 × ADULTO €18 + 2 × JOVEM 13-24 €9 = €54 + 5% fee €3.32 → **€57.32 paid** · dated tickets issued 23 Aug via mmp.bymeoblueticket.pt · barcodes `…144066` `…144073` `…144080` `…144097` · ⚠️ **bring ID for the two youth tickets**; the old voucher PDFs are void |
 | Torre de Belém                      | Aug 23 · 16:00 slot · order **38185394** · paid                                         |
-| São Vicente de Fora                 | Tue Aug 25 · ref **980497008** (2 × adult + 2 × youth) · entry at Largo de São Vicente · ⚠️ **download the PDF tickets** — show the phone at the ticket office · free cancel/reschedule until **23:59 Aug 24** |
-| Castelo de São Jorge                | Open ticket to 1 Nov 2026 · entry from 09:00 · paid                                     |
+| São Vicente de Fora                 | Tue Aug 25 · Tiqets ref **980497008** (2 × adult + 2 × youth, **one barcode for all four**) · 📅 **date-only, NO time slot** · open 10:00–19:00, **last admission 18:00**, ~1 hr · entry at Largo de São Vicente · ⚠️ **download the PDF tickets** — show the phone at the ticket office · free cancel/reschedule until **23:59 Aug 24** |
+| Castelo de São Jorge                | **Open ticket — no date, no slot.** bilheteiraOnline: *"Validade até 1|Nov|2026, 09:00"* · entrada única (no re-entry) · 2 × Adulto €17 + 2 × Jovens 13–25 €8.50 = **€51 paid** · daily 09:00–21:00 summer |
 | Palacio Real (Madrid)               | Wed Sep 2 · **10:15** · order **R120871238** · 4 × Self-Guided Visit / Standard Admission · **€75.08 paid** · Calle de Bailén, s/n · ⚠️ download the ticket PDFs |
 | 7 Bridges sunset cruise (Porto)     | Aug 21 · 18:45–20:45 · ref **GYG7VKRQ9BVG** (booking #368686504) · Leçaodouro +351 934 604 483 · meet 430 Rua da Praia, Gaia (door C) |
 

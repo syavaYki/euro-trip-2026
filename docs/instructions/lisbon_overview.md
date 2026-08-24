@@ -54,7 +54,7 @@ No car. Metro + CP trains + Bolt do everything; Lisbon is big and hilly.
 |-----|-------|---------------|
 | **Day 1** (Sun Aug 23) | Arrival + Belém (bags-light) | Land 09:55 → **transfer driver in arrivals** → bags + keys at the apartment → **Museu dos Coches** → Pastéis de Belém → free church 14:00 (**cloister moved to Tue 15:30**) → Padrão → **Torre de Belém 16:00 ✅** → check-in → Baixa golden hour → Ramiro dinner (Time Out as fallback) |
 | **Day 2** (Mon Aug 24) | **Sintra** ⭐⭐ | 08:11 train → taxi up → **Pena 10:00 ✅** → **Moorish Castle 12:00–13:30** (the long stop — no sit-down lunch, carry snacks) → 🥾 **Vila Sassetti walk down, 13:30–14:25** → **Regaleira 14:30 ✅** → Sintra old town + Piriquita → **17:30 train *or* Bolt home** → dinner near the apartment (Solar dos Presuntos / O Cartaxinho). (Monday = most Lisbon museums shut, so Sintra today is deliberate. Coastal leg to Cabo da Roca/Cascais was cut) |
-| **Day 3** (Tue Aug 25) | Alfama, Castle & Churches ⭐⭐ 🔀 *(evening Option B: Cristo Rei + Cacilhas dinner instead of fado)* | Castelo 09:00 ✅ → miradouros → **São Vicente ✅** → Feira da Ladra (Tue!) → Panteão → Alfama descent → Sé → tasca lunch 13:30 → cross to Belém → **Jerónimos cloister 15:30 ✅** → **fado dinner at Parreirinha 20:00 🔴 book** |
+| **Day 3** (Tue Aug 25) | Alfama, Castle & Churches ⭐⭐ 🐌 *(Option B — slow day: 10:30 start, São Vicente + Feira → lunch → Belém cloister 15:30 → rest. Castle ticket is undated, valid to 1 Nov, so it keeps)* 🔀 *(evening Option B: Cristo Rei + Cacilhas dinner instead of fado)* | Castelo 09:00 ✅ → miradouros → **São Vicente ✅** → Feira da Ladra (Tue!) → Panteão → Alfama descent → Sé → tasca lunch 13:30 → cross to Belém → **Jerónimos cloister 15:30 ✅** → **fado dinner at Parreirinha 20:00 🔴 book** |
 | **Day 4** (Wed Aug 26) | Slow morning + Oceanário + depart | Manteigaria → Convento do Carmo → Metro to Oriente → **Oceanário 12:00 🔴 book/decide** → food-court lunch → bags from apartment → LIS T1 by ~16:45 → TP1038 18:55. 🔀 *Option B: ferry to **Cristo Rei** + Cacilhas lunch instead of the Oceanário — saves ~€108, hard cut-off back on a 15:00 ferry* |
 
 ---
@@ -120,7 +120,7 @@ No car. Metro + CP trains + Bolt do everything; Lisbon is big and hilly.
 | ~~**Torre de Belém (Day 1, 16:00)**~~ | ✅ Booked — order **38185394**, paid | — |
 | ~~**Jerónimos cloister (Day 3, 15:30)**~~ | ✅ Booked & paid — order **38185413** · **Tue 25 Aug, 15:30** · redeemed 23 Aug at mmp.bymeoblueticket.pt · ⚠️ ID for the two youth tickets; old voucher PDFs void | — |
 | ~~**Castelo de São Jorge (Day 3)**~~ | ✅ Booked & paid — open ticket valid until 1 Nov 2026 | — |
-| ~~**São Vicente de Fora (Day 3)**~~ | ✅ Booked — ref **980497008** (2 adult + 2 youth) · ⚠️ download the PDF tickets · free cancel to 23:59 Aug 24 | — |
+| ~~**São Vicente de Fora (Day 3)**~~ | ✅ Booked — Tiqets ref **980497008** (2 adult + 2 youth, **one barcode**) · 📅 **date-only, no time slot** · last admission 18:00 · free cancel/reschedule to 23:59 Aug 24 | — |
 | ~~Lisbon apartment~~ | ✅ Booked — €579.50 paid | — |
 | ~~LIS → BCN flight (TP1038)~~ | ✅ Booked — Aug 26 18:55 | — |
 
