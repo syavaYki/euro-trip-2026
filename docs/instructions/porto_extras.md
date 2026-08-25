@@ -1,14 +1,13 @@
-# 📍 Parked — discussed, not on the plan
+# Porto — Extras & Loose Ends
+## Everything we talked about that isn't in the day plans
 
-> Everything that came up in planning and **didn't make the itinerary** — with the reason, so nothing gets re-litigated at 18:00 on a tired evening. Some of it was ruled out for good (closed, cancelled, wrong day), some of it is simply next-time material.
+> Places found, considered, recommended or rejected while planning the three Porto days — **none of these are scheduled**. Keep it as the "what else is there" list: for a spare hour, a plan that collapses, or a next visit. Anything here that gets used should move into the day plan and out of this file.
 >
-> 🔁 **To promote something off this list:** add it to the day in `euro_trip_2026.md`, update that city's overview quick-reference, and add the pin to the matching CSV in `docs/goog-map-data/`. Then delete it from here.
+> 🔁 **To promote something:** add it to the day in `euro_trip_2026.md`, update `porto_overview.md`'s quick-reference, add the pin to the matching CSV in `docs/goog-map-data/`, then delete it from here.
 
 ---
 
-## 🇵🇹 Porto — Aug 20–23
-
-### ⛔ Ruled out, with the reason
+## ⛔ Ruled out, with the reason
 
 | Thing | Why it's not happening | Status |
 | ----- | ----------------------- | ------ |
@@ -25,7 +24,7 @@
 
 ---
 
-### 🍷 The one real gap: no port lodge
+## 🍷 The one real gap: no port lodge
 
 **There was no port-house visit anywhere in the three Porto days** — the single most Porto thing on offer, and it never landed. It was pencilled in as a Day-1 swap and lost to the Gaia bridge loop; on Day 3 the lodges sit on the wrong side of the river for a walk that had to end at the hotel.
 
@@ -42,7 +41,7 @@
 
 ---
 
-### 👁️ Viewpoints, rides and walks never used
+## 👁️ Viewpoints, rides and walks never used
 
 | Spot | What | Cost |
 | ---- | ---- | ---- |
@@ -54,7 +53,7 @@
 
 ---
 
-### ⛪ Churches we talked about and didn't get into
+## ⛪ Churches we talked about and didn't get into
 
 | Church | The draw | Cost / hours |
 | ------ | -------- | ------------ |
@@ -67,7 +66,7 @@
 
 ---
 
-### 🌳 Green, quiet and out of the centre
+## 🌳 Green, quiet and out of the centre
 
 | Spot | What | Cost |
 | ---- | ---- | ---- |
@@ -82,7 +81,7 @@
 
 ---
 
-### 🌊 Water and coast we never reached
+## 🌊 Water and coast we never reached
 
 | Spot | What | Note |
 | ---- | ---- | ---- |
@@ -93,7 +92,7 @@
 
 ---
 
-### 🍽️ Tables we listed and never sat at
+## 🍽️ Tables we listed and never sat at
 
 The full catalogue lives in `porto_food_research.md` — these are the ones that actually came up in conversation.
 
@@ -111,7 +110,7 @@ The full catalogue lives in `porto_food_research.md` — these are the ones that
 
 ---
 
-### 🚆 Day trips from Porto, all untaken
+## 🚆 Day trips from Porto, all untaken
 
 All by public transport, all next-time.
 
@@ -124,24 +123,6 @@ All by public transport, all next-time.
 | **[Amarante](https://maps.google.com/?q=Amarante+Portugal)** | ~1 hr by bus | ~€8 | São Gonçalo monastery and the river bridge. ⚠️ Sparse buses — lock the return first |
 | **[Coimbra](https://maps.google.com/?q=Coimbra+Portugal)** | ~1h15 Alfa Pendular | ~€30 | The medieval university library, and Portugal dos Pequeninos for the younger end |
 | **[Peso da Régua](https://maps.google.com/?q=Peso+da+R%C3%A9gua+Portugal)** (Douro) | ~1h55 from São Bento | €20 | **The train ride is the attraction.** Sit right going out, left coming back. See the ruled-out table above |
-
----
-
-## 🇵🇹 Lisbon — Aug 23–26
-
-_Nothing parked yet._
-
-## 🇪🇸 Barcelona — Aug 26–31
-
-_Nothing parked yet — Sunday Aug 30's losing options (Valencia by train / by car / Old City) are still written out in the master, not here._
-
-## 🇪🇸 Zaragoza — Aug 31 – Sep 1
-
-_Nothing parked yet._
-
-## 🇪🇸 Madrid — Sep 1–5
-
-_Nothing parked yet._
 
 ---
 
