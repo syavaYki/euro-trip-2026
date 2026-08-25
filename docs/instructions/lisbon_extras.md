@@ -25,10 +25,12 @@
 
 | Place | Why | Where | ⚠️ |
 | --- | --- | --- | --- |
-| **[As Bifanas do Afonso](https://maps.google.com/?q=As+Bifanas+do+Afonso+Rua+da+Madalena+146+Lisboa)** ⭐⭐ **the pick** | A hole in the wall that makes essentially one thing. The locals' choice, **~€2 a sandwich** | R. da Madalena 146 — **5 min downhill from the Sé** | **Closes 19:30 · weekdays only (Sat–Sun shut)** |
-| **[Casa das Bifanas](https://maps.google.com/?q=Casa+das+Bifanas+Pra%C3%A7a+da+Figueira+Lisboa)** | Serving them since 1955 | Praça da Figueira 7 | Open later than Afonso |
-| **[Café Beira Gare](https://maps.google.com/?q=Caf%C3%A9+Beira+Gare+Lisboa)** | Buttery-garlic-sauce version; old-school, open late | Opposite Rossio station | The reliable evening fallback |
+| **[Casa das Bifanas](https://maps.google.com/?q=Casa+das+Bifanas+Pra%C3%A7a+da+Figueira+Lisboa)** ⭐⭐ **the pick** | Serving them since **1955**, and open **06:30–00:00, seven days a week** — no closing time to race | Praça da Figueira 6–7 | On the Sé → Rua da Madalena → Figueira line. Became the pick when Afonso went dark |
+| **[Café Beira Gare](https://maps.google.com/?q=Beira+Gare+Pra%C3%A7a+Dom+Jo%C3%A3o+da+C%C3%A2mara+4+Lisboa)** | More pronounced buttery-garlic sauce; old-school room | Pç. Dom João da Câmara 4, opposite Rossio station | **Mon–Sat 11:30–22:00, closed Sundays** |
+| ~~**[As Bifanas do Afonso](https://maps.google.com/?q=As+Bifanas+do+Afonso+Rua+da+Madalena+146+Lisboa)**~~ ⚠️ | *Was* the pick — a hole in the wall making essentially one thing, **~€2 a sandwich**, the locals' choice | R. da Madalena 146 | 🔴 **Google showed it TEMPORARILY CLOSED on 25 Aug 2026.** No closure reported anywhere online — most likely the August family holiday. **Re-check the live listing before walking over**; if it's back, it's still the best of them (Mon–Fri 07:30–19:30, Sat to 14:00, Sun shut) |
 | **[O Trevo](https://maps.google.com/?q=O+Trevo+Pra%C3%A7a+Lu%C3%ADs+de+Cam%C3%B5es+Lisboa)** | The Anthony Bourdain one — most famous bifana counter in the world. The soul of it is the back counter where locals stand | Praça Luís de Camões, Chiado | Wrong side of town if you're coming down from Alfama |
+
+> ⚠️ **Lesson worth keeping: check Google's live "Open now" before crossing town for any small Lisbon room**, especially in August. Printed hours and travel guides lag by months; the owner's own listing does not.
 
 > 💡 **Order like a local:** *"uma bifana e uma imperial."* Mustard and piri-piri are on the counter — say yes.
 
