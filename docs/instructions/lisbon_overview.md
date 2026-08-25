@@ -13,7 +13,7 @@
 | **Host** | **Isabelly** — receives you in person at 12:00 |
 | **Airport transfer** | ✅ **Confirmed — [Lisbon Transfers](https://lisbon.at/lisbontransfers), LIS arrivals → the apartment door.** Driver waits in **arrivals holding a sign with your name** and **hands over the keys at the end of the journey**. Delays / can't find him: **+351 918 672 706** |
 | **Check-in** | Sun Aug 23 · ✅ **12:00 confirmed with Isabelly** (standard window 16:00–22:00 — this is an agreed early arrival). ✅ Online check-in **and guest registration form** both submitted Aug 12 — no paperwork on arrival. Flight lands 09:55, transfer drives you door-to-door — **no locker, no LUGGit**. ⚠️ **Two key handovers on record** (driver vs. Isabelly at 12:00) — confirm which before Aug 23 |
-| **Check-out** | Thu Aug 27 by 10:00 — but **physically depart Wed Aug 26 evening** (apt paid through Aug 27, so bags stay there on departure day). 🔴 **Confirm with Isabelly in writing**: bags in the flat until a **15:00** pickup, and **where the keys go** when you leave — draft message in `todo.md` |
+| **Check-out** | **You physically depart Wed Aug 26 evening.** ⚠️ **Bags may _not_ simply stay in the flat that day** — 🔴 **ask Isabelly to hold them until a 15:00 pickup and offer a fee**, and ask **where the keys go**. Draft message in `todo.md`; fallback LUGGit / Bounce |
 | **Wi-Fi** | **MEO-A687C0** · password **c5702d610e** |
 | **Phone** | Concierge, 24/7 emergencies: **+351 925 360 038** · transfer driver: **+351 918 672 706** |
 | **Booking** | ✅ Booking.com · Non-refundable · €579.50 paid |
