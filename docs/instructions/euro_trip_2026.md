@@ -1088,6 +1088,82 @@ Portugal's greatest Manueline building, begun in 1501 on the wealth of the spice
 
 > 🌉 **The Cristo Rei evening below still works with this version** — the cloister still finishes in Belém at ~16:30, and Belém is still at the north foot of the bridge. It just replaces the 18:00 rest rather than the fado.
 
+#### 🏛️ Day Option C — three booked sites + the city centre ⭐⭐ *(uses every ticket, ends in the Baixa)*
+
+**Summary — this is the version that spends all three tickets and finishes in the touristy heart of the city.**
+
+| | |
+| --- | --- |
+| **Shape** | Two booked sites side by side in Alfama all morning → Belém for the timed cloister → **the centre until late** |
+| **Start** | **10:00** — Bolt straight up the hill, no climbing |
+| **The only clock** | **Jerónimos 15:30.** Everything before it is flexible, everything after it is free-form |
+| **Tickets used** | ✅ **All three** — Castelo de São Jorge, São Vicente de Fora, Jerónimos cloister |
+| **Free extras** | Feira da Ladra, both Alfama miradouros, the Panteão from outside, and a whole evening of churches and squares that cost nothing |
+| **Money on the day** | ~€25–35 of Bolts. Everything else is paid or free |
+| **No dinner booked** | Deliberately — eat where you land in the centre |
+
+| Time | Where | What |
+| --- | --- | --- |
+| **10:00** | Bolt up | To the castle gate — don't walk the hill |
+| **10:15–11:45** | 🎟️ **[Castelo de São Jorge](https://maps.google.com/?q=Castelo+de+S%C3%A3o+Jorge+Lisbon+Portugal)** | Booked ✅ |
+| **11:50–12:15** | **Two miradouros** | Free, on the way downhill |
+| **12:20–13:20** | 🎟️ **[São Vicente de Fora](https://maps.google.com/?q=Mosteiro+de+S%C3%A3o+Vicente+de+Fora+Lisbon+Portugal)** | Booked ✅ — 10 min from the castle |
+| **13:25–14:20** | **[Feira da Ladra](https://maps.google.com/?q=Feira+da+Ladra+Lisbon+Portugal)** + kiosk lunch | Free, next door |
+| **14:35** | 🚗 Bolt to Belém | ~20–25 min |
+| **15:30–17:30** | 🎟️ **[Jerónimos cloister](https://maps.google.com/?q=Mosteiro+dos+Jer%C3%B3nimos+Lisbon+Portugal)** | Booked ✅ — two slow hours |
+| **17:45–21:30** | **The centre** | Churches, squares, sunset on the river |
+
+---
+
+**10:00 — Bolt to the castle gate.** ~15 min from Arroios, €6–9. The walk up from the Baixa is brutal and pointless; ride it.
+
+**10:15–11:45 — [Castelo de São Jorge](https://maps.google.com/?q=Castelo+de+S%C3%A3o+Jorge+Lisbon+Portugal) [🌐](https://castelodesaojorge.pt/en/)** ⭐ ✅ **Booked & paid** — undated ticket, entrada única, so today is as good as any. Moorish ramparts you can walk end to end, an archaeological dig running from the Iron Age to 1147, the resident **peacocks**, and the widest view in Lisbon. Ask at the gate for the next **camera obscura** showing in the Tower of Ulysses — a live 360° projection of the city onto a white dish, and the thing people remember. ~1.5 hrs.
+
+**11:50 — The two miradouros, free, straight downhill.** 5 min from the castle gate: **[Portas do Sol](https://maps.google.com/?q=Miradouro+das+Portas+do+Sol+Lisbon+Portugal)** — the postcard sweep over Alfama's rooftops to the river and the Panteão's white dome — and just below it **[Miradouro de Santa Luzia](https://maps.google.com/?q=Miradouro+de+Santa+Luzia+Lisbon+Portugal)**, a rose-draped tiled terrace with two big azulejo panels of pre-earthquake Lisbon.
+
+**12:20–13:20 — [Mosteiro de São Vicente de Fora](https://maps.google.com/?q=Mosteiro+de+S%C3%A3o+Vicente+de+Fora+Lisbon+Portugal) [🌐](https://mosteirodesaovicentedefora.com/en/)** ⭐⭐ ✅ **Booked — Tiqets ref 980497008, date-only, no time slot.** A 10-min walk northeast along the ridge from the miradouros — the second booked site, and the reason this pair works: they're on the same hilltop. Vast white monastery with cloisters tiled floor-to-ceiling in **azulejos** (find the Aesop's fables panels), the **Bragança Royal Pantheon** where the kings and queens lie in marble, and a **rooftop terrace** over Alfama and the Tagus. ⚠️ **One barcode for all four of you** — keep the phone handy. Last admission 18:00, but you'll be long gone.
+
+**13:25 — [Feira da Ladra](https://maps.google.com/?q=Feira+da+Ladra+Lisbon+Portugal) + lunch, both just outside the door.** The "thieves' market" spills across **[Campo de Santa Clara](https://maps.google.com/?q=Campo+de+Santa+Clara+Lisbon+Portugal)** immediately beside the monastery — **Tuesdays and Saturdays only**, so today is one of the two days it exists. Real antique azulejo tiles, old Port bottles and ceramics among the junk. Haggle gently, keep bags zipped.
+
+| Lunch — quick and light, all within 5 min | |
+| --- | --- |
+| **Kiosks at [Portas do Sol](https://maps.google.com/?q=Miradouro+das+Portas+do+Sol+Lisbon+Portugal) / [Santa Luzia](https://maps.google.com/?q=Miradouro+de+Santa+Luzia+Lisbon+Portugal)** ⭐ | *Bifanas*, *pastéis de bacalhau*, sandwiches, cold drinks — on a terrace over the rooftops. ~€6–10/pp |
+| **The market stalls themselves** | Grilled sardine and bread stands set up among the junk on Feira days |
+| **[Maçã Verde](https://maps.google.com/?q=Ma%C3%A7%C3%A3+Verde+Rua+dos+Caminhos+de+Ferro+Lisboa+Portugal)** | If you want a sit-down after all — workers' room down by Santa Apolónia, daily specials, €10–15/pp |
+
+> 👀 **And "just outside", free, if you want one more:** the **[Panteão Nacional](https://maps.google.com/?q=Panteao+Nacional+%28Santa+Engracia%29+Lisbon+Portugal)** is 3 minutes downhill and its great white baroque dome is worth walking round the outside of even if you don't pay the €10 to go in. Same for the **[Igreja de Santo Estêvão](https://maps.google.com/?q=Igreja+de+Santo+Est%C3%AAv%C3%A3o+Alfama+Lisboa+Portugal)** on its own little terrace in the lanes below.
+
+**14:35 — 🚗 Bolt to Belém.** ~20–25 min, €10–14. Leave from Campo de Santa Clara. This is the one transfer with a deadline on it — don't let the market swallow it.
+
+**15:30–17:30 — [Mosteiro dos Jerónimos](https://maps.google.com/?q=Mosteiro+dos+Jer%C3%B3nimos+Lisbon+Portugal) [🌐](https://patrimoniocultural.gov.pt/en/museus-e-monumentos/mosteiro-dos-jeronimos/), the cloister** ⭐⭐ ✅ **Booked & paid — 25 Aug 2026, 15:30.** Door at **15:20**. Two full hours, both storeys, twice round if you want it: rope-and-coral carving, armillary spheres, sea monsters in the corner capitals, the refectory tiles, the chapter house. ⚠️ **Photo ID for the two youth tickets.**
+
+---
+
+### 🌆 17:45 onward — the centre, on foot
+
+🚗 **Bolt or the Cascais-line train from Belém to [Cais do Sodré](https://maps.google.com/?q=Cais+do+Sodr%C3%A9+Lisbon+Portugal)** (~7 min by train, €1.60pp on zapping; Bolt ~20 min). From there everything below is walkable and downhill-ish. **Sunset is ~20:10.**
+
+> ⏰ **Do the ticketed and church interiors FIRST — most shut between 18:30 and 19:00.** The squares, the river and the lit-up streets are better after dark anyway.
+
+| Stop | What it is | Cost |
+| --- | --- | --- |
+| **[Igreja de São Roque](https://maps.google.com/?q=Igreja+de+S%C3%A3o+Roque+Lisbon+Portugal) [🌐](https://museusaoroque.scml.pt/en/)** ⭐⭐ **← go here first** | Plain façade hiding the most extravagant interior in Lisbon: the **Chapel of St John the Baptist**, built in Rome, blessed by the Pope, shipped here in pieces in 1742 — once the most expensive chapel in the world. Painted-wood ceiling, gilt everywhere | **Church free**; museum €2.50 |
+| **[Convento do Carmo](https://maps.google.com/?q=Convento+do+Carmo+Lisbon+Portugal) [🌐](https://www.museuarqueologicodocarmo.pt/info_en.html)** ⭐⭐ | The roofless Gothic nave the 1755 earthquake left standing — arches open straight to the sky. The single most atmospheric ruin in the city, and it's right at the top of the Santa Justa lift | ~€7 adult, reduced youth |
+| **[Elevador de Santa Justa](https://maps.google.com/?q=Elevador+de+Santa+Justa+Lisbon+Portugal)** | Raoul Mesnier's 1902 iron tower. **Don't queue and don't pay** — walk to it from the Carmo side and photograph it from the free upper walkway | Free from above |
+| **[Igreja de São Domingos](https://maps.google.com/?q=Igreja+de+S%C3%A3o+Domingos+Lisboa+Portugal)** ⭐ | The one that stops people: gutted by the 1959 fire and left that way — scorched red pillars, cracked stone, blackened ceiling, still in use. Unforgettable and completely free | Free |
+| **[Praça do Rossio](https://maps.google.com/?q=Rossio+Lisbon+Portugal)** (Pç. Dom Pedro IV) | The city's living room since the Middle Ages — wave-pattern mosaic paving, two baroque fountains, the National Theatre at the top | Free |
+| **[Praça da Figueira](https://maps.google.com/?q=Pra%C3%A7a+da+Figueira+Lisbon+Portugal)** | Next door, quieter, with the bronze king on horseback and the castle framed above the rooftops | Free |
+| **[Igreja da Conceição Velha](https://maps.google.com/?q=Igreja+da+Concei%C3%A7%C3%A3o+Velha+Lisboa+Portugal)** | A survivor: the **Manueline portal from 1520** lived through the earthquake, carved with the Virgin sheltering kings and bishops under her cloak. Two minutes off Praça do Comércio and almost nobody goes in | Free |
+| **[Praça do Município](https://maps.google.com/?q=Pra%C3%A7a+do+Munic%C3%ADpio+Lisboa+Portugal)** | City Hall and the twisted stone pillory, on the quiet side street between Rua Augusta and the river | Free |
+| **[Praça do Comércio](https://maps.google.com/?q=Pra%C3%A7a+do+Com%C3%A9rcio+Lisbon+Portugal)** ⭐ | The great riverfront square — best light **19:45–20:15**. Grab a **ginjinha** (€1.50, chocolate cup) on the way | Free |
+| **[Cais das Colunas](https://maps.google.com/?q=Cais+das+Colunas+Lisboa+Portugal)** ⭐ | The marble steps going straight down into the Tagus behind the square. Sit on them for **sunset ~20:10** — this is the picture of Lisbon | Free |
+| **[Rua Augusta](https://maps.google.com/?q=Rua+Augusta+Lisbon+Portugal) + the [Arco](https://maps.google.com/?q=Arco+da+Rua+Augusta+Lisbon+Portugal)** | Walk it back up after dark when it's lit and busy. The arch climb is ~€3–4 if you want the rooftop view | Free / €3–4 |
+| **[Miradouro de Santa Catarina](https://maps.google.com/?q=Miradouro+de+Santa+Catarina+Lisbon+Portugal)** | If there's energy left: the Adamastor terrace above the river, young and loud at night, reached past the **[Elevador da Bica](https://maps.google.com/?q=Elevador+da+Bica+Lisbon+Portugal)** funicular | Free |
+
+> 🍽️ **No dinner is planned, by design.** You'll be in the middle of the densest restaurant district in Lisbon — eat wherever looks right when you're hungry. If you want a safety net: **[Time Out Market](https://maps.google.com/?q=Time+Out+Market+Lisboa+Lisbon+Portugal)** at Cais do Sodré is open to midnight, and **[Solar dos Presuntos](https://maps.google.com/?q=Solar+dos+Presuntos+Rua+das+Portas+de+Santo+Ant%C3%A3o+150+Lisboa+Portugal)** (Portas de Santo Antão 150) is 4 min from Rossio if you'd rather book something proper. Gelato at **[Santini](https://maps.google.com/?q=Santini+Lisbon+Portugal)** in Chiado on the way home.
+
+> 💡 **A walkable order that doesn't zig-zag:** Cais do Sodré → up to Chiado → **São Roque** → **Carmo** → Santa Justa from above → down to **São Domingos** → **Rossio** → **Figueira** → down Rua Augusta → **Conceição Velha** → **Praça do Município** → **Praça do Comércio** → **Cais das Colunas** for sunset → back up Rua Augusta lit. Bolt home ~€6.
+
 #### 🔀 Evening Option B — [Cristo Rei](https://maps.google.com/?q=Santu%C3%A1rio+de+Cristo+Rei+Almada+Portugal) + a Cacilhas sunset dinner ⭐ *(alternative to fado — the fado plan above stays the default)*
 
 Cross the river instead of going back east. The **[Santuário de Cristo Rei](https://maps.google.com/?q=Santu%C3%A1rio+de+Cristo+Rei+Almada+Portugal) [🌐](https://cristorei.pt/en/)** stands on the Almada cliff at the south foot of the 25 de Abril bridge — a 28 m Christ with arms open over the Tagus, raised on an 82 m portico and opened in **1959** as thanks for Portugal being spared the Second World War. Rio's Christ the Redeemer was the model; the Cardinal Patriarch had seen it in 1934 and came home determined. A **lift runs up the inside of the pedestal** to an open platform where the whole city lies out in front of you — the bridge running away at your feet, Belém and Jerónimos downriver, the castle and Alfama piled up opposite.
@@ -1124,72 +1200,74 @@ Cross the river instead of going back east. The **[Santuário de Cristo Rei](htt
 
 ---
 
-### Day 4 — Wednesday Aug 26 · Slow Morning + Oceanário + Fly to Barcelona
+### Day 4 — Wednesday Aug 26 · Cristo Rei, the Upper City & Fly to Barcelona ⭐
 
-> Flight TP1038 departs **18:55**; be at Terminal 1 by ~**16:45**. The apartment is paid through tomorrow, so the bags stay there all day — which unlocks a clean final loop: Chiado morning, then the **Oceanário at [Parque das Nações](https://maps.google.com/?q=Parque+das+Nacoes+Lisbon+Portugal) [🌐](https://www.portaldasnacoes.pt/en/), which sits on the airport side of town** (Oriente is 3 Metro stops from Aeroporto). One backtrack to collect bags, then out.
+**Summary — the last day is exploration, not a big ticket. ❌ The Oceanário is dropped.**
 
-**09:00 — Breakfast + last pastéis** — from Arroios drop down to Chiado (12 min on foot, or one Metro stop to Baixa-Chiado). All three sit a couple of minutes from the Carmo climb:
+| | |
+| --- | --- |
+| **Shape** | Ride over the bridge for the statue and the view → straight back to town → wander the upper city on foot → bags → airport |
+| **Start** | **09:15** out the door — early only because the statue is across the river |
+| **The only clock** | ⛔ **Bags by 15:00, Terminal 1 by 16:45.** TP1038 departs **18:55** |
+| **Booked** | Nothing today. Total freedom |
+| **Money on the day** | **Cristo Rei lift €10 × 4 = €40** · Bolts ~€45–60 · lunch. The dropped aquarium saves **~€108** |
+| **Bags** | Stay at the apartment all day (paid through tomorrow) — you collect them at 15:00 and go |
 
-| Option | Why | Where |
+| Time | Where | What |
 | --- | --- | --- |
-| **[Manteigaria](https://maps.google.com/?q=Manteigaria+Lisbon+Portugal) [🌐](https://www.manteigaria.com/en/)** (Chiado) ⭐ | Standing-counter nata, piping hot — the great rival to Belém, watch them come out of the oven | Rua do Loreto 2 |
-| **[Fabrica Coffee Roasters](https://maps.google.com/?q=Fabrica+Coffee+Roasters+Lisbon+Portugal) [🌐](https://fabricacoffeeroasters.com/)** | Pour-over next door — _"the fruity coffee complements the custard perfectly"_ | Rua Nova da Trindade 18F |
-| **[A Brasileira](https://maps.google.com/?q=A+Brasileira+Lisbon+Portugal) [🌐](https://www.abrasileira.pt/en/)** | 1905 Art Nouveau landmark, Pessoa's bronze at the terrace — coffee for the atmosphere | Rua Garrett 120 |
+| **09:15** | 🚗 Bolt over the bridge | ~20–25 min to Almada |
+| **10:00–11:00** | **[Cristo Rei](https://maps.google.com/?q=Santu%C3%A1rio+de+Cristo+Rei+Almada+Portugal)** | Lift up, look, come back. That's the whole point |
+| **11:30** | 🚗 Bolt back to town | Drop at **[Príncipe Real](https://maps.google.com/?q=Pra%C3%A7a+do+Pr%C3%ADncipe+Real+Lisboa+Portugal)** |
+| **11:45–14:30** | **The upper city on foot** | Príncipe Real → Bairro Alto → Chiado, all downhill |
+| **14:30** | **Lunch** | Wherever you've landed |
+| **15:00** | **Bags** | Metro or Bolt to Anjos |
+| **15:50 → 16:45** | **Airport** | T1 by 16:45 |
+| **18:55** | ✈️ **TP1038** | → Barcelona 21:50 |
 
-**10:00 — [Convento do Carmo](https://maps.google.com/?q=Convento+do+Carmo+Lisbon+Portugal) [🌐](https://www.museuarqueologicodocarmo.pt/info_en.html) (Museu Arqueológico)** ⭐ — a 4-min uphill walk from Manteigaria into Largo do Carmo (Mon–Sat 10:00–19:00 May–Oct, **closed Sundays** — today's a Wednesday, fine; **€7**, under 14 free). The Gothic church whose roof caved in during the **1755 earthquake** and was never rebuilt: the nave is a cage of skeletal arches open to the sky, with a small museum at the back holding two pre-Columbian mummies the kids find ghoulish-good. ⚠️ The **[Elevador de Santa Justa](https://maps.google.com/?q=Elevador+de+Santa+Justa+Lisbon+Portugal) [🌐](https://www.carris.pt/en/elevadores/)** next door is **closed for maintenance (2026)** — you still get the best free look at its ironwork and viewing deck from this Carmo side. 45–60 min.
+---
 
-**11:20 — Metro to Oriente.** Baixa-Chiado (Green) → Alameda → (Red) → Oriente, ~25 min. Calatrava's white rib-vaulted **[Oriente station](https://maps.google.com/?q=Gare+do+Oriente+Lisbon+Portugal)** is worth the two minutes it takes to look up.
+**09:15 — 🚗 Bolt straight over the [25 de Abril bridge](https://maps.google.com/?q=Ponte+25+de+Abril+Lisboa+Portugal).** ~20–25 min, €15–20. The ride itself is half the fun — you cross the Tagus on the suspension bridge with the whole city laid out on your right. **No ferry, no bus 101** — on a departure day you want a car both ways, not a connection.
 
-**12:00 — [Oceanário de Lisboa](https://maps.google.com/?q=Ocean%C3%A1rio+de+Lisboa+Lisbon+Portugal) [🌐](https://oceanario.pt/en/)** ⭐⭐ 🔴 **UNBOOKED — book the 12:00-band timed entry now (Aug 5); August slots go.** One of the world's great aquariums: a single 5-million-litre central ocean tank circled by four habitat coasts, sea otters, a sunfish, shark silhouettes overhead. Allow 2 hrs. **2026 pricing is time-banded and everyone 13+ pays adult:** 10:00–11:30 entry €29 / **12:00–15:30 €27** / 16:00–18:30 €25 → **€108 for four** at the 12:00 band, oceanario.pt. Open daily 10:00–20:00.
+**10:00–11:00 — [Santuário de Cristo Rei](https://maps.google.com/?q=Santu%C3%A1rio+de+Cristo+Rei+Almada+Portugal) [🌐](https://cristorei.pt/en/)** ⭐ — **just to see it**, exactly as planned. A 28 m Christ with arms open over the river, raised on an 82 m portico and opened in **1959** in thanks for Portugal being spared the Second World War; Rio's Christ the Redeemer was the model. A **lift runs up inside the pedestal** to an open platform — the bridge running away beneath you, Belém and Jerónimos downriver, the castle and Alfama opposite. It opens at **10:00**, so you arrive as it does and beat everyone.
 
-- 💸 **If €108 feels steep for two hours, this is the one item to drop** — the fallback morning below costs nothing. Decide and book by ~Aug 10; don't leave it in limbo.
-
-> 💡 **Why the bags stayed at the apartment:** Oceanário lockers max out at daypack size (47.5 × 30 × 46 cm) — carry-on suitcases don't fit, and big bags aren't allowed inside. This loop is built so you never drag them here.
-
-**14:15 — Quick lunch at [Centro Vasco da Gama](https://maps.google.com/?q=Centro+Vasco+da+Gama+Lisbon+Portugal)** — the mall food court directly opposite Oriente station (fast, air-conditioned, everyone picks their own, €8–12/person) — or a riverside kiosk on the Parque das Nações boardwalk if there's slack.
-
-**15:00 — Back for the bags.** Metro Oriente → Alameda → **Anjos** (~20 min). Collect bags at the apartment, breathe, repack (4 carry-ons at 8 kg + the 2 checked bags at 23 kg), leave the keys as agreed.
-
-**15:50 — To the airport.** Metro Anjos → Alameda → Aeroporto (~20 min, €1.90) — or a Bolt (~€10, 15 min) if the bags vote for it.
-
-**16:20 — Terminal 1.** Security, screens for the gate, an Aloma nata airside if the tank has room.
-
-**18:55 — TP1038 departs → 21:50 land Barcelona (T1).**
-
-#### 🔀 Midday Option B — [Cristo Rei](https://maps.google.com/?q=Santu%C3%A1rio+de+Cristo+Rei+Almada+Portugal) instead of the Oceanário ⭐ *(the Oceanário plan above stays the default)*
-
-The **Oceanário is still unbooked**, so this swap costs nothing to make — and it frees the **~€108** the tickets would have taken. The two are in opposite directions (Oceanário is out at Parque das Nações on the airport side; Cristo Rei is across the river to the south-west), so it's genuinely one or the other. **[Convento do Carmo](https://maps.google.com/?q=Convento+do+Carmo+Lisbon+Portugal) stays in either way** — it's in Chiado, on the way down to the ferry.
-
-Full detail on the monument, tickets and the Cacilhas dockside restaurants is in **Day 3, Evening Option B** above. In daylight this version uses the **ferry + bus 101**, which is cheap and runs fine at this hour.
-
-| Time | What |
+| | |
 | --- | --- |
-| **09:00** | Breakfast in Chiado — unchanged |
-| **10:00** | **Convento do Carmo** — unchanged, ~1 hr |
-| **11:05** | Walk down through Chiado to **[Cais do Sodré](https://maps.google.com/?q=Cais+do+Sodr%C3%A9+Lisbon+Portugal)** (~10 min, all downhill) |
-| **11:30** | **Ferry → [Cacilhas](https://maps.google.com/?q=Cacilhas+Almada+Portugal)** — ~8–10 min, departures ~every 15 min, **zapping on the Viva Viagem cards works** |
-| **11:50** | **Bus 101** from the terminal on your left as you step off the ferry → Almada Cristo Rei, ~17 min |
-| **12:10** | **Cristo Rei** — lift up, the platform, the church below. **13+ €10 · 8–12 €3 → €40 for four.** ~1 hr 15 |
-| **13:30** | Bus 101 or a Bolt back down to the Cacilhas waterfront |
-| **13:45** | **Lunch on the dock** — Atira-te ao Rio (books, daily 12:30–23:00) or Ponto Final. Lisbon laid out across the water |
-| **15:00** | ⛔ **Hard cut-off: be on a ferry back by 15:00.** Cais do Sodré 15:10 → Metro **Green line straight to Anjos** (~10 min, no changes) |
-| **15:30** | Bags at the apartment, repack |
-| **15:50** | To the airport — Metro Anjos → Alameda → Aeroporto (~20 min) or a Bolt (~€10) |
-| **16:45** | **Terminal 1.** TP1038 departs **18:55** |
+| **Lift tickets** | **13+ €10 · 8–12 €3 · under 8 free** → **€40 for four** (both daughters pay full) |
+| **Hours** | Daily **10:00–19:00** (Apr–Sep). No booking, walk up |
+| **Time needed** | **45–60 min is plenty.** It's one view and one lift — see it, take the photos, leave |
+| **Phone** | +351 212 751 000 |
 
-> ⚠️ **This is departure day and you'd be on the far side of the river.** That's the whole risk, and it's manageable if you respect one rule: **on a boat by 15:00, no exceptions** — not "one more photo". If anything slips, the emergency lane is a **Bolt straight back over the bridge to Anjos (~20 min)** rather than waiting on a ferry. Everything else about the day is unchanged: the bags never move from the apartment until you collect them.
+> 🚗 **Order the Bolt back from the sanctuary car park** — it's a quiet spot and cars are thinner on the ground here than in Lisbon. Give it a couple of minutes.
 
-> 💡 **Why this one and not Tuesday's:** here the statue is a *daytime* stop that costs you an aquarium you haven't paid for, instead of an evening that costs you the fado. Cheaper, lower-regret, and the light at midday over the bridge is excellent — just hazier than late afternoon.
+**11:30 — 🚗 Back over the bridge, drop at [Praça do Príncipe Real](https://maps.google.com/?q=Pra%C3%A7a+do+Pr%C3%ADncipe+Real+Lisboa+Portugal).** ~25 min, €15–20. Starting up here means the whole afternoon runs **downhill** to Chiado and the Baixa.
 
-**🔀 Fallback Day 4 (no Oceanário):** the slow-city version — pick ONE final neighbourhood off Chiado and don't zig-zag:
+**11:45–14:30 — The upper city, all on foot and all free.** This is the half of central Lisbon the other days didn't reach:
 
-| Option | Why |
-| --- | --- |
-| **[Príncipe Real](https://maps.google.com/?q=Principe+Real+Lisbon+Portugal) + Jardim** | Leafy garden, boutiques; **[Embaixada](https://maps.google.com/?q=Embaixada+Lisbon+Portugal)** concept-mall in a Moorish palace; **[Nannarella](https://maps.google.com/?q=Nannarella+Lisbon+Portugal)** gelato |
-| **[LX Factory](https://maps.google.com/?q=LX+Factory+Lisbon+Portugal) [🌐](https://www.lxfactory.com/)** (Alcântara) | Industrial-cool under the bridge — **[Ler Devagar](https://maps.google.com/?q=Ler+Devagar+Lisbon+Portugal)** bookshop with the flying bicycle, murals; shops from ~10:00. Next door: **[Pilar 7](https://maps.google.com/?q=Pilar+7+Experience+Lisbon+Portugal)** bridge deck (~€7) |
-| **[Time Out Market](https://maps.google.com/?q=Time+Out+Market+Lisbon+Portugal) [🌐](https://www.timeout.com/time-out-market-lisboa) lunch** | If you somehow haven't been — right at Cais do Sodré, fast and crowd-pleasing |
+| Stop | What it is | Cost |
+| --- | --- | --- |
+| **[Praça do Príncipe Real](https://maps.google.com/?q=Pra%C3%A7a+do+Pr%C3%ADncipe+Real+Lisboa+Portugal)** ⭐ | A garden square under a vast **150-year-old cedar** trained flat into a green umbrella you can walk under. Antique shops and concept stores round the edges; **[Embaixada](https://maps.google.com/?q=Embaixada+Pra%C3%A7a+do+Pr%C3%ADncipe+Real+26+Lisboa+Portugal)**, a neo-Moorish palace turned shopping gallery, is on the square | Free |
+| **[Jardim do Príncipe Real / Miradouro de São Pedro de Alcântara](https://maps.google.com/?q=Miradouro+de+S%C3%A3o+Pedro+de+Alc%C3%A2ntara+Lisbon+Portugal)** ⭐ | 5 min downhill: a formal terraced belvedere looking straight across the valley at the **castle you were standing on yesterday**. Busts, a tiled map of the skyline, jacarandas | Free |
+| **[Igreja de São Roque](https://maps.google.com/?q=Igreja+de+S%C3%A3o+Roque+Lisbon+Portugal) [🌐](https://museusaoroque.scml.pt/en/)** ⭐⭐ | 3 min from the miradouro. The plain façade hiding the **Chapel of St John the Baptist** — built in Rome, blessed by the Pope, shipped over in pieces in 1742. If you did it last night, skip; if not, it's the best free interior in the city | Free (museum €2.50) |
+| **[Bairro Alto](https://maps.google.com/?q=Bairro+Alto+Lisbon+Portugal)** | The grid of narrow streets below — dead and shuttered by day, which is exactly when it photographs well: laundry, tiles, graffiti, no crowds | Free |
+| **[Convento do Carmo](https://maps.google.com/?q=Convento+do+Carmo+Lisbon+Portugal) [🌐](https://www.museuarqueologicodocarmo.pt/info_en.html)** ⭐⭐ | The roofless Gothic nave left standing by the 1755 earthquake — arches open to the sky. **The one paid thing worth it today** if you skipped it last night | ~€7 adult |
+| **[Elevador de Santa Justa](https://maps.google.com/?q=Elevador+de+Santa+Justa+Lisbon+Portugal)** | Reached free from the Carmo side. Photograph the ironwork, skip the queue and the fare | Free from above |
+| **[Largo do Chiado](https://maps.google.com/?q=Largo+do+Chiado+Lisbon+Portugal), [A Brasileira](https://maps.google.com/?q=A+Brasileira+Lisbon+Portugal), [Livraria Bertrand](https://maps.google.com/?q=Livraria+Bertrand+Chiado+Lisboa+Portugal)** | The literary corner: the Pessoa statue at the café tables, and the **world's oldest operating bookshop (1732)** with a certificate on the wall to prove it | Free |
+| **[Praça Luís de Camões](https://maps.google.com/?q=Pra%C3%A7a+Lu%C3%ADs+de+Cam%C3%B5es+Lisboa+Portugal)** | Where Chiado and Bairro Alto meet — the natural place to sit down for ten minutes | Free |
 
-Then: bags at 15:00, airport by 16:30 as above.
+**14:30 — Lunch wherever you've landed.** Chiado and the Baixa are full of it. If you want a name: **[Time Out Market](https://maps.google.com/?q=Time+Out+Market+Lisboa+Lisbon+Portugal)** (Cais do Sodré, open all day, everyone picks their own — the easy call before a flight) or a *prato do dia* at any tasca off Rua da Misericórdia.
+
+**15:00 — ⛔ Back for the bags.** Metro or Bolt to **Anjos** (~15–20 min). Collect, repack, breathe. **This is the hard time on the day** — everything above it is optional, nothing below it is.
+
+**15:50 — To the airport.** Metro Anjos → Alameda → Aeroporto (~20 min, €1.90pp) — or a **Bolt (~€10, 15 min)** if the bags vote for it.
+
+**16:20–16:45 — Terminal 1.** Security, screens for the gate, an Aloma nata airside if there's room.
+
+**18:55 — ✈️ TP1038 departs → 21:50 land Barcelona (T1).**
+
+> ❌ **The [Oceanário](https://maps.google.com/?q=Ocean%C3%A1rio+de+Lisboa+Lisbon+Portugal) is dropped — decided, not deferred.** It was never booked, so nothing is lost, and it frees **~€108** plus the round trip out to Parque das Nações, which is in the opposite direction from everything else today.
+
+> ⏱️ **The risk on this day is the river crossing, and it's small.** You're back on the Lisbon side by noon with three hours of slack before the bags. If the morning Bolt is slow or the lift queue is long, **cut the upper-city list, not the 15:00 bag call.**
+
 
 ---
 
