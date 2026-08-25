@@ -747,7 +747,7 @@ Per person · 3 full days · excl. accommodation:
 | **Host**       | **Isabelly** — she receives you personally at 12:00                                              |
 | **Airport transfer** | ✅ **Confirmed — private transfer by [Lisbon Transfers](https://lisbon.at/lisbontransfers), LIS arrivals → the apartment door.** Driver waits in the **arrivals area holding a sign with your name**, drives you straight to Rua da Bempostinha, and **hands over the keys at the end of the journey**. **Driver / delays: +351 918 672 706** |
 | **Check-in**   | Sun Aug 23 · ✅ **Isabelly confirmed 12:00** (standard window is 16:00–22:00 — this is an agreed early arrival). ✅ **Online check-in done + guest registration form submitted, Aug 12** — nothing left to fill in, arrival is keys and bags. ⚠️ The transfer message says **the driver hands over the keys**, which would land you inside well before 12:00 — see the Day 1 note |
-| **Check-out**  | Thu Aug 27 · by 10:00 — but you physically **leave Wed Aug 26 evening** (apt paid through Aug 27, so bags stay there all of Day 4 — no left-luggage needed on departure day) |
+| **Check-out**  | Thu Aug 27 · by 10:00 — but you physically **leave Wed Aug 26 evening** (apt paid through Aug 27, so bags stay there all of Day 4 — no left-luggage needed on departure day). 🔴 **Get it in writing from Isabelly**: bags in the flat all Wednesday, **15:00 pickup**, and **where the keys are left** — see the Day 4 note and the draft message in `todo.md` |
 | **Wi-Fi**      | Network **MEO-A687C0** · password **c5702d610e**                                                  |
 | **Phone**      | Concierge service, 24/7 emergencies: **+351 925 360 038** · transfer driver: **+351 918 672 706** |
 | **Booking**    | ✅ Booking.com · Non-refundable · €579.50 paid in full                                            |
@@ -1211,7 +1211,7 @@ Cross the river instead of going back east. The **[Santuário de Cristo Rei](htt
 | **The only clock** | ⛔ **Bags by 15:00, Terminal 1 by 16:45.** TP1038 departs **18:55** |
 | **Booked** | Nothing today. Total freedom |
 | **Money on the day** | **Cristo Rei lift €10 × 4 = €40** · Bolts ~€45–60 · lunch. The dropped aquarium saves **~€108** |
-| **Bags** | Stay at the apartment all day (paid through tomorrow) — you collect them at 15:00 and go |
+| **Bags** | Stay at the apartment all day (paid through tomorrow) — you collect them at 15:00 and go. 🔴 **Confirm with Isabelly** (message in `todo.md`) |
 
 | Time | Where | What |
 | --- | --- | --- |
@@ -1257,6 +1257,10 @@ Cross the river instead of going back east. The **[Santuário de Cristo Rei](htt
 **14:30 — Lunch wherever you've landed.** Chiado and the Baixa are full of it. If you want a name: **[Time Out Market](https://maps.google.com/?q=Time+Out+Market+Lisboa+Lisbon+Portugal)** (Cais do Sodré, open all day, everyone picks their own — the easy call before a flight) or a *prato do dia* at any tasca off Rua da Misericórdia.
 
 **15:00 — ⛔ Back for the bags.** Metro or Bolt to **Anjos** (~15–20 min). Collect, repack, breathe. **This is the hard time on the day** — everything above it is optional, nothing below it is.
+
+> 🔑 **The bags and the key — settle this with Isabelly before Wednesday.** The plan is: out the door at 09:15 with the six bags left in the flat, back at **15:00** to collect them and **leave the keys behind**. That is **inside the paid stay** — the booking runs to **Thu Aug 27, 10:00** — so it should cost nothing and there is **no left-luggage to book**; the point of the message is to have it in writing and to learn **where the keys go** (inside the flat, mailbox, or handed to her). If she treats it as a late check-out, pay the fee — it's still cheaper than storing six bags. **Booking.com chat**, or the 24/7 concierge **+351 925 360 038**. Draft message (EN + PT) is in `todo.md`.
+>
+> 🧳 **If she says no** (she wants the flat empty in the morning): the fallbacks are **[Bounce](https://usebounce.com)/[Radical Storage](https://radicalstorage.com) points around Anjos and Rossio** (~€5–6 per bag per day, book on the app the night before) or **[LUGGit](https://luggit.app)**, which collects from the door and delivers to the airport — the better answer with two 23 kg cases. ⚠️ Neither is a reason to change the 15:00 call: it only moves to wherever the bags are.
 
 **15:50 — To the airport.** Metro Anjos → Alameda → Aeroporto (~20 min, €1.90pp) — or a **Bolt (~€10, 15 min)** if the bags vote for it.
 
@@ -1345,6 +1349,7 @@ As everywhere on this trip, tourist access to a church closes while the liturgy 
 | ~~**Message apartment host re: early bag drop**~~ | ✅ **Done — Isabelly receives at 12:00** (online check-in + guest registration form both submitted Aug 12) | Booking.com chat |
 | ~~**LIS airport → apartment transfer**~~    | ✅ **Confirmed — Lisbon Transfers.** Driver in arrivals with a name sign, direct to the door, **keys handed over at the end of the journey** · driver **+351 918 672 706** | lisbon.at/lisbontransfers |
 | ⚠️ **Confirm who hands over the keys — driver or Isabelly at 12:00?** | 🔲 Before Aug 23 — decides whether Day 1 starts ~11:10 or 12:00 | Booking.com chat / concierge +351 925 360 038 |
+| 🔴 **Confirm the Aug 26 bag-and-key plan with Isabelly** — bags in the flat all day, **15:00 pickup**, keys left behind; ask the fee if she calls it a late check-out (it shouldn't be one — apt runs to Aug 27) | 🔲 **Before Wed Aug 26** | Booking.com chat / concierge +351 925 360 038 · draft message in `todo.md` |
 | ~~**Schedule the Jerónimos voucher**~~ | ✅ **Done Aug 23** — the open vouchers were redeemed at **mmp.bymeoblueticket.pt** (the *Museus e Monumentos* store, not blueticket.meo.pt) via the **Reschedule** form: reservation code **38185413** + password **1CT468**. Now dated tickets: **Tue 25 Aug, 15:30** | Save the new PDFs offline — the old voucher PDFs are void |
 | ~~**[Torre de Belém](https://maps.google.com/?q=Torre+de+Bel%C3%A9m+Lisbon+Portugal) (Day 1, 16:00)**~~       | ✅ Booked — order **38185394**, paid | — |
 | ~~**Jerónimos cloister (moved to Day 3)**~~          | ✅ Booked & paid — order **38185413** · **Tue 25 Aug 2026, 15:30** | Dated PDFs issued 23 Aug — the voucher PDFs are void |
