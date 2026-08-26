@@ -82,6 +82,7 @@
 | **[Igreja da Conceição Velha](https://maps.google.com/?q=Igreja+da+Concei%C3%A7%C3%A3o+Velha+Lisboa+Portugal)** | The **1520 Manueline portal** survived the earthquake — the Virgin sheltering kings and bishops under her cloak. Nobody goes in | Free |
 | **[Casa dos Bicos](https://maps.google.com/?q=Casa+dos+Bicos+Lisboa+Portugal)** | 1523 façade of diamond-cut stone spikes; now the Saramago Foundation | Free from outside |
 | **[Praça do Município](https://maps.google.com/?q=Pra%C3%A7a+do+Munic%C3%ADpio+Lisboa+Portugal)** | City Hall and the twisted stone pillory, one quiet street off Rua Augusta — most people walk straight past the turning | Free |
+| **[Arco da Rua Augusta](https://maps.google.com/?q=Arco+da+Rua+Augusta+Lisbon+Portugal) — the rooftop** ⭐ | **You can go up inside the arch.** A lift most of the way then a short spiral stair onto the terrace between the statues, looking straight down Rua Augusta one way and over Praça do Comércio and the river the other. Easy to miss standing in the square — the entrance is on the Rua Augusta side. Best in the last hour of light | **~€3–4** |
 | **[Praça da Figueira](https://maps.google.com/?q=Pra%C3%A7a+da+Figueira+Lisboa+Portugal)** | Quieter than Rossio, bronze king on horseback, castle framed above the rooftops | Free |
 | **[Cais das Colunas](https://maps.google.com/?q=Cais+das+Colunas+Lisboa+Portugal)** ⭐ | Marble steps going straight down into the Tagus behind Praça do Comércio. **The** sunset spot | Free |
 | **[Igreja de São Roque](https://maps.google.com/?q=Igreja+de+S%C3%A3o+Roque+Lisbon+Portugal)** ⭐⭐ | Plain façade hiding the **Chapel of St John the Baptist** — built in Rome, blessed by the Pope, shipped over in pieces in 1742, once the most expensive chapel in the world | Church free · museum €2.50 |
@@ -107,6 +108,44 @@
 - **[Cemitério dos Prazeres](https://maps.google.com/?q=Cemit%C3%A9rio+dos+Prazeres+Lisbon+Portugal)** — a silent city of cypress-lined mausoleum "streets", the giant Palmela tomb, views to the bridge. Free, never crowded.
 - **[LX Factory](https://maps.google.com/?q=LX+Factory+Rua+Rodrigues+de+Faria+103+Lisboa+Portugal)** (Alcântara) — 19th-century industrial complex turned design shops, street art and terraces under the bridge. **[Ler Devagar](https://maps.google.com/?q=Ler+Devagar+LX+Factory+Lisboa+Portugal)**, the bookshop with the flying-bicycle sculpture, is the one to see. Free, and alive in the evening when Belém has gone dark.
 - **[Livraria Bertrand](https://maps.google.com/?q=Livraria+Bertrand+Chiado+Lisboa+Portugal)** — the world's oldest operating bookshop (1732), certificate on the wall. Next to **[A Brasileira](https://maps.google.com/?q=A+Brasileira+Lisbon+Portugal)** and the Pessoa statue.
+
+---
+
+## 🌧️ Rainy-day / indoor list
+
+> Pulled together on the last morning when the weather turned. **Most Lisbon museums close Mondays** — check the live listing before crossing town.
+
+| Place | Why | Where / note |
+| --- | --- | --- |
+| **[Museu do Dinheiro](https://maps.google.com/?q=Museu+do+Dinheiro+Lisboa)** ⭐ | **Free**, and far better than the name — built inside a deconsecrated church, and the basement runs alongside a stretch of the **13th-century city wall** found during the dig. Slick and interactive | Largo de São Julião, Baixa · **closed Sun & Mon** |
+| **[Museu do Aljube — Resistência e Liberdade](https://maps.google.com/?q=Museu+do+Aljube+Lisboa)** ⭐ | The Salazar dictatorship's political prison, now a museum of censorship, the secret police and the 1974 revolution. The best thing in the city for teenagers who like real history | Beside the Sé |
+| **[Casa-Museu Medeiros e Almeida](https://maps.google.com/?q=Casa-Museu+Medeiros+e+Almeida+Lisboa)** | A collector's mansion left as he lived in it — Ming porcelain, Napoleon's watch, a room of silver. Almost no visitors | R. Rosa Araújo 41 — **~7 min from the apartment** |
+| **[Museu Calouste Gulbenkian](https://maps.google.com/?q=Museu+Calouste+Gulbenkian+Lisboa)** ⭐⭐ | One of the great private collections in Europe: Egyptian, Islamic, Persian carpets, a Rembrandt, Monet, and a room of **Lalique jewellery**. Reopened 2026 after an 18-month renovation. Café + gardens; three hours without going outside | **Wed–Mon 10:00–18:00, closed Tue** |
+| **[Museu de Marinha](https://maps.google.com/?q=Museu+de+Marinha+Lisboa)** | Royal barges the size of houses, seaplanes, globes — in the west wing of Jerónimos | Belém |
+| **[Museu Nacional de Arte Antiga](https://maps.google.com/?q=Museu+Nacional+de+Arte+Antiga+Lisboa)** | The national gallery. Bosch's *Temptation of St Anthony* is the one | Santos · Tue–Sun 10:00–18:00 |
+| **[Museu Nacional de História Natural e da Ciência](https://maps.google.com/?q=Museu+Nacional+de+Hist%C3%B3ria+Natural+e+da+Ci%C3%AAncia+Lisboa)** | University museum with a **hands-on physics gallery** you're allowed to play with | Príncipe Real |
+| **[Museu da Farmácia](https://maps.google.com/?q=Museu+da+Farm%C3%A1cia+Lisboa)** | Odder and better than expected — reconstructed pharmacies from ancient Egypt to a Macau shop, plus a space-mission medical kit | Bairro Alto |
+| **[Museu do Oriente](https://maps.google.com/?q=Museu+do+Oriente+Lisboa)** | Portugal's Asian empire — Macau, Goa, Japan; Chinese opera costumes. Big, quiet, warm | Alcântara docks |
+| **[Fábrica Sant'Anna](https://maps.google.com/?q=F%C3%A1brica+Sant%27Anna+Lisboa)** | Founded **1741**, still hand-painting tiles. Showroom free to wander — the consolation for the Tile Museum being shut, and you can buy one | Near Cais do Sodré |
+| **[Pavilhão do Conhecimento](https://maps.google.com/?q=Pavilh%C3%A3o+do+Conhecimento+Lisboa)** | Hands-on science centre — bikes on high wires, build-it rooms. **Next door to the aquarium but a completely separate thing** | Parque das Nações |
+| **[Estufa Fria](https://maps.google.com/?q=Estufa+Fria+Parque+Eduardo+VII+Lisboa)** | A **roofed** greenhouse garden — streams and palms under slatted shade. Oddly perfect in rain | Parque Eduardo VII |
+
+> ⚠️ **[Museu Nacional do Azulejo](https://maps.google.com/?q=Museu+Nacional+do+Azulejo+Lisboa)** would be the perfect rainy pick — tiles telling the story of Lisbon in a 16th-c convent — but it has been **closed for renovation since Nov 2025**, reopening only "expected mid-2026". Check before going; if it's open it beats everything above.
+
+---
+
+## 🪙 Cheap eats around the Baixa
+
+> Found on the last day, walking out of the Money Museum. All within ~12 min of Largo de São Julião, none of them tourist traps.
+
+| Place | What | Price |
+| --- | --- | --- |
+| **[Nova Pombalina](https://maps.google.com/?q=Nova+Pombalina+Rua+do+Com%C3%A9rcio+2+Lisboa)** ⭐ · R. do Comércio 2 | Famous for one thing: the ***sande de leitão*** — roast suckling pig, crackling, orange-butter bread. Counter service, office workers, no nonsense | **~€4–5** |
+| **[Confeitaria Nacional](https://maps.google.com/?q=Confeitaria+Nacional+Pra%C3%A7a+da+Figueira+Lisboa)** · Pç. da Figueira 18B | Open since **1829**, original mirrored ceiling. Savoury pastries and cakes at normal prices — the cheap way to eat somewhere beautiful | **€3–8** |
+| **[Bom Jardim — Rei dos Frangos](https://maps.google.com/?q=Bom+Jardim+Rei+dos+Frangos+Travessa+de+Santo+Ant%C3%A3o+Lisboa)** · Tv. de Santo Antão | Charcoal piri-piri chicken, half a bird with chips and rice. Feeds a family fast and cheap | **€10–14/pp** |
+| **[Zé dos Cornos](https://maps.google.com/?q=Z%C3%A9+dos+Cornos+Beco+dos+Surradores+5+Lisboa+Portugal)** ⭐⭐ · Mouraria | Oven ribs **~€13 a rack and a rack feeds two** — about €30 for four. Packed with regulars. ⚠️ **Cash only, no bookings, lunch service only** | **€10–15/pp** |
+
+> 💡 **The *prato do dia* rule:** at any sit-down tasca, order the daily special off the board rather than the menu — cheaper, and it's what came in fresh that morning. Wave off the *couvert* (bread, olives, paté) unless you want it; it's charged per item.
 
 ---
 
