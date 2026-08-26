@@ -15,7 +15,7 @@
 | **Wed Aug 19** | In the air — overnight Newark → Porto |
 | **Thu Aug 20 – Sat Aug 22** | 🇵🇹 **Porto** (3 nights) |
 | **Sun Aug 23 – Tue Aug 25** | 🇵🇹 **Lisbon** (3 nights) · day trip to Sintra Mon Aug 24 |
-| **Wed Aug 26 – Sun Aug 30** | 🇪🇸 **Barcelona** (5 nights) · day trips to Montserrat Fri Aug 28, Girona Sun Aug 30 |
+| **Wed Aug 26 – Sun Aug 30** | 🇪🇸 **Barcelona** (5 nights) · day trips: **Fri Aug 28 = Montserrat _or_ a full day in Barcelona's Old City (being decided)**, Girona Sat Aug 29, Valencia Sun Aug 30 |
 | **Mon Aug 31** | 🇪🇸 **Zaragoza** (1 night) |
 | **Tue Sep 1 – Fri Sep 4** | 🇪🇸 **Madrid** (4 nights) |
 | **Sat Sep 5** | Fly home — land JFK 12:25 PM |
@@ -163,5 +163,6 @@ Day trips — we're out of the base city but back the same night:
 | Date | Out to |
 | ---- | ------ |
 | **Mon Aug 24** | [Sintra](https://maps.google.com/?q=Sintra+Portugal) — back in Lisbon that evening |
-| **Fri Aug 28** | [Montserrat](https://maps.google.com/?q=Montserrat+Barcelona+Spain) — back in Barcelona that evening |
-| **Sun Aug 30** | [Girona](https://maps.google.com/?q=Girona+Spain) — back in Barcelona that evening |
+| **Fri Aug 28** | [Montserrat](https://maps.google.com/?q=Montserrat+Barcelona+Spain) — back in Barcelona that evening. ⚠️ **Or we stay in Barcelona and do the Old City instead — still being decided** |
+| **Sat Aug 29** | [Girona](https://maps.google.com/?q=Girona+Spain) — back in Barcelona that evening |
+| **Sun Aug 30** | [Valencia](https://maps.google.com/?q=Valencia+Spain) by hire car — back in Barcelona late |

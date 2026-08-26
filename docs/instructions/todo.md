@@ -34,8 +34,9 @@
 
 - [ ] **Aljafería timed entry** — Tue Sep 1, ~10:00. Genuinely capacity-limited. ⚠️ Online booking reported broken — **book by phone 976 289 683 or in person**; verify the current process. €7 adult / €2 student / u12 free — **bring student IDs**. **€18.**
 - [ ] **Museo del Prado** — Thu Sep 3, 10:00 slot (the one that makes the day work). [museodelprado.es](https://www.museodelprado.es/en) — €15 adult, under-18 free. **~€30–45.**
-- [ ] **Picasso Museum** — Sat Aug 29, 14:00. Summer Saturdays sell out. [museupicassobcn.cat](https://www.museupicassobcn.cat/) — under-18 free. **~€25–40.**
-- [ ] **Girona train** — Sun Aug 30, ~09:15 fast service from Sants (~38 min). Fares climb as the date nears. ⚠️ **Promo fares are non-refundable; Flexible cancels free.** renfe.com. **~€100–160.**
+- [ ] **Decide Friday Aug 28 — Day 3 Option A (Montserrat) or Option B (Old City + El Born + Barceloneta)** by Thu night. Option A needs the free Escolania reservation; Option B needs the Picasso slot below.
+- [ ] **Picasso Museum** — **Fri Aug 28, 15:30 · Option B only.** Timed entry, August afternoons sell out; Friday runs 09:00–21:00. [museupicassobcn.cat](https://www.museupicassobcn.cat/) — under-18 free, 18–25 €7.50. **€35.50 for four.**
+- [ ] **Girona train** — **Sat Aug 29**, ~08:50 fast service from Sants (~38 min), ~17:40 back. Fares climb as the date nears. ⚠️ **Promo fares are non-refundable; Flexible cancels free.** renfe.com. **~€100–160.**
 - [ ] **Train to Valencia or Car rental**
 
 ---
