@@ -17,6 +17,16 @@
 | ----------------------------------- | ---------------------------------------------------------------------------------------------- |
 | **LIS airport → Lisbon apartment** · Sun Aug 23, after TP1921 lands 09:55 | ✅ Confirmed · **Lisbon Transfers** ([lisbon.at/lisbontransfers](https://lisbon.at/lisbontransfers)) · driver waits in **arrivals with a sign showing your name** · direct to 64 Rua da Bempostinha · **hands over the apartment keys at the end of the journey** · driver / delays **+351 918 672 706** |
 
+> 🔴 **Sixt hire car — Sun Aug 30 07:15 → Mon Aug 31 ~09:45. NOT YET BOOKED — book today.**
+>
+> **Branch:** Sixt Barcelona Sants, **SABA car park level −1**, Pl. dels Països Catalans s/n · **daily 07:00–23:00** (⚠️ no city branch is 24/7 for *pickup* — only the airport) · ☎️ **902 49 16 16** · [sixt.com](https://www.sixt.com/)
+>
+> **Keep it overnight** — that's what lets you stay for dinner in Valencia instead of racing a 23:00 desk close, and Monday it carries the bags to Sants instead of a €12–15 taxi. Park at **BSM Marina-Sagrada, C/ de la Marina 264** (~**€14** night package, 12 doors from the flat — pre-book on the B:SM app).
+>
+> 🔴 **CHECK BEFORE PAYING: if the driving licence is US-issued, Spain expects an International Driving Permit alongside it.** Fines are €90–200 and **some desks refuse the rental outright**. An IDP is only issued in the country of licence, so it cannot be obtained mid-trip. **Ring Sixt and ask plainly whether they'll release the car on a US licence with no IDP** — if the answer is no, fall back to the Euromed train (Sants 08:15 → Valencia 11:20, back 18:55 → 22:04, destination **`VALENCIA (TODAS)`** on renfe.com), accepting that the 18:55 return means **dinner with your friends doesn't happen**.
+>
+> **At the desk:** physical credit card in the driver's name, licence, passport, IDP. **Add a second driver** — it's 7 hours of motorway. Check the **environmental sticker** on the windscreen (C/ECO/0 — all Valencia's ZBE cares about). **Fuel it before dropping it Monday** and photograph the gauge.
+
 ### 🏨 Apartments
 
 | Where · Place                                                                                                                                                                      | Reference                                                                                                                                                                                |
@@ -50,7 +60,7 @@ On the shortlist but waiting on a deadline or a parent decision. "Yes unless som
 | --------------------------- | ------------------------------------ | ------------------------------------------- | ------------------------------------------------------------------- |
 | Oceanário de Lisboa         | Aug 26 · 12:00 band                  | Esplanada Dom Carlos I s/n, 1990-005 Lisbon | Largest indoor aquarium in Europe, on the Parque das Nações pier    |
 | Montserrat Tot combo ticket | Fri Aug 28 · morning                 | Monestir de Montserrat, 08199 Montserrat    | Mountaintop Benedictine monastery + funicular + lunch voucher       |
-| Picasso Museum ⏸️ HOLD      | Sun Aug 30 · 16:15 _(option A only)_ | Carrer de Montcada 15-23, 08003 Barcelona   | Pre-1890 works + Las Meninas series in 5 adjoining medieval palaces |
+| ~~Picasso Museum~~ ❌ **DROPPED** | — | Carrer de Montcada 15-23, 08003 Barcelona | ❌ **Do not book.** It belonged to the Old City day, which came out when Girona moved to Sat 29 and Sunday became Valencia. Nothing was paid |
 | Aljafería                   | Tue Sep 1 · 10:00                    | C. de los Diputados, s/n, 50004 Zaragoza    | 11th-c. Moorish palace, "the Zaragoza Alhambra"                     |
 | San Antonio de los Alemanes | Wed Sep 2 · 16:00                    | C. de la Puebla 22, 28004 Madrid            | Tiny hidden baroque chapel with Zurbarán frescoes                   |
 | Museo del Prado             | Thu Sep 3 · 10:00                    | C. de Ruiz de Alarcón 23, 28014 Madrid      | The Spanish royal collection: Velázquez, Goya, El Greco, Bosch      |
@@ -94,7 +104,8 @@ Every restaurant table on the trip, regardless of which wave it's in. All free t
 
 | Date              | Item                                  | Wave · Notes                                                                                                                                                                                                                                  |
 | ----------------- | ------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Sun Aug 30, 14:00 | **Paella table** _(options B/C only)_ | 🟡 Wave 3 · Sunday lunch is a two-hour institution · **B:** La Pepica ☎️ +34 963 71 03 66 (€30/pp min) or La Marcelina +34 963 71 20 25 · **C:** El Palmar, Albufera. ❌ Casa Carmela closed Sun; ❌ El Racó de la Paella closed Aug 13–Sep 4 |
+| Sun Aug 30, 14:00 | 🔴 **El Palmar paella** — the Albufera | 🔴 **BOOK TODAY** · The village where paella was invented, 20–25 min south of Valencia on the V-15; ~25 restaurants over orange-wood fires. **Arrive before 14:00** — village parking is free but fills on summer Sunday lunchtimes, exactly when you arrive. Say how many adults and children. Order *paella valenciana* (chicken + rabbit, **no seafood, no chorizo**) or *all i pebre*. Rice takes **45 min to cook to order** · ❌ Casa Carmela closed Sun · ❌ El Racó de la Paella closed Aug 13–Sep 4 |
+| Sun Aug 30, **20:00** | 🔴 **Dinner — both families** | 🔴 **BOOK TODAY** · ⚠️ The two rooms every Valencia list recommends are **out**: ❌ **Casa Montaña does Sunday lunch only**, ❌ **La Riuà closed all Sunday** · ⭐ **Canalla Bistro** (Ruzafa) — Ricard Camarena's casual bistro, sharing menu **€36**, Sun 20:00–23:30, explicitly good for families and groups, [canallabistro.com](https://www.canallabistro.com/en/home/) · **La Pilareta** (Barri del Carme, €15–20, **continuous 12:30–23:30** so a group can eat at 19:00 and drive home early, no bookings, ☎️ +34 963 91 04 97) · **La Marcelina** (beach, Sun 20:00–23:00, ☎️ +34 963 71 20 25) |
 
 ### Zaragoza (Tue Sep 1)
 
