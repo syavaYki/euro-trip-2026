@@ -34,8 +34,8 @@
 
 - [ ] **Aljafería timed entry** — Tue Sep 1, ~10:00. Genuinely capacity-limited. ⚠️ Online booking reported broken — **book by phone 976 289 683 or in person**; verify the current process. €7 adult / €2 student / u12 free — **bring student IDs**. **€18.**
 - [ ] **Museo del Prado** — Thu Sep 3, 10:00 slot (the one that makes the day work). [museodelprado.es](https://www.museodelprado.es/en) — €15 adult, under-18 free. **~€30–45.**
-- [ ] **Picasso Museum** — Sat Aug 29, 14:00. Summer Saturdays sell out. [museupicassobcn.cat](https://www.museupicassobcn.cat/) — under-18 free. **~€25–40.**
-- [ ] **Girona train** — Sun Aug 30, ~09:15 fast service from Sants (~38 min). Fares climb as the date nears. ⚠️ **Promo fares are non-refundable; Flexible cancels free.** renfe.com. **~€100–160.**
-- [ ] **Train to Valencia or Car rental**
+- [x] ~~**Picasso Museum**~~ ❌ **DROPPED — do not book.** It belonged to the Old City day, which came out when Girona moved to Sat 29 and Sunday became Valencia. Nothing was paid.
+- [ ] **Girona train** — **Sat Aug 29** (moved from Sun), ~08:50 out / ~17:40 back — fast Avant/AVE from **Barcelona-Sants** (~38 min). ⚠️ Pick origin **Barcelona-Sants**, not "Barcelona (todas)" — the all-stations list mixes in the ~1h20 R11 regional. The ~17:40 return feeds the 20:00 vigil Mass. Fares climb as the date nears. ⚠️ **Promo fares are non-refundable and tied to a specific train; Flexible cancels free.** renfe.com. **~€100–160.**
+- [ ] **Valencia — hire car** (decided: the car, not the train). 🔴 Sixt Barcelona Sants, **Sun 07:00 pickup → Mon morning drop** ☎️ 902 49 16 16
 
 ---
