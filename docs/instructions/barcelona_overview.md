@@ -65,7 +65,7 @@
 | ~~Santa Maria del Mar~~ ⭐ | Purest Catalan Gothic, "Cathedral of the Sea" | €5 visit | ❌ | ❌ **Dropped** — the one most worth clawing back if a morning frees up |
 | ~~**Picasso Museum**~~ | Five palaces, formative years | €14 / u18 free | ❌ **Do not book** | ❌ **Dropped with the Old City day** |
 | ~~Barceloneta beach~~ | Warmest sea of the day | Free | ❌ | ❌ Dropped — **Malvarrosa on Sunday replaces it** |
-| **Girona** ⭐⭐ | Cathedral (widest Gothic nave), the Call, GoT stairs | €7.50 cathedral+Sant Feliu; ~€14 all interiors | Train 🟠 by ~Aug 24 | **Day 4 (Sat)** — cathedral 10:00–18:30, museums 10:00–19:00 |
+| **Girona** ⭐⭐ | Cathedral (widest Gothic nave), the Call, **12 GoT filming spots** (🐉 own tab) | €7.50 cathedral+Sant Feliu; ~€14 all interiors | Train 🟠 by ~Aug 24 | **Day 4 (Sat)** — cathedral 10:00–18:30, museums 10:00–19:00 |
 | ~~**Sardanes**~~ ⭐ | Catalonia's national circle dance, free, outside the cathedral | Free | ❌ | ❌ Lost with the Old City day — Sunday's in Valencia |
 | **Valencia + El Palmar** ⭐⭐ | La Lonja (UNESCO, **free Sun 10:00–14:00**), **paella where it was invented**, Albufera boat, Malvarrosa | Car ~€130–200 + dinner | 🔴 Car, table, dinner | **Day 5 (Sun) — the whole day** |
 | Bunkers del Carmel | 360° view — now fenced, 09:00–19:30 | Free | ❌ | ❌ **not a sunset spot anymore**; optional daytime only |

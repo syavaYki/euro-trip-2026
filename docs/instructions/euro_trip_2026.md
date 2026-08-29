@@ -1705,6 +1705,30 @@ Then drop bags, passports back in the safe **except set an alarm-note: they come
 
 > 🌧️ **Wet fallback:** Girona in rain still works — cathedral, Sant Feliu, museums, lanes — skip the walls.
 
+#### 🐉 Game of Thrones in Girona — the full location list
+
+> HBO shot **Season 6** across the Barri Vell in **September 2015**, using the old town as **Braavos**, the cathedral as **King's Landing** and Sant Pere de Galligants as **Oldtown** — **seven episodes** of S6 carry Girona footage. **Almost every site below already sits on the route above**, free and outdoors. The full write-up with scene clips lives on **Barcelona → 🐉 Girona GoT**.
+
+| Spot | Plays | Scene | Watch |
+| ---- | ----- | ----- | ----- |
+| **[Cathedral steps](https://maps.google.com/?q=Girona+Cathedral+Spain)** ⭐⭐⭐ (12:35 stop) | The **Great Sept of Baelor** | **S6E6 "Blood of My Blood"** — Jaime rides up the 90 steps at the head of the Tyrell army; the High Sparrow faces him down. ~200 local extras; the sea view at the top is CGI | [▶️](https://www.youtube.com/watch?v=T5bdI9b0KrE) |
+| **[Escales de Sant Martí](https://maps.google.com/?q=Escales+de+Sant+Mart%C3%AD+Girona+Spain)** ⭐⭐ (16:00 stop) | The **Braavos market** | **S6E8 "No One"** — Arya leaps off the Sant Martí Sacosta steps into the market, scattering oranges, then tumbles down the Pujada de Sant Domènec | [▶️](https://www.youtube.com/watch?v=nffJ-Tcu9CE) |
+| **[Sant Pere de Galligants](https://maps.google.com/?q=Sant+Pere+de+Galligants+Girona+Spain)** ⭐⭐ (11:30 stop) | The **Citadel, Oldtown** | **S6E10 "The Winds of Winter"** — Sam and Gilly arrive; Sam walks into the great library | [▶️](https://www.youtube.com/watch?v=-6kBLtbMFLE) |
+| **[Galligants bridge](https://maps.google.com/?q=Pont+de+Sant+Pere+de+Galligants+Girona+Spain)** (30 sec from ↑) | A **Braavos canal bridge** | **S6E7 "The Broken Man"** — the closing scene: the Waif, disguised as an old woman, stabs Arya on the parapet | [▶️](https://www.youtube.com/watch?v=n_THzkANNPU) |
+| **[Jardins de la Francesa](https://maps.google.com/?q=Jardins+de+la+Francesa+Girona+Spain)** ⭐ (12:10 stop) | **Streets of Braavos** | Several S6 episodes — and the shadiest spot in the city | [▶️](https://www.youtube.com/watch?v=oNQqXl1mLnM) |
+| **[C/ del Bisbe Josep Cartañà](https://maps.google.com/?q=Carrer+del+Bisbe+Josep+Carta%C3%B1%C3%A0+Girona+Spain)** (1 min from ↑) | The **begging street** | **S6E1 "The Red Woman"** — blind Arya with her bowl; also the stick-fighting training, S6E1–E3 | [▶️](https://www.youtube.com/watch?v=GwwfYdAXuP4) |
+| **[Plaça dels Jurats](https://maps.google.com/?q=Pla%C3%A7a+dels+Jurats+Girona+Spain)** (beside ↑) | The **Braavosi theatre** | **S6E5 "The Door"** — *The Bloody Hand*, the burlesque play about Joffrey's death. The playhouse was struck after the shoot; nothing marks it | [▶️](https://www.youtube.com/watch?v=pxDwDGA28pE) |
+| **[Passeig Arqueològic / C. Ferran el Catòlic](https://maps.google.com/?q=Passeig+Arqueol%C3%B2gic+Girona+Spain)** | The **Braavos harbour market** | **S6E7** — Arya buys her passage to Westeros, minutes before the stabbing | [▶️](https://www.youtube.com/watch?v=cmUuEgEIzYk) |
+| **[Banys Àrabs](https://maps.google.com/?q=Banys+%C3%80rabs+Girona+Spain)** ⚠️ the one real detour | The **baths of Braavos** | **S6E8** — Arya ducks in mid-chase. ~€3, ~30–40 min. 12th-c Romanesque, not actually Arab | [▶️](https://www.youtube.com/watch?v=nffJ-Tcu9CE) |
+| **[Portal de Sobreportes](https://maps.google.com/?q=Portal+de+Sobreportes+Girona+Spain)** + Pujada del Rei Martí | **King's Landing streets** | **S6E6** — the crowd below the Sept. You walk under the gate between Sant Feliu and the cathedral anyway | [▶️](https://www.youtube.com/watch?v=T5bdI9b0KrE) |
+| **[C/ de Sant Llorenç](https://maps.google.com/?q=Carrer+de+Sant+Lloren%C3%A7+Girona+Spain)**, Claveria, Escola Pia — inside the Call | **Braavos back streets** | **S6E8** — the foot chase. You walk most of them at 10:35 without trying | [▶️](https://www.youtube.com/watch?v=yUsRXKhB-_0) |
+
+> 💡 **The 20-minute version:** cathedral steps → Sant Martí steps → Sant Pere. All three are already timed into the day; everything else on this list is free and *on the line you're already walking*. **Skip the paid GoT walking tours (~€20–25 pp)** — the sites are 400 m apart and the cathedral's own included audio guide covers the filming.
+>
+> 📵 Load the clips **before leaving the flat** — signal is patchy in the stone lanes.
+>
+> 🚗 **Not in the city:** [Castell de Santa Florentina](https://maps.google.com/?q=Castell+de+Santa+Florentina+Canet+de+Mar+Spain) at Canet de Mar played **Horn Hill** (S6E6, Sam's family home) but it's ~45 min away, in Barcelona province, guided-tour-only and needs its own half-day — ❌ not on this trip.
+
 ---
 
 ### Day 5 — Sunday Aug 30 · Valencia by Car — Meeting the Benidorm Friends ⭐⭐ (Day Trip #3)
