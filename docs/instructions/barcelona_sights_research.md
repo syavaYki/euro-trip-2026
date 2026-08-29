@@ -125,6 +125,18 @@
 | 4 | **Tarragona** [📍](https://maps.google.com/?q=Tarragona+Spain) | Rodalies/regional from Sants | ~1 hr | ~€8–10 return | Full day | Roman amphitheatre over the sea, aqueduct, circus vaults | Great city, no slot this trip |
 | 5 | **Cadaqués (Costa Brava)** [📍](https://maps.google.com/?q=Cadaqu%C3%A9s+Spain) | Bus from Barcelona Nord | ~3.5 hrs each way | ~€30 return | Very long day | Dalí's white fishing village, Cap de Creus | Too far for this itinerary — future-trip flag |
 
+### Girona beyond the day plan — spare-hours catalog *(added Sat Aug 29, on the ground)*
+
+> The Day 4 run (bridge → Call → Sant Pere → cathedral → Sant Feliu → lunch → walls) leaves an afternoon gap on a 32 °C day. These are the open-today fillers, all inside a 10-minute walk of the Barri Vell.
+
+| Place | What it is | Cost | Hours (Aug, Sat) | Verdict |
+| ----- | ---------- | ---- | ---------------- | ------- |
+| **[Banys Àrabs](https://maps.google.com/?q=Banys+%C3%80rabs+Girona+Spain)** [🌐](https://www.banysarabs.cat/en/) ⭐⭐ | 12th-c Romanesque bath-house on the Roman model — frigidarium under an eight-column lantern dome; the coolest interior in the city, 25 min | **€3** · u8 free · students €1 · 65+ €2 | **Mon–Sat 10:00–18:00** (Sun 10:00–14:00) · ☎️ 972 19 09 69 | **The best €3 in Girona** — two doors from Sant Pere, so it costs no walking |
+| **[Museu del Cinema](https://maps.google.com/?q=Museu+del+Cinema+Girona+Spain)** [🌐](https://www.museudelcinema.cat/) ⭐ | Hands-on pre-cinema collection (Tomàs Mallol): magic lanterns, shadow theatre, zoetropes, optical toys. C/ Sèquia 1 | **€7** · **u14 free** · reduced €3.50 | **Mon–Sat 10:00–19:00** in Aug | The air-conditioned escape, and 5 min from the station — good as the last stop before the train |
+| **[Passeig Arqueològic](https://maps.google.com/?q=Passeig+Arqueol%C3%B2gic+Girona+Spain)** ⭐ | The shaded northern wall walk — cypress ramps behind the cathedral apse up to Torre Gironella | Free | Always open | Take it *instead of* the exposed Passeig de la Muralla when it's over 30 °C |
+| **[Parc de la Devesa](https://maps.google.com/?q=Parc+de+la+Devesa+Girona+Spain)** ⭐ | 40 ha of 50-m plane trees — largest urban park in Catalonia, deepest shade in town | Free | Always open | It sits between the old town and the station: the last 20 minutes belong here, not on the platform |
+| **[Casa Masó](https://maps.google.com/?q=Casa+Mas%C3%B3+Girona+Spain)** [🌐](https://rafaelmaso.girona.cat/eng/casa.php) | The only painted Onyar house you can go inside — Rafael Masó's family home, balconies over the water | €10 / €5 reduced | Tue–Sat, **guided visit only**, 50 min, **max 8, advance booking** ☎️ 972 41 39 89 | Not a walk-up. Call ahead or leave it for next time |
+
 ---
 
 ## 🏖️ Section 6 — Beaches Guide

@@ -1687,6 +1687,26 @@ Then drop bags, passports back in the safe **except set an alarm-note: they come
 
 **16:20 — [Passeig de la Muralla](https://maps.google.com/?q=Passeig+de+la+Muralla+Girona+Spain)** ⭐ (the city walls, free) — walk the medieval ramparts: 1–1.5 km of walkway and climbable towers over terracotta roofs to the Pyrenees foothills. Fully exposed, no water up there — **bring bottles**. Come down near the cathedral.
 
+#### 🎒 Spare-afternoon menu — checked live on **Sat Aug 29** (post-pizza)
+
+> Lunch ran early and there are ~3 free hours before the 17:40 train, at **32 °C and no rain**. Everything below is open **today** and inside a 10-minute walk of the Barri Vell. Heat rule: cool stone and shade first, the exposed ramparts last.
+
+| Time | Option | What it is | Cost / hours today |
+| ---- | ------ | ---------- | ------------------ |
+| **14:30** | **[Banys Àrabs](https://maps.google.com/?q=Banys+%C3%80rabs+Girona+Spain)** [🌐](https://www.banysarabs.cat/en/) ⭐⭐ **the pick** | 12th-c Romanesque bath-house on the Roman model — frigidarium under an eight-column lantern dome, the coolest interior in the city. 25 min. Two doors from Sant Pere de Galligants | **€3**; u8 **free**, students €1, 65+ €2 · **Mon–Sat 10:00–18:00** · ☎️ 972 19 09 69 |
+| **15:00** | **[Passeig Arqueològic](https://maps.google.com/?q=Passeig+Arqueol%C3%B2gic+Girona+Spain)** ⭐ | The *shaded* half of the wall walk — cypress-lined ramps behind the cathedral apse up to the Torre Gironella, linking the baths to [Jardins de la Francesa](https://maps.google.com/?q=Jardins+de+la+Francesa+Girona+Spain). Do this instead of the bare southern ramparts if anyone is wilting | **Free**, always open |
+| **15:30** | **[Rocambolesc](https://maps.google.com/?q=Rocambolesc+Girona+Spain)** 🍦 (already in the plan) | Jordi Roca's — the €5 three-Michelin-star stop, C/ de Santa Clara 50 | ~€5 |
+| **16:00** | **[Escales de Sant Martí](https://maps.google.com/?q=Escales+de+Sant+Mart%C3%AD+Girona+Spain)** → **[Passeig de la Muralla](https://maps.google.com/?q=Passeig+de+la+Muralla+Girona+Spain)** (in the plan) | Arya's staircase, then the ramparts. **Fully exposed — carry water**; come down at Portal de Sant Cristòfol | Free |
+| **any** | **[Museu del Cinema](https://maps.google.com/?q=Museu+del+Cinema+Girona+Spain)** [🌐](https://www.museudelcinema.cat/) ⭐ **the heat escape** | Air-conditioned, hands-on pre-cinema collection — magic lanterns, shadow theatre, zoetropes; teenagers stay longer than they expect. C/ Sèquia 1, on the Bartali side of the river, 5 min from the station | **€7**, **under 14 free**, reduced €3.50 · **Aug Mon–Sat 10:00–19:00** |
+| **any** | **[Basílica de Sant Feliu](https://maps.google.com/?q=Bas%C3%ADlica+de+Sant+Feliu+Girona+Spain)** | If the combined ticket is already bought and Sant Feliu got skipped this morning, it runs until **20:00** today — the one interior with no deadline | Included in the €7.50 |
+| **17:00** | **[Parc de la Devesa](https://maps.google.com/?q=Parc+de+la+Devesa+Girona+Spain)** ⭐ | 40 ha of 50-m plane trees — the largest urban park in Catalonia and by far the deepest shade in Girona. It is **on the way to the station**: kill the last 20 minutes here, not on a platform | Free |
+
+> 🥤 **If everyone is just hot and done:** a *granissat de llimona* under the arcades on the **[Rambla de la Llibertat](https://maps.google.com/?q=Rambla+de+la+Llibertat+Girona+Spain)** (shaded from mid-afternoon) or on **[Plaça de la Independència](https://maps.google.com/?q=Pla%C3%A7a+de+la+Independ%C3%A8ncia+Girona+Spain)**. Nobody needs a fourth monument at 32 °C.
+>
+> ☎️ **Long shot worth one call: [Casa Masó](https://maps.google.com/?q=Casa+Mas%C3%B3+Girona+Spain)** [🌐](https://rafaelmaso.girona.cat/eng/casa.php) — the **only one of the painted Onyar houses you can go inside**, the architect Rafael Masó's family home, with balconies straight over the water. Tue–Sat, **guided visit only, 50 min, max 8 people, advance booking** — €10 / €5 reduced. Ring **972 41 39 89** and ask if a late-afternoon slot has space; if not, it is a next-visit item, not a queue-up item.
+>
+> ⚠️ **Both museums that were on the morning list — the [Call museum](https://maps.google.com/?q=Museu+d%27Hist%C3%B2ria+dels+Jueus+Girona+Spain) and [Sant Pere de Galligants](https://maps.google.com/?q=Sant+Pere+de+Galligants+Girona+Spain) — run to 19:00 today.** Anything skipped this morning is still recoverable this afternoon; that is the whole dividend of moving Girona to Saturday.
+
 **17:20 — Walk to the station** (~15 min) → **~17:40 fast train**, Barcelona-Sants by **~18:20**.
 
 > ⛪ **This return is timed for the vigil Mass.** Sants 18:20 → Metro L5 direct → at the **Nativity façade by ~18:50**, comfortably ahead of the **20:00 Saturday vigil** (free, no ticket — see _⛪ Mass in Barcelona_ below). Moving Girona to Saturday is what makes this possible: the old plan had the 09:00 Sunday Mass and the Girona train in direct conflict. **Now you get both**, with time to shower between.
