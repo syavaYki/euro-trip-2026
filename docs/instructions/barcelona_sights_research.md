@@ -176,7 +176,7 @@
 
 **Most overlooked:** Hospital de Sant Pau · Casa Vicens · Torre Bellesguard · Laberint d'Horta · El Born Centre · Pedralbes · Girona's Sant Pere cloister
 
-**Best for teenagers:** Gràcia (Verdi + squares) · Park Güell · beach at golden hour · Carrer de Blai by-the-toothpick dinner · Girona's Game-of-Thrones spots · Mercat dels Encants treasure hunt · Rocambolesc
+**Best for teenagers:** Gràcia (Verdi + squares) · Park Güell · beach at golden hour · Carrer de Blai by-the-toothpick dinner · Girona's Game-of-Thrones spots · Mercat dels Encants treasure hunt · the Torre Gironella spiral stair
 
 **Best for the family as a group:** Montserrat day (choir + funicular + buffet) · Sagrada interior at 18:00 light · Girona old town · Ciutadella rowing · La Cova Fumada lunch ritual
 
