@@ -2554,7 +2554,7 @@ A **genuine 2nd-century BC Egyptian temple** to Amun and Isis — Egypt's 1968 t
 
 **08:00 — Breakfast at [San Ginés](https://maps.google.com/?q=Chocolater%C3%ADa+San+Gin%C3%A9s+Madrid+Spain)** ⭐ — Metro L3 Legazpi → Sol. *Chocolate con porras* at the white-marble counter — open 24h since 1894, and at 08:00 it's empty and magic. €5/pp.
 
-**09:15 — Walk to the Prado** — 20 min down Carrera de San Jerónimo: peek at **[Casa Mira](https://maps.google.com/?q=Casa+Mira+Madrid+Spain)** (turrón dynasty since 1855, preserved shopfront), pass the lions of the Congreso de los Diputados (cast from melted-down cannons of Spain's African wars).
+**09:15 — Walk to the Prado** — 20 min down Carrera de San Jerónimo: peek at **[Casa Mira](https://maps.google.com/?q=Casa+Mira+Madrid+Spain)** (turrón dynasty since 1855, preserved shopfront — ⚠️ **shut at this hour; it opens ~10:00, so it's the *afternoon* stop — pair it with La Violeta on Pl. de Canalejas as the host-family gift run, see Day 4**), pass the lions of the Congreso de los Diputados (cast from melted-down cannons of Spain's African wars).
 
 **10:00 — [Museo del Prado](https://maps.google.com/?q=Museo+del+Prado+Madrid+Spain) [🌐](https://www.museodelprado.es/en)** ⭐⭐ (pre-book the 10:00 slot — see Must-Book) — **2.5h, out by 12:30**
 
@@ -2676,6 +2676,21 @@ Emily's line. Either branch (C-4a Colmenar Viejo or C-4b Alcobendas) calls at Ca
 > ~~Segovia~~. Bags to her flat in the morning, the family's last free afternoon in the royal village of **[El Pardo](https://maps.google.com/?q=El+Pardo+Madrid+Spain)**, then the evening on Emily's new doorstep in Chamberí — market, ghost metro station, and the trip's farewell dinner. The last night of the trip is also her first night at home.
 
 > ⚠️ **Two hard pins today:** Emily on campus at **11:00**, and the **two 23 kg checked bags** inside C/ Alonso Cano 4-2A before the day ends. Everything else flexes.
+
+> ⚠️ **Which door — 2ºA or bajo A?** The host family's address reads **C/ Alonso Cano 4, bajo A, 28010**; this guide has carried **2ºA** since August. If Emily has a room *with the family*, the bag drop and the keys question are about **bajo A** and the "is there a lift" worry disappears. **Confirm the flat letter with her before the 08:45 taxi.**
+
+> 🎁 **The gift for the host family — buy it here, and buy it before Friday morning.** Nothing came from home, which is fine: Spain's own house-gift grammar is **consumable, shareable, opened at their table** — a bottle, a boxed sweet, flowers — and a *Madrid souvenir* is the one wrong answer, because they live in Madrid. **Budget €40–70 for the package; over ~€100 creates an obligation rather than a thank-you.** Hand it over at the door on the first meeting, and **let Emily give it and say the line** — *"Un pequeño detalle para ustedes. Gracias por acoger a Emily."*
+>
+> | Buy | Where | When it's open | € |
+> | --- | ----- | -------------- | - |
+> | **The bottle** — a good Rioja *reserva*, a Ribera, or a bottle of cava. Ask for a *caja de regalo* (gift box) and say it's *para la familia que acoge a mi hija* | **[Bodega Santa Cecilia](https://maps.google.com/?q=Bodega+Santa+Cecilia+Blasco+de+Garay+74+Madrid+Spain)** (C/ Blasco de Garay 74) — 5,000 references, family-run since 1922, **10 min from her door** | Mon–Fri 10:00–14:00 + 17:00–20:30 · **Sat morning only, closed Sun** | €20–35 |
+> | **The sweet** — a boxed *tarta*, *bombones* or *pastas de té*. The thing that gets opened that evening | **[La Duquesita](https://maps.google.com/?q=La+Duquesita+Fernando+VI+2+Madrid+Spain) [🌐](https://laduquesita.es)** (Fernando VI 2, Oriol Balaguer, since 1914) or **[Mallorca](https://maps.google.com/?q=Pasteler%C3%ADa+Mallorca+Bravo+Murillo+7+Madrid+Spain)** (Bravo Murillo 7 — the original 1931 shop, in Chamberí) | Duquesita ~08:30–20:30 · Mallorca Mon–Sat 08:30–21:00 | €15–30 |
+> | **Flowers** (if there's a *señora de la casa* — still the standard gesture) | **Florea** (C/ Quesada 2, off Plaza de Olavide) or any stall in the **[Mercado de Chamberí](https://maps.google.com/?q=Mercado+de+Chamber%C3%AD+Alonso+Cano+10+Madrid+Spain)**, C/ Alonso Cano 10 — **two doors from her building** | Market Mon–Fri 09:30–14:30 + 17:30–20:30 · Sat morning | €15–25 |
+> | **Instead of the bottle, if they don't drink** — a *sobre* of hand-carved **jamón ibérico de bellota**, or good olive oil + turrón | Charcuterías inside the **Mercado de Chamberí** (Alonso Cano 10) or **[Casa Mira](https://maps.google.com/?q=Casa+Mira+Madrid+Spain)** (Carrera de San Jerónimo 30, turrón since 1855 — the Thursday walk-by below) | See market hours above | €25–40 |
+>
+> ⏰ **Timing is the whole problem.** Friday's bag drop is **08:45–09:10** and *nothing in Chamberí is open then* — the market opens 09:30, the bodega at 10:00. So: **buy it Thursday** (Casa Mira and **[La Violeta](https://maps.google.com/?q=La+Violeta+Plaza+de+Canalejas+6+Madrid+Spain)**, Pl. de Canalejas 6, are both minutes from the Prado on Day 3's route), **or** buy it in Chamberí in Friday's 17:00–18:30 settling-in hour and give it before the farewell dinner. Pick one now — don't leave it to Friday morning.
+>
+> 💌 **The part that actually lands: a handwritten card, signed by all four of you.** Include a phone number and *"si necesita cualquier cosa con Emily, llámenos a cualquier hora."* They are taking on a stranger's 18-year-old for four months; the note is what they keep.
 
 > ⚠️ **Confirm before you build on this: does she have keys to 2ºA on Sep 4?** If the landlord handover is Saturday or later, the 09:00 bag drop collapses and Saturday's 06:45 airport run cannot carry them. Sort this out **this week**, by message, in writing. Fallbacks if the keys slip: (a) she sleeps at the Arganzuela apartment Fri night and moves the bags herself Saturday morning after we leave — check-out is 11:00, we're gone at 06:45, so this works if the host allows it; (b) left-luggage lockers at **[Chamartín](https://maps.google.com/?q=Madrid+Chamart%C3%ADn+station+Spain)** or **[Atocha](https://maps.google.com/?q=Madrid+Atocha+station+Spain)** (~€5–10/bag/day) and she collects when the keys land.
 
